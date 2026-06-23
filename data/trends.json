@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-23T08:59:07.467318+00:00",
+  "generated_at": "2026-06-23T14:28:19.202767+00:00",
   "regions": [
     "US",
     "GB",
@@ -40,74 +40,22 @@
     }
   ],
   "stats": {
-    "total_videos": 441,
+    "total_videos": 436,
     "total_topics": 18,
     "total_themes": 8,
     "total_searches": 12,
     "by_category": {
-      "Other": 63,
-      "Comedy": 23,
-      "Gaming": 71,
-      "People & Blogs": 131,
+      "Other": 62,
+      "Comedy": 21,
+      "Gaming": 68,
+      "People & Blogs": 133,
       "Entertainment": 104,
-      "Science & Tech": 32,
-      "Education": 8,
-      "Howto & Style": 9
+      "Science & Tech": 33,
+      "Education": 7,
+      "Howto & Style": 8
     }
   },
   "emerging_themes": [
-    {
-      "phrase": "steam machine review",
-      "video_count": 30,
-      "channel_count": 29,
-      "total_channels_seen": 29,
-      "uploads_per_hour": 2.42,
-      "window_hours": 12,
-      "example_videos": [
-        {
-          "id": "G8z_nPM1atk",
-          "title": "Steam&#39;s $1,000 Gaming PC Gets Beaten by a PS5 😳",
-          "channel": "freeCodeCamp",
-          "channel_id": "UCPO3aQ0mF3ujPLwst03lH2w",
-          "subscribers": 84,
-          "thumbnail": "https://i.ytimg.com/vi/G8z_nPM1atk/mqdefault.jpg",
-          "published_at": "2026-06-23T08:41:50Z",
-          "url": "https://www.youtube.com/watch?v=G8z_nPM1atk"
-        },
-        {
-          "id": "xqTIL1fA4Us",
-          "title": "스팀 머신 200만원… 우리는 아무것도 소유하지 못할 것이다 외 | 게임 헤드라인",
-          "channel": "모험러의 어드벤처",
-          "channel_id": "UCT0ofHfS0aoHV7L7ytyfF4w",
-          "subscribers": 86300,
-          "thumbnail": "https://i.ytimg.com/vi/xqTIL1fA4Us/mqdefault.jpg",
-          "published_at": "2026-06-23T07:30:02Z",
-          "url": "https://www.youtube.com/watch?v=xqTIL1fA4Us"
-        },
-        {
-          "id": "gCq174xoVRk",
-          "title": "Steam Machine : prix, puissance et ÉNORME douche FROIDE à 1039€",
-          "channel": "Take2Play",
-          "channel_id": "UCzxGmy2MoW8o7sJGmsPDySw",
-          "subscribers": 29900,
-          "thumbnail": "https://i.ytimg.com/vi/gCq174xoVRk/mqdefault.jpg",
-          "published_at": "2026-06-23T07:19:57Z",
-          "url": "https://www.youtube.com/watch?v=gCq174xoVRk"
-        },
-        {
-          "id": "1vPyxHP38hE",
-          "title": "Conn Reacts To Steam Machine Review.",
-          "channel": "ConnDoesSandbox",
-          "channel_id": "UCNX8XEZ65Xf7XG3j3xsUgPw",
-          "subscribers": 974,
-          "thumbnail": "https://i.ytimg.com/vi/1vPyxHP38hE/mqdefault.jpg",
-          "published_at": "2026-06-23T07:05:57Z",
-          "url": "https://www.youtube.com/watch?v=1vPyxHP38hE"
-        }
-      ],
-      "first_detected_at": "2026-06-23T08:59:07.467318+00:00",
-      "last_seen_at": "2026-06-23T08:59:07.467318+00:00"
-    },
     {
       "phrase": "shorts youtubeshorts cricket",
       "video_count": 29,
@@ -117,100 +65,48 @@
       "window_hours": 12,
       "example_videos": [
         {
-          "id": "mRQUC4OrOyw",
-          "title": "Man of the match 🥶🏏 | rfour rmx |  #cricket #cricketlover #youtubeshorts #hardwork #shorts",
-          "channel": "RFOUR  RMX",
-          "channel_id": "UCZlJaY2_kDU1jgTbNfFg0VA",
-          "subscribers": 3410,
-          "thumbnail": "https://i.ytimg.com/vi/mRQUC4OrOyw/mqdefault.jpg",
-          "published_at": "2026-06-23T08:35:33Z",
-          "url": "https://www.youtube.com/watch?v=mRQUC4OrOyw"
+          "id": "e_20jkbLduY",
+          "title": "Cricket News #cricket #news #bihar #shorts #viral #youtubeshorts #ytshorts",
+          "channel": "Cricket-Bhav",
+          "channel_id": "UC87FWEYeA4FUBcqa8Z6LQxQ",
+          "subscribers": 16,
+          "thumbnail": "https://i.ytimg.com/vi/e_20jkbLduY/mqdefault.jpg",
+          "published_at": "2026-06-23T14:02:04Z",
+          "url": "https://www.youtube.com/watch?v=e_20jkbLduY"
         },
         {
-          "id": "4OR7EGVz3fw",
-          "title": "Use this audio 🔊 #shorts #youtubeshorts #trending #viral #youtube #cricket",
-          "channel": "Quick Fact Zone",
-          "channel_id": "UCLFKZfP6dJYl4j-8mc1jQJA",
-          "subscribers": 5,
-          "thumbnail": "https://i.ytimg.com/vi/4OR7EGVz3fw/mqdefault.jpg",
-          "published_at": "2026-06-23T08:33:11Z",
-          "url": "https://www.youtube.com/watch?v=4OR7EGVz3fw"
+          "id": "MaDiAFVD7SA",
+          "title": "One of the finest matches 2019 #shorts #mohammadshami #trending #cricket #youtubeshorts  #viral",
+          "channel": "Mine vs Yours_M€Y",
+          "channel_id": "UC2gPfiCZHa4P2hCYP06ivHw",
+          "subscribers": 9,
+          "thumbnail": "https://i.ytimg.com/vi/MaDiAFVD7SA/mqdefault.jpg",
+          "published_at": "2026-06-23T13:50:55Z",
+          "url": "https://www.youtube.com/watch?v=MaDiAFVD7SA"
         },
         {
-          "id": "tG1bzZyk1SA",
-          "title": "ईशान किशन तिलक ☺️ #ishankishan #ipl #viral #cricket #viralvideo #short #shorts #youtubeshorts #new",
-          "channel": "GULLY CRICKET GLOBAL ",
-          "channel_id": "UCfqA5RAfuCkzMS6qQXxTaBw",
-          "subscribers": 579,
-          "thumbnail": "https://i.ytimg.com/vi/tG1bzZyk1SA/mqdefault.jpg",
-          "published_at": "2026-06-23T08:31:10Z",
-          "url": "https://www.youtube.com/watch?v=tG1bzZyk1SA"
+          "id": "enLN3j0sP-w",
+          "title": "#trending #shorts #youtubeshorts #cricket #rohitsharma",
+          "channel": "PROPERTY CHANNEL GK (GOPALA KRISHNA MURTHY)",
+          "channel_id": "UCvaM39VBHDCBcv2A-FLbdtg",
+          "subscribers": 1380,
+          "thumbnail": "https://i.ytimg.com/vi/enLN3j0sP-w/mqdefault.jpg",
+          "published_at": "2026-06-23T13:46:07Z",
+          "url": "https://www.youtube.com/watch?v=enLN3j0sP-w"
         },
         {
-          "id": "dgZjzD6d5u0",
-          "title": "SPIKE BALL🌵🏐 #shorts#unboxingX#youtubeshorts #cricket #funny #boxofvengeance",
-          "channel": "LEON CARRY",
-          "channel_id": "UCB1GBc7wURpOZ7PCNTzS_yA",
-          "subscribers": 21300,
-          "thumbnail": "https://i.ytimg.com/vi/dgZjzD6d5u0/mqdefault.jpg",
-          "published_at": "2026-06-23T08:30:32Z",
-          "url": "https://www.youtube.com/watch?v=dgZjzD6d5u0"
+          "id": "PMWkpfpsED8",
+          "title": "What to do BCCI For this player 🔥 #cricket #youtubeshorts #shorts",
+          "channel": "Arjun Das",
+          "channel_id": "UCcaeP2lD8NLEOvElPE9wGfw",
+          "subscribers": 16200,
+          "thumbnail": "https://i.ytimg.com/vi/PMWkpfpsED8/mqdefault.jpg",
+          "published_at": "2026-06-23T13:44:13Z",
+          "url": "https://www.youtube.com/watch?v=PMWkpfpsED8"
         }
       ],
       "first_detected_at": "2026-06-22T16:28:55.953506+00:00",
-      "last_seen_at": "2026-06-23T08:59:07.467318+00:00"
-    },
-    {
-      "phrase": "steam machine",
-      "video_count": 29,
-      "channel_count": 28,
-      "total_channels_seen": 29,
-      "uploads_per_hour": 2.33,
-      "window_hours": 12,
-      "example_videos": [
-        {
-          "id": "0VLN5CeaX0k",
-          "title": "Сомнительный выход Steam Machine за 1049$ #игры #steam #valve",
-          "channel": "Dungeon Hamster ",
-          "channel_id": "UCviQ2NqzCXzIQGKT4KE2ZYA",
-          "subscribers": 6200,
-          "thumbnail": "https://i.ytimg.com/vi/0VLN5CeaX0k/mqdefault.jpg",
-          "published_at": "2026-06-23T08:10:48Z",
-          "url": "https://www.youtube.com/watch?v=0VLN5CeaX0k"
-        },
-        {
-          "id": "AzQmnQFaYyg",
-          "title": "STEAM MACHINE СЛАБЕЕ PLAYSTATION? 🤯",
-          "channel": "Revorxx",
-          "channel_id": "UCcjo6rHqZNw6Mk7pSYLKLCA",
-          "subscribers": 16500,
-          "thumbnail": "https://i.ytimg.com/vi/AzQmnQFaYyg/mqdefault.jpg",
-          "published_at": "2026-06-23T08:07:38Z",
-          "url": "https://www.youtube.com/watch?v=AzQmnQFaYyg"
-        },
-        {
-          "id": "51YBZEg2K0A",
-          "title": "Cena Steam Machine jest wysoka... #steammachine #komputer",
-          "channel": "ZMASLO",
-          "channel_id": "UCbgngtkG5FaJLQ9nL5xFmsA",
-          "subscribers": 285000,
-          "thumbnail": "https://i.ytimg.com/vi/51YBZEg2K0A/mqdefault.jpg",
-          "published_at": "2026-06-23T08:00:19Z",
-          "url": "https://www.youtube.com/watch?v=51YBZEg2K0A"
-        },
-        {
-          "id": "W17HtLVyaUs",
-          "title": "Steam Machine wylądowało, ale cena powala 🫣#steammachine #steam #gry #komputer #konsola",
-          "channel": "Gram.pl",
-          "channel_id": "UCwOrjPhx-Sm3h7diLec-NoA",
-          "subscribers": 38100,
-          "thumbnail": "https://i.ytimg.com/vi/W17HtLVyaUs/mqdefault.jpg",
-          "published_at": "2026-06-23T07:53:50Z",
-          "url": "https://www.youtube.com/watch?v=W17HtLVyaUs"
-        }
-      ],
-      "first_detected_at": "2026-06-23T08:59:07.467318+00:00",
-      "last_seen_at": "2026-06-23T08:59:07.467318+00:00"
+      "last_seen_at": "2026-06-23T14:28:19.202767+00:00"
     },
     {
       "phrase": "meccha chameleon",
@@ -221,219 +117,333 @@
       "window_hours": 12,
       "example_videos": [
         {
-          "id": "E9HfNJ-2vt4",
-          "title": "Meccha Chameleon is the FUNNIEST GAME EVER!🤣",
-          "channel": "Skimmr",
-          "channel_id": "UCj64HZ9FEbIBVlx_2bbRQmA",
-          "subscribers": 18,
-          "thumbnail": "https://i.ytimg.com/vi/E9HfNJ-2vt4/mqdefault.jpg",
-          "published_at": "2026-06-23T08:36:58Z",
-          "url": "https://www.youtube.com/watch?v=E9HfNJ-2vt4"
+          "id": "mropOAncFH0",
+          "title": "MECCHA CHAMELEON IS SO PEAK 🤣",
+          "channel": "LoLzZz Plays",
+          "channel_id": "UCdyYw5lyaAD79E38h7P4sGg",
+          "subscribers": 367000,
+          "thumbnail": "https://i.ytimg.com/vi/mropOAncFH0/mqdefault.jpg",
+          "published_at": "2026-06-23T14:15:44Z",
+          "url": "https://www.youtube.com/watch?v=mropOAncFH0"
         },
         {
-          "id": "MdNNlQ_lRo0",
-          "title": "This is So Disgusting😭 - Meccha Chameleon",
-          "channel": "Paytaha",
-          "channel_id": "UC6wt1Mi8sNNLVAtbx9l_8zA",
-          "subscribers": 15200,
-          "thumbnail": "https://i.ytimg.com/vi/MdNNlQ_lRo0/mqdefault.jpg",
-          "published_at": "2026-06-23T08:23:13Z",
-          "url": "https://www.youtube.com/watch?v=MdNNlQ_lRo0"
+          "id": "AHDJ_peZs2A",
+          "title": "ยอมแล้วครับพี่! | MECCHA CHAMELEON",
+          "channel": "タク",
+          "channel_id": "UC69AOYIT40-kBC-uCLg72FQ",
+          "subscribers": 232,
+          "thumbnail": "https://i.ytimg.com/vi/AHDJ_peZs2A/mqdefault.jpg",
+          "published_at": "2026-06-23T14:12:30Z",
+          "url": "https://www.youtube.com/watch?v=AHDJ_peZs2A"
         },
         {
-          "id": "_gy9u2QIUEQ",
-          "title": "I Became the Mona Lisa in Meccha Chameleon #mecchachameleon",
-          "channel": "Fadi Flashi Vlogs",
-          "channel_id": "UCfnSBy0IRIpGt3yZB6rtFyg",
-          "subscribers": 115000,
-          "thumbnail": "https://i.ytimg.com/vi/_gy9u2QIUEQ/mqdefault.jpg",
-          "published_at": "2026-06-23T08:10:56Z",
-          "url": "https://www.youtube.com/watch?v=_gy9u2QIUEQ"
+          "id": "I_iX-DgiaYw",
+          "title": "Ranking Best Funny Viral Meccha Chameleon Moments pt. 3 !",
+          "channel": "Want New Games?",
+          "channel_id": "UC9SIRiAlNMh1AypBK76Q2GA",
+          "subscribers": 35,
+          "thumbnail": "https://i.ytimg.com/vi/I_iX-DgiaYw/mqdefault.jpg",
+          "published_at": "2026-06-23T14:11:37Z",
+          "url": "https://www.youtube.com/watch?v=I_iX-DgiaYw"
         },
         {
-          "id": "DQlervmcgYM",
-          "title": "Meccha Chameleon Tournament",
-          "channel": "AcademicPace",
-          "channel_id": "UCmRLB_NHTx0_xx5Z_APdc0g",
-          "subscribers": 1240,
-          "thumbnail": "https://i.ytimg.com/vi/DQlervmcgYM/mqdefault.jpg",
-          "published_at": "2026-06-23T08:09:25Z",
-          "url": "https://www.youtube.com/watch?v=DQlervmcgYM"
+          "id": "HzfM9sg3_Qs",
+          "title": "Ranking Funniest Meccha Chameleon Moments💀",
+          "channel": "BloxyRanks",
+          "channel_id": "UCF_ove6lAfQ2h769iuLyo8Q",
+          "subscribers": 82500,
+          "thumbnail": "https://i.ytimg.com/vi/HzfM9sg3_Qs/mqdefault.jpg",
+          "published_at": "2026-06-23T14:03:35Z",
+          "url": "https://www.youtube.com/watch?v=HzfM9sg3_Qs"
         }
       ],
       "first_detected_at": "2026-06-21T02:46:09.099764+00:00",
-      "last_seen_at": "2026-06-23T08:59:07.467318+00:00"
+      "last_seen_at": "2026-06-23T14:28:19.202767+00:00"
     },
     {
-      "phrase": "real end twist",
+      "phrase": "steam machine",
       "video_count": 28,
-      "channel_count": 25,
-      "total_channels_seen": 27,
-      "uploads_per_hour": 2.08,
+      "channel_count": 27,
+      "total_channels_seen": 28,
+      "uploads_per_hour": 2.25,
       "window_hours": 12,
       "example_videos": [
         {
-          "id": "9IWOjz92VeE",
-          "title": "Tom ride on mode#baby #cute #shorts #real  end twist *gugan dairies*",
-          "channel": "Gugan Dairies",
-          "channel_id": "UCpQuBRw6y943yUO1HIycuiw",
-          "subscribers": 10,
-          "thumbnail": "https://i.ytimg.com/vi/9IWOjz92VeE/mqdefault.jpg",
-          "published_at": "2026-06-23T08:47:31Z",
-          "url": "https://www.youtube.com/watch?v=9IWOjz92VeE"
+          "id": "k6zMppPozak",
+          "title": "El FRACASO dd STEAM MACHINE#steammachine #steam #pcgaming #pcgamer",
+          "channel": "KimeraSM",
+          "channel_id": "UCTbJNRTqWPm85ketNcbaRbg",
+          "subscribers": 441,
+          "thumbnail": "https://i.ytimg.com/vi/k6zMppPozak/mqdefault.jpg",
+          "published_at": "2026-06-23T14:16:56Z",
+          "url": "https://www.youtube.com/watch?v=k6zMppPozak"
         },
         {
-          "id": "Z8K8SbDGkh8",
-          "title": "Tom 🍓 Jerry (Amna and Anabiua)Real End Twist😍🎈 #shorts #viral #v5familyshow",
-          "channel": "Suleman Sha",
-          "channel_id": "UCYeuleMTbc8Ggvmk4Kp7dEA",
-          "subscribers": 15,
-          "thumbnail": "https://i.ytimg.com/vi/Z8K8SbDGkh8/mqdefault.jpg",
-          "published_at": "2026-06-23T08:46:32Z",
-          "url": "https://www.youtube.com/watch?v=Z8K8SbDGkh8"
+          "id": "VhqqTcRJ3W0",
+          "title": "What are your thoughts on the steam machine pricing? Will you still buy one? #gaming #stesmmachine",
+          "channel": "GamesWithGuardian",
+          "channel_id": "UCLhcjYrzwzd2-2EZiNGOnoQ",
+          "subscribers": 202,
+          "thumbnail": "https://i.ytimg.com/vi/VhqqTcRJ3W0/mqdefault.jpg",
+          "published_at": "2026-06-23T14:00:37Z",
+          "url": "https://www.youtube.com/watch?v=VhqqTcRJ3W0"
         },
         {
-          "id": "suBGlB-bHcc",
-          "title": "Tom🍓jerry ( gugan daries # Real end twist#baby #cute #shorts",
-          "channel": "Gugan Dairies",
-          "channel_id": "UCpQuBRw6y943yUO1HIycuiw",
-          "subscribers": 10,
-          "thumbnail": "https://i.ytimg.com/vi/suBGlB-bHcc/mqdefault.jpg",
-          "published_at": "2026-06-23T08:42:57Z",
-          "url": "https://www.youtube.com/watch?v=suBGlB-bHcc"
+          "id": "wswM1w4rfhU",
+          "title": "El precio REAL de la Steam Machine te va a doler... 💀 - ¿Por qué Valve? ¿Por qué?",
+          "channel": "Colther",
+          "channel_id": "UCtua4UjNoka1UPHSNfDcRCw",
+          "subscribers": 389,
+          "thumbnail": "https://i.ytimg.com/vi/wswM1w4rfhU/mqdefault.jpg",
+          "published_at": "2026-06-23T14:00:24Z",
+          "url": "https://www.youtube.com/watch?v=wswM1w4rfhU"
         },
         {
-          "id": "ZFZ3mgrUw2w",
-          "title": "Tom  🍓 Jerry(Rithvi&amp;Kavi)Real End TwistC😁#shorts #viral",
-          "channel": "Aman official",
-          "channel_id": "UCbNn4Ul9d_l5ZhAKA2ba5jw",
-          "subscribers": 143,
-          "thumbnail": "https://i.ytimg.com/vi/ZFZ3mgrUw2w/mqdefault.jpg",
-          "published_at": "2026-06-23T08:40:50Z",
-          "url": "https://www.youtube.com/watch?v=ZFZ3mgrUw2w"
+          "id": "BtOwkeYG_VY",
+          "title": "Il prezzo della Steam Machine è ASSURDO🤯💸#steam #valve #gaming #games #nintendo #pcgaming #computer",
+          "channel": "Flammone",
+          "channel_id": "UCchonzZVuD1TaV00mg4uBeQ",
+          "subscribers": 1540,
+          "thumbnail": "https://i.ytimg.com/vi/BtOwkeYG_VY/mqdefault.jpg",
+          "published_at": "2026-06-23T14:00:23Z",
+          "url": "https://www.youtube.com/watch?v=BtOwkeYG_VY"
         }
       ],
       "first_detected_at": "2026-06-23T08:59:07.467318+00:00",
-      "last_seen_at": "2026-06-23T08:59:07.467318+00:00"
+      "last_seen_at": "2026-06-23T14:28:19.202767+00:00"
     },
     {
-      "phrase": "cricket unboxing ball",
-      "video_count": 19,
-      "channel_count": 16,
-      "total_channels_seen": 17,
-      "uploads_per_hour": 1.33,
+      "phrase": "steam machine review",
+      "video_count": 29,
+      "channel_count": 26,
+      "total_channels_seen": 27,
+      "uploads_per_hour": 2.17,
       "window_hours": 12,
       "example_videos": [
         {
-          "id": "SCFq9G_h4W0",
-          "title": "GOBAR BALL🐮🐂🔮#shorts #youtubeshorts#cricket #unboxing #ball#funny",
+          "id": "JAvZXcoJLw0",
+          "title": "STEAM MACHINE DECEPCIONA... Y NO ES CULPA DE VALVE  ¿ESTÁ JUSTIFICADO SU PRECIO?",
+          "channel": "Arokeji",
+          "channel_id": "UCqvD9BNiAcmjEdUAdoVNX-w",
+          "subscribers": 2010,
+          "thumbnail": "https://i.ytimg.com/vi/JAvZXcoJLw0/mqdefault.jpg",
+          "published_at": "2026-06-23T14:21:14Z",
+          "url": "https://www.youtube.com/watch?v=JAvZXcoJLw0"
+        },
+        {
+          "id": "zqfvIXNpg0w",
+          "title": "Steam Machine meme: Witcher 3 Edition",
+          "channel": "Ponvyr",
+          "channel_id": "UCk2o7k_lI2pLSCx8TNPXjaQ",
+          "subscribers": 6420,
+          "thumbnail": "https://i.ytimg.com/vi/zqfvIXNpg0w/mqdefault.jpg",
+          "published_at": "2026-06-23T14:05:07Z",
+          "url": "https://www.youtube.com/watch?v=zqfvIXNpg0w"
+        },
+        {
+          "id": "vIeZFn4A54s",
+          "title": "Steam Machine está MUERTA antes de salir, TE explico sus FALLOS OCULTOS",
+          "channel": "Tukaram Epica Digital",
+          "channel_id": "UCZOhXXDTfPtAvcBft5OqoBA",
+          "subscribers": 24700,
+          "thumbnail": "https://i.ytimg.com/vi/vIeZFn4A54s/mqdefault.jpg",
+          "published_at": "2026-06-23T14:00:03Z",
+          "url": "https://www.youtube.com/watch?v=vIeZFn4A54s"
+        },
+        {
+          "id": "kJGoMxa5ys0",
+          "title": "Steam Machine or PS5?",
+          "channel": "The Vergecast",
+          "channel_id": "UCVHdvAX5-R8y5l9xp6nroBQ",
+          "subscribers": 17100,
+          "thumbnail": "https://i.ytimg.com/vi/kJGoMxa5ys0/mqdefault.jpg",
+          "published_at": "2026-06-23T13:00:02Z",
+          "url": "https://www.youtube.com/watch?v=kJGoMxa5ys0"
+        }
+      ],
+      "first_detected_at": "2026-06-23T08:59:07.467318+00:00",
+      "last_seen_at": "2026-06-23T14:28:19.202767+00:00"
+    },
+    {
+      "phrase": "real end twist",
+      "video_count": 26,
+      "channel_count": 26,
+      "total_channels_seen": 30,
+      "uploads_per_hour": 2.17,
+      "window_hours": 12,
+      "example_videos": [
+        {
+          "id": "mxNAu723vd4",
+          "title": "Tom 🍓 jerry (tabblu &amp; roshmi) real end twist  #shorts #viral #youtubeshorts #youtube",
+          "channel": "Roshmi official 2017",
+          "channel_id": "UC37haIKDhWReVaSRTFvCVpQ",
+          "subscribers": 190000,
+          "thumbnail": "https://i.ytimg.com/vi/mxNAu723vd4/mqdefault.jpg",
+          "published_at": "2026-06-23T14:21:41Z",
+          "url": "https://www.youtube.com/watch?v=mxNAu723vd4"
+        },
+        {
+          "id": "WTIrN43Uwek",
+          "title": "Tom🍓Jerry 😍Real End Twist 👍🏻#itskriparneeta #viral #trending #ytshorts #subscribe",
+          "channel": "It’s Kriparneeta ",
+          "channel_id": "UCZoq86SVo4tuAl6_21j4R9Q",
+          "subscribers": 1090,
+          "thumbnail": "https://i.ytimg.com/vi/WTIrN43Uwek/mqdefault.jpg",
+          "published_at": "2026-06-23T14:15:04Z",
+          "url": "https://www.youtube.com/watch?v=WTIrN43Uwek"
+        },
+        {
+          "id": "m81R5WHRvDc",
+          "title": "Tom🍓Jerry(Gubbi&amp;Bablu)Real End Twist😂🎈#shorts",
+          "channel": "Diyaan Vihaan ",
+          "channel_id": "UCKlUz8thwM8JeEA1LLCY2fg",
+          "subscribers": 29,
+          "thumbnail": "https://i.ytimg.com/vi/m81R5WHRvDc/mqdefault.jpg",
+          "published_at": "2026-06-23T14:11:24Z",
+          "url": "https://www.youtube.com/watch?v=m81R5WHRvDc"
+        },
+        {
+          "id": "pWLtzL7BoNg",
+          "title": "Tom Jerry 🍓 Real End Twist 🤣#shorts",
+          "channel": "Gareeb Shorts Fun",
+          "channel_id": "UCvLvGDJDiKoUqhUd_O8rgqQ",
+          "subscribers": 26800,
+          "thumbnail": "https://i.ytimg.com/vi/pWLtzL7BoNg/mqdefault.jpg",
+          "published_at": "2026-06-23T14:08:35Z",
+          "url": "https://www.youtube.com/watch?v=pWLtzL7BoNg"
+        }
+      ],
+      "first_detected_at": "2026-06-23T08:59:07.467318+00:00",
+      "last_seen_at": "2026-06-23T14:28:19.202767+00:00"
+    },
+    {
+      "phrase": "cricket unboxing ball",
+      "video_count": 27,
+      "channel_count": 21,
+      "total_channels_seen": 22,
+      "uploads_per_hour": 1.75,
+      "window_hours": 12,
+      "example_videos": [
+        {
+          "id": "2PMV8N_KM7Q",
+          "title": "Ye player ko kaun kaun janta hai   #viral #shortsviral #shorts #cricket",
+          "channel": "patang ka kida",
+          "channel_id": "UCpApJeG4RgrCowODSoiqPmA",
+          "subscribers": 1060,
+          "thumbnail": "https://i.ytimg.com/vi/2PMV8N_KM7Q/mqdefault.jpg",
+          "published_at": "2026-06-23T14:01:11Z",
+          "url": "https://www.youtube.com/watch?v=2PMV8N_KM7Q"
+        },
+        {
+          "id": "IHeLYpPOcoo",
+          "title": "Best Jaspo Cricket Bat Ball Unboxing 🏏 For Testing",
+          "channel": "Toys Gaming ",
+          "channel_id": "UCL5Fajpn8qEP0b0HMTVYjIQ",
+          "subscribers": 211000,
+          "thumbnail": "https://i.ytimg.com/vi/IHeLYpPOcoo/mqdefault.jpg",
+          "published_at": "2026-06-23T13:57:15Z",
+          "url": "https://www.youtube.com/watch?v=IHeLYpPOcoo"
+        },
+        {
+          "id": "UsGjILNgMyM",
+          "title": "potty ball 😱 #collection #funny #ball #cricket #football #play #pubg",
+          "channel": "sirfmunna kumar ",
+          "channel_id": "UC9bYFQbuCh3VlxFJ6e3mpgQ",
+          "subscribers": 196,
+          "thumbnail": "https://i.ytimg.com/vi/UsGjILNgMyM/mqdefault.jpg",
+          "published_at": "2026-06-23T13:30:24Z",
+          "url": "https://www.youtube.com/watch?v=UsGjILNgMyM"
+        },
+        {
+          "id": "VpTGPcBA6dc",
+          "title": "GLOW DOG BALL💡🐕🏐#shorts #youtubeshorts#cricket #unboxing #ball #boxofvengeance",
           "channel": "LEON CARRY",
           "channel_id": "UCB1GBc7wURpOZ7PCNTzS_yA",
-          "subscribers": 21300,
-          "thumbnail": "https://i.ytimg.com/vi/SCFq9G_h4W0/mqdefault.jpg",
-          "published_at": "2026-06-23T08:56:03Z",
-          "url": "https://www.youtube.com/watch?v=SCFq9G_h4W0"
-        },
-        {
-          "id": "2rvlG0JUj2E",
-          "title": "😳 NEW JASPO T20 BALL UNBOXING! 🔥 #Cricket #CricketBall #Unboxing #JaspoCricketBall #CricketShorts",
-          "channel": "CRICKET HIDDEN TIPS",
-          "channel_id": "UCTZ-TMpai1weawClSekRb0A",
-          "subscribers": 57,
-          "thumbnail": "https://i.ytimg.com/vi/2rvlG0JUj2E/mqdefault.jpg",
-          "published_at": "2026-06-23T08:50:44Z",
-          "url": "https://www.youtube.com/watch?v=2rvlG0JUj2E"
-        },
-        {
-          "id": "953BEhiqGqM",
-          "title": "HANDWASH BALL ✋🫧⚾ #shorts #youtubeshorts #cricket #unboxing #ball #funny #boxofvengeance",
-          "channel": "backbencher)sham",
-          "channel_id": "UCI3JCg9xvBWDW6U5hG1KlGw",
-          "subscribers": 0,
-          "thumbnail": "https://i.ytimg.com/vi/953BEhiqGqM/mqdefault.jpg",
-          "published_at": "2026-06-23T08:01:05Z",
-          "url": "https://www.youtube.com/watch?v=953BEhiqGqM"
-        },
-        {
-          "id": "iiK54cAY3RE",
-          "title": "Globe Football ⚽😱.   #shortsfeed #cricket #ball #football #footballshorts #skills #generalknowledge",
-          "channel": "Mr Akki Shorts",
-          "channel_id": "UCZjvlYF_yFBFfHg3zsqZy2w",
-          "subscribers": 12300,
-          "thumbnail": "https://i.ytimg.com/vi/iiK54cAY3RE/mqdefault.jpg",
-          "published_at": "2026-06-23T07:00:07Z",
-          "url": "https://www.youtube.com/watch?v=iiK54cAY3RE"
+          "subscribers": 22500,
+          "thumbnail": "https://i.ytimg.com/vi/VpTGPcBA6dc/mqdefault.jpg",
+          "published_at": "2026-06-23T13:30:03Z",
+          "url": "https://www.youtube.com/watch?v=VpTGPcBA6dc"
         }
       ],
       "first_detected_at": "2026-06-22T16:28:55.953506+00:00",
-      "last_seen_at": "2026-06-23T08:59:07.467318+00:00"
+      "last_seen_at": "2026-06-23T14:28:19.202767+00:00"
     },
     {
       "phrase": "youtubeshorts cricket unboxing",
       "video_count": 17,
-      "channel_count": 15,
-      "total_channels_seen": 16,
-      "uploads_per_hour": 1.25,
+      "channel_count": 13,
+      "total_channels_seen": 14,
+      "uploads_per_hour": 1.08,
       "window_hours": 12,
       "example_videos": [
         {
-          "id": "SCFq9G_h4W0",
-          "title": "GOBAR BALL🐮🐂🔮#shorts #youtubeshorts#cricket #unboxing #ball#funny",
+          "id": "2PMV8N_KM7Q",
+          "title": "Ye player ko kaun kaun janta hai   #viral #shortsviral #shorts #cricket",
+          "channel": "patang ka kida",
+          "channel_id": "UCpApJeG4RgrCowODSoiqPmA",
+          "subscribers": 1060,
+          "thumbnail": "https://i.ytimg.com/vi/2PMV8N_KM7Q/mqdefault.jpg",
+          "published_at": "2026-06-23T14:01:11Z",
+          "url": "https://www.youtube.com/watch?v=2PMV8N_KM7Q"
+        },
+        {
+          "id": "VpTGPcBA6dc",
+          "title": "GLOW DOG BALL💡🐕🏐#shorts #youtubeshorts#cricket #unboxing #ball #boxofvengeance",
           "channel": "LEON CARRY",
           "channel_id": "UCB1GBc7wURpOZ7PCNTzS_yA",
-          "subscribers": 21300,
-          "thumbnail": "https://i.ytimg.com/vi/SCFq9G_h4W0/mqdefault.jpg",
-          "published_at": "2026-06-23T08:56:03Z",
-          "url": "https://www.youtube.com/watch?v=SCFq9G_h4W0"
+          "subscribers": 22500,
+          "thumbnail": "https://i.ytimg.com/vi/VpTGPcBA6dc/mqdefault.jpg",
+          "published_at": "2026-06-23T13:30:03Z",
+          "url": "https://www.youtube.com/watch?v=VpTGPcBA6dc"
         },
         {
-          "id": "953BEhiqGqM",
-          "title": "HANDWASH BALL ✋🫧⚾ #shorts #youtubeshorts #cricket #unboxing #ball #funny #boxofvengeance",
-          "channel": "backbencher)sham",
-          "channel_id": "UCI3JCg9xvBWDW6U5hG1KlGw",
-          "subscribers": 0,
-          "thumbnail": "https://i.ytimg.com/vi/953BEhiqGqM/mqdefault.jpg",
-          "published_at": "2026-06-23T08:01:05Z",
-          "url": "https://www.youtube.com/watch?v=953BEhiqGqM"
+          "id": "VkPFYJx25Aw",
+          "title": "YEH BALL FAKE HAI?? 🤥👀❌ #shorts #youtubeshorts #cricket #unboxing #ball #boxofvengeance #yt #viral",
+          "channel": "Try Luck FF",
+          "channel_id": "UCPyxo2U44dcYwjRxDHNnzpw",
+          "subscribers": 201000,
+          "thumbnail": "https://i.ytimg.com/vi/VkPFYJx25Aw/mqdefault.jpg",
+          "published_at": "2026-06-23T13:03:38Z",
+          "url": "https://www.youtube.com/watch?v=VkPFYJx25Aw"
         },
         {
-          "id": "-Ox1_lHFHSA",
-          "title": "One 8 shoes Unboxing isVirat Kohli #delhi #viratkohli",
-          "channel": "Vishal Cricket",
-          "channel_id": "UC_hl09_EWsjjlaoqPUCWAvQ",
-          "subscribers": 2240,
-          "thumbnail": "https://i.ytimg.com/vi/-Ox1_lHFHSA/mqdefault.jpg",
-          "published_at": "2026-06-23T07:30:36Z",
-          "url": "https://www.youtube.com/watch?v=-Ox1_lHFHSA"
-        },
-        {
-          "id": "zip715v8-D8",
-          "title": "YEH NAHI HO SAKTA!! 😱😵‍💫⚾🔪 #shorts #youtubeshorts #cricket #unboxing #ball #funny #boxofvengeance",
-          "channel": "@parth",
-          "channel_id": "UCDXyu0kIvWvatxEtUp0E6vw",
-          "subscribers": 28600,
-          "thumbnail": "https://i.ytimg.com/vi/zip715v8-D8/mqdefault.jpg",
-          "published_at": "2026-06-23T07:29:10Z",
-          "url": "https://www.youtube.com/watch?v=zip715v8-D8"
+          "id": "CxSvtvjDE0A",
+          "title": "UNLUCKY BALL 👹⚾ #shorts #youtubeshorts #cricket #collection #unboxing #boxofvengeance #funny",
+          "channel": "Box Of Vengeance Shorts ",
+          "channel_id": "UCKe3mNa66cRttaLMdT15jUg",
+          "subscribers": 31800,
+          "thumbnail": "https://i.ytimg.com/vi/CxSvtvjDE0A/mqdefault.jpg",
+          "published_at": "2026-06-23T12:34:41Z",
+          "url": "https://www.youtube.com/watch?v=CxSvtvjDE0A"
         }
       ],
       "first_detected_at": "2026-06-22T16:28:55.953506+00:00",
-      "last_seen_at": "2026-06-23T08:59:07.467318+00:00"
+      "last_seen_at": "2026-06-23T14:28:19.202767+00:00"
     },
     {
       "phrase": "unboxing ball funny",
-      "video_count": 10,
-      "channel_count": 9,
-      "total_channels_seen": 11,
-      "uploads_per_hour": 0.75,
+      "video_count": 8,
+      "channel_count": 7,
+      "total_channels_seen": 9,
+      "uploads_per_hour": 0.58,
       "window_hours": 12,
       "example_videos": [
+        {
+          "id": "CxSvtvjDE0A",
+          "title": "UNLUCKY BALL 👹⚾ #shorts #youtubeshorts #cricket #collection #unboxing #boxofvengeance #funny",
+          "channel": "Box Of Vengeance Shorts ",
+          "channel_id": "UCKe3mNa66cRttaLMdT15jUg",
+          "subscribers": 31800,
+          "thumbnail": "https://i.ytimg.com/vi/CxSvtvjDE0A/mqdefault.jpg",
+          "published_at": "2026-06-23T12:34:41Z",
+          "url": "https://www.youtube.com/watch?v=CxSvtvjDE0A"
+        },
         {
           "id": "SCFq9G_h4W0",
           "title": "GOBAR BALL🐮🐂🔮#shorts #youtubeshorts#cricket #unboxing #ball#funny",
           "channel": "LEON CARRY",
           "channel_id": "UCB1GBc7wURpOZ7PCNTzS_yA",
-          "subscribers": 21300,
+          "subscribers": 22500,
           "thumbnail": "https://i.ytimg.com/vi/SCFq9G_h4W0/mqdefault.jpg",
           "published_at": "2026-06-23T08:56:03Z",
           "url": "https://www.youtube.com/watch?v=SCFq9G_h4W0"
@@ -453,31 +463,21 @@
           "title": "Globe Football ⚽😱.   #shortsfeed #cricket #ball #football #footballshorts #skills #generalknowledge",
           "channel": "Mr Akki Shorts",
           "channel_id": "UCZjvlYF_yFBFfHg3zsqZy2w",
-          "subscribers": 12300,
+          "subscribers": 12500,
           "thumbnail": "https://i.ytimg.com/vi/iiK54cAY3RE/mqdefault.jpg",
           "published_at": "2026-06-23T07:00:07Z",
           "url": "https://www.youtube.com/watch?v=iiK54cAY3RE"
-        },
-        {
-          "id": "7ccJL9c5BfE",
-          "title": "SPEAKER BALL 🎵⚾ #shorts #unboxing #youtubeshorts #cricket #funny #boxofvengeance",
-          "channel": "Box Of Vengeance Shorts ",
-          "channel_id": "UCKe3mNa66cRttaLMdT15jUg",
-          "subscribers": 31600,
-          "thumbnail": "https://i.ytimg.com/vi/7ccJL9c5BfE/mqdefault.jpg",
-          "published_at": "2026-06-23T06:56:34Z",
-          "url": "https://www.youtube.com/watch?v=7ccJL9c5BfE"
         }
       ],
       "first_detected_at": "2026-06-23T08:59:07.467318+00:00",
-      "last_seen_at": "2026-06-23T08:59:07.467318+00:00"
+      "last_seen_at": "2026-06-23T14:28:19.202767+00:00"
     }
   ],
   "topics": [
     {
       "phrase": "meccha chameleon",
       "video_count": 6,
-      "momentum": 34.2,
+      "momentum": 33.39,
       "regions": [
         "US"
       ],
@@ -489,8 +489,8 @@
           "channel": "CaseOh",
           "thumbnail": "https://i.ytimg.com/vi/1VXqo23YZ00/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=1VXqo23YZ00",
-          "views": 271578,
-          "age_hours": 11.0
+          "views": 344612,
+          "age_hours": 16.5
         },
         {
           "id": "xW0-Ko1nra4",
@@ -498,8 +498,8 @@
           "channel": "SSundee",
           "thumbnail": "https://i.ytimg.com/vi/xW0-Ko1nra4/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=xW0-Ko1nra4",
-          "views": 248829,
-          "age_hours": 12.0
+          "views": 317247,
+          "age_hours": 17.5
         },
         {
           "id": "HorICRtODpY",
@@ -507,53 +507,53 @@
           "channel": "Grizzy",
           "thumbnail": "https://i.ytimg.com/vi/HorICRtODpY/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=HorICRtODpY",
-          "views": 560275,
-          "age_hours": 36.3
+          "views": 584824,
+          "age_hours": 41.7
         }
       ]
     },
     {
-      "phrase": "steam machine review",
-      "video_count": 3,
-      "momentum": 23.01,
+      "phrase": "kkkkk",
+      "video_count": 5,
+      "momentum": 25.72,
       "regions": [
-        "GB"
+        "BR"
       ],
-      "lang": "en",
+      "lang": "pt",
       "example_videos": [
         {
-          "id": "WhWtLi_FqLo",
-          "title": "Steam Machine Review: Beautiful Hardware, But What About Performance... And Price?",
-          "channel": "Digital Foundry",
-          "thumbnail": "https://i.ytimg.com/vi/WhWtLi_FqLo/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=WhWtLi_FqLo",
-          "views": 320396,
-          "age_hours": 16.0
+          "id": "IEZWbuQBZM4",
+          "title": "QUANDO VOCÊ PERCEBE QUE SEU IRMÃO MAIS NOVO CRESCEU 😹 KKKKK",
+          "channel": "MoriMura",
+          "thumbnail": "https://i.ytimg.com/vi/IEZWbuQBZM4/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=IEZWbuQBZM4",
+          "views": 1675610,
+          "age_hours": 17.0
         },
         {
-          "id": "Huw11M9aaMk",
-          "title": "Steam Machine Review - Bad News.",
-          "channel": "Dave2D",
-          "thumbnail": "https://i.ytimg.com/vi/Huw11M9aaMk/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=Huw11M9aaMk",
-          "views": 360947,
-          "age_hours": 15.2
+          "id": "IlEecSmtUzg",
+          "title": "A GERAÇÃO DE HJ EM DIA NO ANO DE 2070 😹 KKKKK",
+          "channel": "MoriMura",
+          "thumbnail": "https://i.ytimg.com/vi/IlEecSmtUzg/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=IlEecSmtUzg",
+          "views": 20380363,
+          "age_hours": 137.4
         },
         {
-          "id": "zXHHenUWxnQ",
-          "title": "Steam Machine Review: Valve's New Console/PC Hybrid",
-          "channel": "IGN",
-          "thumbnail": "https://i.ytimg.com/vi/zXHHenUWxnQ/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=zXHHenUWxnQ",
-          "views": 219750,
-          "age_hours": 16.0
+          "id": "kXlc9usQ7e8",
+          "title": "QUANDO VOCÊ É GARÇOM E PRECISA RIR DAS PIADAS SEM GRAÇA 😹 KKKKK",
+          "channel": "MoriMura",
+          "thumbnail": "https://i.ytimg.com/vi/kXlc9usQ7e8/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=kXlc9usQ7e8",
+          "views": 3640462,
+          "age_hours": 113.1
         }
       ]
     },
     {
       "phrase": "steam machine",
       "video_count": 3,
-      "momentum": 22.34,
+      "momentum": 21.79,
       "regions": [
         "US"
       ],
@@ -565,8 +565,8 @@
           "channel": "jacobweeby",
           "thumbnail": "https://i.ytimg.com/vi/SHlz648bsh8/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=SHlz648bsh8",
-          "views": 646114,
-          "age_hours": 11.2
+          "views": 805661,
+          "age_hours": 16.7
         },
         {
           "id": "6tI1SoMj5vg",
@@ -574,8 +574,8 @@
           "channel": "Linus Tech Tips",
           "thumbnail": "https://i.ytimg.com/vi/6tI1SoMj5vg/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=6tI1SoMj5vg",
-          "views": 1861331,
-          "age_hours": 16.0
+          "views": 2127168,
+          "age_hours": 21.5
         },
         {
           "id": "66QzlDewigE",
@@ -583,91 +583,15 @@
           "channel": "Gamers Nexus",
           "thumbnail": "https://i.ytimg.com/vi/66QzlDewigE/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=66QzlDewigE",
-          "views": 554689,
-          "age_hours": 16.0
-        }
-      ]
-    },
-    {
-      "phrase": "comedy",
-      "video_count": 5,
-      "momentum": 21.79,
-      "regions": [
-        "DE"
-      ],
-      "lang": "de",
-      "example_videos": [
-        {
-          "id": "y8ykts39E-0",
-          "title": "พลังอันยิ่งใหญ่ มาพร้อมกับความรับผิดชอบอันใหญ่ยิ่ง 🕸️🕷️😆😆  #funny  #comedy #viral #fyp",
-          "channel": "Shorts ฮา ",
-          "thumbnail": "https://i.ytimg.com/vi/y8ykts39E-0/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=y8ykts39E-0",
-          "views": 8261629,
-          "age_hours": 145.1
-        },
-        {
-          "id": "T_fpKillz3c",
-          "title": "DÖNER SCHLEIM???😱😱 #shortsdeutschland #lustig #comedy #slime",
-          "channel": "Tonibonboni",
-          "thumbnail": "https://i.ytimg.com/vi/T_fpKillz3c/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=T_fpKillz3c",
-          "views": 921754,
-          "age_hours": 68.0
-        },
-        {
-          "id": "1GqshP7btv8",
-          "title": "OMmg TIM GIOH ist in der DEUTSCHEN STARTELF?!😳🇩🇪⚽️ #marvintsp #comedy #wm2026 #fußball",
-          "channel": "marvintsp",
-          "thumbnail": "https://i.ytimg.com/vi/1GqshP7btv8/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=1GqshP7btv8",
-          "views": 1200635,
-          "age_hours": 135.8
-        }
-      ]
-    },
-    {
-      "phrase": "kkkkk",
-      "video_count": 4,
-      "momentum": 19.82,
-      "regions": [
-        "BR"
-      ],
-      "lang": "pt",
-      "example_videos": [
-        {
-          "id": "IlEecSmtUzg",
-          "title": "A GERAÇÃO DE HJ EM DIA NO ANO DE 2070 😹 KKKKK",
-          "channel": "MoriMura",
-          "thumbnail": "https://i.ytimg.com/vi/IlEecSmtUzg/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=IlEecSmtUzg",
-          "views": 19897880,
-          "age_hours": 131.9
-        },
-        {
-          "id": "kXlc9usQ7e8",
-          "title": "QUANDO VOCÊ É GARÇOM E PRECISA RIR DAS PIADAS SEM GRAÇA 😹 KKKKK",
-          "channel": "MoriMura",
-          "thumbnail": "https://i.ytimg.com/vi/kXlc9usQ7e8/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=kXlc9usQ7e8",
-          "views": 3623370,
-          "age_hours": 107.6
-        },
-        {
-          "id": "vrm7S7YdaBg",
-          "title": "REACT MoriMura - A GERAÇÃO DE HJ EM DIA NO ANO DE 2070 😹 KKKKK",
-          "channel": "Kaizen Andrade",
-          "thumbnail": "https://i.ytimg.com/vi/vrm7S7YdaBg/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=vrm7S7YdaBg",
-          "views": 2384344,
-          "age_hours": 83.0
+          "views": 628699,
+          "age_hours": 21.5
         }
       ]
     },
     {
       "phrase": "house",
       "video_count": 4,
-      "momentum": 19.19,
+      "momentum": 18.98,
       "regions": [
         "US"
       ],
@@ -679,8 +603,8 @@
           "channel": "TrendClips",
           "thumbnail": "https://i.ytimg.com/vi/Rc8xZYALSKU/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=Rc8xZYALSKU",
-          "views": 24156599,
-          "age_hours": 190.8
+          "views": 24240165,
+          "age_hours": 196.3
         },
         {
           "id": "CsmxDQ5bV_g",
@@ -688,8 +612,8 @@
           "channel": "JacksAdventures",
           "thumbnail": "https://i.ytimg.com/vi/CsmxDQ5bV_g/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=CsmxDQ5bV_g",
-          "views": 346734,
-          "age_hours": 44.7
+          "views": 355491,
+          "age_hours": 50.1
         },
         {
           "id": "xZUavocHU2g",
@@ -697,15 +621,15 @@
           "channel": "GameofThrones",
           "thumbnail": "https://i.ytimg.com/vi/xZUavocHU2g/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=xZUavocHU2g",
-          "views": 603934,
-          "age_hours": 30.8
+          "views": 658407,
+          "age_hours": 36.2
         }
       ]
     },
     {
       "phrase": "minecraft",
       "video_count": 4,
-      "momentum": 18.88,
+      "momentum": 18.66,
       "regions": [
         "IN"
       ],
@@ -717,17 +641,8 @@
           "channel": "Live Insaan",
           "thumbnail": "https://i.ytimg.com/vi/9kh7rr4V9KI/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=9kh7rr4V9KI",
-          "views": 907781,
-          "age_hours": 13.1
-        },
-        {
-          "id": "pqhwOWXt63Q",
-          "title": "From Baby to Old Man in Minecraft..",
-          "channel": "Carry Depie",
-          "thumbnail": "https://i.ytimg.com/vi/pqhwOWXt63Q/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=pqhwOWXt63Q",
-          "views": 1120247,
-          "age_hours": 45.3
+          "views": 1019911,
+          "age_hours": 18.6
         },
         {
           "id": "_auW8phYceo",
@@ -735,15 +650,167 @@
           "channel": "Junkeyy",
           "thumbnail": "https://i.ytimg.com/vi/_auW8phYceo/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=_auW8phYceo",
-          "views": 1023270,
-          "age_hours": 44.1
+          "views": 1127085,
+          "age_hours": 49.6
+        },
+        {
+          "id": "pqhwOWXt63Q",
+          "title": "From Baby to Old Man in Minecraft..",
+          "channel": "Carry Depie",
+          "thumbnail": "https://i.ytimg.com/vi/pqhwOWXt63Q/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=pqhwOWXt63Q",
+          "views": 1192188,
+          "age_hours": 50.8
+        }
+      ]
+    },
+    {
+      "phrase": "comedy",
+      "video_count": 4,
+      "momentum": 18.39,
+      "regions": [
+        "DE"
+      ],
+      "lang": "de",
+      "example_videos": [
+        {
+          "id": "y8ykts39E-0",
+          "title": "พลังอันยิ่งใหญ่ มาพร้อมกับความรับผิดชอบอันใหญ่ยิ่ง 🕸️🕷️😆😆  #funny  #comedy #viral #fyp",
+          "channel": "Shorts ฮา ",
+          "thumbnail": "https://i.ytimg.com/vi/y8ykts39E-0/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=y8ykts39E-0",
+          "views": 8730423,
+          "age_hours": 150.6
+        },
+        {
+          "id": "_GhW7j6zAn0",
+          "title": "ist das DEINE MUTTER?!🤯🚨 #shortsdeutschland #comedy #urlaub #mütter",
+          "channel": "Jenni ⭐️",
+          "thumbnail": "https://i.ytimg.com/vi/_GhW7j6zAn0/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=_GhW7j6zAn0",
+          "views": 752219,
+          "age_hours": 45.3
+        },
+        {
+          "id": "T_fpKillz3c",
+          "title": "DÖNER SCHLEIM???😱😱 #shortsdeutschland #lustig #comedy #slime",
+          "channel": "Tonibonboni",
+          "thumbnail": "https://i.ytimg.com/vi/T_fpKillz3c/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=T_fpKillz3c",
+          "views": 949000,
+          "age_hours": 73.5
+        }
+      ]
+    },
+    {
+      "phrase": "novo",
+      "video_count": 4,
+      "momentum": 18.14,
+      "regions": [
+        "BR"
+      ],
+      "lang": "pt",
+      "example_videos": [
+        {
+          "id": "IEZWbuQBZM4",
+          "title": "QUANDO VOCÊ PERCEBE QUE SEU IRMÃO MAIS NOVO CRESCEU 😹 KKKKK",
+          "channel": "MoriMura",
+          "thumbnail": "https://i.ytimg.com/vi/IEZWbuQBZM4/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=IEZWbuQBZM4",
+          "views": 1675610,
+          "age_hours": 17.0
+        },
+        {
+          "id": "5W82n0HdrpM",
+          "title": "O HOMEM ARANHA É SUCESSO, MAS TEM UM RISCO [ANÁLISE TRAILER - HOMEM-ARANHA UM NOVO DIA]",
+          "channel": "Debescreve",
+          "thumbnail": "https://i.ytimg.com/vi/5W82n0HdrpM/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=5W82n0HdrpM",
+          "views": 9614,
+          "age_hours": 16.4
+        },
+        {
+          "id": "MOEl97xFSak",
+          "title": "O novo celular dos enzos KKKKKK",
+          "channel": "Kerb",
+          "thumbnail": "https://i.ytimg.com/vi/MOEl97xFSak/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=MOEl97xFSak",
+          "views": 626554,
+          "age_hours": 160.6
+        }
+      ]
+    },
+    {
+      "phrase": "humor",
+      "video_count": 4,
+      "momentum": 16.91,
+      "regions": [
+        "DE"
+      ],
+      "lang": "de",
+      "example_videos": [
+        {
+          "id": "GJLwoUcJAJA",
+          "title": "Mama ausgetrickst😳😂 #shorts #shortvideos #comedy #lustigevideos #lustig #humor #reels #funny",
+          "channel": "Comedy Jess",
+          "thumbnail": "https://i.ytimg.com/vi/GJLwoUcJAJA/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=GJLwoUcJAJA",
+          "views": 295919,
+          "age_hours": 23.1
+        },
+        {
+          "id": "4Lx1uoXFBB0",
+          "title": "als kleinen Grüß aus der Küche noch eine Variation aus Melone #mama #mom #momlife #kinder #humor",
+          "channel": "Hayleyybayley",
+          "thumbnail": "https://i.ytimg.com/vi/4Lx1uoXFBB0/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=4Lx1uoXFBB0",
+          "views": 529235,
+          "age_hours": 45.6
+        },
+        {
+          "id": "AxDzX5M1mro",
+          "title": "#podcast #funny #lustig #memes #humor #marvin #twitch #stitch #streamer @jocelynmacar",
+          "channel": "Marvin Kra",
+          "thumbnail": "https://i.ytimg.com/vi/AxDzX5M1mro/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=AxDzX5M1mro",
+          "views": 661817,
+          "age_hours": 81.5
+        }
+      ]
+    },
+    {
+      "phrase": "steam machine review",
+      "video_count": 2,
+      "momentum": 16.83,
+      "regions": [
+        "US"
+      ],
+      "lang": "en",
+      "example_videos": [
+        {
+          "id": "6tI1SoMj5vg",
+          "title": "Even Valve is Disappointed - Steam Machine Review",
+          "channel": "Linus Tech Tips",
+          "thumbnail": "https://i.ytimg.com/vi/6tI1SoMj5vg/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=6tI1SoMj5vg",
+          "views": 2127168,
+          "age_hours": 21.5
+        },
+        {
+          "id": "66QzlDewigE",
+          "title": "Valve Steam Machine Review: GPU & CPU Benchmarks, SteamOS Test, Thermals, Noise, and Price",
+          "channel": "Gamers Nexus",
+          "thumbnail": "https://i.ytimg.com/vi/66QzlDewigE/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=66QzlDewigE",
+          "views": 628699,
+          "age_hours": 21.5
         }
       ]
     },
     {
       "phrase": "shorts youtubeshorts cricket",
       "video_count": 2,
-      "momentum": 16.19,
+      "momentum": 16.2,
       "regions": [
         "IN"
       ],
@@ -755,8 +822,8 @@
           "channel": "Box Of Vengeance",
           "thumbnail": "https://i.ytimg.com/vi/ltR81y_y3_U/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=ltR81y_y3_U",
-          "views": 3863920,
-          "age_hours": 52.5
+          "views": 4637551,
+          "age_hours": 58.0
         },
         {
           "id": "eubxD5cEYfE",
@@ -764,15 +831,15 @@
           "channel": "Box Of Vengeance",
           "thumbnail": "https://i.ytimg.com/vi/eubxD5cEYfE/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=eubxD5cEYfE",
-          "views": 16381808,
-          "age_hours": 266.0
+          "views": 16533328,
+          "age_hours": 271.5
         }
       ]
     },
     {
       "phrase": "youtubeshorts cricket unboxing",
       "video_count": 2,
-      "momentum": 16.19,
+      "momentum": 16.2,
       "regions": [
         "IN"
       ],
@@ -784,8 +851,8 @@
           "channel": "Box Of Vengeance",
           "thumbnail": "https://i.ytimg.com/vi/ltR81y_y3_U/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=ltR81y_y3_U",
-          "views": 3863920,
-          "age_hours": 52.5
+          "views": 4637551,
+          "age_hours": 58.0
         },
         {
           "id": "eubxD5cEYfE",
@@ -793,15 +860,15 @@
           "channel": "Box Of Vengeance",
           "thumbnail": "https://i.ytimg.com/vi/eubxD5cEYfE/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=eubxD5cEYfE",
-          "views": 16381808,
-          "age_hours": 266.0
+          "views": 16533328,
+          "age_hours": 271.5
         }
       ]
     },
     {
       "phrase": "cricket unboxing ball",
       "video_count": 2,
-      "momentum": 16.19,
+      "momentum": 16.2,
       "regions": [
         "IN"
       ],
@@ -813,8 +880,8 @@
           "channel": "Box Of Vengeance",
           "thumbnail": "https://i.ytimg.com/vi/ltR81y_y3_U/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=ltR81y_y3_U",
-          "views": 3863920,
-          "age_hours": 52.5
+          "views": 4637551,
+          "age_hours": 58.0
         },
         {
           "id": "eubxD5cEYfE",
@@ -822,15 +889,15 @@
           "channel": "Box Of Vengeance",
           "thumbnail": "https://i.ytimg.com/vi/eubxD5cEYfE/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=eubxD5cEYfE",
-          "views": 16381808,
-          "age_hours": 266.0
+          "views": 16533328,
+          "age_hours": 271.5
         }
       ]
     },
     {
       "phrase": "unboxing ball funny",
       "video_count": 2,
-      "momentum": 16.19,
+      "momentum": 16.2,
       "regions": [
         "IN"
       ],
@@ -842,8 +909,8 @@
           "channel": "Box Of Vengeance",
           "thumbnail": "https://i.ytimg.com/vi/ltR81y_y3_U/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=ltR81y_y3_U",
-          "views": 3863920,
-          "age_hours": 52.5
+          "views": 4637551,
+          "age_hours": 58.0
         },
         {
           "id": "eubxD5cEYfE",
@@ -851,15 +918,15 @@
           "channel": "Box Of Vengeance",
           "thumbnail": "https://i.ytimg.com/vi/eubxD5cEYfE/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=eubxD5cEYfE",
-          "views": 16381808,
-          "age_hours": 266.0
+          "views": 16533328,
+          "age_hours": 271.5
         }
       ]
     },
     {
       "phrase": "real end twist",
       "video_count": 2,
-      "momentum": 16.01,
+      "momentum": 15.98,
       "regions": [
         "IN"
       ],
@@ -871,8 +938,8 @@
           "channel": "KL BRO Biju Rithvik",
           "thumbnail": "https://i.ytimg.com/vi/Oqp496Y64rk/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=Oqp496Y64rk",
-          "views": 3994082,
-          "age_hours": 24.2
+          "views": 4981929,
+          "age_hours": 29.7
         },
         {
           "id": "POik6mJJR1k",
@@ -880,15 +947,15 @@
           "channel": "V5 Family Show",
           "thumbnail": "https://i.ytimg.com/vi/POik6mJJR1k/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=POik6mJJR1k",
-          "views": 5872952,
-          "age_hours": 43.5
+          "views": 6329237,
+          "age_hours": 49.0
         }
       ]
     },
     {
       "phrase": "end twist shorts",
       "video_count": 2,
-      "momentum": 16.01,
+      "momentum": 15.98,
       "regions": [
         "IN"
       ],
@@ -900,8 +967,8 @@
           "channel": "KL BRO Biju Rithvik",
           "thumbnail": "https://i.ytimg.com/vi/Oqp496Y64rk/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=Oqp496Y64rk",
-          "views": 3994082,
-          "age_hours": 24.2
+          "views": 4981929,
+          "age_hours": 29.7
         },
         {
           "id": "POik6mJJR1k",
@@ -909,15 +976,15 @@
           "channel": "V5 Family Show",
           "thumbnail": "https://i.ytimg.com/vi/POik6mJJR1k/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=POik6mJJR1k",
-          "views": 5872952,
-          "age_hours": 43.5
+          "views": 6329237,
+          "age_hours": 49.0
         }
       ]
     },
     {
       "phrase": "geração hj kkkkk",
       "video_count": 2,
-      "momentum": 15.39,
+      "momentum": 15.34,
       "regions": [
         "BR"
       ],
@@ -929,8 +996,8 @@
           "channel": "MoriMura",
           "thumbnail": "https://i.ytimg.com/vi/IlEecSmtUzg/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=IlEecSmtUzg",
-          "views": 19897880,
-          "age_hours": 131.9
+          "views": 20380363,
+          "age_hours": 137.4
         },
         {
           "id": "vrm7S7YdaBg",
@@ -938,15 +1005,15 @@
           "channel": "Kaizen Andrade",
           "thumbnail": "https://i.ytimg.com/vi/vrm7S7YdaBg/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=vrm7S7YdaBg",
-          "views": 2384344,
-          "age_hours": 83.0
+          "views": 2416671,
+          "age_hours": 88.5
         }
       ]
     },
     {
       "phrase": "indian family shorts",
       "video_count": 2,
-      "momentum": 14.85,
+      "momentum": 14.87,
       "regions": [
         "IN"
       ],
@@ -958,8 +1025,8 @@
           "channel": "We r Loser",
           "thumbnail": "https://i.ytimg.com/vi/SF2FsvdXbWM/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=SF2FsvdXbWM",
-          "views": 11105161,
-          "age_hours": 89.7
+          "views": 11779299,
+          "age_hours": 95.2
         },
         {
           "id": "ydPVbb_sBTk",
@@ -967,15 +1034,15 @@
           "channel": "Jagiya the fun",
           "thumbnail": "https://i.ytimg.com/vi/ydPVbb_sBTk/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=ydPVbb_sBTk",
-          "views": 4268337,
-          "age_hours": 87.9
+          "views": 4672313,
+          "age_hours": 93.3
         }
       ]
     },
     {
       "phrase": "family shorts indian",
       "video_count": 2,
-      "momentum": 14.85,
+      "momentum": 14.87,
       "regions": [
         "IN"
       ],
@@ -987,8 +1054,8 @@
           "channel": "We r Loser",
           "thumbnail": "https://i.ytimg.com/vi/SF2FsvdXbWM/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=SF2FsvdXbWM",
-          "views": 11105161,
-          "age_hours": 89.7
+          "views": 11779299,
+          "age_hours": 95.2
         },
         {
           "id": "ydPVbb_sBTk",
@@ -996,66 +1063,8 @@
           "channel": "Jagiya the fun",
           "thumbnail": "https://i.ytimg.com/vi/ydPVbb_sBTk/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=ydPVbb_sBTk",
-          "views": 4268337,
-          "age_hours": 87.9
-        }
-      ]
-    },
-    {
-      "phrase": "ishqyouall swv tamil",
-      "video_count": 2,
-      "momentum": 14.77,
-      "regions": [
-        "IN"
-      ],
-      "lang": "en",
-      "example_videos": [
-        {
-          "id": "-m1I5TGYn8c",
-          "title": "Indha varshini ku college new bags 😍 #ishqyouall #swv #tamil #funny #comedy #youtube #short",
-          "channel": "Soundarya with varshini - tamil",
-          "thumbnail": "https://i.ytimg.com/vi/-m1I5TGYn8c/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=-m1I5TGYn8c",
-          "views": 2314624,
-          "age_hours": 69.5
-        },
-        {
-          "id": "hnhg5_cvj20",
-          "title": "Seriyana parabarapu😳 #ishqyouall #swv #tamil #youtube #shortvideo",
-          "channel": "Soundarya with varshini - tamil",
-          "thumbnail": "https://i.ytimg.com/vi/hnhg5_cvj20/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=hnhg5_cvj20",
-          "views": 3018405,
-          "age_hours": 117.1
-        }
-      ]
-    },
-    {
-      "phrase": "tom jerry",
-      "video_count": 2,
-      "momentum": 13.35,
-      "regions": [
-        "IN"
-      ],
-      "lang": "en",
-      "example_videos": [
-        {
-          "id": "Oqp496Y64rk",
-          "title": "Tom 🍓Jerry(Rithvi&Kavi)Real End Twist😂🎈 #shorts",
-          "channel": "KL BRO Biju Rithvik",
-          "thumbnail": "https://i.ytimg.com/vi/Oqp496Y64rk/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=Oqp496Y64rk",
-          "views": 3994082,
-          "age_hours": 24.2
-        },
-        {
-          "id": "POik6mJJR1k",
-          "title": "Tom 🍓 Jerry (Nandhu&Ammu)Real End Twist😍🎈 #shorts  #viral #v5familyshow",
-          "channel": "V5 Family Show",
-          "thumbnail": "https://i.ytimg.com/vi/POik6mJJR1k/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=POik6mJJR1k",
-          "views": 5872952,
-          "age_hours": 43.5
+          "views": 4672313,
+          "age_hours": 93.3
         }
       ]
     }
@@ -1065,7 +1074,7 @@
       {
         "phrase": "meccha chameleon",
         "video_count": 6,
-        "momentum": 34.2,
+        "momentum": 33.39,
         "regions": [
           "US"
         ],
@@ -1077,8 +1086,8 @@
             "channel": "CaseOh",
             "thumbnail": "https://i.ytimg.com/vi/1VXqo23YZ00/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=1VXqo23YZ00",
-            "views": 271578,
-            "age_hours": 11.0
+            "views": 344612,
+            "age_hours": 16.5
           },
           {
             "id": "xW0-Ko1nra4",
@@ -1086,8 +1095,8 @@
             "channel": "SSundee",
             "thumbnail": "https://i.ytimg.com/vi/xW0-Ko1nra4/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=xW0-Ko1nra4",
-            "views": 248829,
-            "age_hours": 12.0
+            "views": 317247,
+            "age_hours": 17.5
           },
           {
             "id": "HorICRtODpY",
@@ -1095,15 +1104,15 @@
             "channel": "Grizzy",
             "thumbnail": "https://i.ytimg.com/vi/HorICRtODpY/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=HorICRtODpY",
-            "views": 560275,
-            "age_hours": 36.3
+            "views": 584824,
+            "age_hours": 41.7
           }
         ]
       },
       {
         "phrase": "steam machine",
         "video_count": 3,
-        "momentum": 22.34,
+        "momentum": 21.79,
         "regions": [
           "US"
         ],
@@ -1115,8 +1124,8 @@
             "channel": "jacobweeby",
             "thumbnail": "https://i.ytimg.com/vi/SHlz648bsh8/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=SHlz648bsh8",
-            "views": 646114,
-            "age_hours": 11.2
+            "views": 805661,
+            "age_hours": 16.7
           },
           {
             "id": "6tI1SoMj5vg",
@@ -1124,8 +1133,8 @@
             "channel": "Linus Tech Tips",
             "thumbnail": "https://i.ytimg.com/vi/6tI1SoMj5vg/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=6tI1SoMj5vg",
-            "views": 1861331,
-            "age_hours": 16.0
+            "views": 2127168,
+            "age_hours": 21.5
           },
           {
             "id": "66QzlDewigE",
@@ -1133,15 +1142,15 @@
             "channel": "Gamers Nexus",
             "thumbnail": "https://i.ytimg.com/vi/66QzlDewigE/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=66QzlDewigE",
-            "views": 554689,
-            "age_hours": 16.0
+            "views": 628699,
+            "age_hours": 21.5
           }
         ]
       },
       {
         "phrase": "house",
         "video_count": 4,
-        "momentum": 19.19,
+        "momentum": 18.98,
         "regions": [
           "US"
         ],
@@ -1153,8 +1162,8 @@
             "channel": "TrendClips",
             "thumbnail": "https://i.ytimg.com/vi/Rc8xZYALSKU/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=Rc8xZYALSKU",
-            "views": 24156599,
-            "age_hours": 190.8
+            "views": 24240165,
+            "age_hours": 196.3
           },
           {
             "id": "CsmxDQ5bV_g",
@@ -1162,8 +1171,8 @@
             "channel": "JacksAdventures",
             "thumbnail": "https://i.ytimg.com/vi/CsmxDQ5bV_g/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=CsmxDQ5bV_g",
-            "views": 346734,
-            "age_hours": 44.7
+            "views": 355491,
+            "age_hours": 50.1
           },
           {
             "id": "xZUavocHU2g",
@@ -1171,15 +1180,15 @@
             "channel": "GameofThrones",
             "thumbnail": "https://i.ytimg.com/vi/xZUavocHU2g/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=xZUavocHU2g",
-            "views": 603934,
-            "age_hours": 30.8
+            "views": 658407,
+            "age_hours": 36.2
           }
         ]
       },
       {
         "phrase": "steam machine review",
         "video_count": 2,
-        "momentum": 17.19,
+        "momentum": 16.83,
         "regions": [
           "US"
         ],
@@ -1191,8 +1200,8 @@
             "channel": "Linus Tech Tips",
             "thumbnail": "https://i.ytimg.com/vi/6tI1SoMj5vg/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=6tI1SoMj5vg",
-            "views": 1861331,
-            "age_hours": 16.0
+            "views": 2127168,
+            "age_hours": 21.5
           },
           {
             "id": "66QzlDewigE",
@@ -1200,15 +1209,15 @@
             "channel": "Gamers Nexus",
             "thumbnail": "https://i.ytimg.com/vi/66QzlDewigE/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=66QzlDewigE",
-            "views": 554689,
-            "age_hours": 16.0
+            "views": 628699,
+            "age_hours": 21.5
           }
         ]
       },
       {
         "phrase": "house dragon",
         "video_count": 2,
-        "momentum": 11.2,
+        "momentum": 11.03,
         "regions": [
           "US"
         ],
@@ -1220,8 +1229,8 @@
             "channel": "GameofThrones",
             "thumbnail": "https://i.ytimg.com/vi/xZUavocHU2g/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=xZUavocHU2g",
-            "views": 603934,
-            "age_hours": 30.8
+            "views": 658407,
+            "age_hours": 36.2
           },
           {
             "id": "VgQTU5zWN4A",
@@ -1229,189 +1238,40 @@
             "channel": "Emergency Awesome",
             "thumbnail": "https://i.ytimg.com/vi/VgQTU5zWN4A/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=VgQTU5zWN4A",
-            "views": 135153,
-            "age_hours": 13.0
-          }
-        ]
-      }
-    ],
-    "DE": [
-      {
-        "phrase": "comedy",
-        "video_count": 5,
-        "momentum": 21.79,
-        "regions": [
-          "DE"
-        ],
-        "lang": "de",
-        "example_videos": [
-          {
-            "id": "y8ykts39E-0",
-            "title": "พลังอันยิ่งใหญ่ มาพร้อมกับความรับผิดชอบอันใหญ่ยิ่ง 🕸️🕷️😆😆  #funny  #comedy #viral #fyp",
-            "channel": "Shorts ฮา ",
-            "thumbnail": "https://i.ytimg.com/vi/y8ykts39E-0/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=y8ykts39E-0",
-            "views": 8261629,
-            "age_hours": 145.1
-          },
-          {
-            "id": "T_fpKillz3c",
-            "title": "DÖNER SCHLEIM???😱😱 #shortsdeutschland #lustig #comedy #slime",
-            "channel": "Tonibonboni",
-            "thumbnail": "https://i.ytimg.com/vi/T_fpKillz3c/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=T_fpKillz3c",
-            "views": 921754,
-            "age_hours": 68.0
-          },
-          {
-            "id": "1GqshP7btv8",
-            "title": "OMmg TIM GIOH ist in der DEUTSCHEN STARTELF?!😳🇩🇪⚽️ #marvintsp #comedy #wm2026 #fußball",
-            "channel": "marvintsp",
-            "thumbnail": "https://i.ytimg.com/vi/1GqshP7btv8/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=1GqshP7btv8",
-            "views": 1200635,
-            "age_hours": 135.8
-          }
-        ]
-      },
-      {
-        "phrase": "lewinray shorts",
-        "video_count": 2,
-        "momentum": 11.51,
-        "regions": [
-          "DE"
-        ],
-        "lang": "de",
-        "example_videos": [
-          {
-            "id": "dF5z1695R6E",
-            "title": "Anzeige| Freundin überrascht😁💕 | Lewinray #shorts",
-            "channel": "Lewinray",
-            "thumbnail": "https://i.ytimg.com/vi/dF5z1695R6E/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=dF5z1695R6E",
-            "views": 1291786,
-            "age_hours": 68.4
-          },
-          {
-            "id": "cmI_r7AoMKA",
-            "title": "Wer macht das lauteste suiii?😂 | Lewinray #shorts",
-            "channel": "Lewinray",
-            "thumbnail": "https://i.ytimg.com/vi/cmI_r7AoMKA/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=cmI_r7AoMKA",
-            "views": 1535401,
-            "age_hours": 90.7
-          }
-        ]
-      },
-      {
-        "phrase": "ende shorts",
-        "video_count": 2,
-        "momentum": 11.36,
-        "regions": [
-          "DE"
-        ],
-        "lang": "de",
-        "example_videos": [
-          {
-            "id": "UgiG1fHZ1Sk",
-            "title": "Das Ende 😂 #shorts",
-            "channel": "StineundMarc",
-            "thumbnail": "https://i.ytimg.com/vi/UgiG1fHZ1Sk/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=UgiG1fHZ1Sk",
-            "views": 689942,
-            "age_hours": 23.3
-          },
-          {
-            "id": "z_EA8YvsaKw",
-            "title": "Das Ende😂 #shorts",
-            "channel": "StineundMarc",
-            "thumbnail": "https://i.ytimg.com/vi/z_EA8YvsaKw/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=z_EA8YvsaKw",
-            "views": 1549532,
-            "age_hours": 162.6
-          }
-        ]
-      },
-      {
-        "phrase": "keyboard escape",
-        "video_count": 2,
-        "momentum": 9.73,
-        "regions": [
-          "DE"
-        ],
-        "lang": "de",
-        "example_videos": [
-          {
-            "id": "7j1a_9kuEEE",
-            "title": "ich TESTE VIRALE TIKTOKS in Keyboard Escape!",
-            "channel": "Standart Skill",
-            "thumbnail": "https://i.ytimg.com/vi/7j1a_9kuEEE/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=7j1a_9kuEEE",
-            "views": 127151,
-            "age_hours": 20.2
-          },
-          {
-            "id": "fsPUJvOj3DM",
-            "title": "Ich KAUFE alle OP ITEMS in Keyboard Escape in Roblox!",
-            "channel": "Paulberger",
-            "thumbnail": "https://i.ytimg.com/vi/fsPUJvOj3DM/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=fsPUJvOj3DM",
-            "views": 50360,
-            "age_hours": 15.1
+            "views": 164191,
+            "age_hours": 18.4
           }
         ]
       }
     ],
     "CA": [],
-    "AU": [
-      {
-        "phrase": "meccha chameleon",
-        "video_count": 2,
-        "momentum": 12.74,
-        "regions": [
-          "AU"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "Z8U_0y4ShW0",
-            "title": "Meccha Chameleon spots that make you say \"That Pain't Me\"",
-            "channel": "SMii7Y",
-            "thumbnail": "https://i.ytimg.com/vi/Z8U_0y4ShW0/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=Z8U_0y4ShW0",
-            "views": 4377487,
-            "age_hours": 61.8
-          },
-          {
-            "id": "YgoIU-fkc_g",
-            "title": "Meccha Chameleon - 2026 Greatest Game Until GTA6!",
-            "channel": "VanossGaming",
-            "thumbnail": "https://i.ytimg.com/vi/YgoIU-fkc_g/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=YgoIU-fkc_g",
-            "views": 1879934,
-            "age_hours": 77.0
-          }
-        ]
-      }
-    ],
     "BR": [
       {
         "phrase": "kkkkk",
-        "video_count": 4,
-        "momentum": 19.82,
+        "video_count": 5,
+        "momentum": 25.72,
         "regions": [
           "BR"
         ],
         "lang": "pt",
         "example_videos": [
           {
+            "id": "IEZWbuQBZM4",
+            "title": "QUANDO VOCÊ PERCEBE QUE SEU IRMÃO MAIS NOVO CRESCEU 😹 KKKKK",
+            "channel": "MoriMura",
+            "thumbnail": "https://i.ytimg.com/vi/IEZWbuQBZM4/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=IEZWbuQBZM4",
+            "views": 1675610,
+            "age_hours": 17.0
+          },
+          {
             "id": "IlEecSmtUzg",
             "title": "A GERAÇÃO DE HJ EM DIA NO ANO DE 2070 😹 KKKKK",
             "channel": "MoriMura",
             "thumbnail": "https://i.ytimg.com/vi/IlEecSmtUzg/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=IlEecSmtUzg",
-            "views": 19897880,
-            "age_hours": 131.9
+            "views": 20380363,
+            "age_hours": 137.4
           },
           {
             "id": "kXlc9usQ7e8",
@@ -1419,24 +1279,53 @@
             "channel": "MoriMura",
             "thumbnail": "https://i.ytimg.com/vi/kXlc9usQ7e8/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=kXlc9usQ7e8",
-            "views": 3623370,
-            "age_hours": 107.6
+            "views": 3640462,
+            "age_hours": 113.1
+          }
+        ]
+      },
+      {
+        "phrase": "novo",
+        "video_count": 4,
+        "momentum": 18.14,
+        "regions": [
+          "BR"
+        ],
+        "lang": "pt",
+        "example_videos": [
+          {
+            "id": "IEZWbuQBZM4",
+            "title": "QUANDO VOCÊ PERCEBE QUE SEU IRMÃO MAIS NOVO CRESCEU 😹 KKKKK",
+            "channel": "MoriMura",
+            "thumbnail": "https://i.ytimg.com/vi/IEZWbuQBZM4/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=IEZWbuQBZM4",
+            "views": 1675610,
+            "age_hours": 17.0
           },
           {
-            "id": "vrm7S7YdaBg",
-            "title": "REACT MoriMura - A GERAÇÃO DE HJ EM DIA NO ANO DE 2070 😹 KKKKK",
-            "channel": "Kaizen Andrade",
-            "thumbnail": "https://i.ytimg.com/vi/vrm7S7YdaBg/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=vrm7S7YdaBg",
-            "views": 2384344,
-            "age_hours": 83.0
+            "id": "5W82n0HdrpM",
+            "title": "O HOMEM ARANHA É SUCESSO, MAS TEM UM RISCO [ANÁLISE TRAILER - HOMEM-ARANHA UM NOVO DIA]",
+            "channel": "Debescreve",
+            "thumbnail": "https://i.ytimg.com/vi/5W82n0HdrpM/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=5W82n0HdrpM",
+            "views": 9614,
+            "age_hours": 16.4
+          },
+          {
+            "id": "MOEl97xFSak",
+            "title": "O novo celular dos enzos KKKKKK",
+            "channel": "Kerb",
+            "thumbnail": "https://i.ytimg.com/vi/MOEl97xFSak/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=MOEl97xFSak",
+            "views": 626554,
+            "age_hours": 160.6
           }
         ]
       },
       {
         "phrase": "geração hj kkkkk",
         "video_count": 2,
-        "momentum": 15.39,
+        "momentum": 15.34,
         "regions": [
           "BR"
         ],
@@ -1448,8 +1337,8 @@
             "channel": "MoriMura",
             "thumbnail": "https://i.ytimg.com/vi/IlEecSmtUzg/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=IlEecSmtUzg",
-            "views": 19897880,
-            "age_hours": 131.9
+            "views": 20380363,
+            "age_hours": 137.4
           },
           {
             "id": "vrm7S7YdaBg",
@@ -1457,15 +1346,102 @@
             "channel": "Kaizen Andrade",
             "thumbnail": "https://i.ytimg.com/vi/vrm7S7YdaBg/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=vrm7S7YdaBg",
-            "views": 2384344,
-            "age_hours": 83.0
+            "views": 2416671,
+            "age_hours": 88.5
+          }
+        ]
+      },
+      {
+        "phrase": "motivação inspiração felicidade",
+        "video_count": 2,
+        "momentum": 14.63,
+        "regions": [
+          "BR"
+        ],
+        "lang": "pt",
+        "example_videos": [
+          {
+            "id": "nNfgYc8yNJs",
+            "title": "É muita informação pra pouco vídeo😂#motivação #inspiração #felicidade #viral #divertido #trabalho",
+            "channel": "Marco Morastoni ",
+            "thumbnail": "https://i.ytimg.com/vi/nNfgYc8yNJs/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=nNfgYc8yNJs",
+            "views": 1579039,
+            "age_hours": 72.2
+          },
+          {
+            "id": "C4U8JVU7B6g",
+            "title": "O mano no dia mais fiel dele😂#mindset #motivação #inspiração #felicidade #viral #divertido #humor",
+            "channel": "Marco Morastoni ",
+            "thumbnail": "https://i.ytimg.com/vi/C4U8JVU7B6g/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=C4U8JVU7B6g",
+            "views": 3493006,
+            "age_hours": 113.2
+          }
+        ]
+      },
+      {
+        "phrase": "inspiração felicidade viral",
+        "video_count": 2,
+        "momentum": 14.63,
+        "regions": [
+          "BR"
+        ],
+        "lang": "pt",
+        "example_videos": [
+          {
+            "id": "nNfgYc8yNJs",
+            "title": "É muita informação pra pouco vídeo😂#motivação #inspiração #felicidade #viral #divertido #trabalho",
+            "channel": "Marco Morastoni ",
+            "thumbnail": "https://i.ytimg.com/vi/nNfgYc8yNJs/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=nNfgYc8yNJs",
+            "views": 1579039,
+            "age_hours": 72.2
+          },
+          {
+            "id": "C4U8JVU7B6g",
+            "title": "O mano no dia mais fiel dele😂#mindset #motivação #inspiração #felicidade #viral #divertido #humor",
+            "channel": "Marco Morastoni ",
+            "thumbnail": "https://i.ytimg.com/vi/C4U8JVU7B6g/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=C4U8JVU7B6g",
+            "views": 3493006,
+            "age_hours": 113.2
+          }
+        ]
+      },
+      {
+        "phrase": "felicidade viral divertido",
+        "video_count": 2,
+        "momentum": 14.63,
+        "regions": [
+          "BR"
+        ],
+        "lang": "pt",
+        "example_videos": [
+          {
+            "id": "nNfgYc8yNJs",
+            "title": "É muita informação pra pouco vídeo😂#motivação #inspiração #felicidade #viral #divertido #trabalho",
+            "channel": "Marco Morastoni ",
+            "thumbnail": "https://i.ytimg.com/vi/nNfgYc8yNJs/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=nNfgYc8yNJs",
+            "views": 1579039,
+            "age_hours": 72.2
+          },
+          {
+            "id": "C4U8JVU7B6g",
+            "title": "O mano no dia mais fiel dele😂#mindset #motivação #inspiração #felicidade #viral #divertido #humor",
+            "channel": "Marco Morastoni ",
+            "thumbnail": "https://i.ytimg.com/vi/C4U8JVU7B6g/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=C4U8JVU7B6g",
+            "views": 3493006,
+            "age_hours": 113.2
           }
         ]
       },
       {
         "phrase": "trailer from origem",
         "video_count": 2,
-        "momentum": 13.01,
+        "momentum": 12.66,
         "regions": [
           "BR"
         ],
@@ -1477,8 +1453,8 @@
             "channel": "A Gente Faz Agora",
             "thumbnail": "https://i.ytimg.com/vi/vBceGQkgfxA/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=vBceGQkgfxA",
-            "views": 40612,
-            "age_hours": 10.0
+            "views": 52553,
+            "age_hours": 15.5
           },
           {
             "id": "vJ2rzj0va34",
@@ -1486,15 +1462,44 @@
             "channel": "Janela Pop",
             "thumbnail": "https://i.ytimg.com/vi/vJ2rzj0va34/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=vJ2rzj0va34",
-            "views": 27326,
-            "age_hours": 19.0
+            "views": 27988,
+            "age_hours": 24.5
+          }
+        ]
+      },
+      {
+        "phrase": "passinho jamais",
+        "video_count": 2,
+        "momentum": 12.16,
+        "regions": [
+          "BR"
+        ],
+        "lang": "pt",
+        "example_videos": [
+          {
+            "id": "Yt4f41NeWPw",
+            "title": "o passinho do jamais 🤣🤣🤣",
+            "channel": "Vitor Orth",
+            "thumbnail": "https://i.ytimg.com/vi/Yt4f41NeWPw/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=Yt4f41NeWPw",
+            "views": 3667758,
+            "age_hours": 112.5
+          },
+          {
+            "id": "0GrvyWUZ4Pg",
+            "title": "O passinho do jamais 🤣🤣🤣",
+            "channel": "Aparecida matos de Souza ",
+            "thumbnail": "https://i.ytimg.com/vi/0GrvyWUZ4Pg/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=0GrvyWUZ4Pg",
+            "views": 1668671,
+            "age_hours": 47.5
           }
         ]
       },
       {
         "phrase": "esconde esconde",
         "video_count": 2,
-        "momentum": 11.45,
+        "momentum": 11.12,
         "regions": [
           "BR"
         ],
@@ -1506,8 +1511,8 @@
             "channel": "Mundo Torajo Jovem",
             "thumbnail": "https://i.ytimg.com/vi/K5NuxxOT3EE/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=K5NuxxOT3EE",
-            "views": 149726,
-            "age_hours": 12.5
+            "views": 162416,
+            "age_hours": 18.0
           },
           {
             "id": "yphFIoRMybw",
@@ -1515,15 +1520,15 @@
             "channel": "LipaoGamer",
             "thumbnail": "https://i.ytimg.com/vi/yphFIoRMybw/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=yphFIoRMybw",
-            "views": 94605,
-            "age_hours": 14.8
+            "views": 104334,
+            "age_hours": 20.3
           }
         ]
       },
       {
         "phrase": "meus amigos",
         "video_count": 2,
-        "momentum": 11.21,
+        "momentum": 11.04,
         "regions": [
           "BR"
         ],
@@ -1535,8 +1540,8 @@
             "channel": "Cadres",
             "thumbnail": "https://i.ytimg.com/vi/g73qDGZuzmA/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=g73qDGZuzmA",
-            "views": 389231,
-            "age_hours": 16.1
+            "views": 479212,
+            "age_hours": 21.6
           },
           {
             "id": "BZTofgN0xp8",
@@ -1544,15 +1549,15 @@
             "channel": "ProbIems",
             "thumbnail": "https://i.ytimg.com/vi/BZTofgN0xp8/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=BZTofgN0xp8",
-            "views": 282426,
-            "age_hours": 20.0
+            "views": 293948,
+            "age_hours": 25.5
           }
         ]
       },
       {
         "phrase": "deu ruim",
         "video_count": 2,
-        "momentum": 11.01,
+        "momentum": 10.97,
         "regions": [
           "BR"
         ],
@@ -1564,8 +1569,8 @@
             "channel": "Léo Borges Shorts",
             "thumbnail": "https://i.ytimg.com/vi/itfifLdmkWI/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=itfifLdmkWI",
-            "views": 3603400,
-            "age_hours": 179.3
+            "views": 3614238,
+            "age_hours": 184.8
           },
           {
             "id": "yuLl8pObHNo",
@@ -1573,15 +1578,15 @@
             "channel": "Léo Borges Shorts",
             "thumbnail": "https://i.ytimg.com/vi/yuLl8pObHNo/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=yuLl8pObHNo",
-            "views": 1929969,
-            "age_hours": 107.4
+            "views": 1935715,
+            "age_hours": 112.8
           }
         ]
       },
       {
         "phrase": "sobrinha reação",
         "video_count": 2,
-        "momentum": 11.01,
+        "momentum": 10.97,
         "regions": [
           "BR"
         ],
@@ -1593,8 +1598,8 @@
             "channel": "Léo Borges Shorts",
             "thumbnail": "https://i.ytimg.com/vi/itfifLdmkWI/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=itfifLdmkWI",
-            "views": 3603400,
-            "age_hours": 179.3
+            "views": 3614238,
+            "age_hours": 184.8
           },
           {
             "id": "yuLl8pObHNo",
@@ -1602,8 +1607,39 @@
             "channel": "Léo Borges Shorts",
             "thumbnail": "https://i.ytimg.com/vi/yuLl8pObHNo/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=yuLl8pObHNo",
-            "views": 1929969,
-            "age_hours": 107.4
+            "views": 1935715,
+            "age_hours": 112.8
+          }
+        ]
+      }
+    ],
+    "AU": [
+      {
+        "phrase": "meccha chameleon",
+        "video_count": 2,
+        "momentum": 12.66,
+        "regions": [
+          "AU"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "Z8U_0y4ShW0",
+            "title": "Meccha Chameleon spots that make you say \"That Pain't Me\"",
+            "channel": "SMii7Y",
+            "thumbnail": "https://i.ytimg.com/vi/Z8U_0y4ShW0/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=Z8U_0y4ShW0",
+            "views": 4469569,
+            "age_hours": 67.2
+          },
+          {
+            "id": "YgoIU-fkc_g",
+            "title": "Meccha Chameleon - 2026 Greatest Game Until GTA6!",
+            "channel": "VanossGaming",
+            "thumbnail": "https://i.ytimg.com/vi/YgoIU-fkc_g/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=YgoIU-fkc_g",
+            "views": 1920931,
+            "age_hours": 82.5
           }
         ]
       }
@@ -1612,7 +1648,7 @@
       {
         "phrase": "minecraft",
         "video_count": 4,
-        "momentum": 18.88,
+        "momentum": 18.66,
         "regions": [
           "IN"
         ],
@@ -1624,17 +1660,8 @@
             "channel": "Live Insaan",
             "thumbnail": "https://i.ytimg.com/vi/9kh7rr4V9KI/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=9kh7rr4V9KI",
-            "views": 907781,
-            "age_hours": 13.1
-          },
-          {
-            "id": "pqhwOWXt63Q",
-            "title": "From Baby to Old Man in Minecraft..",
-            "channel": "Carry Depie",
-            "thumbnail": "https://i.ytimg.com/vi/pqhwOWXt63Q/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=pqhwOWXt63Q",
-            "views": 1120247,
-            "age_hours": 45.3
+            "views": 1019911,
+            "age_hours": 18.6
           },
           {
             "id": "_auW8phYceo",
@@ -1642,15 +1669,24 @@
             "channel": "Junkeyy",
             "thumbnail": "https://i.ytimg.com/vi/_auW8phYceo/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=_auW8phYceo",
-            "views": 1023270,
-            "age_hours": 44.1
+            "views": 1127085,
+            "age_hours": 49.6
+          },
+          {
+            "id": "pqhwOWXt63Q",
+            "title": "From Baby to Old Man in Minecraft..",
+            "channel": "Carry Depie",
+            "thumbnail": "https://i.ytimg.com/vi/pqhwOWXt63Q/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=pqhwOWXt63Q",
+            "views": 1192188,
+            "age_hours": 50.8
           }
         ]
       },
       {
         "phrase": "shorts youtubeshorts cricket",
         "video_count": 2,
-        "momentum": 16.19,
+        "momentum": 16.2,
         "regions": [
           "IN"
         ],
@@ -1662,8 +1698,8 @@
             "channel": "Box Of Vengeance",
             "thumbnail": "https://i.ytimg.com/vi/ltR81y_y3_U/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=ltR81y_y3_U",
-            "views": 3863920,
-            "age_hours": 52.5
+            "views": 4637551,
+            "age_hours": 58.0
           },
           {
             "id": "eubxD5cEYfE",
@@ -1671,15 +1707,15 @@
             "channel": "Box Of Vengeance",
             "thumbnail": "https://i.ytimg.com/vi/eubxD5cEYfE/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=eubxD5cEYfE",
-            "views": 16381808,
-            "age_hours": 266.0
+            "views": 16533328,
+            "age_hours": 271.5
           }
         ]
       },
       {
         "phrase": "youtubeshorts cricket unboxing",
         "video_count": 2,
-        "momentum": 16.19,
+        "momentum": 16.2,
         "regions": [
           "IN"
         ],
@@ -1691,8 +1727,8 @@
             "channel": "Box Of Vengeance",
             "thumbnail": "https://i.ytimg.com/vi/ltR81y_y3_U/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=ltR81y_y3_U",
-            "views": 3863920,
-            "age_hours": 52.5
+            "views": 4637551,
+            "age_hours": 58.0
           },
           {
             "id": "eubxD5cEYfE",
@@ -1700,15 +1736,15 @@
             "channel": "Box Of Vengeance",
             "thumbnail": "https://i.ytimg.com/vi/eubxD5cEYfE/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=eubxD5cEYfE",
-            "views": 16381808,
-            "age_hours": 266.0
+            "views": 16533328,
+            "age_hours": 271.5
           }
         ]
       },
       {
         "phrase": "cricket unboxing ball",
         "video_count": 2,
-        "momentum": 16.19,
+        "momentum": 16.2,
         "regions": [
           "IN"
         ],
@@ -1720,8 +1756,8 @@
             "channel": "Box Of Vengeance",
             "thumbnail": "https://i.ytimg.com/vi/ltR81y_y3_U/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=ltR81y_y3_U",
-            "views": 3863920,
-            "age_hours": 52.5
+            "views": 4637551,
+            "age_hours": 58.0
           },
           {
             "id": "eubxD5cEYfE",
@@ -1729,15 +1765,15 @@
             "channel": "Box Of Vengeance",
             "thumbnail": "https://i.ytimg.com/vi/eubxD5cEYfE/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=eubxD5cEYfE",
-            "views": 16381808,
-            "age_hours": 266.0
+            "views": 16533328,
+            "age_hours": 271.5
           }
         ]
       },
       {
         "phrase": "unboxing ball funny",
         "video_count": 2,
-        "momentum": 16.19,
+        "momentum": 16.2,
         "regions": [
           "IN"
         ],
@@ -1749,8 +1785,8 @@
             "channel": "Box Of Vengeance",
             "thumbnail": "https://i.ytimg.com/vi/ltR81y_y3_U/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=ltR81y_y3_U",
-            "views": 3863920,
-            "age_hours": 52.5
+            "views": 4637551,
+            "age_hours": 58.0
           },
           {
             "id": "eubxD5cEYfE",
@@ -1758,15 +1794,15 @@
             "channel": "Box Of Vengeance",
             "thumbnail": "https://i.ytimg.com/vi/eubxD5cEYfE/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=eubxD5cEYfE",
-            "views": 16381808,
-            "age_hours": 266.0
+            "views": 16533328,
+            "age_hours": 271.5
           }
         ]
       },
       {
         "phrase": "real end twist",
         "video_count": 2,
-        "momentum": 16.01,
+        "momentum": 15.98,
         "regions": [
           "IN"
         ],
@@ -1778,8 +1814,8 @@
             "channel": "KL BRO Biju Rithvik",
             "thumbnail": "https://i.ytimg.com/vi/Oqp496Y64rk/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=Oqp496Y64rk",
-            "views": 3994082,
-            "age_hours": 24.2
+            "views": 4981929,
+            "age_hours": 29.7
           },
           {
             "id": "POik6mJJR1k",
@@ -1787,15 +1823,15 @@
             "channel": "V5 Family Show",
             "thumbnail": "https://i.ytimg.com/vi/POik6mJJR1k/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=POik6mJJR1k",
-            "views": 5872952,
-            "age_hours": 43.5
+            "views": 6329237,
+            "age_hours": 49.0
           }
         ]
       },
       {
         "phrase": "end twist shorts",
         "video_count": 2,
-        "momentum": 16.01,
+        "momentum": 15.98,
         "regions": [
           "IN"
         ],
@@ -1807,8 +1843,8 @@
             "channel": "KL BRO Biju Rithvik",
             "thumbnail": "https://i.ytimg.com/vi/Oqp496Y64rk/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=Oqp496Y64rk",
-            "views": 3994082,
-            "age_hours": 24.2
+            "views": 4981929,
+            "age_hours": 29.7
           },
           {
             "id": "POik6mJJR1k",
@@ -1816,15 +1852,15 @@
             "channel": "V5 Family Show",
             "thumbnail": "https://i.ytimg.com/vi/POik6mJJR1k/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=POik6mJJR1k",
-            "views": 5872952,
-            "age_hours": 43.5
+            "views": 6329237,
+            "age_hours": 49.0
           }
         ]
       },
       {
         "phrase": "indian family shorts",
         "video_count": 2,
-        "momentum": 14.85,
+        "momentum": 14.87,
         "regions": [
           "IN"
         ],
@@ -1836,8 +1872,8 @@
             "channel": "We r Loser",
             "thumbnail": "https://i.ytimg.com/vi/SF2FsvdXbWM/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=SF2FsvdXbWM",
-            "views": 11105161,
-            "age_hours": 89.7
+            "views": 11779299,
+            "age_hours": 95.2
           },
           {
             "id": "ydPVbb_sBTk",
@@ -1845,15 +1881,15 @@
             "channel": "Jagiya the fun",
             "thumbnail": "https://i.ytimg.com/vi/ydPVbb_sBTk/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=ydPVbb_sBTk",
-            "views": 4268337,
-            "age_hours": 87.9
+            "views": 4672313,
+            "age_hours": 93.3
           }
         ]
       },
       {
         "phrase": "family shorts indian",
         "video_count": 2,
-        "momentum": 14.85,
+        "momentum": 14.87,
         "regions": [
           "IN"
         ],
@@ -1865,8 +1901,8 @@
             "channel": "We r Loser",
             "thumbnail": "https://i.ytimg.com/vi/SF2FsvdXbWM/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=SF2FsvdXbWM",
-            "views": 11105161,
-            "age_hours": 89.7
+            "views": 11779299,
+            "age_hours": 95.2
           },
           {
             "id": "ydPVbb_sBTk",
@@ -1874,15 +1910,15 @@
             "channel": "Jagiya the fun",
             "thumbnail": "https://i.ytimg.com/vi/ydPVbb_sBTk/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=ydPVbb_sBTk",
-            "views": 4268337,
-            "age_hours": 87.9
+            "views": 4672313,
+            "age_hours": 93.3
           }
         ]
       },
       {
         "phrase": "ishqyouall swv tamil",
         "video_count": 2,
-        "momentum": 14.77,
+        "momentum": 14.72,
         "regions": [
           "IN"
         ],
@@ -1894,8 +1930,8 @@
             "channel": "Soundarya with varshini - tamil",
             "thumbnail": "https://i.ytimg.com/vi/-m1I5TGYn8c/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=-m1I5TGYn8c",
-            "views": 2314624,
-            "age_hours": 69.5
+            "views": 2388050,
+            "age_hours": 75.0
           },
           {
             "id": "hnhg5_cvj20",
@@ -1903,15 +1939,15 @@
             "channel": "Soundarya with varshini - tamil",
             "thumbnail": "https://i.ytimg.com/vi/hnhg5_cvj20/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=hnhg5_cvj20",
-            "views": 3018405,
-            "age_hours": 117.1
+            "views": 3069099,
+            "age_hours": 122.6
           }
         ]
       },
       {
         "phrase": "tom jerry",
         "video_count": 2,
-        "momentum": 13.35,
+        "momentum": 13.31,
         "regions": [
           "IN"
         ],
@@ -1923,8 +1959,8 @@
             "channel": "KL BRO Biju Rithvik",
             "thumbnail": "https://i.ytimg.com/vi/Oqp496Y64rk/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=Oqp496Y64rk",
-            "views": 3994082,
-            "age_hours": 24.2
+            "views": 4981929,
+            "age_hours": 29.7
           },
           {
             "id": "POik6mJJR1k",
@@ -1932,73 +1968,15 @@
             "channel": "V5 Family Show",
             "thumbnail": "https://i.ytimg.com/vi/POik6mJJR1k/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=POik6mJJR1k",
-            "views": 5872952,
-            "age_hours": 43.5
-          }
-        ]
-      },
-      {
-        "phrase": "ashish yadav",
-        "video_count": 2,
-        "momentum": 13.34,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "C_pJ0nku0vU",
-            "title": "#4KVideo - चोली के कबूतर - #Ashish Yadav & #Khushi Kakkar - का आ गया एक और तबाही - #Magahi Song 2026",
-            "channel": "Aarvik Entertainment",
-            "thumbnail": "https://i.ytimg.com/vi/C_pJ0nku0vU/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=C_pJ0nku0vU",
-            "views": 111745,
-            "age_hours": 8.0
-          },
-          {
-            "id": "VXs_WVZZLEA",
-            "title": "#Ashish Yadav - चटा के ओठलाली - #Kajal Raghwani , #Khushi Kakkar - Chata Ke Othlali - #New Song 2026",
-            "channel": "Aashish Yadav Entertainment",
-            "thumbnail": "https://i.ytimg.com/vi/VXs_WVZZLEA/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=VXs_WVZZLEA",
-            "views": 3082958,
-            "age_hours": 80.5
-          }
-        ]
-      },
-      {
-        "phrase": "khushi kakkar",
-        "video_count": 2,
-        "momentum": 13.34,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "C_pJ0nku0vU",
-            "title": "#4KVideo - चोली के कबूतर - #Ashish Yadav & #Khushi Kakkar - का आ गया एक और तबाही - #Magahi Song 2026",
-            "channel": "Aarvik Entertainment",
-            "thumbnail": "https://i.ytimg.com/vi/C_pJ0nku0vU/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=C_pJ0nku0vU",
-            "views": 111745,
-            "age_hours": 8.0
-          },
-          {
-            "id": "VXs_WVZZLEA",
-            "title": "#Ashish Yadav - चटा के ओठलाली - #Kajal Raghwani , #Khushi Kakkar - Chata Ke Othlali - #New Song 2026",
-            "channel": "Aashish Yadav Entertainment",
-            "thumbnail": "https://i.ytimg.com/vi/VXs_WVZZLEA/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=VXs_WVZZLEA",
-            "views": 3082958,
-            "age_hours": 80.5
+            "views": 6329237,
+            "age_hours": 49.0
           }
         ]
       },
       {
         "phrase": "youtube shortvideo",
         "video_count": 2,
-        "momentum": 13.1,
+        "momentum": 13.04,
         "regions": [
           "IN"
         ],
@@ -2010,8 +1988,8 @@
             "channel": "Soundarya with varshini - tamil",
             "thumbnail": "https://i.ytimg.com/vi/cheuSKhlk80/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=cheuSKhlk80",
-            "views": 2757355,
-            "age_hours": 46.0
+            "views": 2890565,
+            "age_hours": 51.5
           },
           {
             "id": "hnhg5_cvj20",
@@ -2019,15 +1997,15 @@
             "channel": "Soundarya with varshini - tamil",
             "thumbnail": "https://i.ytimg.com/vi/hnhg5_cvj20/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=hnhg5_cvj20",
-            "views": 3018405,
-            "age_hours": 117.1
+            "views": 3069099,
+            "age_hours": 122.6
           }
         ]
       },
       {
         "phrase": "ke liye",
         "video_count": 2,
-        "momentum": 12.96,
+        "momentum": 12.93,
         "regions": [
           "IN"
         ],
@@ -2039,8 +2017,8 @@
             "channel": "HRA Ki Masti",
             "thumbnail": "https://i.ytimg.com/vi/J83RE5pgwXw/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=J83RE5pgwXw",
-            "views": 7611047,
-            "age_hours": 44.3
+            "views": 8235553,
+            "age_hours": 49.8
           },
           {
             "id": "FpEdC78QesQ",
@@ -2048,15 +2026,15 @@
             "channel": "Gulshan Kalra",
             "thumbnail": "https://i.ytimg.com/vi/FpEdC78QesQ/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=FpEdC78QesQ",
-            "views": 10774691,
-            "age_hours": 143.1
+            "views": 11009360,
+            "age_hours": 148.6
           }
         ]
       },
       {
         "phrase": "meccha chameleon",
         "video_count": 2,
-        "momentum": 12.82,
+        "momentum": 12.6,
         "regions": [
           "IN"
         ],
@@ -2068,8 +2046,8 @@
             "channel": "Live Insaan",
             "thumbnail": "https://i.ytimg.com/vi/9kh7rr4V9KI/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=9kh7rr4V9KI",
-            "views": 907781,
-            "age_hours": 13.1
+            "views": 1019911,
+            "age_hours": 18.6
           },
           {
             "id": "nmt06_JLxt8",
@@ -2077,296 +2055,133 @@
             "channel": "GamerFleet",
             "thumbnail": "https://i.ytimg.com/vi/nmt06_JLxt8/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=nmt06_JLxt8",
-            "views": 1295809,
-            "age_hours": 41.1
+            "views": 1372807,
+            "age_hours": 46.5
           }
         ]
       },
       {
-        "phrase": "i finally",
+        "phrase": "biggest maze los",
         "video_count": 2,
-        "momentum": 10.18,
+        "momentum": 11.82,
         "regions": [
           "IN"
         ],
         "lang": "en",
         "example_videos": [
           {
-            "id": "1q6sE7i9mL8",
-            "title": "22 Hrs Later I Finally Reached Canada! (3/3) 🇨🇦✈️",
-            "channel": "DCT EATS",
-            "thumbnail": "https://i.ytimg.com/vi/1q6sE7i9mL8/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=1q6sE7i9mL8",
-            "views": 802364,
-            "age_hours": 193.2
+            "id": "QYlGUUvHwh0",
+            "title": "Franklin Solving The Biggest Maze In Los Santos! 😱 | GTA 5 | Dhanu Dino",
+            "channel": "DHANU DINO",
+            "thumbnail": "https://i.ytimg.com/vi/QYlGUUvHwh0/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=QYlGUUvHwh0",
+            "views": 202723,
+            "age_hours": 28.0
           },
           {
-            "id": "PEdhBFxck8o",
-            "title": "I Finally Revealed My Secret Dahi Papdi Chaat Recipe😱😱",
-            "channel": "So Saute",
-            "thumbnail": "https://i.ytimg.com/vi/PEdhBFxck8o/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=PEdhBFxck8o",
-            "views": 218881,
-            "age_hours": 91.7
+            "id": "kp6mrPplyy4",
+            "title": "Franklin & Shinchan Survived The BIGGEST Maze Of Los Santos in GTA 5! Telugu Gameplay",
+            "channel": "Pennem Star",
+            "thumbnail": "https://i.ytimg.com/vi/kp6mrPplyy4/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=kp6mrPplyy4",
+            "views": 122612,
+            "age_hours": 26.8
+          }
+        ]
+      },
+      {
+        "phrase": "maze los santos",
+        "video_count": 2,
+        "momentum": 11.82,
+        "regions": [
+          "IN"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "QYlGUUvHwh0",
+            "title": "Franklin Solving The Biggest Maze In Los Santos! 😱 | GTA 5 | Dhanu Dino",
+            "channel": "DHANU DINO",
+            "thumbnail": "https://i.ytimg.com/vi/QYlGUUvHwh0/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=QYlGUUvHwh0",
+            "views": 202723,
+            "age_hours": 28.0
+          },
+          {
+            "id": "kp6mrPplyy4",
+            "title": "Franklin & Shinchan Survived The BIGGEST Maze Of Los Santos in GTA 5! Telugu Gameplay",
+            "channel": "Pennem Star",
+            "thumbnail": "https://i.ytimg.com/vi/kp6mrPplyy4/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=kp6mrPplyy4",
+            "views": 122612,
+            "age_hours": 26.8
+          }
+        ]
+      },
+      {
+        "phrase": "los santos gta",
+        "video_count": 2,
+        "momentum": 11.82,
+        "regions": [
+          "IN"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "QYlGUUvHwh0",
+            "title": "Franklin Solving The Biggest Maze In Los Santos! 😱 | GTA 5 | Dhanu Dino",
+            "channel": "DHANU DINO",
+            "thumbnail": "https://i.ytimg.com/vi/QYlGUUvHwh0/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=QYlGUUvHwh0",
+            "views": 202723,
+            "age_hours": 28.0
+          },
+          {
+            "id": "kp6mrPplyy4",
+            "title": "Franklin & Shinchan Survived The BIGGEST Maze Of Los Santos in GTA 5! Telugu Gameplay",
+            "channel": "Pennem Star",
+            "thumbnail": "https://i.ytimg.com/vi/kp6mrPplyy4/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=kp6mrPplyy4",
+            "views": 122612,
+            "age_hours": 26.8
+          }
+        ]
+      },
+      {
+        "phrase": "gta telugu",
+        "video_count": 2,
+        "momentum": 10.56,
+        "regions": [
+          "IN"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "JFW4HF9YcT4",
+            "title": "Franklin Escapes a Big Tsunami in His NEW School in GTA 5 ! in Telugu",
+            "channel": "Black7Plays",
+            "thumbnail": "https://i.ytimg.com/vi/JFW4HF9YcT4/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=JFW4HF9YcT4",
+            "views": 413568,
+            "age_hours": 26.2
+          },
+          {
+            "id": "kp6mrPplyy4",
+            "title": "Franklin & Shinchan Survived The BIGGEST Maze Of Los Santos in GTA 5! Telugu Gameplay",
+            "channel": "Pennem Star",
+            "thumbnail": "https://i.ytimg.com/vi/kp6mrPplyy4/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=kp6mrPplyy4",
+            "views": 122612,
+            "age_hours": 26.8
           }
         ]
       }
     ],
-    "GB": [
-      {
-        "phrase": "steam machine review",
-        "video_count": 3,
-        "momentum": 23.01,
-        "regions": [
-          "GB"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "WhWtLi_FqLo",
-            "title": "Steam Machine Review: Beautiful Hardware, But What About Performance... And Price?",
-            "channel": "Digital Foundry",
-            "thumbnail": "https://i.ytimg.com/vi/WhWtLi_FqLo/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=WhWtLi_FqLo",
-            "views": 320396,
-            "age_hours": 16.0
-          },
-          {
-            "id": "Huw11M9aaMk",
-            "title": "Steam Machine Review - Bad News.",
-            "channel": "Dave2D",
-            "thumbnail": "https://i.ytimg.com/vi/Huw11M9aaMk/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=Huw11M9aaMk",
-            "views": 360947,
-            "age_hours": 15.2
-          },
-          {
-            "id": "zXHHenUWxnQ",
-            "title": "Steam Machine Review: Valve's New Console/PC Hybrid",
-            "channel": "IGN",
-            "thumbnail": "https://i.ytimg.com/vi/zXHHenUWxnQ/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=zXHHenUWxnQ",
-            "views": 219750,
-            "age_hours": 16.0
-          }
-        ]
-      },
-      {
-        "phrase": "spend me",
-        "video_count": 3,
-        "momentum": 12.88,
-        "regions": [
-          "GB"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "MykdrjmFmwY",
-            "title": "spend the week with me | primark shopping, apartment sort out",
-            "channel": "livvy dimartino",
-            "thumbnail": "https://i.ytimg.com/vi/MykdrjmFmwY/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=MykdrjmFmwY",
-            "views": 23322,
-            "age_hours": 15.8
-          },
-          {
-            "id": "HXk7lA_ciJI",
-            "title": "SPEND A DAY WITH ME | ASOS HAUL, RUN FAIL, HOLIDAY PREP & SOLO LUNCH DATE | ZOE RAE",
-            "channel": "Zoe Rae",
-            "thumbnail": "https://i.ytimg.com/vi/HXk7lA_ciJI/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=HXk7lA_ciJI",
-            "views": 63659,
-            "age_hours": 48.0
-          },
-          {
-            "id": "HhbcJdbdGl4",
-            "title": "Spend The Day With Me! A At Home Cosy Vlog",
-            "channel": "Anastasia Kingsnorth",
-            "thumbnail": "https://i.ytimg.com/vi/HhbcJdbdGl4/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=HhbcJdbdGl4",
-            "views": 79617,
-            "age_hours": 136.0
-          }
-        ]
-      },
-      {
-        "phrase": "meccha chameleon",
-        "video_count": 2,
-        "momentum": 10.94,
-        "regions": [
-          "GB"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "Q2CBGOyGN6Y",
-            "title": "CUSTOM MAPS ON MECCHA CHAMELEON!",
-            "channel": "MM7Games",
-            "thumbnail": "https://i.ytimg.com/vi/Q2CBGOyGN6Y/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=Q2CBGOyGN6Y",
-            "views": 232350,
-            "age_hours": 15.1
-          },
-          {
-            "id": "77QxhA7ZlhE",
-            "title": "Mystery Wheel Spin Challenge in Meccha Chameleon!",
-            "channel": "Caylus  ",
-            "thumbnail": "https://i.ytimg.com/vi/77QxhA7ZlhE/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=77QxhA7ZlhE",
-            "views": 133796,
-            "age_hours": 14.2
-          }
-        ]
-      },
-      {
-        "phrase": "world cup",
-        "video_count": 2,
-        "momentum": 10.79,
-        "regions": [
-          "GB"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "-xDaxULa_Rk",
-            "title": "Wondering if Bob's available for any trims during this World Cup... Asking for a friend 😆",
-            "channel": "Would I Lie To You?",
-            "thumbnail": "https://i.ytimg.com/vi/-xDaxULa_Rk/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=-xDaxULa_Rk",
-            "views": 1036317,
-            "age_hours": 98.0
-          },
-          {
-            "id": "RiggbVhoOMA",
-            "title": "The worst thing about watching the World Cup #8OutOf10Cats #FIFAWorldCup",
-            "channel": "8 Out of 10 Cats",
-            "thumbnail": "https://i.ytimg.com/vi/RiggbVhoOMA/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=RiggbVhoOMA",
-            "views": 1454052,
-            "age_hours": 139.3
-          }
-        ]
-      }
-    ],
-    "ALL": [
-      {
-        "phrase": "meccha chameleon",
-        "video_count": 6,
-        "momentum": 34.2,
-        "regions": [
-          "US"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "1VXqo23YZ00",
-            "title": "I Can’t Believe This Worked (Meccha Chameleon)",
-            "channel": "CaseOh",
-            "thumbnail": "https://i.ytimg.com/vi/1VXqo23YZ00/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=1VXqo23YZ00",
-            "views": 271578,
-            "age_hours": 11.0
-          },
-          {
-            "id": "xW0-Ko1nra4",
-            "title": "This Might Be My New Favorite Game (Meccha Chameleon)",
-            "channel": "SSundee",
-            "thumbnail": "https://i.ytimg.com/vi/xW0-Ko1nra4/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=xW0-Ko1nra4",
-            "views": 248829,
-            "age_hours": 12.0
-          },
-          {
-            "id": "HorICRtODpY",
-            "title": "MECCHA CHAMELEON CUSTOM MAPS ARE HILARIOUS",
-            "channel": "Grizzy",
-            "thumbnail": "https://i.ytimg.com/vi/HorICRtODpY/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=HorICRtODpY",
-            "views": 560275,
-            "age_hours": 36.3
-          }
-        ]
-      },
-      {
-        "phrase": "steam machine review",
-        "video_count": 3,
-        "momentum": 23.01,
-        "regions": [
-          "GB"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "WhWtLi_FqLo",
-            "title": "Steam Machine Review: Beautiful Hardware, But What About Performance... And Price?",
-            "channel": "Digital Foundry",
-            "thumbnail": "https://i.ytimg.com/vi/WhWtLi_FqLo/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=WhWtLi_FqLo",
-            "views": 320396,
-            "age_hours": 16.0
-          },
-          {
-            "id": "Huw11M9aaMk",
-            "title": "Steam Machine Review - Bad News.",
-            "channel": "Dave2D",
-            "thumbnail": "https://i.ytimg.com/vi/Huw11M9aaMk/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=Huw11M9aaMk",
-            "views": 360947,
-            "age_hours": 15.2
-          },
-          {
-            "id": "zXHHenUWxnQ",
-            "title": "Steam Machine Review: Valve's New Console/PC Hybrid",
-            "channel": "IGN",
-            "thumbnail": "https://i.ytimg.com/vi/zXHHenUWxnQ/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=zXHHenUWxnQ",
-            "views": 219750,
-            "age_hours": 16.0
-          }
-        ]
-      },
-      {
-        "phrase": "steam machine",
-        "video_count": 3,
-        "momentum": 22.34,
-        "regions": [
-          "US"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "SHlz648bsh8",
-            "title": "STEAM MACHINE COSTS $1,049 #shorts",
-            "channel": "jacobweeby",
-            "thumbnail": "https://i.ytimg.com/vi/SHlz648bsh8/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=SHlz648bsh8",
-            "views": 646114,
-            "age_hours": 11.2
-          },
-          {
-            "id": "6tI1SoMj5vg",
-            "title": "Even Valve is Disappointed - Steam Machine Review",
-            "channel": "Linus Tech Tips",
-            "thumbnail": "https://i.ytimg.com/vi/6tI1SoMj5vg/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=6tI1SoMj5vg",
-            "views": 1861331,
-            "age_hours": 16.0
-          },
-          {
-            "id": "66QzlDewigE",
-            "title": "Valve Steam Machine Review: GPU & CPU Benchmarks, SteamOS Test, Thermals, Noise, and Price",
-            "channel": "Gamers Nexus",
-            "thumbnail": "https://i.ytimg.com/vi/66QzlDewigE/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=66QzlDewigE",
-            "views": 554689,
-            "age_hours": 16.0
-          }
-        ]
-      },
+    "DE": [
       {
         "phrase": "comedy",
-        "video_count": 5,
-        "momentum": 21.79,
+        "video_count": 4,
+        "momentum": 18.39,
         "regions": [
           "DE"
         ],
@@ -2378,8 +2193,17 @@
             "channel": "Shorts ฮา ",
             "thumbnail": "https://i.ytimg.com/vi/y8ykts39E-0/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=y8ykts39E-0",
-            "views": 8261629,
-            "age_hours": 145.1
+            "views": 8730423,
+            "age_hours": 150.6
+          },
+          {
+            "id": "_GhW7j6zAn0",
+            "title": "ist das DEINE MUTTER?!🤯🚨 #shortsdeutschland #comedy #urlaub #mütter",
+            "channel": "Jenni ⭐️",
+            "thumbnail": "https://i.ytimg.com/vi/_GhW7j6zAn0/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=_GhW7j6zAn0",
+            "views": 752219,
+            "age_hours": 45.3
           },
           {
             "id": "T_fpKillz3c",
@@ -2387,37 +2211,300 @@
             "channel": "Tonibonboni",
             "thumbnail": "https://i.ytimg.com/vi/T_fpKillz3c/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=T_fpKillz3c",
-            "views": 921754,
-            "age_hours": 68.0
+            "views": 949000,
+            "age_hours": 73.5
+          }
+        ]
+      },
+      {
+        "phrase": "humor",
+        "video_count": 4,
+        "momentum": 16.91,
+        "regions": [
+          "DE"
+        ],
+        "lang": "de",
+        "example_videos": [
+          {
+            "id": "GJLwoUcJAJA",
+            "title": "Mama ausgetrickst😳😂 #shorts #shortvideos #comedy #lustigevideos #lustig #humor #reels #funny",
+            "channel": "Comedy Jess",
+            "thumbnail": "https://i.ytimg.com/vi/GJLwoUcJAJA/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=GJLwoUcJAJA",
+            "views": 295919,
+            "age_hours": 23.1
           },
           {
-            "id": "1GqshP7btv8",
-            "title": "OMmg TIM GIOH ist in der DEUTSCHEN STARTELF?!😳🇩🇪⚽️ #marvintsp #comedy #wm2026 #fußball",
-            "channel": "marvintsp",
-            "thumbnail": "https://i.ytimg.com/vi/1GqshP7btv8/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=1GqshP7btv8",
-            "views": 1200635,
-            "age_hours": 135.8
+            "id": "4Lx1uoXFBB0",
+            "title": "als kleinen Grüß aus der Küche noch eine Variation aus Melone #mama #mom #momlife #kinder #humor",
+            "channel": "Hayleyybayley",
+            "thumbnail": "https://i.ytimg.com/vi/4Lx1uoXFBB0/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=4Lx1uoXFBB0",
+            "views": 529235,
+            "age_hours": 45.6
+          },
+          {
+            "id": "AxDzX5M1mro",
+            "title": "#podcast #funny #lustig #memes #humor #marvin #twitch #stitch #streamer @jocelynmacar",
+            "channel": "Marvin Kra",
+            "thumbnail": "https://i.ytimg.com/vi/AxDzX5M1mro/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=AxDzX5M1mro",
+            "views": 661817,
+            "age_hours": 81.5
+          }
+        ]
+      },
+      {
+        "phrase": "lewinray shorts",
+        "video_count": 2,
+        "momentum": 11.46,
+        "regions": [
+          "DE"
+        ],
+        "lang": "de",
+        "example_videos": [
+          {
+            "id": "dF5z1695R6E",
+            "title": "Anzeige| Freundin überrascht😁💕 | Lewinray #shorts",
+            "channel": "Lewinray",
+            "thumbnail": "https://i.ytimg.com/vi/dF5z1695R6E/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=dF5z1695R6E",
+            "views": 1324922,
+            "age_hours": 73.8
+          },
+          {
+            "id": "cmI_r7AoMKA",
+            "title": "Wer macht das lauteste suiii?😂 | Lewinray #shorts",
+            "channel": "Lewinray",
+            "thumbnail": "https://i.ytimg.com/vi/cmI_r7AoMKA/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=cmI_r7AoMKA",
+            "views": 1560212,
+            "age_hours": 96.2
+          }
+        ]
+      },
+      {
+        "phrase": "ende shorts",
+        "video_count": 2,
+        "momentum": 11.28,
+        "regions": [
+          "DE"
+        ],
+        "lang": "de",
+        "example_videos": [
+          {
+            "id": "UgiG1fHZ1Sk",
+            "title": "Das Ende 😂 #shorts",
+            "channel": "StineundMarc",
+            "thumbnail": "https://i.ytimg.com/vi/UgiG1fHZ1Sk/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=UgiG1fHZ1Sk",
+            "views": 753909,
+            "age_hours": 28.8
+          },
+          {
+            "id": "z_EA8YvsaKw",
+            "title": "Das Ende😂 #shorts",
+            "channel": "StineundMarc",
+            "thumbnail": "https://i.ytimg.com/vi/z_EA8YvsaKw/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=z_EA8YvsaKw",
+            "views": 1567412,
+            "age_hours": 168.0
+          }
+        ]
+      },
+      {
+        "phrase": "keyboard escape",
+        "video_count": 2,
+        "momentum": 9.7,
+        "regions": [
+          "DE"
+        ],
+        "lang": "de",
+        "example_videos": [
+          {
+            "id": "7j1a_9kuEEE",
+            "title": "ich TESTE VIRALE TIKTOKS in Keyboard Escape!",
+            "channel": "Standart Skill",
+            "thumbnail": "https://i.ytimg.com/vi/7j1a_9kuEEE/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=7j1a_9kuEEE",
+            "views": 144277,
+            "age_hours": 25.7
+          },
+          {
+            "id": "fsPUJvOj3DM",
+            "title": "Ich KAUFE alle OP ITEMS in Keyboard Escape in Roblox!",
+            "channel": "Paulberger",
+            "thumbnail": "https://i.ytimg.com/vi/fsPUJvOj3DM/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=fsPUJvOj3DM",
+            "views": 78734,
+            "age_hours": 20.6
+          }
+        ]
+      }
+    ],
+    "GB": [
+      {
+        "phrase": "steam machine review",
+        "video_count": 2,
+        "momentum": 14.89,
+        "regions": [
+          "GB"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "WhWtLi_FqLo",
+            "title": "Steam Machine Review: Beautiful Hardware, But What About Performance... And Price?",
+            "channel": "Digital Foundry",
+            "thumbnail": "https://i.ytimg.com/vi/WhWtLi_FqLo/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=WhWtLi_FqLo",
+            "views": 362493,
+            "age_hours": 21.5
+          },
+          {
+            "id": "zXHHenUWxnQ",
+            "title": "Steam Machine Review: Valve's New Console/PC Hybrid",
+            "channel": "IGN",
+            "thumbnail": "https://i.ytimg.com/vi/zXHHenUWxnQ/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=zXHHenUWxnQ",
+            "views": 241452,
+            "age_hours": 21.5
+          }
+        ]
+      },
+      {
+        "phrase": "spend me",
+        "video_count": 3,
+        "momentum": 12.7,
+        "regions": [
+          "GB"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "MykdrjmFmwY",
+            "title": "spend the week with me | primark shopping, apartment sort out",
+            "channel": "livvy dimartino",
+            "thumbnail": "https://i.ytimg.com/vi/MykdrjmFmwY/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=MykdrjmFmwY",
+            "views": 30966,
+            "age_hours": 21.3
+          },
+          {
+            "id": "HXk7lA_ciJI",
+            "title": "SPEND A DAY WITH ME | ASOS HAUL, RUN FAIL, HOLIDAY PREP & SOLO LUNCH DATE | ZOE RAE",
+            "channel": "Zoe Rae",
+            "thumbnail": "https://i.ytimg.com/vi/HXk7lA_ciJI/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=HXk7lA_ciJI",
+            "views": 69455,
+            "age_hours": 53.5
+          },
+          {
+            "id": "HhbcJdbdGl4",
+            "title": "Spend The Day With Me! A At Home Cosy Vlog",
+            "channel": "Anastasia Kingsnorth",
+            "thumbnail": "https://i.ytimg.com/vi/HhbcJdbdGl4/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=HhbcJdbdGl4",
+            "views": 80477,
+            "age_hours": 141.5
+          }
+        ]
+      },
+      {
+        "phrase": "world cup",
+        "video_count": 2,
+        "momentum": 10.77,
+        "regions": [
+          "GB"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "-xDaxULa_Rk",
+            "title": "Wondering if Bob's available for any trims during this World Cup... Asking for a friend 😆",
+            "channel": "Would I Lie To You?",
+            "thumbnail": "https://i.ytimg.com/vi/-xDaxULa_Rk/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=-xDaxULa_Rk",
+            "views": 1068835,
+            "age_hours": 103.5
+          },
+          {
+            "id": "RiggbVhoOMA",
+            "title": "The worst thing about watching the World Cup #8OutOf10Cats #FIFAWorldCup",
+            "channel": "8 Out of 10 Cats",
+            "thumbnail": "https://i.ytimg.com/vi/RiggbVhoOMA/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=RiggbVhoOMA",
+            "views": 1484503,
+            "age_hours": 144.8
+          }
+        ]
+      }
+    ],
+    "ALL": [
+      {
+        "phrase": "meccha chameleon",
+        "video_count": 6,
+        "momentum": 33.39,
+        "regions": [
+          "US"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "1VXqo23YZ00",
+            "title": "I Can’t Believe This Worked (Meccha Chameleon)",
+            "channel": "CaseOh",
+            "thumbnail": "https://i.ytimg.com/vi/1VXqo23YZ00/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=1VXqo23YZ00",
+            "views": 344612,
+            "age_hours": 16.5
+          },
+          {
+            "id": "xW0-Ko1nra4",
+            "title": "This Might Be My New Favorite Game (Meccha Chameleon)",
+            "channel": "SSundee",
+            "thumbnail": "https://i.ytimg.com/vi/xW0-Ko1nra4/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=xW0-Ko1nra4",
+            "views": 317247,
+            "age_hours": 17.5
+          },
+          {
+            "id": "HorICRtODpY",
+            "title": "MECCHA CHAMELEON CUSTOM MAPS ARE HILARIOUS",
+            "channel": "Grizzy",
+            "thumbnail": "https://i.ytimg.com/vi/HorICRtODpY/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=HorICRtODpY",
+            "views": 584824,
+            "age_hours": 41.7
           }
         ]
       },
       {
         "phrase": "kkkkk",
-        "video_count": 4,
-        "momentum": 19.82,
+        "video_count": 5,
+        "momentum": 25.72,
         "regions": [
           "BR"
         ],
         "lang": "pt",
         "example_videos": [
           {
+            "id": "IEZWbuQBZM4",
+            "title": "QUANDO VOCÊ PERCEBE QUE SEU IRMÃO MAIS NOVO CRESCEU 😹 KKKKK",
+            "channel": "MoriMura",
+            "thumbnail": "https://i.ytimg.com/vi/IEZWbuQBZM4/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=IEZWbuQBZM4",
+            "views": 1675610,
+            "age_hours": 17.0
+          },
+          {
             "id": "IlEecSmtUzg",
             "title": "A GERAÇÃO DE HJ EM DIA NO ANO DE 2070 😹 KKKKK",
             "channel": "MoriMura",
             "thumbnail": "https://i.ytimg.com/vi/IlEecSmtUzg/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=IlEecSmtUzg",
-            "views": 19897880,
-            "age_hours": 131.9
+            "views": 20380363,
+            "age_hours": 137.4
           },
           {
             "id": "kXlc9usQ7e8",
@@ -2425,24 +2512,53 @@
             "channel": "MoriMura",
             "thumbnail": "https://i.ytimg.com/vi/kXlc9usQ7e8/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=kXlc9usQ7e8",
-            "views": 3623370,
-            "age_hours": 107.6
+            "views": 3640462,
+            "age_hours": 113.1
+          }
+        ]
+      },
+      {
+        "phrase": "steam machine",
+        "video_count": 3,
+        "momentum": 21.79,
+        "regions": [
+          "US"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "SHlz648bsh8",
+            "title": "STEAM MACHINE COSTS $1,049 #shorts",
+            "channel": "jacobweeby",
+            "thumbnail": "https://i.ytimg.com/vi/SHlz648bsh8/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=SHlz648bsh8",
+            "views": 805661,
+            "age_hours": 16.7
           },
           {
-            "id": "vrm7S7YdaBg",
-            "title": "REACT MoriMura - A GERAÇÃO DE HJ EM DIA NO ANO DE 2070 😹 KKKKK",
-            "channel": "Kaizen Andrade",
-            "thumbnail": "https://i.ytimg.com/vi/vrm7S7YdaBg/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=vrm7S7YdaBg",
-            "views": 2384344,
-            "age_hours": 83.0
+            "id": "6tI1SoMj5vg",
+            "title": "Even Valve is Disappointed - Steam Machine Review",
+            "channel": "Linus Tech Tips",
+            "thumbnail": "https://i.ytimg.com/vi/6tI1SoMj5vg/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=6tI1SoMj5vg",
+            "views": 2127168,
+            "age_hours": 21.5
+          },
+          {
+            "id": "66QzlDewigE",
+            "title": "Valve Steam Machine Review: GPU & CPU Benchmarks, SteamOS Test, Thermals, Noise, and Price",
+            "channel": "Gamers Nexus",
+            "thumbnail": "https://i.ytimg.com/vi/66QzlDewigE/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=66QzlDewigE",
+            "views": 628699,
+            "age_hours": 21.5
           }
         ]
       },
       {
         "phrase": "house",
         "video_count": 4,
-        "momentum": 19.19,
+        "momentum": 18.98,
         "regions": [
           "US"
         ],
@@ -2454,8 +2570,8 @@
             "channel": "TrendClips",
             "thumbnail": "https://i.ytimg.com/vi/Rc8xZYALSKU/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=Rc8xZYALSKU",
-            "views": 24156599,
-            "age_hours": 190.8
+            "views": 24240165,
+            "age_hours": 196.3
           },
           {
             "id": "CsmxDQ5bV_g",
@@ -2463,8 +2579,8 @@
             "channel": "JacksAdventures",
             "thumbnail": "https://i.ytimg.com/vi/CsmxDQ5bV_g/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=CsmxDQ5bV_g",
-            "views": 346734,
-            "age_hours": 44.7
+            "views": 355491,
+            "age_hours": 50.1
           },
           {
             "id": "xZUavocHU2g",
@@ -2472,15 +2588,15 @@
             "channel": "GameofThrones",
             "thumbnail": "https://i.ytimg.com/vi/xZUavocHU2g/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=xZUavocHU2g",
-            "views": 603934,
-            "age_hours": 30.8
+            "views": 658407,
+            "age_hours": 36.2
           }
         ]
       },
       {
         "phrase": "minecraft",
         "video_count": 4,
-        "momentum": 18.88,
+        "momentum": 18.66,
         "regions": [
           "IN"
         ],
@@ -2492,17 +2608,8 @@
             "channel": "Live Insaan",
             "thumbnail": "https://i.ytimg.com/vi/9kh7rr4V9KI/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=9kh7rr4V9KI",
-            "views": 907781,
-            "age_hours": 13.1
-          },
-          {
-            "id": "pqhwOWXt63Q",
-            "title": "From Baby to Old Man in Minecraft..",
-            "channel": "Carry Depie",
-            "thumbnail": "https://i.ytimg.com/vi/pqhwOWXt63Q/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=pqhwOWXt63Q",
-            "views": 1120247,
-            "age_hours": 45.3
+            "views": 1019911,
+            "age_hours": 18.6
           },
           {
             "id": "_auW8phYceo",
@@ -2510,15 +2617,167 @@
             "channel": "Junkeyy",
             "thumbnail": "https://i.ytimg.com/vi/_auW8phYceo/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=_auW8phYceo",
-            "views": 1023270,
-            "age_hours": 44.1
+            "views": 1127085,
+            "age_hours": 49.6
+          },
+          {
+            "id": "pqhwOWXt63Q",
+            "title": "From Baby to Old Man in Minecraft..",
+            "channel": "Carry Depie",
+            "thumbnail": "https://i.ytimg.com/vi/pqhwOWXt63Q/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=pqhwOWXt63Q",
+            "views": 1192188,
+            "age_hours": 50.8
+          }
+        ]
+      },
+      {
+        "phrase": "comedy",
+        "video_count": 4,
+        "momentum": 18.39,
+        "regions": [
+          "DE"
+        ],
+        "lang": "de",
+        "example_videos": [
+          {
+            "id": "y8ykts39E-0",
+            "title": "พลังอันยิ่งใหญ่ มาพร้อมกับความรับผิดชอบอันใหญ่ยิ่ง 🕸️🕷️😆😆  #funny  #comedy #viral #fyp",
+            "channel": "Shorts ฮา ",
+            "thumbnail": "https://i.ytimg.com/vi/y8ykts39E-0/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=y8ykts39E-0",
+            "views": 8730423,
+            "age_hours": 150.6
+          },
+          {
+            "id": "_GhW7j6zAn0",
+            "title": "ist das DEINE MUTTER?!🤯🚨 #shortsdeutschland #comedy #urlaub #mütter",
+            "channel": "Jenni ⭐️",
+            "thumbnail": "https://i.ytimg.com/vi/_GhW7j6zAn0/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=_GhW7j6zAn0",
+            "views": 752219,
+            "age_hours": 45.3
+          },
+          {
+            "id": "T_fpKillz3c",
+            "title": "DÖNER SCHLEIM???😱😱 #shortsdeutschland #lustig #comedy #slime",
+            "channel": "Tonibonboni",
+            "thumbnail": "https://i.ytimg.com/vi/T_fpKillz3c/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=T_fpKillz3c",
+            "views": 949000,
+            "age_hours": 73.5
+          }
+        ]
+      },
+      {
+        "phrase": "novo",
+        "video_count": 4,
+        "momentum": 18.14,
+        "regions": [
+          "BR"
+        ],
+        "lang": "pt",
+        "example_videos": [
+          {
+            "id": "IEZWbuQBZM4",
+            "title": "QUANDO VOCÊ PERCEBE QUE SEU IRMÃO MAIS NOVO CRESCEU 😹 KKKKK",
+            "channel": "MoriMura",
+            "thumbnail": "https://i.ytimg.com/vi/IEZWbuQBZM4/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=IEZWbuQBZM4",
+            "views": 1675610,
+            "age_hours": 17.0
+          },
+          {
+            "id": "5W82n0HdrpM",
+            "title": "O HOMEM ARANHA É SUCESSO, MAS TEM UM RISCO [ANÁLISE TRAILER - HOMEM-ARANHA UM NOVO DIA]",
+            "channel": "Debescreve",
+            "thumbnail": "https://i.ytimg.com/vi/5W82n0HdrpM/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=5W82n0HdrpM",
+            "views": 9614,
+            "age_hours": 16.4
+          },
+          {
+            "id": "MOEl97xFSak",
+            "title": "O novo celular dos enzos KKKKKK",
+            "channel": "Kerb",
+            "thumbnail": "https://i.ytimg.com/vi/MOEl97xFSak/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=MOEl97xFSak",
+            "views": 626554,
+            "age_hours": 160.6
+          }
+        ]
+      },
+      {
+        "phrase": "humor",
+        "video_count": 4,
+        "momentum": 16.91,
+        "regions": [
+          "DE"
+        ],
+        "lang": "de",
+        "example_videos": [
+          {
+            "id": "GJLwoUcJAJA",
+            "title": "Mama ausgetrickst😳😂 #shorts #shortvideos #comedy #lustigevideos #lustig #humor #reels #funny",
+            "channel": "Comedy Jess",
+            "thumbnail": "https://i.ytimg.com/vi/GJLwoUcJAJA/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=GJLwoUcJAJA",
+            "views": 295919,
+            "age_hours": 23.1
+          },
+          {
+            "id": "4Lx1uoXFBB0",
+            "title": "als kleinen Grüß aus der Küche noch eine Variation aus Melone #mama #mom #momlife #kinder #humor",
+            "channel": "Hayleyybayley",
+            "thumbnail": "https://i.ytimg.com/vi/4Lx1uoXFBB0/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=4Lx1uoXFBB0",
+            "views": 529235,
+            "age_hours": 45.6
+          },
+          {
+            "id": "AxDzX5M1mro",
+            "title": "#podcast #funny #lustig #memes #humor #marvin #twitch #stitch #streamer @jocelynmacar",
+            "channel": "Marvin Kra",
+            "thumbnail": "https://i.ytimg.com/vi/AxDzX5M1mro/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=AxDzX5M1mro",
+            "views": 661817,
+            "age_hours": 81.5
+          }
+        ]
+      },
+      {
+        "phrase": "steam machine review",
+        "video_count": 2,
+        "momentum": 16.83,
+        "regions": [
+          "US"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "6tI1SoMj5vg",
+            "title": "Even Valve is Disappointed - Steam Machine Review",
+            "channel": "Linus Tech Tips",
+            "thumbnail": "https://i.ytimg.com/vi/6tI1SoMj5vg/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=6tI1SoMj5vg",
+            "views": 2127168,
+            "age_hours": 21.5
+          },
+          {
+            "id": "66QzlDewigE",
+            "title": "Valve Steam Machine Review: GPU & CPU Benchmarks, SteamOS Test, Thermals, Noise, and Price",
+            "channel": "Gamers Nexus",
+            "thumbnail": "https://i.ytimg.com/vi/66QzlDewigE/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=66QzlDewigE",
+            "views": 628699,
+            "age_hours": 21.5
           }
         ]
       },
       {
         "phrase": "shorts youtubeshorts cricket",
         "video_count": 2,
-        "momentum": 16.19,
+        "momentum": 16.2,
         "regions": [
           "IN"
         ],
@@ -2530,8 +2789,8 @@
             "channel": "Box Of Vengeance",
             "thumbnail": "https://i.ytimg.com/vi/ltR81y_y3_U/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=ltR81y_y3_U",
-            "views": 3863920,
-            "age_hours": 52.5
+            "views": 4637551,
+            "age_hours": 58.0
           },
           {
             "id": "eubxD5cEYfE",
@@ -2539,15 +2798,15 @@
             "channel": "Box Of Vengeance",
             "thumbnail": "https://i.ytimg.com/vi/eubxD5cEYfE/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=eubxD5cEYfE",
-            "views": 16381808,
-            "age_hours": 266.0
+            "views": 16533328,
+            "age_hours": 271.5
           }
         ]
       },
       {
         "phrase": "youtubeshorts cricket unboxing",
         "video_count": 2,
-        "momentum": 16.19,
+        "momentum": 16.2,
         "regions": [
           "IN"
         ],
@@ -2559,8 +2818,8 @@
             "channel": "Box Of Vengeance",
             "thumbnail": "https://i.ytimg.com/vi/ltR81y_y3_U/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=ltR81y_y3_U",
-            "views": 3863920,
-            "age_hours": 52.5
+            "views": 4637551,
+            "age_hours": 58.0
           },
           {
             "id": "eubxD5cEYfE",
@@ -2568,15 +2827,15 @@
             "channel": "Box Of Vengeance",
             "thumbnail": "https://i.ytimg.com/vi/eubxD5cEYfE/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=eubxD5cEYfE",
-            "views": 16381808,
-            "age_hours": 266.0
+            "views": 16533328,
+            "age_hours": 271.5
           }
         ]
       },
       {
         "phrase": "cricket unboxing ball",
         "video_count": 2,
-        "momentum": 16.19,
+        "momentum": 16.2,
         "regions": [
           "IN"
         ],
@@ -2588,8 +2847,8 @@
             "channel": "Box Of Vengeance",
             "thumbnail": "https://i.ytimg.com/vi/ltR81y_y3_U/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=ltR81y_y3_U",
-            "views": 3863920,
-            "age_hours": 52.5
+            "views": 4637551,
+            "age_hours": 58.0
           },
           {
             "id": "eubxD5cEYfE",
@@ -2597,15 +2856,15 @@
             "channel": "Box Of Vengeance",
             "thumbnail": "https://i.ytimg.com/vi/eubxD5cEYfE/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=eubxD5cEYfE",
-            "views": 16381808,
-            "age_hours": 266.0
+            "views": 16533328,
+            "age_hours": 271.5
           }
         ]
       },
       {
         "phrase": "unboxing ball funny",
         "video_count": 2,
-        "momentum": 16.19,
+        "momentum": 16.2,
         "regions": [
           "IN"
         ],
@@ -2617,8 +2876,8 @@
             "channel": "Box Of Vengeance",
             "thumbnail": "https://i.ytimg.com/vi/ltR81y_y3_U/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=ltR81y_y3_U",
-            "views": 3863920,
-            "age_hours": 52.5
+            "views": 4637551,
+            "age_hours": 58.0
           },
           {
             "id": "eubxD5cEYfE",
@@ -2626,15 +2885,15 @@
             "channel": "Box Of Vengeance",
             "thumbnail": "https://i.ytimg.com/vi/eubxD5cEYfE/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=eubxD5cEYfE",
-            "views": 16381808,
-            "age_hours": 266.0
+            "views": 16533328,
+            "age_hours": 271.5
           }
         ]
       },
       {
         "phrase": "real end twist",
         "video_count": 2,
-        "momentum": 16.01,
+        "momentum": 15.98,
         "regions": [
           "IN"
         ],
@@ -2646,8 +2905,8 @@
             "channel": "KL BRO Biju Rithvik",
             "thumbnail": "https://i.ytimg.com/vi/Oqp496Y64rk/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=Oqp496Y64rk",
-            "views": 3994082,
-            "age_hours": 24.2
+            "views": 4981929,
+            "age_hours": 29.7
           },
           {
             "id": "POik6mJJR1k",
@@ -2655,15 +2914,15 @@
             "channel": "V5 Family Show",
             "thumbnail": "https://i.ytimg.com/vi/POik6mJJR1k/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=POik6mJJR1k",
-            "views": 5872952,
-            "age_hours": 43.5
+            "views": 6329237,
+            "age_hours": 49.0
           }
         ]
       },
       {
         "phrase": "end twist shorts",
         "video_count": 2,
-        "momentum": 16.01,
+        "momentum": 15.98,
         "regions": [
           "IN"
         ],
@@ -2675,8 +2934,8 @@
             "channel": "KL BRO Biju Rithvik",
             "thumbnail": "https://i.ytimg.com/vi/Oqp496Y64rk/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=Oqp496Y64rk",
-            "views": 3994082,
-            "age_hours": 24.2
+            "views": 4981929,
+            "age_hours": 29.7
           },
           {
             "id": "POik6mJJR1k",
@@ -2684,15 +2943,15 @@
             "channel": "V5 Family Show",
             "thumbnail": "https://i.ytimg.com/vi/POik6mJJR1k/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=POik6mJJR1k",
-            "views": 5872952,
-            "age_hours": 43.5
+            "views": 6329237,
+            "age_hours": 49.0
           }
         ]
       },
       {
         "phrase": "geração hj kkkkk",
         "video_count": 2,
-        "momentum": 15.39,
+        "momentum": 15.34,
         "regions": [
           "BR"
         ],
@@ -2704,8 +2963,8 @@
             "channel": "MoriMura",
             "thumbnail": "https://i.ytimg.com/vi/IlEecSmtUzg/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=IlEecSmtUzg",
-            "views": 19897880,
-            "age_hours": 131.9
+            "views": 20380363,
+            "age_hours": 137.4
           },
           {
             "id": "vrm7S7YdaBg",
@@ -2713,15 +2972,15 @@
             "channel": "Kaizen Andrade",
             "thumbnail": "https://i.ytimg.com/vi/vrm7S7YdaBg/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=vrm7S7YdaBg",
-            "views": 2384344,
-            "age_hours": 83.0
+            "views": 2416671,
+            "age_hours": 88.5
           }
         ]
       },
       {
         "phrase": "indian family shorts",
         "video_count": 2,
-        "momentum": 14.85,
+        "momentum": 14.87,
         "regions": [
           "IN"
         ],
@@ -2733,8 +2992,8 @@
             "channel": "We r Loser",
             "thumbnail": "https://i.ytimg.com/vi/SF2FsvdXbWM/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=SF2FsvdXbWM",
-            "views": 11105161,
-            "age_hours": 89.7
+            "views": 11779299,
+            "age_hours": 95.2
           },
           {
             "id": "ydPVbb_sBTk",
@@ -2742,15 +3001,15 @@
             "channel": "Jagiya the fun",
             "thumbnail": "https://i.ytimg.com/vi/ydPVbb_sBTk/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=ydPVbb_sBTk",
-            "views": 4268337,
-            "age_hours": 87.9
+            "views": 4672313,
+            "age_hours": 93.3
           }
         ]
       },
       {
         "phrase": "family shorts indian",
         "video_count": 2,
-        "momentum": 14.85,
+        "momentum": 14.87,
         "regions": [
           "IN"
         ],
@@ -2762,8 +3021,8 @@
             "channel": "We r Loser",
             "thumbnail": "https://i.ytimg.com/vi/SF2FsvdXbWM/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=SF2FsvdXbWM",
-            "views": 11105161,
-            "age_hours": 89.7
+            "views": 11779299,
+            "age_hours": 95.2
           },
           {
             "id": "ydPVbb_sBTk",
@@ -2771,66 +3030,8 @@
             "channel": "Jagiya the fun",
             "thumbnail": "https://i.ytimg.com/vi/ydPVbb_sBTk/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=ydPVbb_sBTk",
-            "views": 4268337,
-            "age_hours": 87.9
-          }
-        ]
-      },
-      {
-        "phrase": "ishqyouall swv tamil",
-        "video_count": 2,
-        "momentum": 14.77,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "-m1I5TGYn8c",
-            "title": "Indha varshini ku college new bags 😍 #ishqyouall #swv #tamil #funny #comedy #youtube #short",
-            "channel": "Soundarya with varshini - tamil",
-            "thumbnail": "https://i.ytimg.com/vi/-m1I5TGYn8c/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=-m1I5TGYn8c",
-            "views": 2314624,
-            "age_hours": 69.5
-          },
-          {
-            "id": "hnhg5_cvj20",
-            "title": "Seriyana parabarapu😳 #ishqyouall #swv #tamil #youtube #shortvideo",
-            "channel": "Soundarya with varshini - tamil",
-            "thumbnail": "https://i.ytimg.com/vi/hnhg5_cvj20/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=hnhg5_cvj20",
-            "views": 3018405,
-            "age_hours": 117.1
-          }
-        ]
-      },
-      {
-        "phrase": "tom jerry",
-        "video_count": 2,
-        "momentum": 13.35,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "Oqp496Y64rk",
-            "title": "Tom 🍓Jerry(Rithvi&Kavi)Real End Twist😂🎈 #shorts",
-            "channel": "KL BRO Biju Rithvik",
-            "thumbnail": "https://i.ytimg.com/vi/Oqp496Y64rk/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=Oqp496Y64rk",
-            "views": 3994082,
-            "age_hours": 24.2
-          },
-          {
-            "id": "POik6mJJR1k",
-            "title": "Tom 🍓 Jerry (Nandhu&Ammu)Real End Twist😍🎈 #shorts  #viral #v5familyshow",
-            "channel": "V5 Family Show",
-            "thumbnail": "https://i.ytimg.com/vi/POik6mJJR1k/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=POik6mJJR1k",
-            "views": 5872952,
-            "age_hours": 43.5
+            "views": 4672313,
+            "age_hours": 93.3
           }
         ]
       }
@@ -2838,87 +3039,87 @@
   },
   "trending_searches": [
     {
-      "phrase": "how to tie a tie",
-      "prefix": "how to",
+      "phrase": "why do birds suddenly appear",
+      "prefix": "why do",
       "rank": 1,
-      "first_seen_at": "2026-06-23T08:59:07.470788+00:00",
+      "first_seen_at": "2026-06-23T14:28:19.205731+00:00",
       "is_new": true
     },
     {
-      "phrase": "how do i say goodbye dean lewis",
-      "prefix": "how do",
-      "rank": 1,
-      "first_seen_at": "2026-06-23T08:59:07.470788+00:00",
-      "is_new": true
-    },
-    {
-      "phrase": "how does it feel d'angelo",
-      "prefix": "how does",
-      "rank": 1,
-      "first_seen_at": "2026-06-23T08:59:07.470788+00:00",
-      "is_new": true
-    },
-    {
-      "phrase": "why is it spicy",
-      "prefix": "why is",
-      "rank": 1,
-      "first_seen_at": "2026-06-23T08:59:07.470788+00:00",
-      "is_new": true
-    },
-    {
-      "phrase": "what is this diddy blud doing on the calculator",
-      "prefix": "what is",
-      "rank": 1,
-      "first_seen_at": "2026-06-23T08:59:07.470788+00:00",
-      "is_new": true
-    },
-    {
-      "phrase": "what are you listening to chris stapleton",
-      "prefix": "what are",
-      "rank": 1,
-      "first_seen_at": "2026-06-23T08:59:07.470788+00:00",
-      "is_new": true
-    },
-    {
-      "phrase": "best build 2k26",
-      "prefix": "best",
-      "rank": 1,
-      "first_seen_at": "2026-06-23T08:59:07.470788+00:00",
-      "is_new": true
-    },
-    {
-      "phrase": "worst way riley green",
-      "prefix": "worst",
-      "rank": 1,
-      "first_seen_at": "2026-06-23T08:59:07.470788+00:00",
-      "is_new": true
-    },
-    {
-      "phrase": "topoppgen",
-      "prefix": "top",
-      "rank": 1,
-      "first_seen_at": "2026-06-23T08:59:07.470788+00:00",
-      "is_new": true
-    },
-    {
-      "phrase": "can you stand the rain new edition",
-      "prefix": "can you",
-      "rank": 1,
-      "first_seen_at": "2026-06-23T08:59:07.470788+00:00",
-      "is_new": true
-    },
-    {
-      "phrase": "why does it hurt to love you",
+      "phrase": "why does he call you darling",
       "prefix": "why does",
-      "rank": 2,
-      "first_seen_at": "2026-06-23T08:59:07.470788+00:00",
+      "rank": 1,
+      "first_seen_at": "2026-06-23T14:28:19.205731+00:00",
       "is_new": true
     },
     {
-      "phrase": "what happened to oliver tree",
+      "phrase": "what happened to virgil",
       "prefix": "what happened",
+      "rank": 1,
+      "first_seen_at": "2026-06-23T14:28:19.205731+00:00",
+      "is_new": true
+    },
+    {
+      "phrase": "is it a crime mariah the scientist",
+      "prefix": "is it",
+      "rank": 1,
+      "first_seen_at": "2026-06-23T14:28:19.205731+00:00",
+      "is_new": true
+    },
+    {
+      "phrase": "should i stay or should i go",
+      "prefix": "should i",
+      "rank": 1,
+      "first_seen_at": "2026-06-23T14:28:19.205731+00:00",
+      "is_new": true
+    },
+    {
+      "phrase": "how to draw",
+      "prefix": "how to",
       "rank": 2,
-      "first_seen_at": "2026-06-23T08:59:07.470788+00:00",
+      "first_seen_at": "2026-06-23T14:28:19.205731+00:00",
+      "is_new": true
+    },
+    {
+      "phrase": "how does it feel",
+      "prefix": "how does",
+      "rank": 2,
+      "first_seen_at": "2026-06-23T14:28:19.205731+00:00",
+      "is_new": true
+    },
+    {
+      "phrase": "why is my bus driver playing mitski",
+      "prefix": "why is",
+      "rank": 2,
+      "first_seen_at": "2026-06-23T14:28:19.205731+00:00",
+      "is_new": true
+    },
+    {
+      "phrase": "why don't we fall in love",
+      "prefix": "why do",
+      "rank": 2,
+      "first_seen_at": "2026-06-23T14:28:19.205731+00:00",
+      "is_new": true
+    },
+    {
+      "phrase": "what is love",
+      "prefix": "what is",
+      "rank": 2,
+      "first_seen_at": "2026-06-23T14:28:19.205731+00:00",
+      "is_new": true
+    },
+    {
+      "phrase": "what are you doing",
+      "prefix": "what are",
+      "rank": 2,
+      "first_seen_at": "2026-06-23T14:28:19.205731+00:00",
+      "is_new": true
+    },
+    {
+      "phrase": "best part",
+      "prefix": "best",
+      "rank": 2,
+      "first_seen_at": "2026-06-23T14:28:19.205731+00:00",
       "is_new": true
     }
   ],
@@ -2931,13 +3132,32 @@
       "thumbnail": "https://i.ytimg.com/vi/CsGENgLpyaw/mqdefault.jpg",
       "published_at": "2026-06-22T08:59:58Z",
       "category_id": "10",
-      "views": 3260141,
-      "likes": 547177,
-      "comments": 58738,
-      "age_hours": 24.0,
-      "views_per_hour": 135934,
-      "momentum": 7.781,
+      "views": 4753043,
+      "likes": 567240,
+      "comments": 60239,
+      "age_hours": 29.5,
+      "views_per_hour": 161289,
+      "momentum": 7.111,
       "url": "https://www.youtube.com/watch?v=CsGENgLpyaw",
+      "region": "US",
+      "category": "Other",
+      "_detected_lang": "en"
+    },
+    {
+      "id": "PVy-bcTsO8A",
+      "title": "THE AMAZING DIGITAL CIRCUS - Ep 9: Remember",
+      "channel": "GLITCH",
+      "channel_id": "UCn_FAXem2-e3HQvmK-mOH4g",
+      "thumbnail": "https://i.ytimg.com/vi/PVy-bcTsO8A/mqdefault.jpg",
+      "published_at": "2026-06-19T22:00:06Z",
+      "category_id": "1",
+      "views": 55234971,
+      "likes": 3799619,
+      "comments": 270630,
+      "age_hours": 88.5,
+      "views_per_hour": 624356,
+      "momentum": 6.877,
+      "url": "https://www.youtube.com/watch?v=PVy-bcTsO8A",
       "region": "US",
       "category": "Other",
       "_detected_lang": "en"
@@ -2950,32 +3170,13 @@
       "thumbnail": "https://i.ytimg.com/vi/1VqxWNwgf5Q/mqdefault.jpg",
       "published_at": "2026-06-22T09:00:04Z",
       "category_id": "10",
-      "views": 3754845,
-      "likes": 430656,
-      "comments": 43096,
-      "age_hours": 24.0,
-      "views_per_hour": 156563,
-      "momentum": 6.983,
+      "views": 4212418,
+      "likes": 448639,
+      "comments": 44590,
+      "age_hours": 29.5,
+      "views_per_hour": 142951,
+      "momentum": 6.799,
       "url": "https://www.youtube.com/watch?v=1VqxWNwgf5Q",
-      "region": "DE",
-      "category": "Other",
-      "_detected_lang": "de"
-    },
-    {
-      "id": "PVy-bcTsO8A",
-      "title": "THE AMAZING DIGITAL CIRCUS - Ep 9: Remember",
-      "channel": "GLITCH",
-      "channel_id": "UCn_FAXem2-e3HQvmK-mOH4g",
-      "thumbnail": "https://i.ytimg.com/vi/PVy-bcTsO8A/mqdefault.jpg",
-      "published_at": "2026-06-19T22:00:06Z",
-      "category_id": "1",
-      "views": 54557074,
-      "likes": 3776723,
-      "comments": 269523,
-      "age_hours": 83.0,
-      "views_per_hour": 657464,
-      "momentum": 6.911,
-      "url": "https://www.youtube.com/watch?v=PVy-bcTsO8A",
       "region": "US",
       "category": "Other",
       "_detected_lang": "en"
@@ -2988,12 +3189,12 @@
       "thumbnail": "https://i.ytimg.com/vi/eHTXQW58WhA/mqdefault.jpg",
       "published_at": "2026-06-20T13:28:06Z",
       "category_id": "23",
-      "views": 41111930,
-      "likes": 2288135,
-      "comments": 93527,
-      "age_hours": 67.5,
-      "views_per_hour": 608931,
-      "momentum": 6.56,
+      "views": 42462684,
+      "likes": 2321593,
+      "comments": 94386,
+      "age_hours": 73.0,
+      "views_per_hour": 581672,
+      "momentum": 6.523,
       "url": "https://www.youtube.com/watch?v=eHTXQW58WhA",
       "region": "CA",
       "category": "Comedy",
@@ -3007,33 +3208,14 @@
       "thumbnail": "https://i.ytimg.com/vi/SHlz648bsh8/mqdefault.jpg",
       "published_at": "2026-06-22T21:45:51Z",
       "category_id": "20",
-      "views": 646114,
-      "likes": 82087,
-      "comments": 6073,
-      "age_hours": 11.2,
-      "views_per_hour": 57593,
-      "momentum": 6.417,
+      "views": 805661,
+      "likes": 96404,
+      "comments": 7021,
+      "age_hours": 16.7,
+      "views_per_hour": 48230,
+      "momentum": 6.212,
       "url": "https://www.youtube.com/watch?v=SHlz648bsh8",
       "region": "US",
-      "category": "Gaming",
-      "_detected_lang": "en"
-    },
-    {
-      "id": "EiQEBYDox_k",
-      "title": "Grand Theft Auto VI: Official Cover Art Reveal",
-      "channel": "Rockstar Games",
-      "channel_id": "UC6VcWc1rAoWdBCM0JxrRQ3A",
-      "thumbnail": "https://i.ytimg.com/vi/EiQEBYDox_k/mqdefault.jpg",
-      "published_at": "2026-06-18T13:03:29Z",
-      "category_id": "20",
-      "views": 10791724,
-      "likes": 975996,
-      "comments": 64859,
-      "age_hours": 115.9,
-      "views_per_hour": 93092,
-      "momentum": 6.166,
-      "url": "https://www.youtube.com/watch?v=EiQEBYDox_k",
-      "region": "AU",
       "category": "Gaming",
       "_detected_lang": "en"
     },
@@ -3045,16 +3227,35 @@
       "thumbnail": "https://i.ytimg.com/vi/v6AgE_ua9Ws/mqdefault.jpg",
       "published_at": "2026-06-16T17:22:00Z",
       "category_id": "22",
-      "views": 123845350,
-      "likes": 1022745,
-      "comments": 2547,
-      "age_hours": 159.6,
-      "views_per_hour": 775887,
-      "momentum": 5.988,
+      "views": 126951249,
+      "likes": 1054026,
+      "comments": 2575,
+      "age_hours": 165.1,
+      "views_per_hour": 768916,
+      "momentum": 5.985,
       "url": "https://www.youtube.com/watch?v=v6AgE_ua9Ws",
       "region": "BR",
       "category": "People & Blogs",
       "_detected_lang": "en"
+    },
+    {
+      "id": "IEZWbuQBZM4",
+      "title": "QUANDO VOCÊ PERCEBE QUE SEU IRMÃO MAIS NOVO CRESCEU 😹 KKKKK",
+      "channel": "MoriMura",
+      "channel_id": "UCdK_G8bo0X0kVwxiWoIUfwQ",
+      "thumbnail": "https://i.ytimg.com/vi/IEZWbuQBZM4/mqdefault.jpg",
+      "published_at": "2026-06-22T21:28:58Z",
+      "category_id": "22",
+      "views": 1675610,
+      "likes": 158528,
+      "comments": 1092,
+      "age_hours": 17.0,
+      "views_per_hour": 98634,
+      "momentum": 5.972,
+      "url": "https://www.youtube.com/watch?v=IEZWbuQBZM4",
+      "region": "BR",
+      "category": "People & Blogs",
+      "_detected_lang": "pt"
     },
     {
       "id": "_dZi_hgUalI",
@@ -3064,12 +3265,12 @@
       "thumbnail": "https://i.ytimg.com/vi/_dZi_hgUalI/mqdefault.jpg",
       "published_at": "2026-06-21T20:18:57Z",
       "category_id": "15",
-      "views": 6378118,
-      "likes": 387552,
-      "comments": 4142,
-      "age_hours": 36.7,
-      "views_per_hour": 173947,
-      "momentum": 5.911,
+      "views": 7355913,
+      "likes": 439928,
+      "comments": 4522,
+      "age_hours": 42.2,
+      "views_per_hour": 174505,
+      "momentum": 5.901,
       "url": "https://www.youtube.com/watch?v=_dZi_hgUalI",
       "region": "US",
       "category": "Other",
@@ -3083,12 +3284,12 @@
       "thumbnail": "https://i.ytimg.com/vi/Dtmwr5cYhzk/mqdefault.jpg",
       "published_at": "2026-06-18T01:32:24Z",
       "category_id": "22",
-      "views": 31825172,
-      "likes": 1382088,
-      "comments": 12596,
-      "age_hours": 127.4,
-      "views_per_hour": 249721,
-      "momentum": 5.888,
+      "views": 32728623,
+      "likes": 1409190,
+      "comments": 12821,
+      "age_hours": 132.9,
+      "views_per_hour": 246212,
+      "momentum": 5.877,
       "url": "https://www.youtube.com/watch?v=Dtmwr5cYhzk",
       "region": "US",
       "category": "People & Blogs",
@@ -3102,33 +3303,14 @@
       "thumbnail": "https://i.ytimg.com/vi/xDuuM3ERr5Q/mqdefault.jpg",
       "published_at": "2026-06-14T16:00:01Z",
       "category_id": "24",
-      "views": 54617274,
-      "likes": 2236836,
-      "comments": 21325,
-      "age_hours": 209.0,
-      "views_per_hour": 261348,
-      "momentum": 5.882,
+      "views": 54846342,
+      "likes": 2242652,
+      "comments": 21378,
+      "age_hours": 214.5,
+      "views_per_hour": 255731,
+      "momentum": 5.871,
       "url": "https://www.youtube.com/watch?v=xDuuM3ERr5Q",
       "region": "CA",
-      "category": "Entertainment",
-      "_detected_lang": "en"
-    },
-    {
-      "id": "wwMFV9Trwa8",
-      "title": "It’s crazy how different they are 😭🤣 #shorts",
-      "channel": "Suavexavier",
-      "channel_id": "UCduf5_5FnIptzDMBJ75ttFQ",
-      "thumbnail": "https://i.ytimg.com/vi/wwMFV9Trwa8/mqdefault.jpg",
-      "published_at": "2026-06-17T23:05:44Z",
-      "category_id": "24",
-      "views": 5592525,
-      "likes": 662891,
-      "comments": 16064,
-      "age_hours": 129.9,
-      "views_per_hour": 43057,
-      "momentum": 5.866,
-      "url": "https://www.youtube.com/watch?v=wwMFV9Trwa8",
-      "region": "US",
       "category": "Entertainment",
       "_detected_lang": "en"
     },
@@ -3140,12 +3322,12 @@
       "thumbnail": "https://i.ytimg.com/vi/wZW016nna48/mqdefault.jpg",
       "published_at": "2026-06-20T16:00:01Z",
       "category_id": "20",
-      "views": 25097157,
-      "likes": 549660,
-      "comments": 14854,
-      "age_hours": 65.0,
-      "views_per_hour": 386210,
-      "momentum": 5.865,
+      "views": 26409936,
+      "likes": 571066,
+      "comments": 15287,
+      "age_hours": 70.5,
+      "views_per_hour": 374772,
+      "momentum": 5.847,
       "url": "https://www.youtube.com/watch?v=wZW016nna48",
       "region": "AU",
       "category": "Gaming",
@@ -3159,12 +3341,12 @@
       "thumbnail": "https://i.ytimg.com/vi/Shehxz1ixos/mqdefault.jpg",
       "published_at": "2026-06-20T00:00:37Z",
       "category_id": "22",
-      "views": 41416340,
-      "likes": 496723,
-      "comments": 279,
-      "age_hours": 81.0,
-      "views_per_hour": 511476,
-      "momentum": 5.846,
+      "views": 44308496,
+      "likes": 532899,
+      "comments": 297,
+      "age_hours": 86.5,
+      "views_per_hour": 512470,
+      "momentum": 5.847,
       "url": "https://www.youtube.com/watch?v=Shehxz1ixos",
       "region": "BR",
       "category": "People & Blogs",
@@ -3178,34 +3360,15 @@
       "thumbnail": "https://i.ytimg.com/vi/AaUN14wRXgM/mqdefault.jpg",
       "published_at": "2026-06-22T14:24:34Z",
       "category_id": "24",
-      "views": 1428463,
-      "likes": 113845,
-      "comments": 4321,
-      "age_hours": 18.6,
-      "views_per_hour": 76905,
-      "momentum": 5.813,
+      "views": 1852200,
+      "likes": 140165,
+      "comments": 4878,
+      "age_hours": 24.1,
+      "views_per_hour": 76980,
+      "momentum": 5.755,
       "url": "https://www.youtube.com/watch?v=AaUN14wRXgM",
       "region": "IN",
       "category": "Entertainment",
-      "_detected_lang": "en"
-    },
-    {
-      "id": "6tI1SoMj5vg",
-      "title": "Even Valve is Disappointed - Steam Machine Review",
-      "channel": "Linus Tech Tips",
-      "channel_id": "UCXuqSBlHAE6Xw-yeJA0Tunw",
-      "thumbnail": "https://i.ytimg.com/vi/6tI1SoMj5vg/mqdefault.jpg",
-      "published_at": "2026-06-22T17:00:57Z",
-      "category_id": "28",
-      "views": 1861331,
-      "likes": 86118,
-      "comments": 10167,
-      "age_hours": 16.0,
-      "views_per_hour": 116575,
-      "momentum": 5.812,
-      "url": "https://www.youtube.com/watch?v=6tI1SoMj5vg",
-      "region": "US",
-      "category": "Science & Tech",
       "_detected_lang": "en"
     },
     {
@@ -3216,15 +3379,34 @@
       "thumbnail": "https://i.ytimg.com/vi/UGvVc8wjAAA/mqdefault.jpg",
       "published_at": "2026-06-19T15:00:01Z",
       "category_id": "17",
-      "views": 29723111,
-      "likes": 595011,
-      "comments": 2634,
-      "age_hours": 90.0,
-      "views_per_hour": 330317,
-      "momentum": 5.745,
+      "views": 29741634,
+      "likes": 595559,
+      "comments": 2645,
+      "age_hours": 95.5,
+      "views_per_hour": 311529,
+      "momentum": 5.718,
       "url": "https://www.youtube.com/watch?v=UGvVc8wjAAA",
       "region": "IN",
       "category": "Other",
+      "_detected_lang": "en"
+    },
+    {
+      "id": "6tI1SoMj5vg",
+      "title": "Even Valve is Disappointed - Steam Machine Review",
+      "channel": "Linus Tech Tips",
+      "channel_id": "UCXuqSBlHAE6Xw-yeJA0Tunw",
+      "thumbnail": "https://i.ytimg.com/vi/6tI1SoMj5vg/mqdefault.jpg",
+      "published_at": "2026-06-22T17:00:57Z",
+      "category_id": "28",
+      "views": 2127168,
+      "likes": 95595,
+      "comments": 11163,
+      "age_hours": 21.5,
+      "views_per_hour": 99156,
+      "momentum": 5.708,
+      "url": "https://www.youtube.com/watch?v=6tI1SoMj5vg",
+      "region": "US",
+      "category": "Science & Tech",
       "_detected_lang": "en"
     },
     {
@@ -3235,12 +3417,12 @@
       "thumbnail": "https://i.ytimg.com/vi/vtnVyTS4ZfY/mqdefault.jpg",
       "published_at": "2026-06-19T13:38:47Z",
       "category_id": "24",
-      "views": 22147383,
-      "likes": 581771,
-      "comments": 2498,
-      "age_hours": 91.3,
-      "views_per_hour": 242478,
-      "momentum": 5.674,
+      "views": 23115346,
+      "likes": 602746,
+      "comments": 2565,
+      "age_hours": 96.8,
+      "views_per_hour": 238736,
+      "momentum": 5.664,
       "url": "https://www.youtube.com/watch?v=vtnVyTS4ZfY",
       "region": "IN",
       "category": "Entertainment",
@@ -3254,34 +3436,15 @@
       "thumbnail": "https://i.ytimg.com/vi/s2yLcyXGpJY/mqdefault.jpg",
       "published_at": "2026-06-19T08:30:13Z",
       "category_id": "28",
-      "views": 15289578,
-      "likes": 686964,
-      "comments": 1685,
-      "age_hours": 96.5,
-      "views_per_hour": 158474,
-      "momentum": 5.673,
+      "views": 15855032,
+      "likes": 704960,
+      "comments": 1737,
+      "age_hours": 102.0,
+      "views_per_hour": 155492,
+      "momentum": 5.659,
       "url": "https://www.youtube.com/watch?v=s2yLcyXGpJY",
       "region": "IN",
       "category": "Science & Tech",
-      "_detected_lang": "en"
-    },
-    {
-      "id": "3j7bhOvW6jw",
-      "title": "LOW FADE (Music Video) KARAN AUJLA",
-      "channel": "Karan Aujla",
-      "channel_id": "UC3XBkDeCVXCoCofFgfUZXGw",
-      "thumbnail": "https://i.ytimg.com/vi/3j7bhOvW6jw/mqdefault.jpg",
-      "published_at": "2026-06-21T11:30:06Z",
-      "category_id": "10",
-      "views": 2950284,
-      "likes": 202337,
-      "comments": 11158,
-      "age_hours": 45.5,
-      "views_per_hour": 64868,
-      "momentum": 5.654,
-      "url": "https://www.youtube.com/watch?v=3j7bhOvW6jw",
-      "region": "GB",
-      "category": "Other",
       "_detected_lang": "en"
     },
     {
@@ -3292,71 +3455,14 @@
       "thumbnail": "https://i.ytimg.com/vi/nZJ9IOklB5M/mqdefault.jpg",
       "published_at": "2026-06-19T14:07:53Z",
       "category_id": "22",
-      "views": 8970494,
-      "likes": 537134,
-      "comments": 10577,
-      "age_hours": 90.9,
-      "views_per_hour": 98738,
-      "momentum": 5.651,
+      "views": 9217549,
+      "likes": 552980,
+      "comments": 10882,
+      "age_hours": 96.3,
+      "views_per_hour": 95680,
+      "momentum": 5.637,
       "url": "https://www.youtube.com/watch?v=nZJ9IOklB5M",
       "region": "US",
-      "category": "People & Blogs",
-      "_detected_lang": "en"
-    },
-    {
-      "id": "66QzlDewigE",
-      "title": "Valve Steam Machine Review: GPU & CPU Benchmarks, SteamOS Test, Thermals, Noise, and Price",
-      "channel": "Gamers Nexus",
-      "channel_id": "UChIs72whgZI9w6d6FhwGGHA",
-      "thumbnail": "https://i.ytimg.com/vi/66QzlDewigE/mqdefault.jpg",
-      "published_at": "2026-06-22T17:00:08Z",
-      "category_id": "20",
-      "views": 554689,
-      "likes": 31719,
-      "comments": 7151,
-      "age_hours": 16.0,
-      "views_per_hour": 34710,
-      "momentum": 5.645,
-      "url": "https://www.youtube.com/watch?v=66QzlDewigE",
-      "region": "US",
-      "category": "Gaming",
-      "_detected_lang": "en"
-    },
-    {
-      "id": "4Oh5aNXkJ40",
-      "title": "Theobald vs FlameFrags",
-      "channel": "TheobaldTheBird",
-      "channel_id": "UCzguD6UiqYaeMDQBbuEUyWw",
-      "thumbnail": "https://i.ytimg.com/vi/4Oh5aNXkJ40/mqdefault.jpg",
-      "published_at": "2026-06-22T13:05:08Z",
-      "category_id": "20",
-      "views": 806709,
-      "likes": 58216,
-      "comments": 6492,
-      "age_hours": 19.9,
-      "views_per_hour": 40544,
-      "momentum": 5.644,
-      "url": "https://www.youtube.com/watch?v=4Oh5aNXkJ40",
-      "region": "GB",
-      "category": "Gaming",
-      "_detected_lang": "en"
-    },
-    {
-      "id": "cheuSKhlk80",
-      "title": "Mam’s emotional aitanga🫶🏻 🙂#ishqyouall #fathersday #tamil #swv #youtube #shortvideo #ytshorts",
-      "channel": "Soundarya with varshini - tamil",
-      "channel_id": "UC0TYGSVcwmdhS1wQJKBiaVw",
-      "thumbnail": "https://i.ytimg.com/vi/cheuSKhlk80/mqdefault.jpg",
-      "published_at": "2026-06-21T11:00:16Z",
-      "category_id": "22",
-      "views": 2757355,
-      "likes": 247712,
-      "comments": 398,
-      "age_hours": 46.0,
-      "views_per_hour": 59969,
-      "momentum": 5.643,
-      "url": "https://www.youtube.com/watch?v=cheuSKhlk80",
-      "region": "IN",
       "category": "People & Blogs",
       "_detected_lang": "en"
     },
@@ -3368,13 +3474,108 @@
       "thumbnail": "https://i.ytimg.com/vi/GFPQsjONKzo/mqdefault.jpg",
       "published_at": "2026-06-18T21:35:25Z",
       "category_id": "22",
-      "views": 12792520,
-      "likes": 682150,
-      "comments": 3518,
-      "age_hours": 107.4,
-      "views_per_hour": 119119,
-      "momentum": 5.631,
+      "views": 13244964,
+      "likes": 700587,
+      "comments": 3590,
+      "age_hours": 112.9,
+      "views_per_hour": 117338,
+      "momentum": 5.619,
       "url": "https://www.youtube.com/watch?v=GFPQsjONKzo",
+      "region": "US",
+      "category": "People & Blogs",
+      "_detected_lang": "en"
+    },
+    {
+      "id": "cheuSKhlk80",
+      "title": "Mam’s emotional aitanga🫶🏻 🙂#ishqyouall #fathersday #tamil #swv #youtube #shortvideo #ytshorts",
+      "channel": "Soundarya with varshini - tamil",
+      "channel_id": "UC0TYGSVcwmdhS1wQJKBiaVw",
+      "thumbnail": "https://i.ytimg.com/vi/cheuSKhlk80/mqdefault.jpg",
+      "published_at": "2026-06-21T11:00:16Z",
+      "category_id": "22",
+      "views": 2890565,
+      "likes": 259256,
+      "comments": 409,
+      "age_hours": 51.5,
+      "views_per_hour": 56165,
+      "momentum": 5.608,
+      "url": "https://www.youtube.com/watch?v=cheuSKhlk80",
+      "region": "IN",
+      "category": "People & Blogs",
+      "_detected_lang": "en"
+    },
+    {
+      "id": "UBkmTWhLt3I",
+      "title": "what did i do wrong? 🥺 #couple #couplecomedy #shorts",
+      "channel": "Andy and Michelle",
+      "channel_id": "UCYI6_UU0Sr2wI9P6cr7Unow",
+      "thumbnail": "https://i.ytimg.com/vi/UBkmTWhLt3I/mqdefault.jpg",
+      "published_at": "2026-06-19T17:34:20Z",
+      "category_id": "22",
+      "views": 5697777,
+      "likes": 476207,
+      "comments": 1977,
+      "age_hours": 92.9,
+      "views_per_hour": 61335,
+      "momentum": 5.605,
+      "url": "https://www.youtube.com/watch?v=UBkmTWhLt3I",
+      "region": "US",
+      "category": "People & Blogs",
+      "_detected_lang": "en"
+    },
+    {
+      "id": "otPbk-Jcjx0",
+      "title": "Sea Lions Tonite is HILARIOUS!!! #seaworldorlando #seaworld",
+      "channel": "Roaming Rogers Family Travel",
+      "channel_id": "UCfvxm6tY8u5D6v6CUXAQuyQ",
+      "thumbnail": "https://i.ytimg.com/vi/otPbk-Jcjx0/mqdefault.jpg",
+      "published_at": "2026-06-17T03:28:37Z",
+      "category_id": "19",
+      "views": 46794985,
+      "likes": 528227,
+      "comments": 1253,
+      "age_hours": 155.0,
+      "views_per_hour": 301916,
+      "momentum": 5.605,
+      "url": "https://www.youtube.com/watch?v=otPbk-Jcjx0",
+      "region": "DE",
+      "category": "Other",
+      "_detected_lang": "en"
+    },
+    {
+      "id": "L4SdP4Tg5XQ",
+      "title": "The Big Day Took a Turn | Greenleaf | HEAVENLY JUMPSTYLE (Slowed) #edit #shorts",
+      "channel": "Rynex Edit",
+      "channel_id": "UCqR8EGVLjqd1y5En9U7iSSA",
+      "thumbnail": "https://i.ytimg.com/vi/L4SdP4Tg5XQ/mqdefault.jpg",
+      "published_at": "2026-06-20T22:32:17Z",
+      "category_id": "22",
+      "views": 10265708,
+      "likes": 371370,
+      "comments": 1525,
+      "age_hours": 63.9,
+      "views_per_hour": 160576,
+      "momentum": 5.59,
+      "url": "https://www.youtube.com/watch?v=L4SdP4Tg5XQ",
+      "region": "US",
+      "category": "People & Blogs",
+      "_detected_lang": "en"
+    },
+    {
+      "id": "r0NNPtEFsOw",
+      "title": "Bro Got The Fastest \"Green Apple\" Of All Time🥶👑",
+      "channel": "ViralSprint",
+      "channel_id": "UChiEJvCGp8jJ3a8XVvomwPQ",
+      "thumbnail": "https://i.ytimg.com/vi/r0NNPtEFsOw/mqdefault.jpg",
+      "published_at": "2026-06-18T02:11:25Z",
+      "category_id": "22",
+      "views": 15148372,
+      "likes": 781682,
+      "comments": 1598,
+      "age_hours": 132.3,
+      "views_per_hour": 114519,
+      "momentum": 5.586,
+      "url": "https://www.youtube.com/watch?v=r0NNPtEFsOw",
       "region": "US",
       "category": "People & Blogs",
       "_detected_lang": "en"
