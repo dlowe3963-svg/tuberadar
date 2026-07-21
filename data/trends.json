@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-21T08:08:01.223625+00:00",
+  "generated_at": "2026-07-21T13:17:03.582951+00:00",
   "regions": [
     "US",
     "GB",
@@ -40,180 +40,180 @@
     }
   ],
   "stats": {
-    "total_videos": 454,
+    "total_videos": 450,
     "total_topics": 18,
     "total_themes": 8,
     "total_searches": 12,
     "by_category": {
-      "Other": 71,
-      "Entertainment": 94,
-      "Gaming": 76,
-      "Comedy": 21,
-      "People & Blogs": 143,
+      "Other": 62,
+      "Entertainment": 95,
+      "People & Blogs": 151,
+      "Comedy": 20,
+      "Gaming": 74,
       "Education": 7,
       "Science & Tech": 23,
-      "Howto & Style": 19
+      "Howto & Style": 18
     }
   },
   "emerging_themes": [
     {
       "phrase": "avengers doomsday official",
       "video_count": 30,
-      "channel_count": 29,
-      "total_channels_seen": 29,
-      "uploads_per_hour": 2.42,
+      "channel_count": 30,
+      "total_channels_seen": 30,
+      "uploads_per_hour": 2.5,
       "window_hours": 12,
       "example_videos": [
         {
-          "id": "ojC2jJyo2bo",
-          "title": "Avengers Doomsday Trailer | Official Trailer | Doomsday Trailer #marvel #trending #shorts",
-          "channel": "The Spider man ",
-          "channel_id": "UCCo2E7VwdbjzgHiVFJdLdog",
-          "subscribers": 277,
-          "thumbnail": "https://i.ytimg.com/vi/ojC2jJyo2bo/mqdefault.jpg",
-          "published_at": "2026-07-21T08:00:08Z",
-          "url": "https://www.youtube.com/watch?v=ojC2jJyo2bo"
+          "id": "Q4s0gekPFBA",
+          "title": "Avengers Doomsday Official Trailer | ​Dr. Doom vs Stormbreaker! 😱 | DDworld",
+          "channel": "DD world",
+          "channel_id": "UC8hILY07OBUNAHut7w6UTdw",
+          "subscribers": 30300,
+          "thumbnail": "https://i.ytimg.com/vi/Q4s0gekPFBA/mqdefault.jpg",
+          "published_at": "2026-07-21T13:00:08Z",
+          "url": "https://www.youtube.com/watch?v=Q4s0gekPFBA"
         },
         {
-          "id": "wqMYmE6YNhA",
-          "title": "The official trailer for Avengers: Doomsday has finally arrived! #movie #marvel #usa #avengers #fyp",
-          "channel": "BattleArcanum",
-          "channel_id": "UCX1D_GTPmMdWcOTBWsqDytg",
-          "subscribers": 16400,
-          "thumbnail": "https://i.ytimg.com/vi/wqMYmE6YNhA/mqdefault.jpg",
-          "published_at": "2026-07-21T07:56:42Z",
-          "url": "https://www.youtube.com/watch?v=wqMYmE6YNhA"
+          "id": "gx-ALutQ4nM",
+          "title": "Avengers Doomsday Official Hindi Trailer In Cinemas December 18 #shorts #marvel",
+          "channel": "HARVINDER Rai",
+          "channel_id": "UC_4X-vvEkQv7GBZiJpc8kGQ",
+          "subscribers": 7,
+          "thumbnail": "https://i.ytimg.com/vi/gx-ALutQ4nM/mqdefault.jpg",
+          "published_at": "2026-07-21T12:57:07Z",
+          "url": "https://www.youtube.com/watch?v=gx-ALutQ4nM"
         },
         {
-          "id": "gZ5vn0Y1kq4",
-          "title": "Avengers Doomsday official trailer 2026 #avengers #doomsday",
-          "channel": "spider verse",
-          "channel_id": "UCrGHTkFD0SXUtCMIF77bDyg",
-          "subscribers": 25,
-          "thumbnail": "https://i.ytimg.com/vi/gZ5vn0Y1kq4/mqdefault.jpg",
-          "published_at": "2026-07-21T07:51:45Z",
-          "url": "https://www.youtube.com/watch?v=gZ5vn0Y1kq4"
+          "id": "A85Hb2rMmSU",
+          "title": "Thor needs even powerful hammer #shorts #doomsday",
+          "channel": "REEVOQ",
+          "channel_id": "UC3zdiQ8em0cqrscnEPM51wg",
+          "subscribers": 87000,
+          "thumbnail": "https://i.ytimg.com/vi/A85Hb2rMmSU/mqdefault.jpg",
+          "published_at": "2026-07-21T12:41:14Z",
+          "url": "https://www.youtube.com/watch?v=A85Hb2rMmSU"
         },
         {
-          "id": "uR0vCMyDlA8",
-          "title": "Something Peak Is Coming..👀💀 [AVENGERS, DOOM, THOR, EDIT]|AVENGERS:DOOMSDAY#avengersdoomsday #marvel",
-          "channel": "Edits By Rishav ",
-          "channel_id": "UCVVohIM1ix7JSMEi79Nqw1A",
-          "subscribers": 500,
-          "thumbnail": "https://i.ytimg.com/vi/uR0vCMyDlA8/mqdefault.jpg",
-          "published_at": "2026-07-21T07:47:25Z",
-          "url": "https://www.youtube.com/watch?v=uR0vCMyDlA8"
+          "id": "4zGGKw14dx8",
+          "title": "New Avengers Doomsday official trailer in 4k . #avengersdoomsday ",
+          "channel": "HARSH99π",
+          "channel_id": "UCxaXLaOSat4CF_9qudebFIg",
+          "subscribers": 5,
+          "thumbnail": "https://i.ytimg.com/vi/4zGGKw14dx8/mqdefault.jpg",
+          "published_at": "2026-07-21T12:40:57Z",
+          "url": "https://www.youtube.com/watch?v=4zGGKw14dx8"
         }
       ],
       "first_detected_at": "2026-07-20T19:25:21.099180+00:00",
-      "last_seen_at": "2026-07-21T08:08:01.223625+00:00"
+      "last_seen_at": "2026-07-21T13:17:03.582951+00:00"
     },
     {
       "phrase": "doomsday official trailer",
       "video_count": 30,
-      "channel_count": 29,
-      "total_channels_seen": 29,
-      "uploads_per_hour": 2.42,
+      "channel_count": 30,
+      "total_channels_seen": 30,
+      "uploads_per_hour": 2.5,
       "window_hours": 12,
       "example_videos": [
         {
-          "id": "ojC2jJyo2bo",
-          "title": "Avengers Doomsday Trailer | Official Trailer | Doomsday Trailer #marvel #trending #shorts",
-          "channel": "The Spider man ",
-          "channel_id": "UCCo2E7VwdbjzgHiVFJdLdog",
-          "subscribers": 277,
-          "thumbnail": "https://i.ytimg.com/vi/ojC2jJyo2bo/mqdefault.jpg",
-          "published_at": "2026-07-21T08:00:08Z",
-          "url": "https://www.youtube.com/watch?v=ojC2jJyo2bo"
+          "id": "9MbmLTyh1yw",
+          "title": "AVENGERS: DOOMSDAY Official Trailer Reaction",
+          "channel": "Supers Unite",
+          "channel_id": "UCQWX6V-gG7yw6pw2n896jwA",
+          "subscribers": 302,
+          "thumbnail": "https://i.ytimg.com/vi/9MbmLTyh1yw/mqdefault.jpg",
+          "published_at": "2026-07-21T13:00:32Z",
+          "url": "https://www.youtube.com/watch?v=9MbmLTyh1yw"
         },
         {
-          "id": "wqMYmE6YNhA",
-          "title": "The official trailer for Avengers: Doomsday has finally arrived! #movie #marvel #usa #avengers #fyp",
-          "channel": "BattleArcanum",
-          "channel_id": "UCX1D_GTPmMdWcOTBWsqDytg",
-          "subscribers": 16400,
-          "thumbnail": "https://i.ytimg.com/vi/wqMYmE6YNhA/mqdefault.jpg",
-          "published_at": "2026-07-21T07:56:42Z",
-          "url": "https://www.youtube.com/watch?v=wqMYmE6YNhA"
+          "id": "Q4s0gekPFBA",
+          "title": "Avengers Doomsday Official Trailer | ​Dr. Doom vs Stormbreaker! 😱 | DDworld",
+          "channel": "DD world",
+          "channel_id": "UC8hILY07OBUNAHut7w6UTdw",
+          "subscribers": 30300,
+          "thumbnail": "https://i.ytimg.com/vi/Q4s0gekPFBA/mqdefault.jpg",
+          "published_at": "2026-07-21T13:00:08Z",
+          "url": "https://www.youtube.com/watch?v=Q4s0gekPFBA"
         },
         {
-          "id": "YHVhltg4ILg",
-          "title": "🍿 Avengers: Doomsday (Official Trailer) REACTION 🔥 Doom Looks INSANE! | Marvel’s Biggest Comeback?",
-          "channel": "Mksukhe",
-          "channel_id": "UCCDp9SPsYqCXdjJEK13bqVQ",
-          "subscribers": 122,
-          "thumbnail": "https://i.ytimg.com/vi/YHVhltg4ILg/mqdefault.jpg",
-          "published_at": "2026-07-21T07:56:27Z",
-          "url": "https://www.youtube.com/watch?v=YHVhltg4ILg"
+          "id": "fM1_IpF4llQ",
+          "title": "Avengers: Doomsday | Official Trailer REACTION!!",
+          "channel": "Married To Film",
+          "channel_id": "UCK6A9wZnaA7osDTzoBGc6QQ",
+          "subscribers": 27700,
+          "thumbnail": "https://i.ytimg.com/vi/fM1_IpF4llQ/mqdefault.jpg",
+          "published_at": "2026-07-21T13:00:08Z",
+          "url": "https://www.youtube.com/watch?v=fM1_IpF4llQ"
         },
         {
-          "id": "uSFk7zZd0kk",
-          "title": "🍿 Avengers: Doomsday (Official Trailer) REACTION 🔥 Doom Looks INSANE! | Marvel’s Biggest Comeback?",
-          "channel": "Mksukhe",
-          "channel_id": "UCCDp9SPsYqCXdjJEK13bqVQ",
-          "subscribers": 122,
-          "thumbnail": "https://i.ytimg.com/vi/uSFk7zZd0kk/mqdefault.jpg",
-          "published_at": "2026-07-21T07:56:18Z",
-          "url": "https://www.youtube.com/watch?v=uSFk7zZd0kk"
+          "id": "qlpZp8O0fl8",
+          "title": "Avengers Doomsday Official Trailer: Avengers Will Be Cooked #shorts",
+          "channel": "Bat Editz",
+          "channel_id": "UCuTbJMLhzC8EH_63ocLHi5A",
+          "subscribers": 150000,
+          "thumbnail": "https://i.ytimg.com/vi/qlpZp8O0fl8/mqdefault.jpg",
+          "published_at": "2026-07-21T12:54:58Z",
+          "url": "https://www.youtube.com/watch?v=qlpZp8O0fl8"
         }
       ],
       "first_detected_at": "2026-07-20T19:25:21.099180+00:00",
-      "last_seen_at": "2026-07-21T08:08:01.223625+00:00"
-    },
-    {
-      "phrase": "doutor destino trailer",
-      "video_count": 30,
-      "channel_count": 29,
-      "total_channels_seen": 29,
-      "uploads_per_hour": 2.42,
-      "window_hours": 12,
-      "example_videos": [
-        {
-          "id": "yA4mOXP6Zto",
-          "title": "Doctor Doom Ke Samne Thor Bhi Majboor! 😱 Avengers: Doomsday Trailer Breakdown 🔥 #shorts",
-          "channel": "Krono Verse ",
-          "channel_id": "UC9zqZMVFE1js2xXDhFfnP1w",
-          "subscribers": 631,
-          "thumbnail": "https://i.ytimg.com/vi/yA4mOXP6Zto/mqdefault.jpg",
-          "published_at": "2026-07-21T07:35:20Z",
-          "url": "https://www.youtube.com/watch?v=yA4mOXP6Zto"
-        },
-        {
-          "id": "xxwl0oi9cng",
-          "title": "avengers doomsday trailer review 😱🔥|dr doom vs thor|#avengersdoomsday #marvel #shorts",
-          "channel": "Flicks And Frames ",
-          "channel_id": "UCpf3jYAa74A4zATEkQ6ffdw",
-          "subscribers": 26000,
-          "thumbnail": "https://i.ytimg.com/vi/xxwl0oi9cng/mqdefault.jpg",
-          "published_at": "2026-07-21T07:31:39Z",
-          "url": "https://www.youtube.com/watch?v=xxwl0oi9cng"
-        },
-        {
-          "id": "c6YbsWKWltY",
-          "title": "Dr Doom Aura 💀 | AVENGERS DOOMSDAY TRAILER 🔥 PEAK #avengers #avengerdoomsday#marvel",
-          "channel": "BeatVerse ",
-          "channel_id": "UCWSSwx6i1yWYEtMFMqRmtBw",
-          "subscribers": 31,
-          "thumbnail": "https://i.ytimg.com/vi/c6YbsWKWltY/mqdefault.jpg",
-          "published_at": "2026-07-21T07:27:53Z",
-          "url": "https://www.youtube.com/watch?v=c6YbsWKWltY"
-        },
-        {
-          "id": "MygzdD7hqWw",
-          "title": "Avengers Doomsday Trailer Hidden Detail | Doctor Doom Incursion Plan Explained  #marvel",
-          "channel": "FanversX ",
-          "channel_id": "UCns5EyukB2U6H9LZlNsz66Q",
-          "subscribers": 8000,
-          "thumbnail": "https://i.ytimg.com/vi/MygzdD7hqWw/mqdefault.jpg",
-          "published_at": "2026-07-21T07:24:53Z",
-          "url": "https://www.youtube.com/watch?v=MygzdD7hqWw"
-        }
-      ],
-      "first_detected_at": "2026-07-20T19:25:21.099180+00:00",
-      "last_seen_at": "2026-07-21T08:08:01.223625+00:00"
+      "last_seen_at": "2026-07-21T13:17:03.582951+00:00"
     },
     {
       "phrase": "doomsday trailer breakdown",
+      "video_count": 30,
+      "channel_count": 30,
+      "total_channels_seen": 30,
+      "uploads_per_hour": 2.5,
+      "window_hours": 12,
+      "example_videos": [
+        {
+          "id": "5zXdEgf2VV4",
+          "title": "Avengers Doomsday Trailer Breakdown 💥 | #avengersdoomsday #avengersdoomsday #marvelstudios #shorts",
+          "channel": "Sanki Kind",
+          "channel_id": "UCTZiW3AktR3g0WZe0okNRew",
+          "subscribers": 56,
+          "thumbnail": "https://i.ytimg.com/vi/5zXdEgf2VV4/mqdefault.jpg",
+          "published_at": "2026-07-21T13:15:31Z",
+          "url": "https://www.youtube.com/watch?v=5zXdEgf2VV4"
+        },
+        {
+          "id": "6vfGV9L1BLM",
+          "title": "Avengers doomsday trailer breakdown #avengersdoomsday #doctordoom #captainamerica #mcushorts #xmen",
+          "channel": "Virgo Blade",
+          "channel_id": "UC02pSlxoB1bAHkuthuR39Ow",
+          "subscribers": 592,
+          "thumbnail": "https://i.ytimg.com/vi/6vfGV9L1BLM/mqdefault.jpg",
+          "published_at": "2026-07-21T13:11:02Z",
+          "url": "https://www.youtube.com/watch?v=6vfGV9L1BLM"
+        },
+        {
+          "id": "mxsj8J8pT9M",
+          "title": "Avengers: Doomsday Trailer Breakdown | Things You Missed!",
+          "channel": "Unemployed Krish",
+          "channel_id": "UC1cMtKJ35hLMR2EHm5H4FmA",
+          "subscribers": 166,
+          "thumbnail": "https://i.ytimg.com/vi/mxsj8J8pT9M/mqdefault.jpg",
+          "published_at": "2026-07-21T13:10:23Z",
+          "url": "https://www.youtube.com/watch?v=mxsj8J8pT9M"
+        },
+        {
+          "id": "fht8SHqb0eg",
+          "title": "Avengers: Doomsday Trailer Breakdown 🔥 Doctor Doom Explained | Every Easter Egg &amp; Comic Story Hindi",
+          "channel": "Film Frontline",
+          "channel_id": "UCuYOPhZrpgrNgb7wDvvj4xA",
+          "subscribers": 456,
+          "thumbnail": "https://i.ytimg.com/vi/fht8SHqb0eg/mqdefault.jpg",
+          "published_at": "2026-07-21T13:06:28Z",
+          "url": "https://www.youtube.com/watch?v=fht8SHqb0eg"
+        }
+      ],
+      "first_detected_at": "2026-07-21T08:08:01.223625+00:00",
+      "last_seen_at": "2026-07-21T13:17:03.582951+00:00"
+    },
+    {
+      "phrase": "avengers doomsday trailer",
       "video_count": 29,
       "channel_count": 29,
       "total_channels_seen": 30,
@@ -221,263 +221,263 @@
       "window_hours": 12,
       "example_videos": [
         {
-          "id": "DLt7Rpowo7I",
-          "title": "Avengers Doomsday Trailer Breakdown &amp; Hidden Details You Missed! Story line Explained in Hindi",
-          "channel": "Nk Cineman",
-          "channel_id": "UCAzFZHjR2n3Y6iZ-M4HAxrw",
-          "subscribers": 10400,
-          "thumbnail": "https://i.ytimg.com/vi/DLt7Rpowo7I/mqdefault.jpg",
-          "published_at": "2026-07-21T08:04:13Z",
-          "url": "https://www.youtube.com/watch?v=DLt7Rpowo7I"
+          "id": "L7gnIW1n_Qw",
+          "title": "Avengers Doomsday Trailer Review 😱#marvelstudios #avengersdoomsdaytrailer #trending #drdoom #shorts",
+          "channel": "Cinema Lover",
+          "channel_id": "UCElqjzPcE2gc20GMqp9-BTg",
+          "subscribers": 521,
+          "thumbnail": "https://i.ytimg.com/vi/L7gnIW1n_Qw/mqdefault.jpg",
+          "published_at": "2026-07-21T12:52:39Z",
+          "url": "https://www.youtube.com/watch?v=L7gnIW1n_Qw"
         },
         {
-          "id": "GDDCshnJEW0",
-          "title": "😱 Avengers: Doomsday Trailer Breakdown &amp; Secret Details You Missed!",
-          "channel": "Yuvon Explains",
-          "channel_id": "UCmDyFFiCoMfg89SYIt-tBRw",
-          "subscribers": 106,
-          "thumbnail": "https://i.ytimg.com/vi/GDDCshnJEW0/mqdefault.jpg",
-          "published_at": "2026-07-21T08:03:52Z",
-          "url": "https://www.youtube.com/watch?v=GDDCshnJEW0"
+          "id": "q8_ioC48j5c",
+          "title": "Hidden Secrets in Avengers: Doomsday Trailer That Fans Missed! #marvel #avengersdoomsday #hidden",
+          "channel": "Fact Nobb",
+          "channel_id": "UCx9lCdjEL79eI3wOe_26sbQ",
+          "subscribers": 6040,
+          "thumbnail": "https://i.ytimg.com/vi/q8_ioC48j5c/mqdefault.jpg",
+          "published_at": "2026-07-21T12:30:58Z",
+          "url": "https://www.youtube.com/watch?v=q8_ioC48j5c"
         },
         {
-          "id": "Jj8QSZCU1Hc",
-          "title": "DOOM Defeated THOR With 2 Fingers?! 😱 | Avengers Doomsday Trailer Breakdown #shorts #youtubeshorts",
-          "channel": "Marvel ka Gyani ",
-          "channel_id": "UCGKxU8UygNTdAJCWPr218Pg",
-          "subscribers": 3640,
-          "thumbnail": "https://i.ytimg.com/vi/Jj8QSZCU1Hc/mqdefault.jpg",
-          "published_at": "2026-07-21T08:00:20Z",
-          "url": "https://www.youtube.com/watch?v=Jj8QSZCU1Hc"
+          "id": "pIDCJzDnqrY",
+          "title": "Avengers Doomsday Trailer Breakdown &amp; Story Explained | Robert Downey Jr. as Doctor Doom",
+          "channel": "ᴀ•ꜰᴛᴇʀ ᴜɴɪᴠᴇʀꜱᴇ",
+          "channel_id": "UC2VNOMoLwkeNVOfiCFPXkgg",
+          "subscribers": 40300,
+          "thumbnail": "https://i.ytimg.com/vi/pIDCJzDnqrY/mqdefault.jpg",
+          "published_at": "2026-07-21T12:30:32Z",
+          "url": "https://www.youtube.com/watch?v=pIDCJzDnqrY"
         },
         {
-          "id": "9VtJ67lRg-M",
-          "title": "Marvel Just Shocked Everyone! Avengers Doomsday Trailer Explained",
-          "channel": "Guru Final Review ",
-          "channel_id": "UCz0HSSVzs4RSZsw_RYat1SA",
-          "subscribers": 1480,
-          "thumbnail": "https://i.ytimg.com/vi/9VtJ67lRg-M/mqdefault.jpg",
-          "published_at": "2026-07-21T07:57:37Z",
-          "url": "https://www.youtube.com/watch?v=9VtJ67lRg-M"
+          "id": "PlKBikDg1dw",
+          "title": "Avengers Doomsday Trailer cinematic Action Edits 💀 #marvel #avengers #avengersdoomsday",
+          "channel": "EDIT WITH RAKESH ",
+          "channel_id": "UCmOxd0eEqVdqAGbrOwrcIpA",
+          "subscribers": 1310,
+          "thumbnail": "https://i.ytimg.com/vi/PlKBikDg1dw/mqdefault.jpg",
+          "published_at": "2026-07-21T12:30:22Z",
+          "url": "https://www.youtube.com/watch?v=PlKBikDg1dw"
         }
       ],
-      "first_detected_at": "2026-07-21T08:08:01.223625+00:00",
-      "last_seen_at": "2026-07-21T08:08:01.223625+00:00"
+      "first_detected_at": "2026-07-20T19:25:21.099180+00:00",
+      "last_seen_at": "2026-07-21T13:17:03.582951+00:00"
     },
     {
       "phrase": "vingadores doutor destino",
-      "video_count": 30,
+      "video_count": 29,
       "channel_count": 28,
-      "total_channels_seen": 28,
+      "total_channels_seen": 29,
       "uploads_per_hour": 2.33,
       "window_hours": 12,
       "example_videos": [
         {
-          "id": "RIkdG2CdQ9Q",
-          "title": "Vingadores - Doutor Destino ",
-          "channel": "Alexsander Mello Bezerra",
-          "channel_id": "UCdlJHA_egX0DqLY8IEi4rKA",
-          "subscribers": 2,
-          "thumbnail": "https://i.ytimg.com/vi/RIkdG2CdQ9Q/mqdefault.jpg",
-          "published_at": "2026-07-21T07:58:58Z",
-          "url": "https://www.youtube.com/watch?v=RIkdG2CdQ9Q"
+          "id": "trBNeFZpPVs",
+          "title": "Vingadores 2026:Doutor destino trailer oficial[marvel filmes]",
+          "channel": "marvel Moz ",
+          "channel_id": "UCwUkHS3Za8arpX2rhRGXX7g",
+          "subscribers": 23,
+          "thumbnail": "https://i.ytimg.com/vi/trBNeFZpPVs/mqdefault.jpg",
+          "published_at": "2026-07-21T13:09:45Z",
+          "url": "https://www.youtube.com/watch?v=trBNeFZpPVs"
         },
         {
-          "id": "ktLdTyw1VGI",
-          "title": "Vingadores Doutor Destino | Trailer dublado oficial ",
-          "channel": "HeroFlix",
-          "channel_id": "UCgSTBT1t4MqEKp4umFVLTdA",
-          "subscribers": 2,
-          "thumbnail": "https://i.ytimg.com/vi/ktLdTyw1VGI/mqdefault.jpg",
-          "published_at": "2026-07-21T07:22:26Z",
-          "url": "https://www.youtube.com/watch?v=ktLdTyw1VGI"
+          "id": "4xd9lAYWsd4",
+          "title": "Thor Épico vs  Doutor Destino  A Luta Definitiva! trailer vingadores doomsday #einerd",
+          "channel": "oxe nerd cortes ",
+          "channel_id": "UCsjXipSlaam3UM5WNh7WFDw",
+          "subscribers": 3080,
+          "thumbnail": "https://i.ytimg.com/vi/4xd9lAYWsd4/mqdefault.jpg",
+          "published_at": "2026-07-21T13:03:35Z",
+          "url": "https://www.youtube.com/watch?v=4xd9lAYWsd4"
         },
         {
-          "id": "-rWpO7dpG94",
-          "title": "Analise do novo trailer de vingadores doutor destino",
-          "channel": "Victor Maciel ",
-          "channel_id": "UCVImu8nc_cM9fyh4s20ymSA",
-          "subscribers": 2,
-          "thumbnail": "https://i.ytimg.com/vi/-rWpO7dpG94/mqdefault.jpg",
-          "published_at": "2026-07-21T06:46:59Z",
-          "url": "https://www.youtube.com/watch?v=-rWpO7dpG94"
+          "id": "1-o5uOiiK7w",
+          "title": "Vingadores: Doutor Destino chega em dezembro 💥 #Shorts",
+          "channel": "Casa das Fofocas",
+          "channel_id": "UCt7R0gPYc3ztxnZgjLp6oZQ",
+          "subscribers": 37,
+          "thumbnail": "https://i.ytimg.com/vi/1-o5uOiiK7w/mqdefault.jpg",
+          "published_at": "2026-07-21T13:01:25Z",
+          "url": "https://www.youtube.com/watch?v=1-o5uOiiK7w"
         },
         {
-          "id": "tZzEATaWSGc",
-          "title": "SAIU O TRAILER DE VINGADORES: DOUTOR DESTINO! 🔥 | ARANHA VS HULK | ODISSEIA QUEBRA REGISTRA!",
-          "channel": "TV Tijucas",
-          "channel_id": "UCbxuPgMqjbRJb15onOZWfCA",
-          "subscribers": 35000,
-          "thumbnail": "https://i.ytimg.com/vi/tZzEATaWSGc/mqdefault.jpg",
-          "published_at": "2026-07-21T06:16:21Z",
-          "url": "https://www.youtube.com/watch?v=tZzEATaWSGc"
+          "id": "bLiWD5qPfQk",
+          "title": "FINALMENTE SAIU O TRAILER De vingadores Doutor Destino  (ANALISE PT1)#otakus#anime#homemaranha#gta",
+          "channel": "Nerd MAX",
+          "channel_id": "UC_elmnveIqJphn98w2xlBRg",
+          "subscribers": 176,
+          "thumbnail": "https://i.ytimg.com/vi/bLiWD5qPfQk/mqdefault.jpg",
+          "published_at": "2026-07-21T13:00:38Z",
+          "url": "https://www.youtube.com/watch?v=bLiWD5qPfQk"
         }
       ],
       "first_detected_at": "2026-07-20T19:25:21.099180+00:00",
-      "last_seen_at": "2026-07-21T08:08:01.223625+00:00"
+      "last_seen_at": "2026-07-21T13:17:03.582951+00:00"
+    },
+    {
+      "phrase": "doutor destino trailer",
+      "video_count": 29,
+      "channel_count": 28,
+      "total_channels_seen": 29,
+      "uploads_per_hour": 2.33,
+      "window_hours": 12,
+      "example_videos": [
+        {
+          "id": "trBNeFZpPVs",
+          "title": "Vingadores 2026:Doutor destino trailer oficial[marvel filmes]",
+          "channel": "marvel Moz ",
+          "channel_id": "UCwUkHS3Za8arpX2rhRGXX7g",
+          "subscribers": 23,
+          "thumbnail": "https://i.ytimg.com/vi/trBNeFZpPVs/mqdefault.jpg",
+          "published_at": "2026-07-21T13:09:45Z",
+          "url": "https://www.youtube.com/watch?v=trBNeFZpPVs"
+        },
+        {
+          "id": "4xd9lAYWsd4",
+          "title": "Thor Épico vs  Doutor Destino  A Luta Definitiva! trailer vingadores doomsday #einerd",
+          "channel": "oxe nerd cortes ",
+          "channel_id": "UCsjXipSlaam3UM5WNh7WFDw",
+          "subscribers": 3080,
+          "thumbnail": "https://i.ytimg.com/vi/4xd9lAYWsd4/mqdefault.jpg",
+          "published_at": "2026-07-21T13:03:35Z",
+          "url": "https://www.youtube.com/watch?v=4xd9lAYWsd4"
+        },
+        {
+          "id": "bLiWD5qPfQk",
+          "title": "FINALMENTE SAIU O TRAILER De vingadores Doutor Destino  (ANALISE PT1)#otakus#anime#homemaranha#gta",
+          "channel": "Nerd MAX",
+          "channel_id": "UC_elmnveIqJphn98w2xlBRg",
+          "subscribers": 176,
+          "thumbnail": "https://i.ytimg.com/vi/bLiWD5qPfQk/mqdefault.jpg",
+          "published_at": "2026-07-21T13:00:38Z",
+          "url": "https://www.youtube.com/watch?v=bLiWD5qPfQk"
+        },
+        {
+          "id": "6MB39EOODLM",
+          "title": "🚨 ACABOU DE SAIR! Primeiro trailer oficial de Vingadores: Doutor Destino",
+          "channel": "BRUTO GEEK",
+          "channel_id": "UCMB_T5xDZHzd1OoX-4SGt_g",
+          "subscribers": 1650,
+          "thumbnail": "https://i.ytimg.com/vi/6MB39EOODLM/mqdefault.jpg",
+          "published_at": "2026-07-21T13:00:31Z",
+          "url": "https://www.youtube.com/watch?v=6MB39EOODLM"
+        }
+      ],
+      "first_detected_at": "2026-07-20T19:25:21.099180+00:00",
+      "last_seen_at": "2026-07-21T13:17:03.582951+00:00"
     },
     {
       "phrase": "avengers doomsday",
+      "video_count": 27,
+      "channel_count": 27,
+      "total_channels_seen": 30,
+      "uploads_per_hour": 2.25,
+      "window_hours": 12,
+      "example_videos": [
+        {
+          "id": "zXXVCVWv1dU",
+          "title": "🔥😱Avengers Doomsday Trailer Hidden Details You Missed! 😱#shorts #marvel",
+          "channel": "R AKILAN UNIVERSE",
+          "channel_id": "UCJqyIhVP3ofqLYuGCgzc9Kg",
+          "subscribers": 16500,
+          "thumbnail": "https://i.ytimg.com/vi/zXXVCVWv1dU/mqdefault.jpg",
+          "published_at": "2026-07-21T12:25:31Z",
+          "url": "https://www.youtube.com/watch?v=zXXVCVWv1dU"
+        },
+        {
+          "id": "nyWBxCtR0Xs",
+          "title": "Avengers: Doomsday (2026) CZ dabing HD trailer",
+          "channel": "Totalfilm.cz",
+          "channel_id": "UCrnvx9KJ8v63SODw082L3Ww",
+          "subscribers": 354000,
+          "thumbnail": "https://i.ytimg.com/vi/nyWBxCtR0Xs/mqdefault.jpg",
+          "published_at": "2026-07-21T12:16:17Z",
+          "url": "https://www.youtube.com/watch?v=nyWBxCtR0Xs"
+        },
+        {
+          "id": "QyrUlaI5ltc",
+          "title": "This hidden detail in avengers doomsday confirms incursion of three planets",
+          "channel": "VoidBorn11",
+          "channel_id": "UCTTUWgeYIYZCTepCUIM9Uww",
+          "subscribers": 1350,
+          "thumbnail": "https://i.ytimg.com/vi/QyrUlaI5ltc/mqdefault.jpg",
+          "published_at": "2026-07-21T12:11:45Z",
+          "url": "https://www.youtube.com/watch?v=QyrUlaI5ltc"
+        },
+        {
+          "id": "2eHeQnp3pTI",
+          "title": "Fancam of Penelope &amp; Odysseus #Avengers #Doomsday #TheOdyssey #LoveStory #Viral #Fyp #YtShorts #Love",
+          "channel": "LanaMau",
+          "channel_id": "UCLMZAJX80Q1532nc9gzPwew",
+          "subscribers": 12100,
+          "thumbnail": "https://i.ytimg.com/vi/2eHeQnp3pTI/mqdefault.jpg",
+          "published_at": "2026-07-21T11:46:05Z",
+          "url": "https://www.youtube.com/watch?v=2eHeQnp3pTI"
+        }
+      ],
+      "first_detected_at": "2026-07-20T19:25:21.099180+00:00",
+      "last_seen_at": "2026-07-21T13:17:03.582951+00:00"
+    },
+    {
+      "phrase": "real end twist",
       "video_count": 26,
-      "channel_count": 26,
-      "total_channels_seen": 30,
-      "uploads_per_hour": 2.17,
+      "channel_count": 23,
+      "total_channels_seen": 26,
+      "uploads_per_hour": 1.92,
       "window_hours": 12,
       "example_videos": [
         {
-          "id": "ByFtb374s3o",
-          "title": "Avengers Doomsday as a Mock Toy Commercial #shorts",
-          "channel": "It’s Recording Time Media",
-          "channel_id": "UClEmqHQ2j7LqrCoFp0AT5Cg",
-          "subscribers": 73100,
-          "thumbnail": "https://i.ytimg.com/vi/ByFtb374s3o/mqdefault.jpg",
-          "published_at": "2026-07-21T07:36:54Z",
-          "url": "https://www.youtube.com/watch?v=ByFtb374s3o"
+          "id": "ama8Z1K6rg0",
+          "title": "Adapavi 😱 real end twist 😱🤣🤣 #trending #shorts #viral #funny #comedy",
+          "channel": "prabu love nandhu",
+          "channel_id": "UCe8xypRJKquF5pNgXQpT1rA",
+          "subscribers": 55300,
+          "thumbnail": "https://i.ytimg.com/vi/ama8Z1K6rg0/mqdefault.jpg",
+          "published_at": "2026-07-21T13:12:48Z",
+          "url": "https://www.youtube.com/watch?v=ama8Z1K6rg0"
         },
         {
-          "id": "HcYI36P-Zvs",
-          "title": "Avengers Doomsday Trailer Tamil Meme Review 😂🔥 Vera Maari",
-          "channel": "Kavin Memes Time",
-          "channel_id": "UCwMMIfyjJjD9LqYBtmP7E8g",
-          "subscribers": 196000,
-          "thumbnail": "https://i.ytimg.com/vi/HcYI36P-Zvs/mqdefault.jpg",
-          "published_at": "2026-07-21T07:16:39Z",
-          "url": "https://www.youtube.com/watch?v=HcYI36P-Zvs"
+          "id": "kjoDsWYP2yQ",
+          "title": "Tom 🍓 Jerry ( bhadana sister comedy) Real End twist 😂🎈 #viral",
+          "channel": "bhadana sisters comedy",
+          "channel_id": "UCf81tQ1e32UebsjFN9W5wXQ",
+          "subscribers": 64300,
+          "thumbnail": "https://i.ytimg.com/vi/kjoDsWYP2yQ/mqdefault.jpg",
+          "published_at": "2026-07-21T13:03:55Z",
+          "url": "https://www.youtube.com/watch?v=kjoDsWYP2yQ"
         },
         {
-          "id": "RJ1vyIYbhDY",
-          "title": "&quot;We are so Doomed💀&quot; - Avengers Doomsday Edit | Luz Roza ( Super Slowed) #edit",
-          "channel": "Parthedits",
-          "channel_id": "UCkRAYhL-9bujxcVie5C0wpQ",
-          "subscribers": 169000,
-          "thumbnail": "https://i.ytimg.com/vi/RJ1vyIYbhDY/mqdefault.jpg",
-          "published_at": "2026-07-21T07:05:44Z",
-          "url": "https://www.youtube.com/watch?v=RJ1vyIYbhDY"
+          "id": "FQS90p8FBbI",
+          "title": "Tom 🍓 Jerry🥰 Real End Twist 😂#shorts#trending #klbrobijurithvik #viral #youtubeshorts #maneeshvishnu",
+          "channel": "Sahid Vlog ",
+          "channel_id": "UCpcJ1llWwRcWCg5xfKS5IjQ",
+          "subscribers": 34800,
+          "thumbnail": "https://i.ytimg.com/vi/FQS90p8FBbI/mqdefault.jpg",
+          "published_at": "2026-07-21T13:00:22Z",
+          "url": "https://www.youtube.com/watch?v=FQS90p8FBbI"
         },
         {
-          "id": "MNgVRdd6rBo",
-          "title": "Peak MCU Will Return in... - Avengers Doomsday | No Radar (Slowed &amp; Reverb) #edit #avengersdoomsday",
-          "channel": "AfterAditZZ",
-          "channel_id": "UCRgG6giAeNAddEfLV_feg1g",
-          "subscribers": 219000,
-          "thumbnail": "https://i.ytimg.com/vi/MNgVRdd6rBo/mqdefault.jpg",
-          "published_at": "2026-07-21T07:03:48Z",
-          "url": "https://www.youtube.com/watch?v=MNgVRdd6rBo"
+          "id": "hM0tTkhXAq4",
+          "title": "Tom 🍓🍒 Jerry (Mom &amp; khushi) Real End Twist 🥰#trending #viral #shorts #yshorts",
+          "channel": "AS Vlogs...",
+          "channel_id": "UCTyw-tY9kRWUdZhZ5BXt9Ag",
+          "subscribers": 159,
+          "thumbnail": "https://i.ytimg.com/vi/hM0tTkhXAq4/mqdefault.jpg",
+          "published_at": "2026-07-21T12:59:27Z",
+          "url": "https://www.youtube.com/watch?v=hM0tTkhXAq4"
         }
       ],
-      "first_detected_at": "2026-07-20T19:25:21.099180+00:00",
-      "last_seen_at": "2026-07-21T08:08:01.223625+00:00"
-    },
-    {
-      "phrase": "avengers doomsday trailer",
-      "video_count": 25,
-      "channel_count": 25,
-      "total_channels_seen": 30,
-      "uploads_per_hour": 2.08,
-      "window_hours": 12,
-      "example_videos": [
-        {
-          "id": "rvwYyMZXPzc",
-          "title": "Avengers doomsday trailer just broke the internet!!",
-          "channel": "kuverio",
-          "channel_id": "UCMDVBze8w-PAw7fZELwf9TQ",
-          "subscribers": 97,
-          "thumbnail": "https://i.ytimg.com/vi/rvwYyMZXPzc/mqdefault.jpg",
-          "published_at": "2026-07-21T07:45:05Z",
-          "url": "https://www.youtube.com/watch?v=rvwYyMZXPzc"
-        },
-        {
-          "id": "Q_OQqICt7vU",
-          "title": "Avengers: Doomsday Trailer Just Broke the Internet... 😱🔥#shorts #doomsday",
-          "channel": "Edit's With Milon",
-          "channel_id": "UCCA06mQWYnqF0MgGlnNGbUg",
-          "subscribers": 22300,
-          "thumbnail": "https://i.ytimg.com/vi/Q_OQqICt7vU/mqdefault.jpg",
-          "published_at": "2026-07-21T07:41:18Z",
-          "url": "https://www.youtube.com/watch?v=Q_OQqICt7vU"
-        },
-        {
-          "id": "yA4mOXP6Zto",
-          "title": "Doctor Doom Ke Samne Thor Bhi Majboor! 😱 Avengers: Doomsday Trailer Breakdown 🔥 #shorts",
-          "channel": "Krono Verse ",
-          "channel_id": "UC9zqZMVFE1js2xXDhFfnP1w",
-          "subscribers": 631,
-          "thumbnail": "https://i.ytimg.com/vi/yA4mOXP6Zto/mqdefault.jpg",
-          "published_at": "2026-07-21T07:35:20Z",
-          "url": "https://www.youtube.com/watch?v=yA4mOXP6Zto"
-        },
-        {
-          "id": "xxwl0oi9cng",
-          "title": "avengers doomsday trailer review 😱🔥|dr doom vs thor|#avengersdoomsday #marvel #shorts",
-          "channel": "Flicks And Frames ",
-          "channel_id": "UCpf3jYAa74A4zATEkQ6ffdw",
-          "subscribers": 26000,
-          "thumbnail": "https://i.ytimg.com/vi/xxwl0oi9cng/mqdefault.jpg",
-          "published_at": "2026-07-21T07:31:39Z",
-          "url": "https://www.youtube.com/watch?v=xxwl0oi9cng"
-        }
-      ],
-      "first_detected_at": "2026-07-20T19:25:21.099180+00:00",
-      "last_seen_at": "2026-07-21T08:08:01.223625+00:00"
-    },
-    {
-      "phrase": "vingadores doomsday",
-      "video_count": 30,
-      "channel_count": 24,
-      "total_channels_seen": 24,
-      "uploads_per_hour": 2.0,
-      "window_hours": 12,
-      "example_videos": [
-        {
-          "id": "RJ1vyIYbhDY",
-          "title": "&quot;We are so Doomed💀&quot; - Avengers Doomsday Edit | Luz Roza ( Super Slowed) #edit",
-          "channel": "Parthedits",
-          "channel_id": "UCkRAYhL-9bujxcVie5C0wpQ",
-          "subscribers": 169000,
-          "thumbnail": "https://i.ytimg.com/vi/RJ1vyIYbhDY/mqdefault.jpg",
-          "published_at": "2026-07-21T07:05:44Z",
-          "url": "https://www.youtube.com/watch?v=RJ1vyIYbhDY"
-        },
-        {
-          "id": "MNgVRdd6rBo",
-          "title": "Peak MCU Will Return in... - Avengers Doomsday | No Radar (Slowed &amp; Reverb) #edit #avengersdoomsday",
-          "channel": "AfterAditZZ",
-          "channel_id": "UCRgG6giAeNAddEfLV_feg1g",
-          "subscribers": 219000,
-          "thumbnail": "https://i.ytimg.com/vi/MNgVRdd6rBo/mqdefault.jpg",
-          "published_at": "2026-07-21T07:03:48Z",
-          "url": "https://www.youtube.com/watch?v=MNgVRdd6rBo"
-        },
-        {
-          "id": "kR-USMTLxQk",
-          "title": "&quot;The OG Duo Is Back..🔥🗿&quot; – Avengers Doomsday (Captain America x Thor) Edit | No Radar (Slowed)",
-          "channel": "Ron4kedits",
-          "channel_id": "UCe2U3LpAqklccY3c5C3R8Kw",
-          "subscribers": 77400,
-          "thumbnail": "https://i.ytimg.com/vi/kR-USMTLxQk/mqdefault.jpg",
-          "published_at": "2026-07-21T07:00:29Z",
-          "url": "https://www.youtube.com/watch?v=kR-USMTLxQk"
-        },
-        {
-          "id": "-SJ40VaRbQE",
-          "title": "&quot;Doomsday&quot; - Thor Vs Doomsday | Doomsday Edit | NATI NATI (Super Slowed)",
-          "channel": "THE NB AM",
-          "channel_id": "UCyRRCqsaK7p3cwAEN91H0dw",
-          "subscribers": 209000,
-          "thumbnail": "https://i.ytimg.com/vi/-SJ40VaRbQE/mqdefault.jpg",
-          "published_at": "2026-07-21T06:01:17Z",
-          "url": "https://www.youtube.com/watch?v=-SJ40VaRbQE"
-        }
-      ],
-      "first_detected_at": "2026-07-21T01:46:52.758862+00:00",
-      "last_seen_at": "2026-07-21T08:08:01.223625+00:00"
+      "first_detected_at": "2026-07-21T13:17:03.582951+00:00",
+      "last_seen_at": "2026-07-21T13:17:03.582951+00:00"
     }
   ],
   "topics": [
     {
       "phrase": "avengers doomsday",
       "video_count": 4,
-      "momentum": 29.22,
+      "momentum": 28.6,
       "regions": [
         "US"
       ],
@@ -489,8 +489,8 @@
           "channel": "Marvel Entertainment",
           "thumbnail": "https://i.ytimg.com/vi/irVNGjRFZGk/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=irVNGjRFZGk",
-          "views": 33284947,
-          "age_hours": 19.1
+          "views": 35873135,
+          "age_hours": 24.3
         },
         {
           "id": "Nx-e-AaCNPE",
@@ -498,8 +498,8 @@
           "channel": "New Rockstars",
           "thumbnail": "https://i.ytimg.com/vi/Nx-e-AaCNPE/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=Nx-e-AaCNPE",
-          "views": 719348,
-          "age_hours": 8.3
+          "views": 1031566,
+          "age_hours": 13.4
         },
         {
           "id": "ydssj556GIQ",
@@ -507,15 +507,15 @@
           "channel": "Jeremy Jahns",
           "thumbnail": "https://i.ytimg.com/vi/ydssj556GIQ/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=ydssj556GIQ",
-          "views": 328664,
-          "age_hours": 10.6
+          "views": 384260,
+          "age_hours": 15.7
         }
       ]
     },
     {
       "phrase": "vingadores",
       "video_count": 5,
-      "momentum": 26.4,
+      "momentum": 25.83,
       "regions": [
         "BR"
       ],
@@ -527,17 +527,17 @@
           "channel": "Marvel Brasil",
           "thumbnail": "https://i.ytimg.com/vi/TcBtFtkQFiU/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=TcBtFtkQFiU",
-          "views": 1109804,
-          "age_hours": 17.7
+          "views": 1160174,
+          "age_hours": 22.9
         },
         {
           "id": "PXpixxq-sXk",
-          "title": "TRAILER: VINGADORES DOOMSDAY",
+          "title": "TRAILER: VINGADORES DOOMDAY [React e explicação]",
           "channel": "Ei Nerd",
           "thumbnail": "https://i.ytimg.com/vi/PXpixxq-sXk/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=PXpixxq-sXk",
-          "views": 503174,
-          "age_hours": 8.8
+          "views": 577189,
+          "age_hours": 14.0
         },
         {
           "id": "OEg8kMS6UG4",
@@ -545,15 +545,15 @@
           "channel": "Nerd Land",
           "thumbnail": "https://i.ytimg.com/vi/OEg8kMS6UG4/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=OEg8kMS6UG4",
-          "views": 140476,
-          "age_hours": 10.4
+          "views": 159108,
+          "age_hours": 15.6
         }
       ]
     },
     {
       "phrase": "avengers doomsday trailer",
       "video_count": 3,
-      "momentum": 24.05,
+      "momentum": 23.49,
       "regions": [
         "IN"
       ],
@@ -565,8 +565,8 @@
           "channel": "ComicVerse",
           "thumbnail": "https://i.ytimg.com/vi/cMp0-mSz0X8/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=cMp0-mSz0X8",
-          "views": 739706,
-          "age_hours": 13.9
+          "views": 1058724,
+          "age_hours": 19.0
         },
         {
           "id": "Uoy7MGCEORM",
@@ -574,8 +574,8 @@
           "channel": "BnfTV",
           "thumbnail": "https://i.ytimg.com/vi/Uoy7MGCEORM/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=Uoy7MGCEORM",
-          "views": 591518,
-          "age_hours": 15.9
+          "views": 680314,
+          "age_hours": 21.1
         },
         {
           "id": "MnEVpud0Y6o",
@@ -583,15 +583,53 @@
           "channel": "YOGI BOLTA HAI",
           "thumbnail": "https://i.ytimg.com/vi/MnEVpud0Y6o/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=MnEVpud0Y6o",
-          "views": 523579,
-          "age_hours": 16.7
+          "views": 592261,
+          "age_hours": 21.9
+        }
+      ]
+    },
+    {
+      "phrase": "viral",
+      "video_count": 5,
+      "momentum": 23.39,
+      "regions": [
+        "BR"
+      ],
+      "lang": "pt",
+      "example_videos": [
+        {
+          "id": "rSkUgMsC2XQ",
+          "title": "Tem que fingir que é malandro😂#mindset #motivação #inspiração #felicidade #viral #divertido #rir",
+          "channel": "Marco Morastoni ",
+          "thumbnail": "https://i.ytimg.com/vi/rSkUgMsC2XQ/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=rSkUgMsC2XQ",
+          "views": 743047,
+          "age_hours": 23.0
+        },
+        {
+          "id": "fMO2MvPCROw",
+          "title": "O novo tratador não durou nem o primeiro dia…😂 #animais #memes  #viral #shorts #selvagem #leão #leoa",
+          "channel": "NexBr",
+          "thumbnail": "https://i.ytimg.com/vi/fMO2MvPCROw/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=fMO2MvPCROw",
+          "views": 1920927,
+          "age_hours": 86.6
+        },
+        {
+          "id": "lhQuWbNWwIs",
+          "title": "Quando o filho quer aprender o tam tam #viral #viralvideo #viralshorts #comedia",
+          "channel": "Leandro bom sucesso",
+          "thumbnail": "https://i.ytimg.com/vi/lhQuWbNWwIs/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=lhQuWbNWwIs",
+          "views": 4146326,
+          "age_hours": 183.6
         }
       ]
     },
     {
       "phrase": "british",
       "video_count": 5,
-      "momentum": 22.53,
+      "momentum": 22.46,
       "regions": [
         "GB"
       ],
@@ -603,8 +641,8 @@
           "channel": "UNFAZED WARRIORS",
           "thumbnail": "https://i.ytimg.com/vi/oTknNEDXBK0/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=oTknNEDXBK0",
-          "views": 5539336,
-          "age_hours": 154.2
+          "views": 5580616,
+          "age_hours": 159.3
         },
         {
           "id": "jcNbC03fXW8",
@@ -612,8 +650,8 @@
           "channel": "NovaCine",
           "thumbnail": "https://i.ytimg.com/vi/jcNbC03fXW8/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=jcNbC03fXW8",
-          "views": 3107488,
-          "age_hours": 116.0
+          "views": 3314553,
+          "age_hours": 121.2
         },
         {
           "id": "Cd-Y5VPreXM",
@@ -621,301 +659,15 @@
           "channel": "Bright Starz ",
           "thumbnail": "https://i.ytimg.com/vi/Cd-Y5VPreXM/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=Cd-Y5VPreXM",
-          "views": 1813824,
-          "age_hours": 113.7
-        }
-      ]
-    },
-    {
-      "phrase": "primeiro",
-      "video_count": 4,
-      "momentum": 20.0,
-      "regions": [
-        "BR"
-      ],
-      "lang": "pt",
-      "example_videos": [
-        {
-          "id": "P0oEpJc_2YU",
-          "title": "Gêmeas Testam a Mãe... Quem Ela Atendeu Primeiro? 😱❤️ #shorts",
-          "channel": "Rise Hope",
-          "thumbnail": "https://i.ytimg.com/vi/P0oEpJc_2YU/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=P0oEpJc_2YU",
-          "views": 1731179,
-          "age_hours": 44.9
-        },
-        {
-          "id": "2tMp-JSm4o4",
-          "title": "POV: QUANDO EU ACHO QUE VOU SER O PRIMEIRO A RECEBER O BOLO DE ANIVERSÁRIO",
-          "channel": "Luís Augusto",
-          "thumbnail": "https://i.ytimg.com/vi/2tMp-JSm4o4/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=2tMp-JSm4o4",
-          "views": 3889195,
-          "age_hours": 107.4
-        },
-        {
-          "id": "fMO2MvPCROw",
-          "title": "O novo tratador não durou nem o primeiro dia…😂 #animais #memes  #viral #shorts #selvagem #leão #leoa",
-          "channel": "NexBr",
-          "thumbnail": "https://i.ytimg.com/vi/fMO2MvPCROw/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=fMO2MvPCROw",
-          "views": 1813296,
-          "age_hours": 81.5
-        }
-      ]
-    },
-    {
-      "phrase": "vingadores doomsday",
-      "video_count": 3,
-      "momentum": 19.63,
-      "regions": [
-        "BR"
-      ],
-      "lang": "pt",
-      "example_videos": [
-        {
-          "id": "PXpixxq-sXk",
-          "title": "TRAILER: VINGADORES DOOMSDAY",
-          "channel": "Ei Nerd",
-          "thumbnail": "https://i.ytimg.com/vi/PXpixxq-sXk/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=PXpixxq-sXk",
-          "views": 503174,
-          "age_hours": 8.8
-        },
-        {
-          "id": "OEg8kMS6UG4",
-          "title": "EXPLICADO! VINGADORES DOOMSDAY TRAILER OFICIAL (DETALHES + REFERÊNCIAS + EASTER EGGS)",
-          "channel": "Nerd Land",
-          "thumbnail": "https://i.ytimg.com/vi/OEg8kMS6UG4/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=OEg8kMS6UG4",
-          "views": 140476,
-          "age_hours": 10.4
-        },
-        {
-          "id": "o1TH_gyko7k",
-          "title": "SAIU!!! TRAILER OFICIAL DE VINGADORES DOOMSDAY ANÁLISE COMPLETA",
-          "channel": "Miguel Lokia",
-          "thumbnail": "https://i.ytimg.com/vi/o1TH_gyko7k/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=o1TH_gyko7k",
-          "views": 154088,
-          "age_hours": 17.9
-        }
-      ]
-    },
-    {
-      "phrase": "mundo",
-      "video_count": 4,
-      "momentum": 19.31,
-      "regions": [
-        "BR"
-      ],
-      "lang": "pt",
-      "example_videos": [
-        {
-          "id": "ZGq07oRwAW8",
-          "title": "FAZENDO ENCONTRO MAIS RÁPIDO DO MUNDO ...",
-          "channel": "Emilly Vick",
-          "thumbnail": "https://i.ytimg.com/vi/ZGq07oRwAW8/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=ZGq07oRwAW8",
-          "views": 6333563,
-          "age_hours": 131.1
-        },
-        {
-          "id": "CnJ2ZXVy_Wk",
-          "title": "VIREI JUIZ PARA CORRIGIR A COPA DO MUNDO!",
-          "channel": "Felipe Neto Joga",
-          "thumbnail": "https://i.ytimg.com/vi/CnJ2ZXVy_Wk/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=CnJ2ZXVy_Wk",
-          "views": 383671,
-          "age_hours": 19.1
-        },
-        {
-          "id": "XUvj-qDaclA",
-          "title": "ESPANHA vs ARGENTINA DIVIDINDO COISAS DA COPA DO MUNDO !!! #shorts #shortvideo",
-          "channel": "Figuritalo",
-          "thumbnail": "https://i.ytimg.com/vi/XUvj-qDaclA/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=XUvj-qDaclA",
-          "views": 1050819,
-          "age_hours": 41.0
-        }
-      ]
-    },
-    {
-      "phrase": "avengers doomsday official",
-      "video_count": 2,
-      "momentum": 19.01,
-      "regions": [
-        "US"
-      ],
-      "lang": "en",
-      "example_videos": [
-        {
-          "id": "irVNGjRFZGk",
-          "title": "Avengers: Doomsday | Official Trailer | In Theaters December 18",
-          "channel": "Marvel Entertainment",
-          "thumbnail": "https://i.ytimg.com/vi/irVNGjRFZGk/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=irVNGjRFZGk",
-          "views": 33284947,
-          "age_hours": 19.1
-        },
-        {
-          "id": "ydssj556GIQ",
-          "title": "Avengers: Doomsday - Official Trailer (My Thoughts)",
-          "channel": "Jeremy Jahns",
-          "thumbnail": "https://i.ytimg.com/vi/ydssj556GIQ/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=ydssj556GIQ",
-          "views": 328664,
-          "age_hours": 10.6
-        }
-      ]
-    },
-    {
-      "phrase": "doomsday official trailer",
-      "video_count": 2,
-      "momentum": 19.01,
-      "regions": [
-        "US"
-      ],
-      "lang": "en",
-      "example_videos": [
-        {
-          "id": "irVNGjRFZGk",
-          "title": "Avengers: Doomsday | Official Trailer | In Theaters December 18",
-          "channel": "Marvel Entertainment",
-          "thumbnail": "https://i.ytimg.com/vi/irVNGjRFZGk/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=irVNGjRFZGk",
-          "views": 33284947,
-          "age_hours": 19.1
-        },
-        {
-          "id": "ydssj556GIQ",
-          "title": "Avengers: Doomsday - Official Trailer (My Thoughts)",
-          "channel": "Jeremy Jahns",
-          "thumbnail": "https://i.ytimg.com/vi/ydssj556GIQ/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=ydssj556GIQ",
-          "views": 328664,
-          "age_hours": 10.6
-        }
-      ]
-    },
-    {
-      "phrase": "copa",
-      "video_count": 4,
-      "momentum": 18.71,
-      "regions": [
-        "BR"
-      ],
-      "lang": "pt",
-      "example_videos": [
-        {
-          "id": "CnJ2ZXVy_Wk",
-          "title": "VIREI JUIZ PARA CORRIGIR A COPA DO MUNDO!",
-          "channel": "Felipe Neto Joga",
-          "thumbnail": "https://i.ytimg.com/vi/CnJ2ZXVy_Wk/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=CnJ2ZXVy_Wk",
-          "views": 383671,
-          "age_hours": 19.1
-        },
-        {
-          "id": "mEuMdvFblCM",
-          "title": "As figurinhas da Argentina na Copa são assim?",
-          "channel": "Bruttus",
-          "thumbnail": "https://i.ytimg.com/vi/mEuMdvFblCM/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=mEuMdvFblCM",
-          "views": 5853876,
-          "age_hours": 155.0
-        },
-        {
-          "id": "XUvj-qDaclA",
-          "title": "ESPANHA vs ARGENTINA DIVIDINDO COISAS DA COPA DO MUNDO !!! #shorts #shortvideo",
-          "channel": "Figuritalo",
-          "thumbnail": "https://i.ytimg.com/vi/XUvj-qDaclA/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=XUvj-qDaclA",
-          "views": 1050819,
-          "age_hours": 41.0
-        }
-      ]
-    },
-    {
-      "phrase": "viral",
-      "video_count": 4,
-      "momentum": 18.16,
-      "regions": [
-        "BR"
-      ],
-      "lang": "pt",
-      "example_videos": [
-        {
-          "id": "fMO2MvPCROw",
-          "title": "O novo tratador não durou nem o primeiro dia…😂 #animais #memes  #viral #shorts #selvagem #leão #leoa",
-          "channel": "NexBr",
-          "thumbnail": "https://i.ytimg.com/vi/fMO2MvPCROw/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=fMO2MvPCROw",
-          "views": 1813296,
-          "age_hours": 81.5
-        },
-        {
-          "id": "lhQuWbNWwIs",
-          "title": "Quando o filho quer aprender o tam tam #viral #viralvideo #viralshorts #comedia",
-          "channel": "Leandro bom sucesso",
-          "thumbnail": "https://i.ytimg.com/vi/lhQuWbNWwIs/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=lhQuWbNWwIs",
-          "views": 4142204,
-          "age_hours": 178.5
-        },
-        {
-          "id": "D4Fe-dqP-d0",
-          "title": "Festa em família rende cena que fez todo mundo cair na risada!! #viral",
-          "channel": "MyHood",
-          "thumbnail": "https://i.ytimg.com/vi/D4Fe-dqP-d0/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=D4Fe-dqP-d0",
-          "views": 1642658,
-          "age_hours": 86.1
-        }
-      ]
-    },
-    {
-      "phrase": "celular",
-      "video_count": 4,
-      "momentum": 17.51,
-      "regions": [
-        "BR"
-      ],
-      "lang": "pt",
-      "example_videos": [
-        {
-          "id": "51y_sUE5miI",
-          "title": "Que PORR* de CELULAR é ESSE??? #shorts",
-          "channel": "Top! Tech",
-          "thumbnail": "https://i.ytimg.com/vi/51y_sUE5miI/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=51y_sUE5miI",
-          "views": 98313,
-          "age_hours": 9.7
-        },
-        {
-          "id": "-DNG25zY-Bk",
-          "title": "REVIEW: Lente Anti Reflexo para Celular",
-          "channel": "Almanaque SOS",
-          "thumbnail": "https://i.ytimg.com/vi/-DNG25zY-Bk/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=-DNG25zY-Bk",
-          "views": 772176,
-          "age_hours": 107.3
-        },
-        {
-          "id": "JpVYZ03vBXk",
-          "title": "😱📱O CELULAR Caiu na água? Esse SOM tira a água do celular 🎀❤️",
-          "channel": "Daphne & Co",
-          "thumbnail": "https://i.ytimg.com/vi/JpVYZ03vBXk/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=JpVYZ03vBXk",
-          "views": 152973,
-          "age_hours": 41.0
+          "views": 2016580,
+          "age_hours": 118.9
         }
       ]
     },
     {
       "phrase": "comedy",
-      "video_count": 4,
-      "momentum": 17.05,
+      "video_count": 5,
+      "momentum": 21.07,
       "regions": [
         "DE"
       ],
@@ -927,8 +679,8 @@
           "channel": "ISI",
           "thumbnail": "https://i.ytimg.com/vi/Y5oAS8gIAYs/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=Y5oAS8gIAYs",
-          "views": 906947,
-          "age_hours": 93.5
+          "views": 932905,
+          "age_hours": 98.7
         },
         {
           "id": "t_yl0hpnRLM",
@@ -936,24 +688,272 @@
           "channel": "marvintsp",
           "thumbnail": "https://i.ytimg.com/vi/t_yl0hpnRLM/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=t_yl0hpnRLM",
-          "views": 1494933,
-          "age_hours": 116.7
+          "views": 1541788,
+          "age_hours": 121.8
         },
         {
-          "id": "B5VztEQpvME",
-          "title": "JeNiSP Comedy 😂 #shorts #short #JeNiSPComedy",
-          "channel": "JeNiSP Comedy",
-          "thumbnail": "https://i.ytimg.com/vi/B5VztEQpvME/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=B5VztEQpvME",
-          "views": 1008769,
-          "age_hours": 116.1
+          "id": "M81nLcPjK08",
+          "title": "Götter wie wir | Jesus im Vatikan 2...  #comedy #götterwiewir #sketchhistory",
+          "channel": "Carsten Strauch",
+          "thumbnail": "https://i.ytimg.com/vi/M81nLcPjK08/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=M81nLcPjK08",
+          "views": 337069,
+          "age_hours": 54.2
+        }
+      ]
+    },
+    {
+      "phrase": "primeiro",
+      "video_count": 4,
+      "momentum": 19.9,
+      "regions": [
+        "BR"
+      ],
+      "lang": "pt",
+      "example_videos": [
+        {
+          "id": "P0oEpJc_2YU",
+          "title": "Gêmeas Testam a Mãe... Quem Ela Atendeu Primeiro? 😱❤️ #shorts",
+          "channel": "Rise Hope",
+          "thumbnail": "https://i.ytimg.com/vi/P0oEpJc_2YU/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=P0oEpJc_2YU",
+          "views": 1741052,
+          "age_hours": 50.1
+        },
+        {
+          "id": "2tMp-JSm4o4",
+          "title": "POV: QUANDO EU ACHO QUE VOU SER O PRIMEIRO A RECEBER O BOLO DE ANIVERSÁRIO",
+          "channel": "Luís Augusto",
+          "thumbnail": "https://i.ytimg.com/vi/2tMp-JSm4o4/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=2tMp-JSm4o4",
+          "views": 3899289,
+          "age_hours": 112.5
+        },
+        {
+          "id": "fMO2MvPCROw",
+          "title": "O novo tratador não durou nem o primeiro dia…😂 #animais #memes  #viral #shorts #selvagem #leão #leoa",
+          "channel": "NexBr",
+          "thumbnail": "https://i.ytimg.com/vi/fMO2MvPCROw/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=fMO2MvPCROw",
+          "views": 1920927,
+          "age_hours": 86.6
+        }
+      ]
+    },
+    {
+      "phrase": "mundo",
+      "video_count": 4,
+      "momentum": 19.17,
+      "regions": [
+        "BR"
+      ],
+      "lang": "pt",
+      "example_videos": [
+        {
+          "id": "ZGq07oRwAW8",
+          "title": "FAZENDO ENCONTRO MAIS RÁPIDO DO MUNDO ...",
+          "channel": "Emilly Vick",
+          "thumbnail": "https://i.ytimg.com/vi/ZGq07oRwAW8/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=ZGq07oRwAW8",
+          "views": 6365941,
+          "age_hours": 136.3
+        },
+        {
+          "id": "CnJ2ZXVy_Wk",
+          "title": "VIREI JUIZ PARA CORRIGIR A COPA DO MUNDO!",
+          "channel": "Felipe Neto Joga",
+          "thumbnail": "https://i.ytimg.com/vi/CnJ2ZXVy_Wk/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=CnJ2ZXVy_Wk",
+          "views": 395671,
+          "age_hours": 24.3
+        },
+        {
+          "id": "XUvj-qDaclA",
+          "title": "ESPANHA vs ARGENTINA DIVIDINDO COISAS DA COPA DO MUNDO !!! #shorts #shortvideo",
+          "channel": "Figuritalo",
+          "thumbnail": "https://i.ytimg.com/vi/XUvj-qDaclA/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=XUvj-qDaclA",
+          "views": 1125505,
+          "age_hours": 46.2
+        }
+      ]
+    },
+    {
+      "phrase": "avengers doomsday official",
+      "video_count": 2,
+      "momentum": 18.56,
+      "regions": [
+        "US"
+      ],
+      "lang": "en",
+      "example_videos": [
+        {
+          "id": "irVNGjRFZGk",
+          "title": "Avengers: Doomsday | Official Trailer | In Theaters December 18",
+          "channel": "Marvel Entertainment",
+          "thumbnail": "https://i.ytimg.com/vi/irVNGjRFZGk/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=irVNGjRFZGk",
+          "views": 35873135,
+          "age_hours": 24.3
+        },
+        {
+          "id": "ydssj556GIQ",
+          "title": "Avengers: Doomsday - Official Trailer (My Thoughts)",
+          "channel": "Jeremy Jahns",
+          "thumbnail": "https://i.ytimg.com/vi/ydssj556GIQ/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=ydssj556GIQ",
+          "views": 384260,
+          "age_hours": 15.7
+        }
+      ]
+    },
+    {
+      "phrase": "doomsday official trailer",
+      "video_count": 2,
+      "momentum": 18.56,
+      "regions": [
+        "US"
+      ],
+      "lang": "en",
+      "example_videos": [
+        {
+          "id": "irVNGjRFZGk",
+          "title": "Avengers: Doomsday | Official Trailer | In Theaters December 18",
+          "channel": "Marvel Entertainment",
+          "thumbnail": "https://i.ytimg.com/vi/irVNGjRFZGk/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=irVNGjRFZGk",
+          "views": 35873135,
+          "age_hours": 24.3
+        },
+        {
+          "id": "ydssj556GIQ",
+          "title": "Avengers: Doomsday - Official Trailer (My Thoughts)",
+          "channel": "Jeremy Jahns",
+          "thumbnail": "https://i.ytimg.com/vi/ydssj556GIQ/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=ydssj556GIQ",
+          "views": 384260,
+          "age_hours": 15.7
+        }
+      ]
+    },
+    {
+      "phrase": "copa",
+      "video_count": 4,
+      "momentum": 18.43,
+      "regions": [
+        "BR"
+      ],
+      "lang": "pt",
+      "example_videos": [
+        {
+          "id": "CnJ2ZXVy_Wk",
+          "title": "VIREI JUIZ PARA CORRIGIR A COPA DO MUNDO!",
+          "channel": "Felipe Neto Joga",
+          "thumbnail": "https://i.ytimg.com/vi/CnJ2ZXVy_Wk/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=CnJ2ZXVy_Wk",
+          "views": 395671,
+          "age_hours": 24.3
+        },
+        {
+          "id": "mEuMdvFblCM",
+          "title": "As figurinhas da Argentina na Copa são assim?",
+          "channel": "Bruttus",
+          "thumbnail": "https://i.ytimg.com/vi/mEuMdvFblCM/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=mEuMdvFblCM",
+          "views": 5872268,
+          "age_hours": 160.2
+        },
+        {
+          "id": "XUvj-qDaclA",
+          "title": "ESPANHA vs ARGENTINA DIVIDINDO COISAS DA COPA DO MUNDO !!! #shorts #shortvideo",
+          "channel": "Figuritalo",
+          "thumbnail": "https://i.ytimg.com/vi/XUvj-qDaclA/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=XUvj-qDaclA",
+          "views": 1125505,
+          "age_hours": 46.2
+        }
+      ]
+    },
+    {
+      "phrase": "london",
+      "video_count": 5,
+      "momentum": 18.13,
+      "regions": [
+        "GB"
+      ],
+      "lang": "en",
+      "example_videos": [
+        {
+          "id": "E3efA7gPKr8",
+          "title": "moving out and my final week in London | weekly vlog",
+          "channel": "livvy dimartino",
+          "thumbnail": "https://i.ytimg.com/vi/E3efA7gPKr8/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=E3efA7gPKr8",
+          "views": 39629,
+          "age_hours": 20.3
+        },
+        {
+          "id": "MKkVhNlGj3Q",
+          "title": "Hello London!!! #vlog",
+          "channel": "Kat Clark",
+          "thumbnail": "https://i.ytimg.com/vi/MKkVhNlGj3Q/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=MKkVhNlGj3Q",
+          "views": 306512,
+          "age_hours": 152.5
+        },
+        {
+          "id": "YO6leutukQQ",
+          "title": "WHAT IF? LIFE COULD HAVE BEEN DIFFERENT | MY LONDON LIFE",
+          "channel": "Jo Good - MiddleAgedMinx",
+          "thumbnail": "https://i.ytimg.com/vi/YO6leutukQQ/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=YO6leutukQQ",
+          "views": 38237,
+          "age_hours": 52.3
+        }
+      ]
+    },
+    {
+      "phrase": "celular",
+      "video_count": 4,
+      "momentum": 17.38,
+      "regions": [
+        "BR"
+      ],
+      "lang": "pt",
+      "example_videos": [
+        {
+          "id": "51y_sUE5miI",
+          "title": "Que PORR* de CELULAR é ESSE??? #shorts",
+          "channel": "Top! Tech",
+          "thumbnail": "https://i.ytimg.com/vi/51y_sUE5miI/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=51y_sUE5miI",
+          "views": 115065,
+          "age_hours": 14.9
+        },
+        {
+          "id": "-DNG25zY-Bk",
+          "title": "REVIEW: Lente Anti Reflexo para Celular",
+          "channel": "Almanaque SOS",
+          "thumbnail": "https://i.ytimg.com/vi/-DNG25zY-Bk/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=-DNG25zY-Bk",
+          "views": 776980,
+          "age_hours": 112.5
+        },
+        {
+          "id": "JpVYZ03vBXk",
+          "title": "😱📱O CELULAR Caiu na água? Esse SOM tira a água do celular 🎀❤️",
+          "channel": "Daphne & Co",
+          "thumbnail": "https://i.ytimg.com/vi/JpVYZ03vBXk/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=JpVYZ03vBXk",
+          "views": 153358,
+          "age_hours": 46.1
         }
       ]
     },
     {
       "phrase": "doomsday trailer breakdown",
       "video_count": 2,
-      "momentum": 16.05,
+      "momentum": 15.76,
       "regions": [
         "US"
       ],
@@ -965,8 +965,8 @@
           "channel": "New Rockstars",
           "thumbnail": "https://i.ytimg.com/vi/Nx-e-AaCNPE/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=Nx-e-AaCNPE",
-          "views": 719348,
-          "age_hours": 8.3
+          "views": 1031566,
+          "age_hours": 13.4
         },
         {
           "id": "JjT7hGTRr1E",
@@ -974,15 +974,15 @@
           "channel": "ScreenCrush",
           "thumbnail": "https://i.ytimg.com/vi/JjT7hGTRr1E/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=JjT7hGTRr1E",
-          "views": 1042601,
-          "age_hours": 15.3
+          "views": 1216157,
+          "age_hours": 20.4
         }
       ]
     },
     {
       "phrase": "vingadores doutor destino",
       "video_count": 2,
-      "momentum": 16.03,
+      "momentum": 15.69,
       "regions": [
         "BR"
       ],
@@ -994,8 +994,8 @@
           "channel": "Marvel Brasil",
           "thumbnail": "https://i.ytimg.com/vi/TcBtFtkQFiU/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=TcBtFtkQFiU",
-          "views": 1109804,
-          "age_hours": 17.7
+          "views": 1160174,
+          "age_hours": 22.9
         },
         {
           "id": "IqNdZROkQLo",
@@ -1003,15 +1003,15 @@
           "channel": "ONE Media Brasil",
           "thumbnail": "https://i.ytimg.com/vi/IqNdZROkQLo/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=IqNdZROkQLo",
-          "views": 181658,
-          "age_hours": 17.6
+          "views": 187965,
+          "age_hours": 22.8
         }
       ]
     },
     {
       "phrase": "doutor destino trailer",
       "video_count": 2,
-      "momentum": 16.03,
+      "momentum": 15.69,
       "regions": [
         "BR"
       ],
@@ -1023,8 +1023,8 @@
           "channel": "Marvel Brasil",
           "thumbnail": "https://i.ytimg.com/vi/TcBtFtkQFiU/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=TcBtFtkQFiU",
-          "views": 1109804,
-          "age_hours": 17.7
+          "views": 1160174,
+          "age_hours": 22.9
         },
         {
           "id": "IqNdZROkQLo",
@@ -1032,15 +1032,15 @@
           "channel": "ONE Media Brasil",
           "thumbnail": "https://i.ytimg.com/vi/IqNdZROkQLo/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=IqNdZROkQLo",
-          "views": 181658,
-          "age_hours": 17.6
+          "views": 187965,
+          "age_hours": 22.8
         }
       ]
     },
     {
       "phrase": "real end twist",
       "video_count": 2,
-      "momentum": 15.24,
+      "momentum": 15.31,
       "regions": [
         "IN"
       ],
@@ -1052,8 +1052,8 @@
           "channel": "Rishan sriansh & Sree nayana",
           "thumbnail": "https://i.ytimg.com/vi/uBD2SH_onkA/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=uBD2SH_onkA",
-          "views": 8002477,
-          "age_hours": 46.1
+          "views": 10023923,
+          "age_hours": 51.3
         },
         {
           "id": "rXSiIStNwv0",
@@ -1061,15 +1061,15 @@
           "channel": "Achayan Army Family",
           "thumbnail": "https://i.ytimg.com/vi/rXSiIStNwv0/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=rXSiIStNwv0",
-          "views": 9121302,
-          "age_hours": 234.6
+          "views": 9399663,
+          "age_hours": 239.8
         }
       ]
     },
     {
       "phrase": "end twist shorts",
       "video_count": 2,
-      "momentum": 15.24,
+      "momentum": 15.31,
       "regions": [
         "IN"
       ],
@@ -1081,8 +1081,8 @@
           "channel": "Rishan sriansh & Sree nayana",
           "thumbnail": "https://i.ytimg.com/vi/uBD2SH_onkA/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=uBD2SH_onkA",
-          "views": 8002477,
-          "age_hours": 46.1
+          "views": 10023923,
+          "age_hours": 51.3
         },
         {
           "id": "rXSiIStNwv0",
@@ -1090,8 +1090,8 @@
           "channel": "Achayan Army Family",
           "thumbnail": "https://i.ytimg.com/vi/rXSiIStNwv0/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=rXSiIStNwv0",
-          "views": 9121302,
-          "age_hours": 234.6
+          "views": 9399663,
+          "age_hours": 239.8
         }
       ]
     }
@@ -1101,7 +1101,7 @@
       {
         "phrase": "avengers doomsday",
         "video_count": 4,
-        "momentum": 29.22,
+        "momentum": 28.6,
         "regions": [
           "US"
         ],
@@ -1113,8 +1113,8 @@
             "channel": "Marvel Entertainment",
             "thumbnail": "https://i.ytimg.com/vi/irVNGjRFZGk/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=irVNGjRFZGk",
-            "views": 33284947,
-            "age_hours": 19.1
+            "views": 35873135,
+            "age_hours": 24.3
           },
           {
             "id": "Nx-e-AaCNPE",
@@ -1122,8 +1122,8 @@
             "channel": "New Rockstars",
             "thumbnail": "https://i.ytimg.com/vi/Nx-e-AaCNPE/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=Nx-e-AaCNPE",
-            "views": 719348,
-            "age_hours": 8.3
+            "views": 1031566,
+            "age_hours": 13.4
           },
           {
             "id": "ydssj556GIQ",
@@ -1131,15 +1131,15 @@
             "channel": "Jeremy Jahns",
             "thumbnail": "https://i.ytimg.com/vi/ydssj556GIQ/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=ydssj556GIQ",
-            "views": 328664,
-            "age_hours": 10.6
+            "views": 384260,
+            "age_hours": 15.7
           }
         ]
       },
       {
         "phrase": "avengers doomsday official",
         "video_count": 2,
-        "momentum": 19.01,
+        "momentum": 18.56,
         "regions": [
           "US"
         ],
@@ -1151,8 +1151,8 @@
             "channel": "Marvel Entertainment",
             "thumbnail": "https://i.ytimg.com/vi/irVNGjRFZGk/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=irVNGjRFZGk",
-            "views": 33284947,
-            "age_hours": 19.1
+            "views": 35873135,
+            "age_hours": 24.3
           },
           {
             "id": "ydssj556GIQ",
@@ -1160,15 +1160,15 @@
             "channel": "Jeremy Jahns",
             "thumbnail": "https://i.ytimg.com/vi/ydssj556GIQ/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=ydssj556GIQ",
-            "views": 328664,
-            "age_hours": 10.6
+            "views": 384260,
+            "age_hours": 15.7
           }
         ]
       },
       {
         "phrase": "doomsday official trailer",
         "video_count": 2,
-        "momentum": 19.01,
+        "momentum": 18.56,
         "regions": [
           "US"
         ],
@@ -1180,8 +1180,8 @@
             "channel": "Marvel Entertainment",
             "thumbnail": "https://i.ytimg.com/vi/irVNGjRFZGk/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=irVNGjRFZGk",
-            "views": 33284947,
-            "age_hours": 19.1
+            "views": 35873135,
+            "age_hours": 24.3
           },
           {
             "id": "ydssj556GIQ",
@@ -1189,15 +1189,15 @@
             "channel": "Jeremy Jahns",
             "thumbnail": "https://i.ytimg.com/vi/ydssj556GIQ/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=ydssj556GIQ",
-            "views": 328664,
-            "age_hours": 10.6
+            "views": 384260,
+            "age_hours": 15.7
           }
         ]
       },
       {
         "phrase": "avengers doomsday trailer",
         "video_count": 2,
-        "momentum": 16.05,
+        "momentum": 15.76,
         "regions": [
           "US"
         ],
@@ -1209,8 +1209,8 @@
             "channel": "New Rockstars",
             "thumbnail": "https://i.ytimg.com/vi/Nx-e-AaCNPE/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=Nx-e-AaCNPE",
-            "views": 719348,
-            "age_hours": 8.3
+            "views": 1031566,
+            "age_hours": 13.4
           },
           {
             "id": "JjT7hGTRr1E",
@@ -1218,15 +1218,15 @@
             "channel": "ScreenCrush",
             "thumbnail": "https://i.ytimg.com/vi/JjT7hGTRr1E/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=JjT7hGTRr1E",
-            "views": 1042601,
-            "age_hours": 15.3
+            "views": 1216157,
+            "age_hours": 20.4
           }
         ]
       },
       {
         "phrase": "doomsday trailer breakdown",
         "video_count": 2,
-        "momentum": 16.05,
+        "momentum": 15.76,
         "regions": [
           "US"
         ],
@@ -1238,8 +1238,8 @@
             "channel": "New Rockstars",
             "thumbnail": "https://i.ytimg.com/vi/Nx-e-AaCNPE/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=Nx-e-AaCNPE",
-            "views": 719348,
-            "age_hours": 8.3
+            "views": 1031566,
+            "age_hours": 13.4
           },
           {
             "id": "JjT7hGTRr1E",
@@ -1247,15 +1247,15 @@
             "channel": "ScreenCrush",
             "thumbnail": "https://i.ytimg.com/vi/JjT7hGTRr1E/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=JjT7hGTRr1E",
-            "views": 1042601,
-            "age_hours": 15.3
+            "views": 1216157,
+            "age_hours": 20.4
           }
         ]
       },
       {
         "phrase": "easter eggs",
         "video_count": 2,
-        "momentum": 13.37,
+        "momentum": 13.13,
         "regions": [
           "US"
         ],
@@ -1267,8 +1267,8 @@
             "channel": "New Rockstars",
             "thumbnail": "https://i.ytimg.com/vi/Nx-e-AaCNPE/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=Nx-e-AaCNPE",
-            "views": 719348,
-            "age_hours": 8.3
+            "views": 1031566,
+            "age_hours": 13.4
           },
           {
             "id": "JjT7hGTRr1E",
@@ -1276,15 +1276,15 @@
             "channel": "ScreenCrush",
             "thumbnail": "https://i.ytimg.com/vi/JjT7hGTRr1E/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=JjT7hGTRr1E",
-            "views": 1042601,
-            "age_hours": 15.3
+            "views": 1216157,
+            "age_hours": 20.4
           }
         ]
       },
       {
         "phrase": "you missed",
         "video_count": 2,
-        "momentum": 13.37,
+        "momentum": 13.13,
         "regions": [
           "US"
         ],
@@ -1296,8 +1296,8 @@
             "channel": "New Rockstars",
             "thumbnail": "https://i.ytimg.com/vi/Nx-e-AaCNPE/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=Nx-e-AaCNPE",
-            "views": 719348,
-            "age_hours": 8.3
+            "views": 1031566,
+            "age_hours": 13.4
           },
           {
             "id": "JjT7hGTRr1E",
@@ -1305,15 +1305,15 @@
             "channel": "ScreenCrush",
             "thumbnail": "https://i.ytimg.com/vi/JjT7hGTRr1E/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=JjT7hGTRr1E",
-            "views": 1042601,
-            "age_hours": 15.3
+            "views": 1216157,
+            "age_hours": 20.4
           }
         ]
       },
       {
         "phrase": "didn go",
         "video_count": 2,
-        "momentum": 12.34,
+        "momentum": 12.32,
         "regions": [
           "US"
         ],
@@ -1325,8 +1325,8 @@
             "channel": "Happi acres ",
             "thumbnail": "https://i.ytimg.com/vi/B57gBSNOk0s/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=B57gBSNOk0s",
-            "views": 4674214,
-            "age_hours": 103.2
+            "views": 4783414,
+            "age_hours": 108.4
           },
           {
             "id": "FuK9w2fTCOQ",
@@ -1334,8 +1334,8 @@
             "channel": "Car Rx",
             "thumbnail": "https://i.ytimg.com/vi/FuK9w2fTCOQ/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=FuK9w2fTCOQ",
-            "views": 1338788,
-            "age_hours": 57.0
+            "views": 1472249,
+            "age_hours": 62.1
           }
         ]
       }
@@ -1344,7 +1344,7 @@
       {
         "phrase": "meccha chameleon",
         "video_count": 2,
-        "momentum": 12.43,
+        "momentum": 12.36,
         "regions": [
           "AU"
         ],
@@ -1356,8 +1356,8 @@
             "channel": "SMii7Y",
             "thumbnail": "https://i.ytimg.com/vi/RXIlbkMEYlo/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=RXIlbkMEYlo",
-            "views": 3202071,
-            "age_hours": 60.9
+            "views": 3255205,
+            "age_hours": 66.1
           },
           {
             "id": "olXz8KC7TSA",
@@ -1365,8 +1365,8 @@
             "channel": "MoreSidemen",
             "thumbnail": "https://i.ytimg.com/vi/olXz8KC7TSA/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=olXz8KC7TSA",
-            "views": 2095563,
-            "age_hours": 87.1
+            "views": 2122378,
+            "age_hours": 92.3
           }
         ]
       }
@@ -1375,7 +1375,7 @@
       {
         "phrase": "avengers doomsday",
         "video_count": 4,
-        "momentum": 26.64,
+        "momentum": 26.0,
         "regions": [
           "IN"
         ],
@@ -1387,8 +1387,8 @@
             "channel": "ComicVerse",
             "thumbnail": "https://i.ytimg.com/vi/cMp0-mSz0X8/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=cMp0-mSz0X8",
-            "views": 739706,
-            "age_hours": 13.9
+            "views": 1058724,
+            "age_hours": 19.0
           },
           {
             "id": "Uoy7MGCEORM",
@@ -1396,8 +1396,8 @@
             "channel": "BnfTV",
             "thumbnail": "https://i.ytimg.com/vi/Uoy7MGCEORM/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=Uoy7MGCEORM",
-            "views": 591518,
-            "age_hours": 15.9
+            "views": 680314,
+            "age_hours": 21.1
           },
           {
             "id": "xll4nkFNkbc",
@@ -1405,15 +1405,15 @@
             "channel": "Mokka Commentry",
             "thumbnail": "https://i.ytimg.com/vi/xll4nkFNkbc/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=xll4nkFNkbc",
-            "views": 281537,
-            "age_hours": 16.5
+            "views": 335201,
+            "age_hours": 21.6
           }
         ]
       },
       {
         "phrase": "avengers doomsday trailer",
         "video_count": 3,
-        "momentum": 24.05,
+        "momentum": 23.49,
         "regions": [
           "IN"
         ],
@@ -1425,8 +1425,8 @@
             "channel": "ComicVerse",
             "thumbnail": "https://i.ytimg.com/vi/cMp0-mSz0X8/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=cMp0-mSz0X8",
-            "views": 739706,
-            "age_hours": 13.9
+            "views": 1058724,
+            "age_hours": 19.0
           },
           {
             "id": "Uoy7MGCEORM",
@@ -1434,8 +1434,8 @@
             "channel": "BnfTV",
             "thumbnail": "https://i.ytimg.com/vi/Uoy7MGCEORM/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=Uoy7MGCEORM",
-            "views": 591518,
-            "age_hours": 15.9
+            "views": 680314,
+            "age_hours": 21.1
           },
           {
             "id": "MnEVpud0Y6o",
@@ -1443,15 +1443,15 @@
             "channel": "YOGI BOLTA HAI",
             "thumbnail": "https://i.ytimg.com/vi/MnEVpud0Y6o/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=MnEVpud0Y6o",
-            "views": 523579,
-            "age_hours": 16.7
+            "views": 592261,
+            "age_hours": 21.9
           }
         ]
       },
       {
         "phrase": "real end twist",
         "video_count": 2,
-        "momentum": 15.24,
+        "momentum": 15.31,
         "regions": [
           "IN"
         ],
@@ -1463,8 +1463,8 @@
             "channel": "Rishan sriansh & Sree nayana",
             "thumbnail": "https://i.ytimg.com/vi/uBD2SH_onkA/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=uBD2SH_onkA",
-            "views": 8002477,
-            "age_hours": 46.1
+            "views": 10023923,
+            "age_hours": 51.3
           },
           {
             "id": "rXSiIStNwv0",
@@ -1472,15 +1472,15 @@
             "channel": "Achayan Army Family",
             "thumbnail": "https://i.ytimg.com/vi/rXSiIStNwv0/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=rXSiIStNwv0",
-            "views": 9121302,
-            "age_hours": 234.6
+            "views": 9399663,
+            "age_hours": 239.8
           }
         ]
       },
       {
         "phrase": "end twist shorts",
         "video_count": 2,
-        "momentum": 15.24,
+        "momentum": 15.31,
         "regions": [
           "IN"
         ],
@@ -1492,8 +1492,8 @@
             "channel": "Rishan sriansh & Sree nayana",
             "thumbnail": "https://i.ytimg.com/vi/uBD2SH_onkA/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=uBD2SH_onkA",
-            "views": 8002477,
-            "age_hours": 46.1
+            "views": 10023923,
+            "age_hours": 51.3
           },
           {
             "id": "rXSiIStNwv0",
@@ -1501,15 +1501,15 @@
             "channel": "Achayan Army Family",
             "thumbnail": "https://i.ytimg.com/vi/rXSiIStNwv0/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=rXSiIStNwv0",
-            "views": 9121302,
-            "age_hours": 234.6
+            "views": 9399663,
+            "age_hours": 239.8
           }
         ]
       },
       {
         "phrase": "trailer breakdown",
         "video_count": 2,
-        "momentum": 13.66,
+        "momentum": 13.32,
         "regions": [
           "IN"
         ],
@@ -1521,8 +1521,8 @@
             "channel": "ComicVerse",
             "thumbnail": "https://i.ytimg.com/vi/cMp0-mSz0X8/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=cMp0-mSz0X8",
-            "views": 739706,
-            "age_hours": 13.9
+            "views": 1058724,
+            "age_hours": 19.0
           },
           {
             "id": "xll4nkFNkbc",
@@ -1530,15 +1530,15 @@
             "channel": "Mokka Commentry",
             "thumbnail": "https://i.ytimg.com/vi/xll4nkFNkbc/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=xll4nkFNkbc",
-            "views": 281537,
-            "age_hours": 16.5
+            "views": 335201,
+            "age_hours": 21.6
           }
         ]
       },
       {
         "phrase": "kajalsoni vlogs",
         "video_count": 2,
-        "momentum": 13.22,
+        "momentum": 13.2,
         "regions": [
           "IN"
         ],
@@ -1550,8 +1550,8 @@
             "channel": "Kajal Soni",
             "thumbnail": "https://i.ytimg.com/vi/x5pHLU8kxBQ/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=x5pHLU8kxBQ",
-            "views": 3431485,
-            "age_hours": 27.5
+            "views": 3940523,
+            "age_hours": 32.6
           },
           {
             "id": "wCe_4PG3eYQ",
@@ -1559,73 +1559,15 @@
             "channel": "Kajal Soni",
             "thumbnail": "https://i.ytimg.com/vi/wCe_4PG3eYQ/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=wCe_4PG3eYQ",
-            "views": 8188345,
-            "age_hours": 75.5
-          }
-        ]
-      },
-      {
-        "phrase": "br ranked",
-        "video_count": 2,
-        "momentum": 12.2,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "b17vyz16Pao",
-            "title": "500+ Kills in Br Ranked 😎 Tonde Gamer",
-            "channel": "Tonde Gamer",
-            "thumbnail": "https://i.ytimg.com/vi/b17vyz16Pao/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=b17vyz16Pao",
-            "views": 679195,
-            "age_hours": 29.1
-          },
-          {
-            "id": "QjVTIDONtA0",
-            "title": "🌿FREE FIRE LIVE🌿PLAYING BR-RANKED😎2X AWM SPEED GAME PLAY 🎮🎯 ON LIVE - GARENA FREE FIRE",
-            "channel": "DAD I AM OK GAMING",
-            "thumbnail": "https://i.ytimg.com/vi/QjVTIDONtA0/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=QjVTIDONtA0",
-            "views": 336930,
-            "age_hours": 11.0
-          }
-        ]
-      },
-      {
-        "phrase": "shorts ytshorts",
-        "video_count": 2,
-        "momentum": 11.91,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "CbeiRwPwX58",
-            "title": "🔥Indian things💯😂husband vs wife alaparaigal #comedy #funny #short #shorts #ytshorts #fun",
-            "channel": "Réji Jóhn💜VLOGS",
-            "thumbnail": "https://i.ytimg.com/vi/CbeiRwPwX58/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=CbeiRwPwX58",
-            "views": 10342418,
-            "age_hours": 190.4
-          },
-          {
-            "id": "lhEF0MPkwSw",
-            "title": "Toy Thar Or Real Thar 😱 #shorts #ytshorts #viralvideo #thar",
-            "channel": "Nishu jeet aarya",
-            "thumbnail": "https://i.ytimg.com/vi/lhEF0MPkwSw/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=lhEF0MPkwSw",
-            "views": 1633232,
-            "age_hours": 43.0
+            "views": 8905253,
+            "age_hours": 80.7
           }
         ]
       },
       {
         "phrase": "iphone pro",
         "video_count": 2,
-        "momentum": 10.61,
+        "momentum": 10.56,
         "regions": [
           "IN"
         ],
@@ -1637,8 +1579,8 @@
             "channel": "Tamil Tech - MrTT",
             "thumbnail": "https://i.ytimg.com/vi/P8E8uZBvrnU/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=P8E8uZBvrnU",
-            "views": 338597,
-            "age_hours": 52.6
+            "views": 346518,
+            "age_hours": 57.8
           },
           {
             "id": "7hVIoiAyZdU",
@@ -1646,460 +1588,17 @@
             "channel": "VaasuTechVlogs",
             "thumbnail": "https://i.ytimg.com/vi/7hVIoiAyZdU/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=7hVIoiAyZdU",
-            "views": 886456,
-            "age_hours": 354.7
+            "views": 887700,
+            "age_hours": 359.9
           }
         ]
       }
     ],
-    "BR": [
-      {
-        "phrase": "vingadores",
-        "video_count": 5,
-        "momentum": 26.4,
-        "regions": [
-          "BR"
-        ],
-        "lang": "pt",
-        "example_videos": [
-          {
-            "id": "TcBtFtkQFiU",
-            "title": "Vingadores: Doutor Destino | Trailer Oficial Dublado",
-            "channel": "Marvel Brasil",
-            "thumbnail": "https://i.ytimg.com/vi/TcBtFtkQFiU/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=TcBtFtkQFiU",
-            "views": 1109804,
-            "age_hours": 17.7
-          },
-          {
-            "id": "PXpixxq-sXk",
-            "title": "TRAILER: VINGADORES DOOMSDAY",
-            "channel": "Ei Nerd",
-            "thumbnail": "https://i.ytimg.com/vi/PXpixxq-sXk/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=PXpixxq-sXk",
-            "views": 503174,
-            "age_hours": 8.8
-          },
-          {
-            "id": "OEg8kMS6UG4",
-            "title": "EXPLICADO! VINGADORES DOOMSDAY TRAILER OFICIAL (DETALHES + REFERÊNCIAS + EASTER EGGS)",
-            "channel": "Nerd Land",
-            "thumbnail": "https://i.ytimg.com/vi/OEg8kMS6UG4/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=OEg8kMS6UG4",
-            "views": 140476,
-            "age_hours": 10.4
-          }
-        ]
-      },
-      {
-        "phrase": "primeiro",
-        "video_count": 4,
-        "momentum": 20.0,
-        "regions": [
-          "BR"
-        ],
-        "lang": "pt",
-        "example_videos": [
-          {
-            "id": "P0oEpJc_2YU",
-            "title": "Gêmeas Testam a Mãe... Quem Ela Atendeu Primeiro? 😱❤️ #shorts",
-            "channel": "Rise Hope",
-            "thumbnail": "https://i.ytimg.com/vi/P0oEpJc_2YU/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=P0oEpJc_2YU",
-            "views": 1731179,
-            "age_hours": 44.9
-          },
-          {
-            "id": "2tMp-JSm4o4",
-            "title": "POV: QUANDO EU ACHO QUE VOU SER O PRIMEIRO A RECEBER O BOLO DE ANIVERSÁRIO",
-            "channel": "Luís Augusto",
-            "thumbnail": "https://i.ytimg.com/vi/2tMp-JSm4o4/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=2tMp-JSm4o4",
-            "views": 3889195,
-            "age_hours": 107.4
-          },
-          {
-            "id": "fMO2MvPCROw",
-            "title": "O novo tratador não durou nem o primeiro dia…😂 #animais #memes  #viral #shorts #selvagem #leão #leoa",
-            "channel": "NexBr",
-            "thumbnail": "https://i.ytimg.com/vi/fMO2MvPCROw/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=fMO2MvPCROw",
-            "views": 1813296,
-            "age_hours": 81.5
-          }
-        ]
-      },
-      {
-        "phrase": "vingadores doomsday",
-        "video_count": 3,
-        "momentum": 19.63,
-        "regions": [
-          "BR"
-        ],
-        "lang": "pt",
-        "example_videos": [
-          {
-            "id": "PXpixxq-sXk",
-            "title": "TRAILER: VINGADORES DOOMSDAY",
-            "channel": "Ei Nerd",
-            "thumbnail": "https://i.ytimg.com/vi/PXpixxq-sXk/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=PXpixxq-sXk",
-            "views": 503174,
-            "age_hours": 8.8
-          },
-          {
-            "id": "OEg8kMS6UG4",
-            "title": "EXPLICADO! VINGADORES DOOMSDAY TRAILER OFICIAL (DETALHES + REFERÊNCIAS + EASTER EGGS)",
-            "channel": "Nerd Land",
-            "thumbnail": "https://i.ytimg.com/vi/OEg8kMS6UG4/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=OEg8kMS6UG4",
-            "views": 140476,
-            "age_hours": 10.4
-          },
-          {
-            "id": "o1TH_gyko7k",
-            "title": "SAIU!!! TRAILER OFICIAL DE VINGADORES DOOMSDAY ANÁLISE COMPLETA",
-            "channel": "Miguel Lokia",
-            "thumbnail": "https://i.ytimg.com/vi/o1TH_gyko7k/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=o1TH_gyko7k",
-            "views": 154088,
-            "age_hours": 17.9
-          }
-        ]
-      },
-      {
-        "phrase": "mundo",
-        "video_count": 4,
-        "momentum": 19.31,
-        "regions": [
-          "BR"
-        ],
-        "lang": "pt",
-        "example_videos": [
-          {
-            "id": "ZGq07oRwAW8",
-            "title": "FAZENDO ENCONTRO MAIS RÁPIDO DO MUNDO ...",
-            "channel": "Emilly Vick",
-            "thumbnail": "https://i.ytimg.com/vi/ZGq07oRwAW8/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=ZGq07oRwAW8",
-            "views": 6333563,
-            "age_hours": 131.1
-          },
-          {
-            "id": "CnJ2ZXVy_Wk",
-            "title": "VIREI JUIZ PARA CORRIGIR A COPA DO MUNDO!",
-            "channel": "Felipe Neto Joga",
-            "thumbnail": "https://i.ytimg.com/vi/CnJ2ZXVy_Wk/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=CnJ2ZXVy_Wk",
-            "views": 383671,
-            "age_hours": 19.1
-          },
-          {
-            "id": "XUvj-qDaclA",
-            "title": "ESPANHA vs ARGENTINA DIVIDINDO COISAS DA COPA DO MUNDO !!! #shorts #shortvideo",
-            "channel": "Figuritalo",
-            "thumbnail": "https://i.ytimg.com/vi/XUvj-qDaclA/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=XUvj-qDaclA",
-            "views": 1050819,
-            "age_hours": 41.0
-          }
-        ]
-      },
-      {
-        "phrase": "copa",
-        "video_count": 4,
-        "momentum": 18.71,
-        "regions": [
-          "BR"
-        ],
-        "lang": "pt",
-        "example_videos": [
-          {
-            "id": "CnJ2ZXVy_Wk",
-            "title": "VIREI JUIZ PARA CORRIGIR A COPA DO MUNDO!",
-            "channel": "Felipe Neto Joga",
-            "thumbnail": "https://i.ytimg.com/vi/CnJ2ZXVy_Wk/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=CnJ2ZXVy_Wk",
-            "views": 383671,
-            "age_hours": 19.1
-          },
-          {
-            "id": "mEuMdvFblCM",
-            "title": "As figurinhas da Argentina na Copa são assim?",
-            "channel": "Bruttus",
-            "thumbnail": "https://i.ytimg.com/vi/mEuMdvFblCM/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=mEuMdvFblCM",
-            "views": 5853876,
-            "age_hours": 155.0
-          },
-          {
-            "id": "XUvj-qDaclA",
-            "title": "ESPANHA vs ARGENTINA DIVIDINDO COISAS DA COPA DO MUNDO !!! #shorts #shortvideo",
-            "channel": "Figuritalo",
-            "thumbnail": "https://i.ytimg.com/vi/XUvj-qDaclA/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=XUvj-qDaclA",
-            "views": 1050819,
-            "age_hours": 41.0
-          }
-        ]
-      },
-      {
-        "phrase": "viral",
-        "video_count": 4,
-        "momentum": 18.16,
-        "regions": [
-          "BR"
-        ],
-        "lang": "pt",
-        "example_videos": [
-          {
-            "id": "fMO2MvPCROw",
-            "title": "O novo tratador não durou nem o primeiro dia…😂 #animais #memes  #viral #shorts #selvagem #leão #leoa",
-            "channel": "NexBr",
-            "thumbnail": "https://i.ytimg.com/vi/fMO2MvPCROw/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=fMO2MvPCROw",
-            "views": 1813296,
-            "age_hours": 81.5
-          },
-          {
-            "id": "lhQuWbNWwIs",
-            "title": "Quando o filho quer aprender o tam tam #viral #viralvideo #viralshorts #comedia",
-            "channel": "Leandro bom sucesso",
-            "thumbnail": "https://i.ytimg.com/vi/lhQuWbNWwIs/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=lhQuWbNWwIs",
-            "views": 4142204,
-            "age_hours": 178.5
-          },
-          {
-            "id": "D4Fe-dqP-d0",
-            "title": "Festa em família rende cena que fez todo mundo cair na risada!! #viral",
-            "channel": "MyHood",
-            "thumbnail": "https://i.ytimg.com/vi/D4Fe-dqP-d0/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=D4Fe-dqP-d0",
-            "views": 1642658,
-            "age_hours": 86.1
-          }
-        ]
-      },
-      {
-        "phrase": "celular",
-        "video_count": 4,
-        "momentum": 17.51,
-        "regions": [
-          "BR"
-        ],
-        "lang": "pt",
-        "example_videos": [
-          {
-            "id": "51y_sUE5miI",
-            "title": "Que PORR* de CELULAR é ESSE??? #shorts",
-            "channel": "Top! Tech",
-            "thumbnail": "https://i.ytimg.com/vi/51y_sUE5miI/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=51y_sUE5miI",
-            "views": 98313,
-            "age_hours": 9.7
-          },
-          {
-            "id": "-DNG25zY-Bk",
-            "title": "REVIEW: Lente Anti Reflexo para Celular",
-            "channel": "Almanaque SOS",
-            "thumbnail": "https://i.ytimg.com/vi/-DNG25zY-Bk/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=-DNG25zY-Bk",
-            "views": 772176,
-            "age_hours": 107.3
-          },
-          {
-            "id": "JpVYZ03vBXk",
-            "title": "😱📱O CELULAR Caiu na água? Esse SOM tira a água do celular 🎀❤️",
-            "channel": "Daphne & Co",
-            "thumbnail": "https://i.ytimg.com/vi/JpVYZ03vBXk/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=JpVYZ03vBXk",
-            "views": 152973,
-            "age_hours": 41.0
-          }
-        ]
-      },
-      {
-        "phrase": "vingadores doutor destino",
-        "video_count": 2,
-        "momentum": 16.03,
-        "regions": [
-          "BR"
-        ],
-        "lang": "pt",
-        "example_videos": [
-          {
-            "id": "TcBtFtkQFiU",
-            "title": "Vingadores: Doutor Destino | Trailer Oficial Dublado",
-            "channel": "Marvel Brasil",
-            "thumbnail": "https://i.ytimg.com/vi/TcBtFtkQFiU/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=TcBtFtkQFiU",
-            "views": 1109804,
-            "age_hours": 17.7
-          },
-          {
-            "id": "IqNdZROkQLo",
-            "title": "VINGADORES 5: DOUTOR DESTINO Trailer Dublado Oficial (2026)",
-            "channel": "ONE Media Brasil",
-            "thumbnail": "https://i.ytimg.com/vi/IqNdZROkQLo/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=IqNdZROkQLo",
-            "views": 181658,
-            "age_hours": 17.6
-          }
-        ]
-      },
-      {
-        "phrase": "doutor destino trailer",
-        "video_count": 2,
-        "momentum": 16.03,
-        "regions": [
-          "BR"
-        ],
-        "lang": "pt",
-        "example_videos": [
-          {
-            "id": "TcBtFtkQFiU",
-            "title": "Vingadores: Doutor Destino | Trailer Oficial Dublado",
-            "channel": "Marvel Brasil",
-            "thumbnail": "https://i.ytimg.com/vi/TcBtFtkQFiU/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=TcBtFtkQFiU",
-            "views": 1109804,
-            "age_hours": 17.7
-          },
-          {
-            "id": "IqNdZROkQLo",
-            "title": "VINGADORES 5: DOUTOR DESTINO Trailer Dublado Oficial (2026)",
-            "channel": "ONE Media Brasil",
-            "thumbnail": "https://i.ytimg.com/vi/IqNdZROkQLo/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=IqNdZROkQLo",
-            "views": 181658,
-            "age_hours": 17.6
-          }
-        ]
-      },
-      {
-        "phrase": "homem aranha",
-        "video_count": 2,
-        "momentum": 12.3,
-        "regions": [
-          "BR"
-        ],
-        "lang": "pt",
-        "example_videos": [
-          {
-            "id": "Ep_cJa49KQY",
-            "title": "♪ Spider-Noir (Homem-Aranha) | Whisky & Teias | AniRap, @TakaB e @AnnyTHN",
-            "channel": "AniRap",
-            "thumbnail": "https://i.ytimg.com/vi/Ep_cJa49KQY/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=Ep_cJa49KQY",
-            "views": 278878,
-            "age_hours": 38.1
-          },
-          {
-            "id": "W6mCdUHY9SM",
-            "title": "O Homem-Aranha percebeu que as pessoas o amavam🔥 #filme",
-            "channel": "Tesouro do Cinema",
-            "thumbnail": "https://i.ytimg.com/vi/W6mCdUHY9SM/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=W6mCdUHY9SM",
-            "views": 4126366,
-            "age_hours": 160.4
-          }
-        ]
-      },
-      {
-        "phrase": "copa mundo",
-        "video_count": 2,
-        "momentum": 12.03,
-        "regions": [
-          "BR"
-        ],
-        "lang": "pt",
-        "example_videos": [
-          {
-            "id": "CnJ2ZXVy_Wk",
-            "title": "VIREI JUIZ PARA CORRIGIR A COPA DO MUNDO!",
-            "channel": "Felipe Neto Joga",
-            "thumbnail": "https://i.ytimg.com/vi/CnJ2ZXVy_Wk/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=CnJ2ZXVy_Wk",
-            "views": 383671,
-            "age_hours": 19.1
-          },
-          {
-            "id": "XUvj-qDaclA",
-            "title": "ESPANHA vs ARGENTINA DIVIDINDO COISAS DA COPA DO MUNDO !!! #shorts #shortvideo",
-            "channel": "Figuritalo",
-            "thumbnail": "https://i.ytimg.com/vi/XUvj-qDaclA/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=XUvj-qDaclA",
-            "views": 1050819,
-            "age_hours": 41.0
-          }
-        ]
-      },
-      {
-        "phrase": "hospital animais",
-        "video_count": 2,
-        "momentum": 11.69,
-        "regions": [
-          "BR"
-        ],
-        "lang": "pt",
-        "example_videos": [
-          {
-            "id": "bm7ty_D8CPs",
-            "title": "CRIEI NOVAS ANOMALIAS SECRETAS NO HOSPITAL DE ANIMAIS",
-            "channel": "Pabllym GO!",
-            "thumbnail": "https://i.ytimg.com/vi/bm7ty_D8CPs/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=bm7ty_D8CPs",
-            "views": 223167,
-            "age_hours": 18.6
-          },
-          {
-            "id": "zlPOMHQIyII",
-            "title": "ESCAPE DA PRISÃO DO HOSPITAL DE ANIMAIS NO ROBLOX",
-            "channel": "Amy Scarletona",
-            "thumbnail": "https://i.ytimg.com/vi/zlPOMHQIyII/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=zlPOMHQIyII",
-            "views": 101319,
-            "age_hours": 9.1
-          }
-        ]
-      },
-      {
-        "phrase": "ryan sp",
-        "video_count": 2,
-        "momentum": 10.18,
-        "regions": [
-          "BR"
-        ],
-        "lang": "pt",
-        "example_videos": [
-          {
-            "id": "Un-zqOuYXT0",
-            "title": "Notificação No Tela - MC's Ryan SP, Meno K, GP, Lele JP & Boladin 211 (DJ Japa NK e DJ Will TN)",
-            "channel": "MC MENO K",
-            "thumbnail": "https://i.ytimg.com/vi/Un-zqOuYXT0/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=Un-zqOuYXT0",
-            "views": 43981,
-            "age_hours": 10.1
-          },
-          {
-            "id": "tk4qq6joKQM",
-            "title": "Separa e Volta - MC Vine7, MC Tuto, MC Ryan SP, MC Joãozinho VT e MC Poze do Rodo (DJ Gu)",
-            "channel": "MC Vine7",
-            "thumbnail": "https://i.ytimg.com/vi/tk4qq6joKQM/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=tk4qq6joKQM",
-            "views": 258930,
-            "age_hours": 38.1
-          }
-        ]
-      }
-    ],
-    "CA": [],
     "GB": [
       {
         "phrase": "british",
         "video_count": 5,
-        "momentum": 22.53,
+        "momentum": 22.46,
         "regions": [
           "GB"
         ],
@@ -2111,8 +1610,8 @@
             "channel": "UNFAZED WARRIORS",
             "thumbnail": "https://i.ytimg.com/vi/oTknNEDXBK0/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=oTknNEDXBK0",
-            "views": 5539336,
-            "age_hours": 154.2
+            "views": 5580616,
+            "age_hours": 159.3
           },
           {
             "id": "jcNbC03fXW8",
@@ -2120,8 +1619,8 @@
             "channel": "NovaCine",
             "thumbnail": "https://i.ytimg.com/vi/jcNbC03fXW8/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=jcNbC03fXW8",
-            "views": 3107488,
-            "age_hours": 116.0
+            "views": 3314553,
+            "age_hours": 121.2
           },
           {
             "id": "Cd-Y5VPreXM",
@@ -2129,15 +1628,15 @@
             "channel": "Bright Starz ",
             "thumbnail": "https://i.ytimg.com/vi/Cd-Y5VPreXM/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=Cd-Y5VPreXM",
-            "views": 1813824,
-            "age_hours": 113.7
+            "views": 2016580,
+            "age_hours": 118.9
           }
         ]
       },
       {
         "phrase": "london",
-        "video_count": 4,
-        "momentum": 15.08,
+        "video_count": 5,
+        "momentum": 18.13,
         "regions": [
           "GB"
         ],
@@ -2149,8 +1648,8 @@
             "channel": "livvy dimartino",
             "thumbnail": "https://i.ytimg.com/vi/E3efA7gPKr8/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=E3efA7gPKr8",
-            "views": 29920,
-            "age_hours": 15.1
+            "views": 39629,
+            "age_hours": 20.3
           },
           {
             "id": "MKkVhNlGj3Q",
@@ -2158,8 +1657,8 @@
             "channel": "Kat Clark",
             "thumbnail": "https://i.ytimg.com/vi/MKkVhNlGj3Q/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=MKkVhNlGj3Q",
-            "views": 304504,
-            "age_hours": 147.4
+            "views": 306512,
+            "age_hours": 152.5
           },
           {
             "id": "YO6leutukQQ",
@@ -2167,15 +1666,15 @@
             "channel": "Jo Good - MiddleAgedMinx",
             "thumbnail": "https://i.ytimg.com/vi/YO6leutukQQ/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=YO6leutukQQ",
-            "views": 37487,
-            "age_hours": 47.1
+            "views": 38237,
+            "age_hours": 52.3
           }
         ]
       },
       {
         "phrase": "avengers doomsday official",
         "video_count": 2,
-        "momentum": 14.12,
+        "momentum": 13.84,
         "regions": [
           "GB"
         ],
@@ -2187,8 +1686,8 @@
             "channel": "Blind Wave",
             "thumbnail": "https://i.ytimg.com/vi/18uFT__WI2U/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=18uFT__WI2U",
-            "views": 279903,
-            "age_hours": 15.5
+            "views": 303348,
+            "age_hours": 20.6
           },
           {
             "id": "4Pnt4njqpt0",
@@ -2196,15 +1695,15 @@
             "channel": "KinoCheck.com",
             "thumbnail": "https://i.ytimg.com/vi/4Pnt4njqpt0/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=4Pnt4njqpt0",
-            "views": 377367,
-            "age_hours": 18.9
+            "views": 428311,
+            "age_hours": 24.1
           }
         ]
       },
       {
         "phrase": "doomsday official trailer",
         "video_count": 2,
-        "momentum": 14.12,
+        "momentum": 13.84,
         "regions": [
           "GB"
         ],
@@ -2216,8 +1715,8 @@
             "channel": "Blind Wave",
             "thumbnail": "https://i.ytimg.com/vi/18uFT__WI2U/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=18uFT__WI2U",
-            "views": 279903,
-            "age_hours": 15.5
+            "views": 303348,
+            "age_hours": 20.6
           },
           {
             "id": "4Pnt4njqpt0",
@@ -2225,258 +1724,18 @@
             "channel": "KinoCheck.com",
             "thumbnail": "https://i.ytimg.com/vi/4Pnt4njqpt0/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=4Pnt4njqpt0",
-            "views": 377367,
-            "age_hours": 18.9
-          }
-        ]
-      },
-      {
-        "phrase": "meccha chameleon",
-        "video_count": 2,
-        "momentum": 10.1,
-        "regions": [
-          "GB"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "E5LdRUqfOkA",
-            "title": "BOYS VS GIRLS MECCHA CHAMELEON",
-            "channel": "Lachlan",
-            "thumbnail": "https://i.ytimg.com/vi/E5LdRUqfOkA/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=E5LdRUqfOkA",
-            "views": 157163,
-            "age_hours": 21.0
-          },
-          {
-            "id": "1j2ohJ39rJM",
-            "title": "We Played Meccha Chameleon... But It's A Supermarket",
-            "channel": "ZerkaaPlays",
-            "thumbnail": "https://i.ytimg.com/vi/1j2ohJ39rJM/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=1j2ohJ39rJM",
-            "views": 65476,
-            "age_hours": 12.1
+            "views": 428311,
+            "age_hours": 24.1
           }
         ]
       }
     ],
-    "DE": [
-      {
-        "phrase": "avengers doomsday",
-        "video_count": 4,
-        "momentum": 22.05,
-        "regions": [
-          "DE"
-        ],
-        "lang": "de",
-        "example_videos": [
-          {
-            "id": "GKVUZvWk6Aw",
-            "title": "AVENGERS 5: Doomsday Trailer German Deutsch (2026) Marvel",
-            "channel": "KinoCheck",
-            "thumbnail": "https://i.ytimg.com/vi/GKVUZvWk6Aw/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=GKVUZvWk6Aw",
-            "views": 474331,
-            "age_hours": 18.0
-          },
-          {
-            "id": "YIpMgIOK3wU",
-            "title": "Au Weia... Avengers: Doomsday  - Meine Gedanken zum ersten Trailer",
-            "channel": "BelYves",
-            "thumbnail": "https://i.ytimg.com/vi/YIpMgIOK3wU/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=YIpMgIOK3wU",
-            "views": 84375,
-            "age_hours": 16.9
-          },
-          {
-            "id": "RsAuLfkM_7w",
-            "title": "AVENGERS 5: DOOMSDAY Trailer German Deutsch (2026)",
-            "channel": "Robert Hofmann",
-            "thumbnail": "https://i.ytimg.com/vi/RsAuLfkM_7w/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=RsAuLfkM_7w",
-            "views": 37644,
-            "age_hours": 18.0
-          }
-        ]
-      },
-      {
-        "phrase": "avengers doomsday trailer",
-        "video_count": 3,
-        "momentum": 19.45,
-        "regions": [
-          "DE"
-        ],
-        "lang": "de",
-        "example_videos": [
-          {
-            "id": "GKVUZvWk6Aw",
-            "title": "AVENGERS 5: Doomsday Trailer German Deutsch (2026) Marvel",
-            "channel": "KinoCheck",
-            "thumbnail": "https://i.ytimg.com/vi/GKVUZvWk6Aw/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=GKVUZvWk6Aw",
-            "views": 474331,
-            "age_hours": 18.0
-          },
-          {
-            "id": "RsAuLfkM_7w",
-            "title": "AVENGERS 5: DOOMSDAY Trailer German Deutsch (2026)",
-            "channel": "Robert Hofmann",
-            "thumbnail": "https://i.ytimg.com/vi/RsAuLfkM_7w/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=RsAuLfkM_7w",
-            "views": 37644,
-            "age_hours": 18.0
-          },
-          {
-            "id": "gaI2bo4mKqI",
-            "title": "Avengers Doomsday: Trailer Reaction & Steve Rogers Theorie",
-            "channel": "FilmFlash",
-            "thumbnail": "https://i.ytimg.com/vi/gaI2bo4mKqI/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=gaI2bo4mKqI",
-            "views": 17493,
-            "age_hours": 15.7
-          }
-        ]
-      },
-      {
-        "phrase": "comedy",
-        "video_count": 4,
-        "momentum": 17.05,
-        "regions": [
-          "DE"
-        ],
-        "lang": "de",
-        "example_videos": [
-          {
-            "id": "Y5oAS8gIAYs",
-            "title": "Pov: Schule fertig 😍 #comedy #lustig #schule #zeugnis #parodie",
-            "channel": "ISI",
-            "thumbnail": "https://i.ytimg.com/vi/Y5oAS8gIAYs/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=Y5oAS8gIAYs",
-            "views": 906947,
-            "age_hours": 93.5
-          },
-          {
-            "id": "t_yl0hpnRLM",
-            "title": "Omg JEDES Team hat DESWEGEN PECH?!😳😭⚽️ #marvintsp #comedy #wm2026 #fußball #messi",
-            "channel": "marvintsp",
-            "thumbnail": "https://i.ytimg.com/vi/t_yl0hpnRLM/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=t_yl0hpnRLM",
-            "views": 1494933,
-            "age_hours": 116.7
-          },
-          {
-            "id": "B5VztEQpvME",
-            "title": "JeNiSP Comedy 😂 #shorts #short #JeNiSPComedy",
-            "channel": "JeNiSP Comedy",
-            "thumbnail": "https://i.ytimg.com/vi/B5VztEQpvME/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=B5VztEQpvME",
-            "views": 1008769,
-            "age_hours": 116.1
-          }
-        ]
-      },
-      {
-        "phrase": "doomsday trailer german",
-        "video_count": 2,
-        "momentum": 13.62,
-        "regions": [
-          "DE"
-        ],
-        "lang": "de",
-        "example_videos": [
-          {
-            "id": "GKVUZvWk6Aw",
-            "title": "AVENGERS 5: Doomsday Trailer German Deutsch (2026) Marvel",
-            "channel": "KinoCheck",
-            "thumbnail": "https://i.ytimg.com/vi/GKVUZvWk6Aw/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=GKVUZvWk6Aw",
-            "views": 474331,
-            "age_hours": 18.0
-          },
-          {
-            "id": "RsAuLfkM_7w",
-            "title": "AVENGERS 5: DOOMSDAY Trailer German Deutsch (2026)",
-            "channel": "Robert Hofmann",
-            "thumbnail": "https://i.ytimg.com/vi/RsAuLfkM_7w/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=RsAuLfkM_7w",
-            "views": 37644,
-            "age_hours": 18.0
-          }
-        ]
-      },
-      {
-        "phrase": "trailer german deutsch",
-        "video_count": 2,
-        "momentum": 13.62,
-        "regions": [
-          "DE"
-        ],
-        "lang": "de",
-        "example_videos": [
-          {
-            "id": "GKVUZvWk6Aw",
-            "title": "AVENGERS 5: Doomsday Trailer German Deutsch (2026) Marvel",
-            "channel": "KinoCheck",
-            "thumbnail": "https://i.ytimg.com/vi/GKVUZvWk6Aw/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=GKVUZvWk6Aw",
-            "views": 474331,
-            "age_hours": 18.0
-          },
-          {
-            "id": "RsAuLfkM_7w",
-            "title": "AVENGERS 5: DOOMSDAY Trailer German Deutsch (2026)",
-            "channel": "Robert Hofmann",
-            "thumbnail": "https://i.ytimg.com/vi/RsAuLfkM_7w/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=RsAuLfkM_7w",
-            "views": 37644,
-            "age_hours": 18.0
-          }
-        ]
-      }
-    ],
-    "ALL": [
-      {
-        "phrase": "avengers doomsday",
-        "video_count": 4,
-        "momentum": 29.22,
-        "regions": [
-          "US"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "irVNGjRFZGk",
-            "title": "Avengers: Doomsday | Official Trailer | In Theaters December 18",
-            "channel": "Marvel Entertainment",
-            "thumbnail": "https://i.ytimg.com/vi/irVNGjRFZGk/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=irVNGjRFZGk",
-            "views": 33284947,
-            "age_hours": 19.1
-          },
-          {
-            "id": "Nx-e-AaCNPE",
-            "title": "AVENGERS DOOMSDAY TRAILER BREAKDOWN! Easter Eggs & Details You Missed!",
-            "channel": "New Rockstars",
-            "thumbnail": "https://i.ytimg.com/vi/Nx-e-AaCNPE/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=Nx-e-AaCNPE",
-            "views": 719348,
-            "age_hours": 8.3
-          },
-          {
-            "id": "ydssj556GIQ",
-            "title": "Avengers: Doomsday - Official Trailer (My Thoughts)",
-            "channel": "Jeremy Jahns",
-            "thumbnail": "https://i.ytimg.com/vi/ydssj556GIQ/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=ydssj556GIQ",
-            "views": 328664,
-            "age_hours": 10.6
-          }
-        ]
-      },
+    "CA": [],
+    "BR": [
       {
         "phrase": "vingadores",
         "video_count": 5,
-        "momentum": 26.4,
+        "momentum": 25.83,
         "regions": [
           "BR"
         ],
@@ -2488,17 +1747,17 @@
             "channel": "Marvel Brasil",
             "thumbnail": "https://i.ytimg.com/vi/TcBtFtkQFiU/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=TcBtFtkQFiU",
-            "views": 1109804,
-            "age_hours": 17.7
+            "views": 1160174,
+            "age_hours": 22.9
           },
           {
             "id": "PXpixxq-sXk",
-            "title": "TRAILER: VINGADORES DOOMSDAY",
+            "title": "TRAILER: VINGADORES DOOMDAY [React e explicação]",
             "channel": "Ei Nerd",
             "thumbnail": "https://i.ytimg.com/vi/PXpixxq-sXk/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=PXpixxq-sXk",
-            "views": 503174,
-            "age_hours": 8.8
+            "views": 577189,
+            "age_hours": 14.0
           },
           {
             "id": "OEg8kMS6UG4",
@@ -2506,91 +1765,53 @@
             "channel": "Nerd Land",
             "thumbnail": "https://i.ytimg.com/vi/OEg8kMS6UG4/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=OEg8kMS6UG4",
-            "views": 140476,
-            "age_hours": 10.4
+            "views": 159108,
+            "age_hours": 15.6
           }
         ]
       },
       {
-        "phrase": "avengers doomsday trailer",
-        "video_count": 3,
-        "momentum": 24.05,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "cMp0-mSz0X8",
-            "title": "Avengers Doomsday Trailer Breakdown",
-            "channel": "ComicVerse",
-            "thumbnail": "https://i.ytimg.com/vi/cMp0-mSz0X8/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=cMp0-mSz0X8",
-            "views": 739706,
-            "age_hours": 13.9
-          },
-          {
-            "id": "Uoy7MGCEORM",
-            "title": "Avengers Doomsday trailer is an Absolute BANGER 🔥",
-            "channel": "BnfTV",
-            "thumbnail": "https://i.ytimg.com/vi/Uoy7MGCEORM/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=Uoy7MGCEORM",
-            "views": 591518,
-            "age_hours": 15.9
-          },
-          {
-            "id": "MnEVpud0Y6o",
-            "title": "Avengers Doomsday Trailer Review | Yogi Bolta Hai",
-            "channel": "YOGI BOLTA HAI",
-            "thumbnail": "https://i.ytimg.com/vi/MnEVpud0Y6o/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=MnEVpud0Y6o",
-            "views": 523579,
-            "age_hours": 16.7
-          }
-        ]
-      },
-      {
-        "phrase": "british",
+        "phrase": "viral",
         "video_count": 5,
-        "momentum": 22.53,
+        "momentum": 23.39,
         "regions": [
-          "GB"
+          "BR"
         ],
-        "lang": "en",
+        "lang": "pt",
         "example_videos": [
           {
-            "id": "oTknNEDXBK0",
-            "title": "British Food Is Better Than American Food?",
-            "channel": "UNFAZED WARRIORS",
-            "thumbnail": "https://i.ytimg.com/vi/oTknNEDXBK0/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=oTknNEDXBK0",
-            "views": 5539336,
-            "age_hours": 154.2
+            "id": "rSkUgMsC2XQ",
+            "title": "Tem que fingir que é malandro😂#mindset #motivação #inspiração #felicidade #viral #divertido #rir",
+            "channel": "Marco Morastoni ",
+            "thumbnail": "https://i.ytimg.com/vi/rSkUgMsC2XQ/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=rSkUgMsC2XQ",
+            "views": 743047,
+            "age_hours": 23.0
           },
           {
-            "id": "jcNbC03fXW8",
-            "title": "This kid said Millie Bobby Brown is so British she can smell her accent lmaoo",
-            "channel": "NovaCine",
-            "thumbnail": "https://i.ytimg.com/vi/jcNbC03fXW8/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=jcNbC03fXW8",
-            "views": 3107488,
-            "age_hours": 116.0
+            "id": "fMO2MvPCROw",
+            "title": "O novo tratador não durou nem o primeiro dia…😂 #animais #memes  #viral #shorts #selvagem #leão #leoa",
+            "channel": "NexBr",
+            "thumbnail": "https://i.ytimg.com/vi/fMO2MvPCROw/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=fMO2MvPCROw",
+            "views": 1920927,
+            "age_hours": 86.6
           },
           {
-            "id": "Cd-Y5VPreXM",
-            "title": "POV: This is Peak British Humour 🇬🇧😂 #britishcomedy #britishhumor #funnyshorts #comedyshorts #pov",
-            "channel": "Bright Starz ",
-            "thumbnail": "https://i.ytimg.com/vi/Cd-Y5VPreXM/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=Cd-Y5VPreXM",
-            "views": 1813824,
-            "age_hours": 113.7
+            "id": "lhQuWbNWwIs",
+            "title": "Quando o filho quer aprender o tam tam #viral #viralvideo #viralshorts #comedia",
+            "channel": "Leandro bom sucesso",
+            "thumbnail": "https://i.ytimg.com/vi/lhQuWbNWwIs/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=lhQuWbNWwIs",
+            "views": 4146326,
+            "age_hours": 183.6
           }
         ]
       },
       {
         "phrase": "primeiro",
         "video_count": 4,
-        "momentum": 20.0,
+        "momentum": 19.9,
         "regions": [
           "BR"
         ],
@@ -2602,8 +1823,8 @@
             "channel": "Rise Hope",
             "thumbnail": "https://i.ytimg.com/vi/P0oEpJc_2YU/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=P0oEpJc_2YU",
-            "views": 1731179,
-            "age_hours": 44.9
+            "views": 1741052,
+            "age_hours": 50.1
           },
           {
             "id": "2tMp-JSm4o4",
@@ -2611,8 +1832,8 @@
             "channel": "Luís Augusto",
             "thumbnail": "https://i.ytimg.com/vi/2tMp-JSm4o4/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=2tMp-JSm4o4",
-            "views": 3889195,
-            "age_hours": 107.4
+            "views": 3899289,
+            "age_hours": 112.5
           },
           {
             "id": "fMO2MvPCROw",
@@ -2620,53 +1841,15 @@
             "channel": "NexBr",
             "thumbnail": "https://i.ytimg.com/vi/fMO2MvPCROw/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=fMO2MvPCROw",
-            "views": 1813296,
-            "age_hours": 81.5
-          }
-        ]
-      },
-      {
-        "phrase": "vingadores doomsday",
-        "video_count": 3,
-        "momentum": 19.63,
-        "regions": [
-          "BR"
-        ],
-        "lang": "pt",
-        "example_videos": [
-          {
-            "id": "PXpixxq-sXk",
-            "title": "TRAILER: VINGADORES DOOMSDAY",
-            "channel": "Ei Nerd",
-            "thumbnail": "https://i.ytimg.com/vi/PXpixxq-sXk/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=PXpixxq-sXk",
-            "views": 503174,
-            "age_hours": 8.8
-          },
-          {
-            "id": "OEg8kMS6UG4",
-            "title": "EXPLICADO! VINGADORES DOOMSDAY TRAILER OFICIAL (DETALHES + REFERÊNCIAS + EASTER EGGS)",
-            "channel": "Nerd Land",
-            "thumbnail": "https://i.ytimg.com/vi/OEg8kMS6UG4/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=OEg8kMS6UG4",
-            "views": 140476,
-            "age_hours": 10.4
-          },
-          {
-            "id": "o1TH_gyko7k",
-            "title": "SAIU!!! TRAILER OFICIAL DE VINGADORES DOOMSDAY ANÁLISE COMPLETA",
-            "channel": "Miguel Lokia",
-            "thumbnail": "https://i.ytimg.com/vi/o1TH_gyko7k/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=o1TH_gyko7k",
-            "views": 154088,
-            "age_hours": 17.9
+            "views": 1920927,
+            "age_hours": 86.6
           }
         ]
       },
       {
         "phrase": "mundo",
         "video_count": 4,
-        "momentum": 19.31,
+        "momentum": 19.17,
         "regions": [
           "BR"
         ],
@@ -2678,8 +1861,8 @@
             "channel": "Emilly Vick",
             "thumbnail": "https://i.ytimg.com/vi/ZGq07oRwAW8/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=ZGq07oRwAW8",
-            "views": 6333563,
-            "age_hours": 131.1
+            "views": 6365941,
+            "age_hours": 136.3
           },
           {
             "id": "CnJ2ZXVy_Wk",
@@ -2687,8 +1870,8 @@
             "channel": "Felipe Neto Joga",
             "thumbnail": "https://i.ytimg.com/vi/CnJ2ZXVy_Wk/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=CnJ2ZXVy_Wk",
-            "views": 383671,
-            "age_hours": 19.1
+            "views": 395671,
+            "age_hours": 24.3
           },
           {
             "id": "XUvj-qDaclA",
@@ -2696,73 +1879,15 @@
             "channel": "Figuritalo",
             "thumbnail": "https://i.ytimg.com/vi/XUvj-qDaclA/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=XUvj-qDaclA",
-            "views": 1050819,
-            "age_hours": 41.0
-          }
-        ]
-      },
-      {
-        "phrase": "avengers doomsday official",
-        "video_count": 2,
-        "momentum": 19.01,
-        "regions": [
-          "US"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "irVNGjRFZGk",
-            "title": "Avengers: Doomsday | Official Trailer | In Theaters December 18",
-            "channel": "Marvel Entertainment",
-            "thumbnail": "https://i.ytimg.com/vi/irVNGjRFZGk/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=irVNGjRFZGk",
-            "views": 33284947,
-            "age_hours": 19.1
-          },
-          {
-            "id": "ydssj556GIQ",
-            "title": "Avengers: Doomsday - Official Trailer (My Thoughts)",
-            "channel": "Jeremy Jahns",
-            "thumbnail": "https://i.ytimg.com/vi/ydssj556GIQ/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=ydssj556GIQ",
-            "views": 328664,
-            "age_hours": 10.6
-          }
-        ]
-      },
-      {
-        "phrase": "doomsday official trailer",
-        "video_count": 2,
-        "momentum": 19.01,
-        "regions": [
-          "US"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "irVNGjRFZGk",
-            "title": "Avengers: Doomsday | Official Trailer | In Theaters December 18",
-            "channel": "Marvel Entertainment",
-            "thumbnail": "https://i.ytimg.com/vi/irVNGjRFZGk/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=irVNGjRFZGk",
-            "views": 33284947,
-            "age_hours": 19.1
-          },
-          {
-            "id": "ydssj556GIQ",
-            "title": "Avengers: Doomsday - Official Trailer (My Thoughts)",
-            "channel": "Jeremy Jahns",
-            "thumbnail": "https://i.ytimg.com/vi/ydssj556GIQ/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=ydssj556GIQ",
-            "views": 328664,
-            "age_hours": 10.6
+            "views": 1125505,
+            "age_hours": 46.2
           }
         ]
       },
       {
         "phrase": "copa",
         "video_count": 4,
-        "momentum": 18.71,
+        "momentum": 18.43,
         "regions": [
           "BR"
         ],
@@ -2774,8 +1899,8 @@
             "channel": "Felipe Neto Joga",
             "thumbnail": "https://i.ytimg.com/vi/CnJ2ZXVy_Wk/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=CnJ2ZXVy_Wk",
-            "views": 383671,
-            "age_hours": 19.1
+            "views": 395671,
+            "age_hours": 24.3
           },
           {
             "id": "mEuMdvFblCM",
@@ -2783,8 +1908,8 @@
             "channel": "Bruttus",
             "thumbnail": "https://i.ytimg.com/vi/mEuMdvFblCM/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=mEuMdvFblCM",
-            "views": 5853876,
-            "age_hours": 155.0
+            "views": 5872268,
+            "age_hours": 160.2
           },
           {
             "id": "XUvj-qDaclA",
@@ -2792,53 +1917,15 @@
             "channel": "Figuritalo",
             "thumbnail": "https://i.ytimg.com/vi/XUvj-qDaclA/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=XUvj-qDaclA",
-            "views": 1050819,
-            "age_hours": 41.0
-          }
-        ]
-      },
-      {
-        "phrase": "viral",
-        "video_count": 4,
-        "momentum": 18.16,
-        "regions": [
-          "BR"
-        ],
-        "lang": "pt",
-        "example_videos": [
-          {
-            "id": "fMO2MvPCROw",
-            "title": "O novo tratador não durou nem o primeiro dia…😂 #animais #memes  #viral #shorts #selvagem #leão #leoa",
-            "channel": "NexBr",
-            "thumbnail": "https://i.ytimg.com/vi/fMO2MvPCROw/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=fMO2MvPCROw",
-            "views": 1813296,
-            "age_hours": 81.5
-          },
-          {
-            "id": "lhQuWbNWwIs",
-            "title": "Quando o filho quer aprender o tam tam #viral #viralvideo #viralshorts #comedia",
-            "channel": "Leandro bom sucesso",
-            "thumbnail": "https://i.ytimg.com/vi/lhQuWbNWwIs/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=lhQuWbNWwIs",
-            "views": 4142204,
-            "age_hours": 178.5
-          },
-          {
-            "id": "D4Fe-dqP-d0",
-            "title": "Festa em família rende cena que fez todo mundo cair na risada!! #viral",
-            "channel": "MyHood",
-            "thumbnail": "https://i.ytimg.com/vi/D4Fe-dqP-d0/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=D4Fe-dqP-d0",
-            "views": 1642658,
-            "age_hours": 86.1
+            "views": 1125505,
+            "age_hours": 46.2
           }
         ]
       },
       {
         "phrase": "celular",
         "video_count": 4,
-        "momentum": 17.51,
+        "momentum": 17.38,
         "regions": [
           "BR"
         ],
@@ -2850,8 +1937,8 @@
             "channel": "Top! Tech",
             "thumbnail": "https://i.ytimg.com/vi/51y_sUE5miI/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=51y_sUE5miI",
-            "views": 98313,
-            "age_hours": 9.7
+            "views": 115065,
+            "age_hours": 14.9
           },
           {
             "id": "-DNG25zY-Bk",
@@ -2859,8 +1946,8 @@
             "channel": "Almanaque SOS",
             "thumbnail": "https://i.ytimg.com/vi/-DNG25zY-Bk/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=-DNG25zY-Bk",
-            "views": 772176,
-            "age_hours": 107.3
+            "views": 776980,
+            "age_hours": 112.5
           },
           {
             "id": "JpVYZ03vBXk",
@@ -2868,15 +1955,229 @@
             "channel": "Daphne & Co",
             "thumbnail": "https://i.ytimg.com/vi/JpVYZ03vBXk/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=JpVYZ03vBXk",
-            "views": 152973,
-            "age_hours": 41.0
+            "views": 153358,
+            "age_hours": 46.1
+          }
+        ]
+      },
+      {
+        "phrase": "vingadores doutor destino",
+        "video_count": 2,
+        "momentum": 15.69,
+        "regions": [
+          "BR"
+        ],
+        "lang": "pt",
+        "example_videos": [
+          {
+            "id": "TcBtFtkQFiU",
+            "title": "Vingadores: Doutor Destino | Trailer Oficial Dublado",
+            "channel": "Marvel Brasil",
+            "thumbnail": "https://i.ytimg.com/vi/TcBtFtkQFiU/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=TcBtFtkQFiU",
+            "views": 1160174,
+            "age_hours": 22.9
+          },
+          {
+            "id": "IqNdZROkQLo",
+            "title": "VINGADORES 5: DOUTOR DESTINO Trailer Dublado Oficial (2026)",
+            "channel": "ONE Media Brasil",
+            "thumbnail": "https://i.ytimg.com/vi/IqNdZROkQLo/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=IqNdZROkQLo",
+            "views": 187965,
+            "age_hours": 22.8
+          }
+        ]
+      },
+      {
+        "phrase": "doutor destino trailer",
+        "video_count": 2,
+        "momentum": 15.69,
+        "regions": [
+          "BR"
+        ],
+        "lang": "pt",
+        "example_videos": [
+          {
+            "id": "TcBtFtkQFiU",
+            "title": "Vingadores: Doutor Destino | Trailer Oficial Dublado",
+            "channel": "Marvel Brasil",
+            "thumbnail": "https://i.ytimg.com/vi/TcBtFtkQFiU/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=TcBtFtkQFiU",
+            "views": 1160174,
+            "age_hours": 22.9
+          },
+          {
+            "id": "IqNdZROkQLo",
+            "title": "VINGADORES 5: DOUTOR DESTINO Trailer Dublado Oficial (2026)",
+            "channel": "ONE Media Brasil",
+            "thumbnail": "https://i.ytimg.com/vi/IqNdZROkQLo/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=IqNdZROkQLo",
+            "views": 187965,
+            "age_hours": 22.8
+          }
+        ]
+      },
+      {
+        "phrase": "copa mundo",
+        "video_count": 2,
+        "momentum": 11.88,
+        "regions": [
+          "BR"
+        ],
+        "lang": "pt",
+        "example_videos": [
+          {
+            "id": "CnJ2ZXVy_Wk",
+            "title": "VIREI JUIZ PARA CORRIGIR A COPA DO MUNDO!",
+            "channel": "Felipe Neto Joga",
+            "thumbnail": "https://i.ytimg.com/vi/CnJ2ZXVy_Wk/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=CnJ2ZXVy_Wk",
+            "views": 395671,
+            "age_hours": 24.3
+          },
+          {
+            "id": "XUvj-qDaclA",
+            "title": "ESPANHA vs ARGENTINA DIVIDINDO COISAS DA COPA DO MUNDO !!! #shorts #shortvideo",
+            "channel": "Figuritalo",
+            "thumbnail": "https://i.ytimg.com/vi/XUvj-qDaclA/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=XUvj-qDaclA",
+            "views": 1125505,
+            "age_hours": 46.2
+          }
+        ]
+      },
+      {
+        "phrase": "vingadores doomsday",
+        "video_count": 2,
+        "momentum": 11.7,
+        "regions": [
+          "BR"
+        ],
+        "lang": "pt",
+        "example_videos": [
+          {
+            "id": "OEg8kMS6UG4",
+            "title": "EXPLICADO! VINGADORES DOOMSDAY TRAILER OFICIAL (DETALHES + REFERÊNCIAS + EASTER EGGS)",
+            "channel": "Nerd Land",
+            "thumbnail": "https://i.ytimg.com/vi/OEg8kMS6UG4/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=OEg8kMS6UG4",
+            "views": 159108,
+            "age_hours": 15.6
+          },
+          {
+            "id": "o1TH_gyko7k",
+            "title": "SAIU!!! TRAILER OFICIAL DE VINGADORES DOOMSDAY ANÁLISE COMPLETA",
+            "channel": "Miguel Lokia",
+            "thumbnail": "https://i.ytimg.com/vi/o1TH_gyko7k/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=o1TH_gyko7k",
+            "views": 156671,
+            "age_hours": 23.1
+          }
+        ]
+      },
+      {
+        "phrase": "hospital animais",
+        "video_count": 2,
+        "momentum": 11.39,
+        "regions": [
+          "BR"
+        ],
+        "lang": "pt",
+        "example_videos": [
+          {
+            "id": "bm7ty_D8CPs",
+            "title": "CRIEI NOVAS ANOMALIAS SECRETAS NO HOSPITAL DE ANIMAIS",
+            "channel": "Pabllym GO!",
+            "thumbnail": "https://i.ytimg.com/vi/bm7ty_D8CPs/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=bm7ty_D8CPs",
+            "views": 230082,
+            "age_hours": 23.8
+          },
+          {
+            "id": "zlPOMHQIyII",
+            "title": "ESCAPE DA PRISÃO DO HOSPITAL DE ANIMAIS NO ROBLOX",
+            "channel": "Amy Scarletona",
+            "thumbnail": "https://i.ytimg.com/vi/zlPOMHQIyII/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=zlPOMHQIyII",
+            "views": 115929,
+            "age_hours": 14.3
+          }
+        ]
+      },
+      {
+        "phrase": "ryan sp",
+        "video_count": 2,
+        "momentum": 9.98,
+        "regions": [
+          "BR"
+        ],
+        "lang": "pt",
+        "example_videos": [
+          {
+            "id": "Un-zqOuYXT0",
+            "title": "Notificação No Tela - MC's Ryan SP, Meno K, GP, Lele JP & Boladin 211 (DJ Japa NK e DJ Will TN)",
+            "channel": "MC MENO K",
+            "thumbnail": "https://i.ytimg.com/vi/Un-zqOuYXT0/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=Un-zqOuYXT0",
+            "views": 54179,
+            "age_hours": 15.3
+          },
+          {
+            "id": "tk4qq6joKQM",
+            "title": "Separa e Volta - MC Vine7, MC Tuto, MC Ryan SP, MC Joãozinho VT e MC Poze do Rodo (DJ Gu)",
+            "channel": "MC Vine7",
+            "thumbnail": "https://i.ytimg.com/vi/tk4qq6joKQM/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=tk4qq6joKQM",
+            "views": 267846,
+            "age_hours": 43.3
+          }
+        ]
+      }
+    ],
+    "DE": [
+      {
+        "phrase": "avengers doomsday",
+        "video_count": 4,
+        "momentum": 21.54,
+        "regions": [
+          "DE"
+        ],
+        "lang": "de",
+        "example_videos": [
+          {
+            "id": "GKVUZvWk6Aw",
+            "title": "AVENGERS 5: Doomsday Trailer German Deutsch (2026) Marvel",
+            "channel": "KinoCheck",
+            "thumbnail": "https://i.ytimg.com/vi/GKVUZvWk6Aw/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=GKVUZvWk6Aw",
+            "views": 553758,
+            "age_hours": 23.1
+          },
+          {
+            "id": "YIpMgIOK3wU",
+            "title": "Au Weia... Avengers: Doomsday  - Meine Gedanken zum ersten Trailer",
+            "channel": "BelYves",
+            "thumbnail": "https://i.ytimg.com/vi/YIpMgIOK3wU/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=YIpMgIOK3wU",
+            "views": 96697,
+            "age_hours": 22.1
+          },
+          {
+            "id": "RsAuLfkM_7w",
+            "title": "AVENGERS 5: DOOMSDAY Trailer German Deutsch (2026)",
+            "channel": "Robert Hofmann",
+            "thumbnail": "https://i.ytimg.com/vi/RsAuLfkM_7w/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=RsAuLfkM_7w",
+            "views": 42972,
+            "age_hours": 23.1
           }
         ]
       },
       {
         "phrase": "comedy",
-        "video_count": 4,
-        "momentum": 17.05,
+        "video_count": 5,
+        "momentum": 21.07,
         "regions": [
           "DE"
         ],
@@ -2888,8 +2189,8 @@
             "channel": "ISI",
             "thumbnail": "https://i.ytimg.com/vi/Y5oAS8gIAYs/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=Y5oAS8gIAYs",
-            "views": 906947,
-            "age_hours": 93.5
+            "views": 932905,
+            "age_hours": 98.7
           },
           {
             "id": "t_yl0hpnRLM",
@@ -2897,24 +2198,598 @@
             "channel": "marvintsp",
             "thumbnail": "https://i.ytimg.com/vi/t_yl0hpnRLM/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=t_yl0hpnRLM",
-            "views": 1494933,
-            "age_hours": 116.7
+            "views": 1541788,
+            "age_hours": 121.8
           },
           {
-            "id": "B5VztEQpvME",
-            "title": "JeNiSP Comedy 😂 #shorts #short #JeNiSPComedy",
-            "channel": "JeNiSP Comedy",
-            "thumbnail": "https://i.ytimg.com/vi/B5VztEQpvME/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=B5VztEQpvME",
-            "views": 1008769,
-            "age_hours": 116.1
+            "id": "M81nLcPjK08",
+            "title": "Götter wie wir | Jesus im Vatikan 2...  #comedy #götterwiewir #sketchhistory",
+            "channel": "Carsten Strauch",
+            "thumbnail": "https://i.ytimg.com/vi/M81nLcPjK08/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=M81nLcPjK08",
+            "views": 337069,
+            "age_hours": 54.2
+          }
+        ]
+      },
+      {
+        "phrase": "avengers doomsday trailer",
+        "video_count": 3,
+        "momentum": 19.0,
+        "regions": [
+          "DE"
+        ],
+        "lang": "de",
+        "example_videos": [
+          {
+            "id": "GKVUZvWk6Aw",
+            "title": "AVENGERS 5: Doomsday Trailer German Deutsch (2026) Marvel",
+            "channel": "KinoCheck",
+            "thumbnail": "https://i.ytimg.com/vi/GKVUZvWk6Aw/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=GKVUZvWk6Aw",
+            "views": 553758,
+            "age_hours": 23.1
+          },
+          {
+            "id": "RsAuLfkM_7w",
+            "title": "AVENGERS 5: DOOMSDAY Trailer German Deutsch (2026)",
+            "channel": "Robert Hofmann",
+            "thumbnail": "https://i.ytimg.com/vi/RsAuLfkM_7w/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=RsAuLfkM_7w",
+            "views": 42972,
+            "age_hours": 23.1
+          },
+          {
+            "id": "gaI2bo4mKqI",
+            "title": "Avengers Doomsday: Trailer Reaction & Steve Rogers Theorie",
+            "channel": "FilmFlash",
+            "thumbnail": "https://i.ytimg.com/vi/gaI2bo4mKqI/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=gaI2bo4mKqI",
+            "views": 21384,
+            "age_hours": 20.8
+          }
+        ]
+      },
+      {
+        "phrase": "doomsday trailer german",
+        "video_count": 2,
+        "momentum": 13.33,
+        "regions": [
+          "DE"
+        ],
+        "lang": "de",
+        "example_videos": [
+          {
+            "id": "GKVUZvWk6Aw",
+            "title": "AVENGERS 5: Doomsday Trailer German Deutsch (2026) Marvel",
+            "channel": "KinoCheck",
+            "thumbnail": "https://i.ytimg.com/vi/GKVUZvWk6Aw/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=GKVUZvWk6Aw",
+            "views": 553758,
+            "age_hours": 23.1
+          },
+          {
+            "id": "RsAuLfkM_7w",
+            "title": "AVENGERS 5: DOOMSDAY Trailer German Deutsch (2026)",
+            "channel": "Robert Hofmann",
+            "thumbnail": "https://i.ytimg.com/vi/RsAuLfkM_7w/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=RsAuLfkM_7w",
+            "views": 42972,
+            "age_hours": 23.1
+          }
+        ]
+      },
+      {
+        "phrase": "trailer german deutsch",
+        "video_count": 2,
+        "momentum": 13.33,
+        "regions": [
+          "DE"
+        ],
+        "lang": "de",
+        "example_videos": [
+          {
+            "id": "GKVUZvWk6Aw",
+            "title": "AVENGERS 5: Doomsday Trailer German Deutsch (2026) Marvel",
+            "channel": "KinoCheck",
+            "thumbnail": "https://i.ytimg.com/vi/GKVUZvWk6Aw/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=GKVUZvWk6Aw",
+            "views": 553758,
+            "age_hours": 23.1
+          },
+          {
+            "id": "RsAuLfkM_7w",
+            "title": "AVENGERS 5: DOOMSDAY Trailer German Deutsch (2026)",
+            "channel": "Robert Hofmann",
+            "thumbnail": "https://i.ytimg.com/vi/RsAuLfkM_7w/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=RsAuLfkM_7w",
+            "views": 42972,
+            "age_hours": 23.1
+          }
+        ]
+      }
+    ],
+    "ALL": [
+      {
+        "phrase": "avengers doomsday",
+        "video_count": 4,
+        "momentum": 28.6,
+        "regions": [
+          "US"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "irVNGjRFZGk",
+            "title": "Avengers: Doomsday | Official Trailer | In Theaters December 18",
+            "channel": "Marvel Entertainment",
+            "thumbnail": "https://i.ytimg.com/vi/irVNGjRFZGk/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=irVNGjRFZGk",
+            "views": 35873135,
+            "age_hours": 24.3
+          },
+          {
+            "id": "Nx-e-AaCNPE",
+            "title": "AVENGERS DOOMSDAY TRAILER BREAKDOWN! Easter Eggs & Details You Missed!",
+            "channel": "New Rockstars",
+            "thumbnail": "https://i.ytimg.com/vi/Nx-e-AaCNPE/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=Nx-e-AaCNPE",
+            "views": 1031566,
+            "age_hours": 13.4
+          },
+          {
+            "id": "ydssj556GIQ",
+            "title": "Avengers: Doomsday - Official Trailer (My Thoughts)",
+            "channel": "Jeremy Jahns",
+            "thumbnail": "https://i.ytimg.com/vi/ydssj556GIQ/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=ydssj556GIQ",
+            "views": 384260,
+            "age_hours": 15.7
+          }
+        ]
+      },
+      {
+        "phrase": "vingadores",
+        "video_count": 5,
+        "momentum": 25.83,
+        "regions": [
+          "BR"
+        ],
+        "lang": "pt",
+        "example_videos": [
+          {
+            "id": "TcBtFtkQFiU",
+            "title": "Vingadores: Doutor Destino | Trailer Oficial Dublado",
+            "channel": "Marvel Brasil",
+            "thumbnail": "https://i.ytimg.com/vi/TcBtFtkQFiU/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=TcBtFtkQFiU",
+            "views": 1160174,
+            "age_hours": 22.9
+          },
+          {
+            "id": "PXpixxq-sXk",
+            "title": "TRAILER: VINGADORES DOOMDAY [React e explicação]",
+            "channel": "Ei Nerd",
+            "thumbnail": "https://i.ytimg.com/vi/PXpixxq-sXk/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=PXpixxq-sXk",
+            "views": 577189,
+            "age_hours": 14.0
+          },
+          {
+            "id": "OEg8kMS6UG4",
+            "title": "EXPLICADO! VINGADORES DOOMSDAY TRAILER OFICIAL (DETALHES + REFERÊNCIAS + EASTER EGGS)",
+            "channel": "Nerd Land",
+            "thumbnail": "https://i.ytimg.com/vi/OEg8kMS6UG4/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=OEg8kMS6UG4",
+            "views": 159108,
+            "age_hours": 15.6
+          }
+        ]
+      },
+      {
+        "phrase": "avengers doomsday trailer",
+        "video_count": 3,
+        "momentum": 23.49,
+        "regions": [
+          "IN"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "cMp0-mSz0X8",
+            "title": "Avengers Doomsday Trailer Breakdown",
+            "channel": "ComicVerse",
+            "thumbnail": "https://i.ytimg.com/vi/cMp0-mSz0X8/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=cMp0-mSz0X8",
+            "views": 1058724,
+            "age_hours": 19.0
+          },
+          {
+            "id": "Uoy7MGCEORM",
+            "title": "Avengers Doomsday trailer is an Absolute BANGER 🔥",
+            "channel": "BnfTV",
+            "thumbnail": "https://i.ytimg.com/vi/Uoy7MGCEORM/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=Uoy7MGCEORM",
+            "views": 680314,
+            "age_hours": 21.1
+          },
+          {
+            "id": "MnEVpud0Y6o",
+            "title": "Avengers Doomsday Trailer Review | Yogi Bolta Hai",
+            "channel": "YOGI BOLTA HAI",
+            "thumbnail": "https://i.ytimg.com/vi/MnEVpud0Y6o/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=MnEVpud0Y6o",
+            "views": 592261,
+            "age_hours": 21.9
+          }
+        ]
+      },
+      {
+        "phrase": "viral",
+        "video_count": 5,
+        "momentum": 23.39,
+        "regions": [
+          "BR"
+        ],
+        "lang": "pt",
+        "example_videos": [
+          {
+            "id": "rSkUgMsC2XQ",
+            "title": "Tem que fingir que é malandro😂#mindset #motivação #inspiração #felicidade #viral #divertido #rir",
+            "channel": "Marco Morastoni ",
+            "thumbnail": "https://i.ytimg.com/vi/rSkUgMsC2XQ/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=rSkUgMsC2XQ",
+            "views": 743047,
+            "age_hours": 23.0
+          },
+          {
+            "id": "fMO2MvPCROw",
+            "title": "O novo tratador não durou nem o primeiro dia…😂 #animais #memes  #viral #shorts #selvagem #leão #leoa",
+            "channel": "NexBr",
+            "thumbnail": "https://i.ytimg.com/vi/fMO2MvPCROw/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=fMO2MvPCROw",
+            "views": 1920927,
+            "age_hours": 86.6
+          },
+          {
+            "id": "lhQuWbNWwIs",
+            "title": "Quando o filho quer aprender o tam tam #viral #viralvideo #viralshorts #comedia",
+            "channel": "Leandro bom sucesso",
+            "thumbnail": "https://i.ytimg.com/vi/lhQuWbNWwIs/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=lhQuWbNWwIs",
+            "views": 4146326,
+            "age_hours": 183.6
+          }
+        ]
+      },
+      {
+        "phrase": "british",
+        "video_count": 5,
+        "momentum": 22.46,
+        "regions": [
+          "GB"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "oTknNEDXBK0",
+            "title": "British Food Is Better Than American Food?",
+            "channel": "UNFAZED WARRIORS",
+            "thumbnail": "https://i.ytimg.com/vi/oTknNEDXBK0/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=oTknNEDXBK0",
+            "views": 5580616,
+            "age_hours": 159.3
+          },
+          {
+            "id": "jcNbC03fXW8",
+            "title": "This kid said Millie Bobby Brown is so British she can smell her accent lmaoo",
+            "channel": "NovaCine",
+            "thumbnail": "https://i.ytimg.com/vi/jcNbC03fXW8/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=jcNbC03fXW8",
+            "views": 3314553,
+            "age_hours": 121.2
+          },
+          {
+            "id": "Cd-Y5VPreXM",
+            "title": "POV: This is Peak British Humour 🇬🇧😂 #britishcomedy #britishhumor #funnyshorts #comedyshorts #pov",
+            "channel": "Bright Starz ",
+            "thumbnail": "https://i.ytimg.com/vi/Cd-Y5VPreXM/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=Cd-Y5VPreXM",
+            "views": 2016580,
+            "age_hours": 118.9
+          }
+        ]
+      },
+      {
+        "phrase": "comedy",
+        "video_count": 5,
+        "momentum": 21.07,
+        "regions": [
+          "DE"
+        ],
+        "lang": "de",
+        "example_videos": [
+          {
+            "id": "Y5oAS8gIAYs",
+            "title": "Pov: Schule fertig 😍 #comedy #lustig #schule #zeugnis #parodie",
+            "channel": "ISI",
+            "thumbnail": "https://i.ytimg.com/vi/Y5oAS8gIAYs/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=Y5oAS8gIAYs",
+            "views": 932905,
+            "age_hours": 98.7
+          },
+          {
+            "id": "t_yl0hpnRLM",
+            "title": "Omg JEDES Team hat DESWEGEN PECH?!😳😭⚽️ #marvintsp #comedy #wm2026 #fußball #messi",
+            "channel": "marvintsp",
+            "thumbnail": "https://i.ytimg.com/vi/t_yl0hpnRLM/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=t_yl0hpnRLM",
+            "views": 1541788,
+            "age_hours": 121.8
+          },
+          {
+            "id": "M81nLcPjK08",
+            "title": "Götter wie wir | Jesus im Vatikan 2...  #comedy #götterwiewir #sketchhistory",
+            "channel": "Carsten Strauch",
+            "thumbnail": "https://i.ytimg.com/vi/M81nLcPjK08/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=M81nLcPjK08",
+            "views": 337069,
+            "age_hours": 54.2
+          }
+        ]
+      },
+      {
+        "phrase": "primeiro",
+        "video_count": 4,
+        "momentum": 19.9,
+        "regions": [
+          "BR"
+        ],
+        "lang": "pt",
+        "example_videos": [
+          {
+            "id": "P0oEpJc_2YU",
+            "title": "Gêmeas Testam a Mãe... Quem Ela Atendeu Primeiro? 😱❤️ #shorts",
+            "channel": "Rise Hope",
+            "thumbnail": "https://i.ytimg.com/vi/P0oEpJc_2YU/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=P0oEpJc_2YU",
+            "views": 1741052,
+            "age_hours": 50.1
+          },
+          {
+            "id": "2tMp-JSm4o4",
+            "title": "POV: QUANDO EU ACHO QUE VOU SER O PRIMEIRO A RECEBER O BOLO DE ANIVERSÁRIO",
+            "channel": "Luís Augusto",
+            "thumbnail": "https://i.ytimg.com/vi/2tMp-JSm4o4/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=2tMp-JSm4o4",
+            "views": 3899289,
+            "age_hours": 112.5
+          },
+          {
+            "id": "fMO2MvPCROw",
+            "title": "O novo tratador não durou nem o primeiro dia…😂 #animais #memes  #viral #shorts #selvagem #leão #leoa",
+            "channel": "NexBr",
+            "thumbnail": "https://i.ytimg.com/vi/fMO2MvPCROw/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=fMO2MvPCROw",
+            "views": 1920927,
+            "age_hours": 86.6
+          }
+        ]
+      },
+      {
+        "phrase": "mundo",
+        "video_count": 4,
+        "momentum": 19.17,
+        "regions": [
+          "BR"
+        ],
+        "lang": "pt",
+        "example_videos": [
+          {
+            "id": "ZGq07oRwAW8",
+            "title": "FAZENDO ENCONTRO MAIS RÁPIDO DO MUNDO ...",
+            "channel": "Emilly Vick",
+            "thumbnail": "https://i.ytimg.com/vi/ZGq07oRwAW8/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=ZGq07oRwAW8",
+            "views": 6365941,
+            "age_hours": 136.3
+          },
+          {
+            "id": "CnJ2ZXVy_Wk",
+            "title": "VIREI JUIZ PARA CORRIGIR A COPA DO MUNDO!",
+            "channel": "Felipe Neto Joga",
+            "thumbnail": "https://i.ytimg.com/vi/CnJ2ZXVy_Wk/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=CnJ2ZXVy_Wk",
+            "views": 395671,
+            "age_hours": 24.3
+          },
+          {
+            "id": "XUvj-qDaclA",
+            "title": "ESPANHA vs ARGENTINA DIVIDINDO COISAS DA COPA DO MUNDO !!! #shorts #shortvideo",
+            "channel": "Figuritalo",
+            "thumbnail": "https://i.ytimg.com/vi/XUvj-qDaclA/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=XUvj-qDaclA",
+            "views": 1125505,
+            "age_hours": 46.2
+          }
+        ]
+      },
+      {
+        "phrase": "avengers doomsday official",
+        "video_count": 2,
+        "momentum": 18.56,
+        "regions": [
+          "US"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "irVNGjRFZGk",
+            "title": "Avengers: Doomsday | Official Trailer | In Theaters December 18",
+            "channel": "Marvel Entertainment",
+            "thumbnail": "https://i.ytimg.com/vi/irVNGjRFZGk/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=irVNGjRFZGk",
+            "views": 35873135,
+            "age_hours": 24.3
+          },
+          {
+            "id": "ydssj556GIQ",
+            "title": "Avengers: Doomsday - Official Trailer (My Thoughts)",
+            "channel": "Jeremy Jahns",
+            "thumbnail": "https://i.ytimg.com/vi/ydssj556GIQ/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=ydssj556GIQ",
+            "views": 384260,
+            "age_hours": 15.7
+          }
+        ]
+      },
+      {
+        "phrase": "doomsday official trailer",
+        "video_count": 2,
+        "momentum": 18.56,
+        "regions": [
+          "US"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "irVNGjRFZGk",
+            "title": "Avengers: Doomsday | Official Trailer | In Theaters December 18",
+            "channel": "Marvel Entertainment",
+            "thumbnail": "https://i.ytimg.com/vi/irVNGjRFZGk/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=irVNGjRFZGk",
+            "views": 35873135,
+            "age_hours": 24.3
+          },
+          {
+            "id": "ydssj556GIQ",
+            "title": "Avengers: Doomsday - Official Trailer (My Thoughts)",
+            "channel": "Jeremy Jahns",
+            "thumbnail": "https://i.ytimg.com/vi/ydssj556GIQ/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=ydssj556GIQ",
+            "views": 384260,
+            "age_hours": 15.7
+          }
+        ]
+      },
+      {
+        "phrase": "copa",
+        "video_count": 4,
+        "momentum": 18.43,
+        "regions": [
+          "BR"
+        ],
+        "lang": "pt",
+        "example_videos": [
+          {
+            "id": "CnJ2ZXVy_Wk",
+            "title": "VIREI JUIZ PARA CORRIGIR A COPA DO MUNDO!",
+            "channel": "Felipe Neto Joga",
+            "thumbnail": "https://i.ytimg.com/vi/CnJ2ZXVy_Wk/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=CnJ2ZXVy_Wk",
+            "views": 395671,
+            "age_hours": 24.3
+          },
+          {
+            "id": "mEuMdvFblCM",
+            "title": "As figurinhas da Argentina na Copa são assim?",
+            "channel": "Bruttus",
+            "thumbnail": "https://i.ytimg.com/vi/mEuMdvFblCM/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=mEuMdvFblCM",
+            "views": 5872268,
+            "age_hours": 160.2
+          },
+          {
+            "id": "XUvj-qDaclA",
+            "title": "ESPANHA vs ARGENTINA DIVIDINDO COISAS DA COPA DO MUNDO !!! #shorts #shortvideo",
+            "channel": "Figuritalo",
+            "thumbnail": "https://i.ytimg.com/vi/XUvj-qDaclA/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=XUvj-qDaclA",
+            "views": 1125505,
+            "age_hours": 46.2
+          }
+        ]
+      },
+      {
+        "phrase": "london",
+        "video_count": 5,
+        "momentum": 18.13,
+        "regions": [
+          "GB"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "E3efA7gPKr8",
+            "title": "moving out and my final week in London | weekly vlog",
+            "channel": "livvy dimartino",
+            "thumbnail": "https://i.ytimg.com/vi/E3efA7gPKr8/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=E3efA7gPKr8",
+            "views": 39629,
+            "age_hours": 20.3
+          },
+          {
+            "id": "MKkVhNlGj3Q",
+            "title": "Hello London!!! #vlog",
+            "channel": "Kat Clark",
+            "thumbnail": "https://i.ytimg.com/vi/MKkVhNlGj3Q/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=MKkVhNlGj3Q",
+            "views": 306512,
+            "age_hours": 152.5
+          },
+          {
+            "id": "YO6leutukQQ",
+            "title": "WHAT IF? LIFE COULD HAVE BEEN DIFFERENT | MY LONDON LIFE",
+            "channel": "Jo Good - MiddleAgedMinx",
+            "thumbnail": "https://i.ytimg.com/vi/YO6leutukQQ/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=YO6leutukQQ",
+            "views": 38237,
+            "age_hours": 52.3
+          }
+        ]
+      },
+      {
+        "phrase": "celular",
+        "video_count": 4,
+        "momentum": 17.38,
+        "regions": [
+          "BR"
+        ],
+        "lang": "pt",
+        "example_videos": [
+          {
+            "id": "51y_sUE5miI",
+            "title": "Que PORR* de CELULAR é ESSE??? #shorts",
+            "channel": "Top! Tech",
+            "thumbnail": "https://i.ytimg.com/vi/51y_sUE5miI/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=51y_sUE5miI",
+            "views": 115065,
+            "age_hours": 14.9
+          },
+          {
+            "id": "-DNG25zY-Bk",
+            "title": "REVIEW: Lente Anti Reflexo para Celular",
+            "channel": "Almanaque SOS",
+            "thumbnail": "https://i.ytimg.com/vi/-DNG25zY-Bk/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=-DNG25zY-Bk",
+            "views": 776980,
+            "age_hours": 112.5
+          },
+          {
+            "id": "JpVYZ03vBXk",
+            "title": "😱📱O CELULAR Caiu na água? Esse SOM tira a água do celular 🎀❤️",
+            "channel": "Daphne & Co",
+            "thumbnail": "https://i.ytimg.com/vi/JpVYZ03vBXk/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=JpVYZ03vBXk",
+            "views": 153358,
+            "age_hours": 46.1
           }
         ]
       },
       {
         "phrase": "doomsday trailer breakdown",
         "video_count": 2,
-        "momentum": 16.05,
+        "momentum": 15.76,
         "regions": [
           "US"
         ],
@@ -2926,8 +2801,8 @@
             "channel": "New Rockstars",
             "thumbnail": "https://i.ytimg.com/vi/Nx-e-AaCNPE/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=Nx-e-AaCNPE",
-            "views": 719348,
-            "age_hours": 8.3
+            "views": 1031566,
+            "age_hours": 13.4
           },
           {
             "id": "JjT7hGTRr1E",
@@ -2935,15 +2810,15 @@
             "channel": "ScreenCrush",
             "thumbnail": "https://i.ytimg.com/vi/JjT7hGTRr1E/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=JjT7hGTRr1E",
-            "views": 1042601,
-            "age_hours": 15.3
+            "views": 1216157,
+            "age_hours": 20.4
           }
         ]
       },
       {
         "phrase": "vingadores doutor destino",
         "video_count": 2,
-        "momentum": 16.03,
+        "momentum": 15.69,
         "regions": [
           "BR"
         ],
@@ -2955,8 +2830,8 @@
             "channel": "Marvel Brasil",
             "thumbnail": "https://i.ytimg.com/vi/TcBtFtkQFiU/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=TcBtFtkQFiU",
-            "views": 1109804,
-            "age_hours": 17.7
+            "views": 1160174,
+            "age_hours": 22.9
           },
           {
             "id": "IqNdZROkQLo",
@@ -2964,15 +2839,15 @@
             "channel": "ONE Media Brasil",
             "thumbnail": "https://i.ytimg.com/vi/IqNdZROkQLo/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=IqNdZROkQLo",
-            "views": 181658,
-            "age_hours": 17.6
+            "views": 187965,
+            "age_hours": 22.8
           }
         ]
       },
       {
         "phrase": "doutor destino trailer",
         "video_count": 2,
-        "momentum": 16.03,
+        "momentum": 15.69,
         "regions": [
           "BR"
         ],
@@ -2984,8 +2859,8 @@
             "channel": "Marvel Brasil",
             "thumbnail": "https://i.ytimg.com/vi/TcBtFtkQFiU/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=TcBtFtkQFiU",
-            "views": 1109804,
-            "age_hours": 17.7
+            "views": 1160174,
+            "age_hours": 22.9
           },
           {
             "id": "IqNdZROkQLo",
@@ -2993,15 +2868,15 @@
             "channel": "ONE Media Brasil",
             "thumbnail": "https://i.ytimg.com/vi/IqNdZROkQLo/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=IqNdZROkQLo",
-            "views": 181658,
-            "age_hours": 17.6
+            "views": 187965,
+            "age_hours": 22.8
           }
         ]
       },
       {
         "phrase": "real end twist",
         "video_count": 2,
-        "momentum": 15.24,
+        "momentum": 15.31,
         "regions": [
           "IN"
         ],
@@ -3013,8 +2888,8 @@
             "channel": "Rishan sriansh & Sree nayana",
             "thumbnail": "https://i.ytimg.com/vi/uBD2SH_onkA/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=uBD2SH_onkA",
-            "views": 8002477,
-            "age_hours": 46.1
+            "views": 10023923,
+            "age_hours": 51.3
           },
           {
             "id": "rXSiIStNwv0",
@@ -3022,15 +2897,15 @@
             "channel": "Achayan Army Family",
             "thumbnail": "https://i.ytimg.com/vi/rXSiIStNwv0/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=rXSiIStNwv0",
-            "views": 9121302,
-            "age_hours": 234.6
+            "views": 9399663,
+            "age_hours": 239.8
           }
         ]
       },
       {
         "phrase": "end twist shorts",
         "video_count": 2,
-        "momentum": 15.24,
+        "momentum": 15.31,
         "regions": [
           "IN"
         ],
@@ -3042,8 +2917,8 @@
             "channel": "Rishan sriansh & Sree nayana",
             "thumbnail": "https://i.ytimg.com/vi/uBD2SH_onkA/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=uBD2SH_onkA",
-            "views": 8002477,
-            "age_hours": 46.1
+            "views": 10023923,
+            "age_hours": 51.3
           },
           {
             "id": "rXSiIStNwv0",
@@ -3051,8 +2926,8 @@
             "channel": "Achayan Army Family",
             "thumbnail": "https://i.ytimg.com/vi/rXSiIStNwv0/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=rXSiIStNwv0",
-            "views": 9121302,
-            "age_hours": 234.6
+            "views": 9399663,
+            "age_hours": 239.8
           }
         ]
       }
@@ -3060,87 +2935,87 @@
   },
   "trending_searches": [
     {
-      "phrase": "how to tie a tie",
-      "prefix": "how to",
+      "phrase": "why do we fear 3am",
+      "prefix": "why do",
       "rank": 1,
-      "first_seen_at": "2026-07-21T08:08:01.226793+00:00",
+      "first_seen_at": "2026-07-21T13:17:03.586029+00:00",
       "is_new": true
     },
     {
-      "phrase": "how do i say goodbye dean lewis",
-      "prefix": "how do",
+      "phrase": "why does he call you darling",
+      "prefix": "why does",
       "rank": 1,
-      "first_seen_at": "2026-07-21T08:08:01.226793+00:00",
+      "first_seen_at": "2026-07-21T13:17:03.586029+00:00",
       "is_new": true
     },
     {
-      "phrase": "how does it feel d'angelo",
-      "prefix": "how does",
+      "phrase": "what happened to nolan wells",
+      "prefix": "what happened",
       "rank": 1,
-      "first_seen_at": "2026-07-21T08:08:01.226793+00:00",
+      "first_seen_at": "2026-07-21T13:17:03.586029+00:00",
       "is_new": true
     },
     {
-      "phrase": "why is dr doom so powerful",
-      "prefix": "why is",
+      "phrase": "best of zach 2",
+      "prefix": "best",
       "rank": 1,
-      "first_seen_at": "2026-07-21T08:08:01.226793+00:00",
+      "first_seen_at": "2026-07-21T13:17:03.586029+00:00",
       "is_new": true
     },
     {
-      "phrase": "what is this diddy blud doing on the calculator",
-      "prefix": "what is",
-      "rank": 1,
-      "first_seen_at": "2026-07-21T08:08:01.226793+00:00",
-      "is_new": true
-    },
-    {
-      "phrase": "what are you listening to chris stapleton",
-      "prefix": "what are",
-      "rank": 1,
-      "first_seen_at": "2026-07-21T08:08:01.226793+00:00",
-      "is_new": true
-    },
-    {
-      "phrase": "worst way riley green",
-      "prefix": "worst",
-      "rank": 1,
-      "first_seen_at": "2026-07-21T08:08:01.226793+00:00",
-      "is_new": true
-    },
-    {
-      "phrase": "topper guild",
+      "phrase": "topoppgen",
       "prefix": "top",
       "rank": 1,
-      "first_seen_at": "2026-07-21T08:08:01.226793+00:00",
+      "first_seen_at": "2026-07-21T13:17:03.586029+00:00",
       "is_new": true
     },
     {
-      "phrase": "can you stand the rain new edition",
-      "prefix": "can you",
+      "phrase": "is it a crime mariah the scientist",
+      "prefix": "is it",
       "rank": 1,
-      "first_seen_at": "2026-07-21T08:08:01.226793+00:00",
+      "first_seen_at": "2026-07-21T13:17:03.586029+00:00",
       "is_new": true
     },
     {
-      "phrase": "how does it feel",
-      "prefix": "how does",
-      "rank": 2,
-      "first_seen_at": "2026-07-21T08:08:01.226793+00:00",
+      "phrase": "should i stay or should i go",
+      "prefix": "should i",
+      "rank": 1,
+      "first_seen_at": "2026-07-21T13:17:03.586029+00:00",
       "is_new": true
     },
     {
-      "phrase": "why is it spicy",
-      "prefix": "why is",
+      "phrase": "how to draw",
+      "prefix": "how to",
       "rank": 2,
-      "first_seen_at": "2026-07-21T08:08:01.226793+00:00",
+      "first_seen_at": "2026-07-21T13:17:03.586029+00:00",
       "is_new": true
     },
     {
-      "phrase": "best of zach",
-      "prefix": "best",
+      "phrase": "why do birds suddenly appear",
+      "prefix": "why do",
       "rank": 2,
-      "first_seen_at": "2026-07-21T08:08:01.226793+00:00",
+      "first_seen_at": "2026-07-21T13:17:03.586029+00:00",
+      "is_new": true
+    },
+    {
+      "phrase": "why does it hurt to love you",
+      "prefix": "why does",
+      "rank": 2,
+      "first_seen_at": "2026-07-21T13:17:03.586029+00:00",
+      "is_new": true
+    },
+    {
+      "phrase": "what is love",
+      "prefix": "what is",
+      "rank": 2,
+      "first_seen_at": "2026-07-21T13:17:03.586029+00:00",
+      "is_new": true
+    },
+    {
+      "phrase": "what are you doing",
+      "prefix": "what are",
+      "rank": 2,
+      "first_seen_at": "2026-07-21T13:17:03.586029+00:00",
       "is_new": true
     }
   ],
@@ -3153,12 +3028,12 @@
       "thumbnail": "https://i.ytimg.com/vi/Hb06Iem3FWg/mqdefault.jpg",
       "published_at": "2026-07-20T15:00:04Z",
       "category_id": "10",
-      "views": 1438419,
-      "likes": 347887,
-      "comments": 17000,
-      "age_hours": 17.1,
-      "views_per_hour": 83974,
-      "momentum": 7.888,
+      "views": 1657922,
+      "likes": 372254,
+      "comments": 17617,
+      "age_hours": 22.3,
+      "views_per_hour": 74413,
+      "momentum": 7.577,
       "url": "https://www.youtube.com/watch?v=Hb06Iem3FWg",
       "region": "US",
       "category": "Other",
@@ -3172,12 +3047,12 @@
       "thumbnail": "https://i.ytimg.com/vi/irVNGjRFZGk/mqdefault.jpg",
       "published_at": "2026-07-20T13:00:20Z",
       "category_id": "24",
-      "views": 33284947,
-      "likes": 2049940,
-      "comments": 165646,
-      "age_hours": 19.1,
-      "views_per_hour": 1740408,
-      "momentum": 7.32,
+      "views": 35873135,
+      "likes": 2123563,
+      "comments": 170232,
+      "age_hours": 24.3,
+      "views_per_hour": 1477745,
+      "momentum": 7.193,
       "url": "https://www.youtube.com/watch?v=irVNGjRFZGk",
       "region": "US",
       "category": "Entertainment",
@@ -3191,34 +3066,72 @@
       "thumbnail": "https://i.ytimg.com/vi/GEk4jHwfFTA/mqdefault.jpg",
       "published_at": "2026-07-19T04:00:02Z",
       "category_id": "10",
-      "views": 6723936,
-      "likes": 1067370,
-      "comments": 52278,
-      "age_hours": 52.1,
-      "views_per_hour": 128982,
-      "momentum": 7.13,
+      "views": 6983050,
+      "likes": 1090409,
+      "comments": 52946,
+      "age_hours": 57.3,
+      "views_per_hour": 121908,
+      "momentum": 7.06,
       "url": "https://www.youtube.com/watch?v=GEk4jHwfFTA",
       "region": "AU",
       "category": "Other",
       "_detected_lang": "en"
     },
     {
-      "id": "7czYxaSGdEs",
-      "title": "1,00,000 UC NARUTO SET OPENING | JONATHAN IS BACK!! | BGMI!",
-      "channel": "JONATHAN GAMING",
-      "channel_id": "UCNoiWmvkDUL0q-6ECxNFH0Q",
-      "thumbnail": "https://i.ytimg.com/vi/7czYxaSGdEs/mqdefault.jpg",
-      "published_at": "2026-07-20T22:15:29Z",
-      "category_id": "20",
-      "views": 2579821,
-      "likes": 191788,
-      "comments": 401,
-      "age_hours": 9.9,
-      "views_per_hour": 261284,
-      "momentum": 6.231,
-      "url": "https://www.youtube.com/watch?v=7czYxaSGdEs",
+      "id": "RzaDKEt-njE",
+      "title": "Police vs People at Jantar Mantar 🥺💔 | Kuldeep Singhaniaa #shorts",
+      "channel": "Kuldeep Singhania Shorts",
+      "channel_id": "UCnYKRFQRndE3Wq1eLRQLfWw",
+      "thumbnail": "https://i.ytimg.com/vi/RzaDKEt-njE/mqdefault.jpg",
+      "published_at": "2026-07-20T16:03:59Z",
+      "category_id": "22",
+      "views": 2120209,
+      "likes": 264214,
+      "comments": 3247,
+      "age_hours": 21.2,
+      "views_per_hour": 99934,
+      "momentum": 6.322,
+      "url": "https://www.youtube.com/watch?v=RzaDKEt-njE",
       "region": "IN",
-      "category": "Gaming",
+      "category": "People & Blogs",
+      "_detected_lang": "en"
+    },
+    {
+      "id": "I9tX-lFUTrw",
+      "title": "Yeh Awarapan | Emraan Hashmi, Disha Patani | Vishesh Bhatt | Amaal, Arijit, Rashmi Virag| Awarapan 2",
+      "channel": "Sony Music India",
+      "channel_id": "UC56gTxNs4f9xZ7Pa2i5xNzg",
+      "thumbnail": "https://i.ytimg.com/vi/I9tX-lFUTrw/mqdefault.jpg",
+      "published_at": "2026-07-21T05:41:25Z",
+      "category_id": "10",
+      "views": 1061430,
+      "likes": 77386,
+      "comments": 7746,
+      "age_hours": 7.6,
+      "views_per_hour": 139824,
+      "momentum": 6.271,
+      "url": "https://www.youtube.com/watch?v=I9tX-lFUTrw",
+      "region": "GB",
+      "category": "Other",
+      "_detected_lang": "en"
+    },
+    {
+      "id": "aSR1tndcaLE",
+      "title": "INDIA’S GOT LATENT S2 EP3 ft. Raghu Ram, Vishal Dadlani, Tanmay Bhat, Yashraj",
+      "channel": "Samay Raina",
+      "channel_id": "UCAov2BBv1ZJav0c_yHEciAw",
+      "thumbnail": "https://i.ytimg.com/vi/aSR1tndcaLE/mqdefault.jpg",
+      "published_at": "2026-07-17T13:30:07Z",
+      "category_id": "23",
+      "views": 28776017,
+      "likes": 1289926,
+      "comments": 76004,
+      "age_hours": 95.8,
+      "views_per_hour": 300439,
+      "momentum": 6.114,
+      "url": "https://www.youtube.com/watch?v=aSR1tndcaLE",
+      "region": "CA",
+      "category": "Comedy",
       "_detected_lang": "en"
     },
     {
@@ -3229,69 +3142,50 @@
       "thumbnail": "https://i.ytimg.com/vi/TcBtFtkQFiU/mqdefault.jpg",
       "published_at": "2026-07-20T14:24:13Z",
       "category_id": "1",
-      "views": 1109804,
-      "likes": 116471,
-      "comments": 7900,
-      "age_hours": 17.7,
-      "views_per_hour": 62599,
-      "momentum": 6.145,
+      "views": 1160174,
+      "likes": 121854,
+      "comments": 8148,
+      "age_hours": 22.9,
+      "views_per_hour": 50708,
+      "momentum": 6.024,
       "url": "https://www.youtube.com/watch?v=TcBtFtkQFiU",
       "region": "BR",
       "category": "Other",
       "_detected_lang": "pt"
     },
     {
-      "id": "aSR1tndcaLE",
-      "title": "INDIA’S GOT LATENT S2 EP3 ft. Raghu Ram, Vishal Dadlani, Tanmay Bhat, Yashraj",
-      "channel": "Samay Raina",
-      "channel_id": "UCAov2BBv1ZJav0c_yHEciAw",
-      "thumbnail": "https://i.ytimg.com/vi/aSR1tndcaLE/mqdefault.jpg",
-      "published_at": "2026-07-17T13:30:07Z",
-      "category_id": "23",
-      "views": 28341121,
-      "likes": 1280303,
-      "comments": 75639,
-      "age_hours": 90.6,
-      "views_per_hour": 312715,
-      "momentum": 6.138,
-      "url": "https://www.youtube.com/watch?v=aSR1tndcaLE",
-      "region": "CA",
-      "category": "Comedy",
-      "_detected_lang": "en"
-    },
-    {
-      "id": "n0iac6ox8lA",
-      "title": "#Video | #बोलबम गीत | #Raushan Rohi | नाच नाग जैसन | Nach Naag Jaisan | New #Maghi Bolbam Song 2026",
-      "channel": "Raushan Rohi Entertainment",
-      "channel_id": "UCh6r40fbLs62rieVnODZkSw",
-      "thumbnail": "https://i.ytimg.com/vi/n0iac6ox8lA/mqdefault.jpg",
-      "published_at": "2026-07-21T00:45:28Z",
-      "category_id": "10",
-      "views": 147717,
-      "likes": 20371,
-      "comments": 2211,
-      "age_hours": 7.4,
-      "views_per_hour": 20032,
-      "momentum": 6.132,
-      "url": "https://www.youtube.com/watch?v=n0iac6ox8lA",
+      "id": "7czYxaSGdEs",
+      "title": "1,00,000 UC NARUTO SET OPENING | JONATHAN IS BACK!! | BGMI!",
+      "channel": "JONATHAN GAMING",
+      "channel_id": "UCNoiWmvkDUL0q-6ECxNFH0Q",
+      "thumbnail": "https://i.ytimg.com/vi/7czYxaSGdEs/mqdefault.jpg",
+      "published_at": "2026-07-20T22:15:29Z",
+      "category_id": "20",
+      "views": 2697371,
+      "likes": 193499,
+      "comments": 480,
+      "age_hours": 15.0,
+      "views_per_hour": 179534,
+      "momentum": 6.017,
+      "url": "https://www.youtube.com/watch?v=7czYxaSGdEs",
       "region": "IN",
-      "category": "Other",
+      "category": "Gaming",
       "_detected_lang": "en"
     },
     {
       "id": "PXpixxq-sXk",
-      "title": "TRAILER: VINGADORES DOOMSDAY",
+      "title": "TRAILER: VINGADORES DOOMDAY [React e explicação]",
       "channel": "Ei Nerd",
       "channel_id": "UCt_4wzTQqmcUvemNkeO0plA",
       "thumbnail": "https://i.ytimg.com/vi/PXpixxq-sXk/mqdefault.jpg",
       "published_at": "2026-07-20T23:19:14Z",
       "category_id": "24",
-      "views": 503174,
-      "likes": 61285,
-      "comments": 2249,
-      "age_hours": 8.8,
-      "views_per_hour": 57102,
-      "momentum": 6.128,
+      "views": 577189,
+      "likes": 73930,
+      "comments": 2681,
+      "age_hours": 14.0,
+      "views_per_hour": 41339,
+      "momentum": 6.013,
       "url": "https://www.youtube.com/watch?v=PXpixxq-sXk",
       "region": "BR",
       "category": "Entertainment",
@@ -3305,16 +3199,35 @@
       "thumbnail": "https://i.ytimg.com/vi/P0oEpJc_2YU/mqdefault.jpg",
       "published_at": "2026-07-19T11:13:06Z",
       "category_id": "1",
-      "views": 1731179,
-      "likes": 237962,
-      "comments": 7617,
-      "age_hours": 44.9,
-      "views_per_hour": 38544,
-      "momentum": 6.048,
+      "views": 1741052,
+      "likes": 240751,
+      "comments": 7747,
+      "age_hours": 50.1,
+      "views_per_hour": 34776,
+      "momentum": 5.999,
       "url": "https://www.youtube.com/watch?v=P0oEpJc_2YU",
       "region": "BR",
       "category": "Other",
       "_detected_lang": "pt"
+    },
+    {
+      "id": "CxN85kBZiI8",
+      "title": "Madhosh | Toxic (Hindi) | Rocking Star Yash, Tara Sutaria | Tanishk, Arslan, Faheem, Siddharth, Syed",
+      "channel": "Zee Music Company",
+      "channel_id": "UCFFbwnve3yF62-tVXkTyHqg",
+      "thumbnail": "https://i.ytimg.com/vi/CxN85kBZiI8/mqdefault.jpg",
+      "published_at": "2026-07-21T06:03:04Z",
+      "category_id": "10",
+      "views": 2212270,
+      "likes": 62784,
+      "comments": 3391,
+      "age_hours": 7.2,
+      "views_per_hour": 305970,
+      "momentum": 5.881,
+      "url": "https://www.youtube.com/watch?v=CxN85kBZiI8",
+      "region": "GB",
+      "category": "Other",
+      "_detected_lang": "en"
     },
     {
       "id": "HuQMoLBGlEk",
@@ -3324,14 +3237,71 @@
       "thumbnail": "https://i.ytimg.com/vi/HuQMoLBGlEk/mqdefault.jpg",
       "published_at": "2026-07-16T22:53:15Z",
       "category_id": "20",
-      "views": 2301771,
-      "likes": 346045,
-      "comments": 13431,
-      "age_hours": 105.2,
-      "views_per_hour": 21871,
-      "momentum": 5.898,
+      "views": 2316732,
+      "likes": 347301,
+      "comments": 13479,
+      "age_hours": 110.4,
+      "views_per_hour": 20986,
+      "momentum": 5.869,
       "url": "https://www.youtube.com/watch?v=HuQMoLBGlEk",
       "region": "US",
+      "category": "Gaming",
+      "_detected_lang": "en"
+    },
+    {
+      "id": "4NsSQBP1Psw",
+      "title": "Atravessei a Parede com uma Colher.",
+      "channel": "Gabriel Janiques",
+      "channel_id": "UCGtzDXfzkOoGeezW33SeKbg",
+      "thumbnail": "https://i.ytimg.com/vi/4NsSQBP1Psw/mqdefault.jpg",
+      "published_at": "2026-07-14T14:43:54Z",
+      "category_id": "17",
+      "views": 60531639,
+      "likes": 1190689,
+      "comments": 1182,
+      "age_hours": 166.6,
+      "views_per_hour": 363441,
+      "momentum": 5.78,
+      "url": "https://www.youtube.com/watch?v=4NsSQBP1Psw",
+      "region": "BR",
+      "category": "Other",
+      "_detected_lang": "pt"
+    },
+    {
+      "id": "uo-OKVT7wdU",
+      "title": "Military Supercomputer From Game Consoles 😮",
+      "channel": "Zack D. Films",
+      "channel_id": "UCvz84_Q0BbvZThy75mbd-Dg",
+      "thumbnail": "https://i.ytimg.com/vi/uo-OKVT7wdU/mqdefault.jpg",
+      "published_at": "2026-07-20T19:30:30Z",
+      "category_id": "19",
+      "views": 964234,
+      "likes": 100049,
+      "comments": 1155,
+      "age_hours": 17.8,
+      "views_per_hour": 54252,
+      "momentum": 5.774,
+      "url": "https://www.youtube.com/watch?v=uo-OKVT7wdU",
+      "region": "US",
+      "category": "Other",
+      "_detected_lang": "en"
+    },
+    {
+      "id": "1Xb7wVTFyd8",
+      "title": "How I Broke into NETHER CIVILIZATION in This Minecraft SMP",
+      "channel": "SenpaiExtras",
+      "channel_id": "UCUkSBEJC33xb-WU-pRimdkg",
+      "thumbnail": "https://i.ytimg.com/vi/1Xb7wVTFyd8/mqdefault.jpg",
+      "published_at": "2026-07-21T07:48:33Z",
+      "category_id": "20",
+      "views": 324919,
+      "likes": 23668,
+      "comments": 2065,
+      "age_hours": 5.5,
+      "views_per_hour": 59365,
+      "momentum": 5.772,
+      "url": "https://www.youtube.com/watch?v=1Xb7wVTFyd8",
+      "region": "IN",
       "category": "Gaming",
       "_detected_lang": "en"
     },
@@ -3343,12 +3313,12 @@
       "thumbnail": "https://i.ytimg.com/vi/-8PCDMV-Nns/mqdefault.jpg",
       "published_at": "2026-07-20T15:00:30Z",
       "category_id": "20",
-      "views": 1839269,
-      "likes": 115480,
-      "comments": 7696,
-      "age_hours": 17.1,
-      "views_per_hour": 107409,
-      "momentum": 5.873,
+      "views": 1920140,
+      "likes": 120373,
+      "comments": 7947,
+      "age_hours": 22.3,
+      "views_per_hour": 86203,
+      "momentum": 5.759,
       "url": "https://www.youtube.com/watch?v=-8PCDMV-Nns",
       "region": "BR",
       "category": "Gaming",
@@ -3362,91 +3332,15 @@
       "thumbnail": "https://i.ytimg.com/vi/43HebH5SuUw/mqdefault.jpg",
       "published_at": "2026-07-20T10:00:06Z",
       "category_id": "24",
-      "views": 496632,
-      "likes": 55664,
-      "comments": 6165,
-      "age_hours": 22.1,
-      "views_per_hour": 22442,
-      "momentum": 5.867,
+      "views": 594836,
+      "likes": 59798,
+      "comments": 6567,
+      "age_hours": 27.3,
+      "views_per_hour": 21805,
+      "momentum": 5.69,
       "url": "https://www.youtube.com/watch?v=43HebH5SuUw",
       "region": "CA",
       "category": "Entertainment",
-      "_detected_lang": "en"
-    },
-    {
-      "id": "uo-OKVT7wdU",
-      "title": "Military Supercomputer From Game Consoles 😮",
-      "channel": "Zack D. Films",
-      "channel_id": "UCvz84_Q0BbvZThy75mbd-Dg",
-      "thumbnail": "https://i.ytimg.com/vi/uo-OKVT7wdU/mqdefault.jpg",
-      "published_at": "2026-07-20T19:30:30Z",
-      "category_id": "19",
-      "views": 646386,
-      "likes": 74124,
-      "comments": 989,
-      "age_hours": 12.6,
-      "views_per_hour": 51210,
-      "momentum": 5.862,
-      "url": "https://www.youtube.com/watch?v=uo-OKVT7wdU",
-      "region": "US",
-      "category": "Other",
-      "_detected_lang": "en"
-    },
-    {
-      "id": "4NsSQBP1Psw",
-      "title": "Atravessei a Parede com uma Colher.",
-      "channel": "Gabriel Janiques",
-      "channel_id": "UCGtzDXfzkOoGeezW33SeKbg",
-      "thumbnail": "https://i.ytimg.com/vi/4NsSQBP1Psw/mqdefault.jpg",
-      "published_at": "2026-07-14T14:43:54Z",
-      "category_id": "17",
-      "views": 58445070,
-      "likes": 1149037,
-      "comments": 1151,
-      "age_hours": 161.4,
-      "views_per_hour": 362111,
-      "momentum": 5.779,
-      "url": "https://www.youtube.com/watch?v=4NsSQBP1Psw",
-      "region": "BR",
-      "category": "Other",
-      "_detected_lang": "pt"
-    },
-    {
-      "id": "Kc3MeC5xoxE",
-      "title": "PLAYING GTA V UNTIL I BEAT IT DAY 2",
-      "channel": "Jynxzi",
-      "channel_id": "UCjiXtODGCCulmhwypZAWSag",
-      "thumbnail": "https://i.ytimg.com/vi/Kc3MeC5xoxE/mqdefault.jpg",
-      "published_at": "2026-07-21T05:07:56Z",
-      "category_id": "24",
-      "views": 1231166,
-      "likes": 17734,
-      "comments": 70,
-      "age_hours": 3.0,
-      "views_per_hour": 410644,
-      "momentum": 5.778,
-      "url": "https://www.youtube.com/watch?v=Kc3MeC5xoxE",
-      "region": "US",
-      "category": "Entertainment",
-      "_detected_lang": "en"
-    },
-    {
-      "id": "xJRNp9IGzhc",
-      "title": "They got drama in London 😂😂😂😂😂😂😂😂 #comedy #shaderoom #crowdworksundays #standupcomedy",
-      "channel": "Mojo Brookzz",
-      "channel_id": "UCvWHvXyTOZu9fzS9JzODkCQ",
-      "thumbnail": "https://i.ytimg.com/vi/xJRNp9IGzhc/mqdefault.jpg",
-      "published_at": "2026-07-19T17:02:58Z",
-      "category_id": "23",
-      "views": 1578197,
-      "likes": 174759,
-      "comments": 2122,
-      "age_hours": 39.1,
-      "views_per_hour": 40383,
-      "momentum": 5.688,
-      "url": "https://www.youtube.com/watch?v=xJRNp9IGzhc",
-      "region": "US",
-      "category": "Comedy",
       "_detected_lang": "en"
     },
     {
@@ -3457,108 +3351,108 @@
       "thumbnail": "https://i.ytimg.com/vi/DRV2_2pxx8g/mqdefault.jpg",
       "published_at": "2026-07-18T22:00:29Z",
       "category_id": "24",
-      "views": 2463405,
-      "likes": 272192,
-      "comments": 752,
-      "age_hours": 58.1,
-      "views_per_hour": 42381,
-      "momentum": 5.664,
+      "views": 2498886,
+      "likes": 281496,
+      "comments": 776,
+      "age_hours": 63.3,
+      "views_per_hour": 39492,
+      "momentum": 5.646,
       "url": "https://www.youtube.com/watch?v=DRV2_2pxx8g",
       "region": "BR",
       "category": "Entertainment",
       "_detected_lang": "pt"
     },
     {
-      "id": "cMp0-mSz0X8",
-      "title": "Avengers Doomsday Trailer Breakdown",
-      "channel": "ComicVerse",
-      "channel_id": "UCKQ5Jj35sjTmJigRtlCPhVQ",
-      "thumbnail": "https://i.ytimg.com/vi/cMp0-mSz0X8/mqdefault.jpg",
-      "published_at": "2026-07-20T18:16:22Z",
-      "category_id": "24",
-      "views": 739706,
-      "likes": 56701,
-      "comments": 3096,
-      "age_hours": 13.9,
-      "views_per_hour": 53374,
-      "momentum": 5.65,
-      "url": "https://www.youtube.com/watch?v=cMp0-mSz0X8",
+      "id": "xJRNp9IGzhc",
+      "title": "They got drama in London 😂😂😂😂😂😂😂😂 #comedy #shaderoom #crowdworksundays #standupcomedy",
+      "channel": "Mojo Brookzz",
+      "channel_id": "UCvWHvXyTOZu9fzS9JzODkCQ",
+      "thumbnail": "https://i.ytimg.com/vi/xJRNp9IGzhc/mqdefault.jpg",
+      "published_at": "2026-07-19T17:02:58Z",
+      "category_id": "23",
+      "views": 1655363,
+      "likes": 181790,
+      "comments": 2202,
+      "age_hours": 44.2,
+      "views_per_hour": 37425,
+      "momentum": 5.638,
+      "url": "https://www.youtube.com/watch?v=xJRNp9IGzhc",
+      "region": "US",
+      "category": "Comedy",
+      "_detected_lang": "en"
+    },
+    {
+      "id": "kr4T0RSrY98",
+      "title": "He Fooled the Entire Crowd… 😳🃏",
+      "channel": "PureGrit",
+      "channel_id": "UCCCHwQnTtWDMYtxYqUKaqRg",
+      "thumbnail": "https://i.ytimg.com/vi/kr4T0RSrY98/mqdefault.jpg",
+      "published_at": "2026-07-18T18:58:34Z",
+      "category_id": "17",
+      "views": 7189095,
+      "likes": 419375,
+      "comments": 824,
+      "age_hours": 66.3,
+      "views_per_hour": 108424,
+      "momentum": 5.628,
+      "url": "https://www.youtube.com/watch?v=kr4T0RSrY98",
+      "region": "US",
+      "category": "Other",
+      "_detected_lang": "en"
+    },
+    {
+      "id": "n0iac6ox8lA",
+      "title": "#Video | #बोलबम गीत | #Raushan Rohi | नाच नाग जैसन | Nach Naag Jaisan | New #Maghi Bolbam Song 2026",
+      "channel": "Raushan Rohi Entertainment",
+      "channel_id": "UCh6r40fbLs62rieVnODZkSw",
+      "thumbnail": "https://i.ytimg.com/vi/n0iac6ox8lA/mqdefault.jpg",
+      "published_at": "2026-07-21T00:45:28Z",
+      "category_id": "10",
+      "views": 238034,
+      "likes": 24742,
+      "comments": 2508,
+      "age_hours": 12.5,
+      "views_per_hour": 19005,
+      "momentum": 5.619,
+      "url": "https://www.youtube.com/watch?v=n0iac6ox8lA",
       "region": "IN",
+      "category": "Other",
+      "_detected_lang": "en"
+    },
+    {
+      "id": "o6oq3pcaKeU",
+      "title": "GUESS THE F1 DRIVER ft. LANDO NORRIS",
+      "channel": "Sidemen",
+      "channel_id": "UCDogdKl7t7NHzQ95aEwkdMw",
+      "thumbnail": "https://i.ytimg.com/vi/o6oq3pcaKeU/mqdefault.jpg",
+      "published_at": "2026-07-20T18:00:14Z",
+      "category_id": "24",
+      "views": 1567913,
+      "likes": 92540,
+      "comments": 2748,
+      "age_hours": 19.3,
+      "views_per_hour": 81333,
+      "momentum": 5.576,
+      "url": "https://www.youtube.com/watch?v=o6oq3pcaKeU",
+      "region": "GB",
       "category": "Entertainment",
       "_detected_lang": "en"
     },
     {
-      "id": "IiaY7oU3Pnw",
-      "title": "FLEE THE FACILITY with ADMIN COMMANDS",
-      "channel": "Flamingo",
-      "channel_id": "UCm-X6o81nRsXQTmqpyArkBQ",
-      "thumbnail": "https://i.ytimg.com/vi/IiaY7oU3Pnw/mqdefault.jpg",
-      "published_at": "2026-07-20T23:01:03Z",
-      "category_id": "20",
-      "views": 367485,
-      "likes": 25620,
-      "comments": 3091,
-      "age_hours": 9.1,
-      "views_per_hour": 40326,
-      "momentum": 5.635,
-      "url": "https://www.youtube.com/watch?v=IiaY7oU3Pnw",
-      "region": "US",
-      "category": "Gaming",
-      "_detected_lang": "en"
-    },
-    {
-      "id": "rgqGzLXTMcU",
-      "title": "WOAH.. ROBLOX FINALLY LISTENED..",
-      "channel": "KreekCraft",
-      "channel_id": "UCxsk7hqE_CwZWGEJEkGanbA",
-      "thumbnail": "https://i.ytimg.com/vi/rgqGzLXTMcU/mqdefault.jpg",
-      "published_at": "2026-07-20T15:02:15Z",
-      "category_id": "20",
-      "views": 1276359,
-      "likes": 43214,
-      "comments": 10625,
-      "age_hours": 17.1,
-      "views_per_hour": 74672,
-      "momentum": 5.609,
-      "url": "https://www.youtube.com/watch?v=rgqGzLXTMcU",
-      "region": "US",
-      "category": "Gaming",
-      "_detected_lang": "en"
-    },
-    {
-      "id": "j1YawnQl2ow",
-      "title": "I Added Verity In Minecraft But He Got Disrespectful Real Fast (i did too)",
-      "channel": "Kubz Scouts",
-      "channel_id": "UCZBY6V8Lxmwu8gGRBOyO11w",
-      "thumbnail": "https://i.ytimg.com/vi/j1YawnQl2ow/mqdefault.jpg",
-      "published_at": "2026-07-20T08:56:48Z",
-      "category_id": "20",
-      "views": 455886,
-      "likes": 52987,
-      "comments": 3218,
-      "age_hours": 23.2,
-      "views_per_hour": 19664,
-      "momentum": 5.595,
-      "url": "https://www.youtube.com/watch?v=j1YawnQl2ow",
-      "region": "US",
-      "category": "Gaming",
-      "_detected_lang": "en"
-    },
-    {
-      "id": "9lk1j9irgfo",
-      "title": "My last video in the old house !! 🥹🫶🏠 #painting #diy painting my bathroom the color of my hair",
-      "channel": "Serena Neel",
-      "channel_id": "UCioNvmC36-JTGVjl7utMAIQ",
-      "thumbnail": "https://i.ytimg.com/vi/9lk1j9irgfo/mqdefault.jpg",
-      "published_at": "2026-07-18T15:00:31Z",
+      "id": "ibFg67kJ-oo",
+      "title": "3 ways you’re destroying your phones battery health.. #carterpcs #tech #iphone #batteryhealth",
+      "channel": "CarterPCs",
+      "channel_id": "UCi7wDE2ZTiR5QYYrUY5WhtA",
+      "thumbnail": "https://i.ytimg.com/vi/ibFg67kJ-oo/mqdefault.jpg",
+      "published_at": "2026-07-20T21:36:51Z",
       "category_id": "22",
-      "views": 3485112,
-      "likes": 302624,
-      "comments": 1827,
-      "age_hours": 65.1,
-      "views_per_hour": 53517,
-      "momentum": 5.574,
-      "url": "https://www.youtube.com/watch?v=9lk1j9irgfo",
+      "views": 794296,
+      "likes": 65623,
+      "comments": 1323,
+      "age_hours": 15.7,
+      "views_per_hour": 50698,
+      "momentum": 5.561,
+      "url": "https://www.youtube.com/watch?v=ibFg67kJ-oo",
       "region": "US",
       "category": "People & Blogs",
       "_detected_lang": "en"
@@ -3571,34 +3465,15 @@
       "thumbnail": "https://i.ytimg.com/vi/wrKcznRWirY/mqdefault.jpg",
       "published_at": "2026-07-13T09:35:13Z",
       "category_id": "27",
-      "views": 55379032,
-      "likes": 409630,
-      "comments": 9998,
-      "age_hours": 190.5,
-      "views_per_hour": 290637,
-      "momentum": 5.554,
+      "views": 55446717,
+      "likes": 410139,
+      "comments": 10006,
+      "age_hours": 195.7,
+      "views_per_hour": 283333,
+      "momentum": 5.543,
       "url": "https://www.youtube.com/watch?v=wrKcznRWirY",
       "region": "US",
       "category": "Education",
-      "_detected_lang": "en"
-    },
-    {
-      "id": "kr4T0RSrY98",
-      "title": "He Fooled the Entire Crowd… 😳🃏",
-      "channel": "PureGrit",
-      "channel_id": "UCCCHwQnTtWDMYtxYqUKaqRg",
-      "thumbnail": "https://i.ytimg.com/vi/kr4T0RSrY98/mqdefault.jpg",
-      "published_at": "2026-07-18T18:58:34Z",
-      "category_id": "17",
-      "views": 5524122,
-      "likes": 318904,
-      "comments": 668,
-      "age_hours": 61.2,
-      "views_per_hour": 90331,
-      "momentum": 5.534,
-      "url": "https://www.youtube.com/watch?v=kr4T0RSrY98",
-      "region": "US",
-      "category": "Other",
       "_detected_lang": "en"
     }
   ]
