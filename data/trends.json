@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T00:57:29.532885+00:00",
+  "generated_at": "2026-08-09T06:38:10.045358+00:00",
   "regions": [
     "US",
     "GB",
@@ -46,122 +46,18 @@
     "total_searches": 12,
     "by_category": {
       "People & Blogs": 150,
+      "Entertainment": 92,
+      "Other": 53,
       "Gaming": 75,
-      "Entertainment": 91,
-      "Other": 58,
-      "Comedy": 20,
-      "Science & Tech": 21,
+      "Comedy": 23,
+      "Science & Tech": 22,
       "Education": 8,
       "Howto & Style": 13
     }
   },
   "emerging_themes": [
     {
-      "phrase": "toxic trailer reaction",
-      "video_count": 30,
-      "channel_count": 29,
-      "total_channels_seen": 29,
-      "uploads_per_hour": 2.42,
-      "window_hours": 12,
-      "example_videos": [
-        {
-          "id": "oXT9wRqfs4g",
-          "title": "Toxic movie trailer review l Rocking Star yah",
-          "channel": "Shaurya Pankaj Official ",
-          "channel_id": "UCR6BVEsIy7cU031n-Haojhg",
-          "subscribers": 6,
-          "thumbnail": "https://i.ytimg.com/vi/oXT9wRqfs4g/mqdefault.jpg",
-          "published_at": "2026-08-09T00:55:01Z",
-          "url": "https://www.youtube.com/watch?v=oXT9wRqfs4g"
-        },
-        {
-          "id": "GHBZW3Tdwus",
-          "title": "Toxic trailer reaction tamil #tamil #reaction #toxic",
-          "channel": "CJU",
-          "channel_id": "UCiDqGuUYXnp_pR0luVl5cPA",
-          "subscribers": 156,
-          "thumbnail": "https://i.ytimg.com/vi/GHBZW3Tdwus/mqdefault.jpg",
-          "published_at": "2026-08-09T00:12:37Z",
-          "url": "https://www.youtube.com/watch?v=GHBZW3Tdwus"
-        },
-        {
-          "id": "LfFaO9LkJ9U",
-          "title": "TOXIC Official Trailer REACTION -  First  Look! 🔥 Yash Is UNLEASHED!",
-          "channel": "Cinemondo Insider Movie Reviews",
-          "channel_id": "UCvt8UhKoTahIIRGIwxzUVVA",
-          "subscribers": 71000,
-          "thumbnail": "https://i.ytimg.com/vi/LfFaO9LkJ9U/mqdefault.jpg",
-          "published_at": "2026-08-08T22:29:34Z",
-          "url": "https://www.youtube.com/watch?v=LfFaO9LkJ9U"
-        },
-        {
-          "id": "5KdSGmQSl5c",
-          "title": "Toxic Official Trailer Reaction Rocking Star Yash | Geetu Mohandas | KVN |  #toxic #trailerreaction",
-          "channel": "Anubhavam",
-          "channel_id": "UChLcSQOqub3Y9U-bREjwkBA",
-          "subscribers": 6680,
-          "thumbnail": "https://i.ytimg.com/vi/5KdSGmQSl5c/mqdefault.jpg",
-          "published_at": "2026-08-08T21:30:11Z",
-          "url": "https://www.youtube.com/watch?v=5KdSGmQSl5c"
-        }
-      ],
-      "first_detected_at": "2026-08-09T00:57:29.532885+00:00",
-      "last_seen_at": "2026-08-09T00:57:29.532885+00:00"
-    },
-    {
-      "phrase": "freedom sale",
-      "video_count": 30,
-      "channel_count": 29,
-      "total_channels_seen": 29,
-      "uploads_per_hour": 2.42,
-      "window_hours": 12,
-      "example_videos": [
-        {
-          "id": "ci6Fop20Qzk",
-          "title": "Like. Subscribe. Share #smartphone #fyp #flipkart #amazon #sale #ytshorts",
-          "channel": "ScisopedAI",
-          "channel_id": "UCc9eX4t0ahNB9rl40oorBJA",
-          "subscribers": 1,
-          "thumbnail": "https://i.ytimg.com/vi/ci6Fop20Qzk/mqdefault.jpg",
-          "published_at": "2026-08-09T00:30:16Z",
-          "url": "https://www.youtube.com/watch?v=ci6Fop20Qzk"
-        },
-        {
-          "id": "rUoJpy6sbcQ",
-          "title": "🇮🇳 VELORA FREEDOM SALE IS LIVE!Celebrate Independence with FLAT 20% OFF 🔥Use code FREEDOM20 now.",
-          "channel": "VELORA",
-          "channel_id": "UCuEGcUlfdB28IcO62MpUJLw",
-          "subscribers": 1,
-          "thumbnail": "https://i.ytimg.com/vi/rUoJpy6sbcQ/mqdefault.jpg",
-          "published_at": "2026-08-08T23:32:20Z",
-          "url": "https://www.youtube.com/watch?v=rUoJpy6sbcQ"
-        },
-        {
-          "id": "JD3osarY6ZA",
-          "title": "#foryou #craftsurprise_4_u #jewellery #offer #sale #freedom #independenceday #ytshorts #trending #yt",
-          "channel": "Craft Surprise",
-          "channel_id": "UCXidxfeKIQfzqJ6HyHTDkKw",
-          "subscribers": 309,
-          "thumbnail": "https://i.ytimg.com/vi/JD3osarY6ZA/mqdefault.jpg",
-          "published_at": "2026-08-08T20:20:10Z",
-          "url": "https://www.youtube.com/watch?v=JD3osarY6ZA"
-        },
-        {
-          "id": "f506mIBeVKg",
-          "title": "Dove Beauty products | Amazon Great freedom sale is live .Grab the offers..@TheUnboxHubYT ",
-          "channel": "The Unbox Hub",
-          "channel_id": "UC8oa6wY215nB1K0f33P3uBQ",
-          "subscribers": 8,
-          "thumbnail": "https://i.ytimg.com/vi/f506mIBeVKg/mqdefault.jpg",
-          "published_at": "2026-08-08T20:18:16Z",
-          "url": "https://www.youtube.com/watch?v=f506mIBeVKg"
-        }
-      ],
-      "first_detected_at": "2026-08-09T00:57:29.532885+00:00",
-      "last_seen_at": "2026-08-09T00:57:29.532885+00:00"
-    },
-    {
-      "phrase": "minecraft smp",
+      "phrase": "pmwc ewc group",
       "video_count": 29,
       "channel_count": 29,
       "total_channels_seen": 30,
@@ -169,315 +65,419 @@
       "window_hours": 12,
       "example_videos": [
         {
-          "id": "_lYqn2ilhp8",
-          "title": "Join the trinity smp link in comments and bio!",
-          "channel": "Trinity SMP",
-          "channel_id": "UCD2hO-2h29A9X5zZ1CBzP5Q",
-          "subscribers": 7,
-          "thumbnail": "https://i.ytimg.com/vi/_lYqn2ilhp8/mqdefault.jpg",
-          "published_at": "2026-08-09T00:52:24Z",
-          "url": "https://www.youtube.com/watch?v=_lYqn2ilhp8"
+          "id": "J1Ld9xFDOlU",
+          "title": "GROUP B DAY 1 WAS ABSOLUTE CINEMA 🔥😱#pubgmobile #ewc #ewc26 @JONATHANGAMINGYT#support #esports",
+          "channel": "BGMIVERSSYT ",
+          "channel_id": "UCCC2fQnMba-kAwExScIS-Ug",
+          "subscribers": 19,
+          "thumbnail": "https://i.ytimg.com/vi/J1Ld9xFDOlU/mqdefault.jpg",
+          "published_at": "2026-08-09T06:29:21Z",
+          "url": "https://www.youtube.com/watch?v=J1Ld9xFDOlU"
         },
         {
-          "id": "m2lkRv6q_yY",
-          "title": "IP: cookiesmp.pro Cookie SMP — The Best SMP #minecraft #java  #bedrock  #minecraftserver #cookiesmp",
-          "channel": "marcoanyelo",
-          "channel_id": "UCCzVD4_AIISGA3Uu7-qYpEw",
-          "subscribers": 1340,
-          "thumbnail": "https://i.ytimg.com/vi/m2lkRv6q_yY/mqdefault.jpg",
-          "published_at": "2026-08-09T00:12:29Z",
-          "url": "https://www.youtube.com/watch?v=m2lkRv6q_yY"
+          "id": "1D8uH5aOSLo",
+          "title": "PMWC 2026 || GROUP B: A GROUP OF CHAMPIONS #pubgmobile #pmwc # #ewc #esports # #pmgc #ewc26 #godlike",
+          "channel": "TG_DOCTOR",
+          "channel_id": "UCsgrisQr_ckrPwfTz2KgPfg",
+          "subscribers": 2,
+          "thumbnail": "https://i.ytimg.com/vi/1D8uH5aOSLo/mqdefault.jpg",
+          "published_at": "2026-08-09T06:21:52Z",
+          "url": "https://www.youtube.com/watch?v=1D8uH5aOSLo"
         },
         {
-          "id": "sEjTJ0C9Cik",
-          "title": "vengeance smp #minecraft #smp #bestminecraftclips #gaming #mincraftpvp",
-          "channel": "MoonRises",
-          "channel_id": "UC9V3uaW05IsG3aL86Ju8ROA",
-          "subscribers": 29,
-          "thumbnail": "https://i.ytimg.com/vi/sEjTJ0C9Cik/mqdefault.jpg",
-          "published_at": "2026-08-09T00:10:34Z",
-          "url": "https://www.youtube.com/watch?v=sEjTJ0C9Cik"
+          "id": "pcL80uk-sF4",
+          "title": "PMWC at EWC GROUP STAGE DAY 3 - WATCHPARTY WITH ToNYOP #live #bgmi #pubgmobile #ewc2026",
+          "channel": "Tonyop",
+          "channel_id": "UCrcnAZugioIRqUedX0kxmww",
+          "subscribers": 869,
+          "thumbnail": "https://i.ytimg.com/vi/pcL80uk-sF4/mqdefault.jpg",
+          "published_at": "2026-08-09T05:55:18Z",
+          "url": "https://www.youtube.com/watch?v=pcL80uk-sF4"
         },
         {
-          "id": "lavMY9CfDgA",
-          "title": "everyone was using this bug💀 #donutsmp #minecraft #drdonut",
-          "channel": "ClipzzDonut",
-          "channel_id": "UC8OpIPBHJZOoy5ZbHZdKa3Q",
-          "subscribers": 790,
-          "thumbnail": "https://i.ytimg.com/vi/lavMY9CfDgA/mqdefault.jpg",
-          "published_at": "2026-08-09T00:03:57Z",
-          "url": "https://www.youtube.com/watch?v=lavMY9CfDgA"
+          "id": "2QJNT7cdxwo",
+          "title": "PMWC at EWC GROUP STAGE DAY 3 #pubgmobil #bgmi #ewc #pmwc watch with  prakash Live",
+          "channel": "TAG PRAKASH LIVE",
+          "channel_id": "UClcLPMsJ1ZA6YrIsY_dwzIA",
+          "subscribers": 1240,
+          "thumbnail": "https://i.ytimg.com/vi/2QJNT7cdxwo/mqdefault_live.jpg",
+          "published_at": "2026-08-09T05:53:17Z",
+          "url": "https://www.youtube.com/watch?v=2QJNT7cdxwo"
         }
       ],
-      "first_detected_at": "2026-08-09T00:57:29.532885+00:00",
-      "last_seen_at": "2026-08-09T00:57:29.532885+00:00"
+      "first_detected_at": "2026-08-08T18:22:14.008578+00:00",
+      "last_seen_at": "2026-08-09T06:38:10.045358+00:00"
     },
     {
-      "phrase": "pmwc ewc group",
-      "video_count": 30,
+      "phrase": "gta5 gtav gaming",
+      "video_count": 29,
+      "channel_count": 29,
+      "total_channels_seen": 30,
+      "uploads_per_hour": 2.42,
+      "window_hours": 12,
+      "example_videos": [
+        {
+          "id": "FvRSMJn1rT4",
+          "title": "Ranking The Craziest GTA 5 Moments #gaming #gta #gtav #gta5",
+          "channel": "Rank Rushing",
+          "channel_id": "UC2uSIMKLEitu5lwz6UdLhNg",
+          "subscribers": 3,
+          "thumbnail": "https://i.ytimg.com/vi/FvRSMJn1rT4/mqdefault.jpg",
+          "published_at": "2026-08-09T06:31:26Z",
+          "url": "https://www.youtube.com/watch?v=FvRSMJn1rT4"
+        },
+        {
+          "id": "Pu4qsZp_7Rg",
+          "title": "I Tried a Viral GTA 5 Video… And This Happened😱 #shorts",
+          "channel": "IndrajeetPlayz",
+          "channel_id": "UClGhdZ2-AjgSXF8eXBvYfUQ",
+          "subscribers": 7990,
+          "thumbnail": "https://i.ytimg.com/vi/Pu4qsZp_7Rg/mqdefault.jpg",
+          "published_at": "2026-08-09T06:30:30Z",
+          "url": "https://www.youtube.com/watch?v=Pu4qsZp_7Rg"
+        },
+        {
+          "id": "BkRXkKigjpU",
+          "title": "What If I Stole Police lamborghini in GTA 5 😱",
+          "channel": "DocStar plays",
+          "channel_id": "UCOnuSTNo69FR-lkOLRhGm4g",
+          "subscribers": 27800,
+          "thumbnail": "https://i.ytimg.com/vi/BkRXkKigjpU/mqdefault.jpg",
+          "published_at": "2026-08-09T06:30:14Z",
+          "url": "https://www.youtube.com/watch?v=BkRXkKigjpU"
+        },
+        {
+          "id": "cx0dMPM3xZ0",
+          "title": "GTA 5 Most Dangerous Ramp Challenge 😱 Wait For The Final Crash 😂 #shorts",
+          "channel": "FOXY4",
+          "channel_id": "UCQaT6G_-ZXnp38Zyx5nKRcw",
+          "subscribers": 866,
+          "thumbnail": "https://i.ytimg.com/vi/cx0dMPM3xZ0/mqdefault.jpg",
+          "published_at": "2026-08-09T06:30:09Z",
+          "url": "https://www.youtube.com/watch?v=cx0dMPM3xZ0"
+        }
+      ],
+      "first_detected_at": "2026-08-09T06:38:10.045358+00:00",
+      "last_seen_at": "2026-08-09T06:38:10.045358+00:00"
+    },
+    {
+      "phrase": "ewc group stage",
+      "video_count": 29,
       "channel_count": 28,
-      "total_channels_seen": 28,
+      "total_channels_seen": 29,
       "uploads_per_hour": 2.33,
       "window_hours": 12,
       "example_videos": [
         {
-          "id": "hA1sGSfoTi8",
-          "title": "PMWC at EWC GROUP STAGE 3 - WATCHPARTY WITH Turbo | #ewc",
-          "channel": "Turbo Torque",
-          "channel_id": "UCtpcqQwkp0SdeXZERml2Skw",
-          "subscribers": 52,
-          "thumbnail": "https://i.ytimg.com/vi/hA1sGSfoTi8/mqdefault.jpg",
-          "published_at": "2026-08-09T00:54:38Z",
-          "url": "https://www.youtube.com/watch?v=hA1sGSfoTi8"
+          "id": "d5eg4CgOrBU",
+          "title": "PMWC at EWC 2026 Group Stage Day 4 LIVE | Watch Party with Alpha Titans Gaming | Hindi 🇮🇳",
+          "channel": "Alpha Titans Gaming",
+          "channel_id": "UCtZXS2iP1TUjaV6hRobZZYA",
+          "subscribers": 413,
+          "thumbnail": "https://i.ytimg.com/vi/d5eg4CgOrBU/mqdefault_live.jpg",
+          "published_at": "2026-08-09T06:13:17Z",
+          "url": "https://www.youtube.com/watch?v=d5eg4CgOrBU"
         },
         {
-          "id": "wLiwT0tZAyY",
-          "title": "PMWC at EWC GROUP STAGE DAY 3 - WATCHPARTY WITH SNAX",
-          "channel": "SahilxD gaming ",
-          "channel_id": "UCoIT4GBST1UKp2a-DNuWehg",
-          "subscribers": 282,
-          "thumbnail": "https://i.ytimg.com/vi/wLiwT0tZAyY/mqdefault.jpg",
-          "published_at": "2026-08-09T00:46:21Z",
-          "url": "https://www.youtube.com/watch?v=wLiwT0tZAyY"
+          "id": "z3_zqj3fmVE",
+          "title": "PMWC WATCH PARTY CHIT CHAT - GROUP STAGE DAY 2 | EWC 2026",
+          "channel": "Fahadre",
+          "channel_id": "UCCAPRICRo4AXGB0HsRiqaZA",
+          "subscribers": 7290,
+          "thumbnail": "https://i.ytimg.com/vi/z3_zqj3fmVE/mqdefault.jpg",
+          "published_at": "2026-08-09T06:02:23Z",
+          "url": "https://www.youtube.com/watch?v=z3_zqj3fmVE"
         },
         {
-          "id": "yLXcE_Q9S5k",
-          "title": "PMWC at EWC GROUP STAGE DAY 3 || 4v3 fight || #gaming #shorts",
-          "channel": "COSMICxTERROR_GAMING",
-          "channel_id": "UCIHCNb7Q0OZOvasSqCUzH1A",
-          "subscribers": 28,
-          "thumbnail": "https://i.ytimg.com/vi/yLXcE_Q9S5k/mqdefault.jpg",
-          "published_at": "2026-08-09T00:39:00Z",
-          "url": "https://www.youtube.com/watch?v=yLXcE_Q9S5k"
+          "id": "XXWou4WFwy0",
+          "title": "@GodLikeEsportss 🇮🇳 in @ewc Group Stage",
+          "channel": "OG TV 📺 ",
+          "channel_id": "UCQJElV-yFNFzenxl8MBHKuQ",
+          "subscribers": 86,
+          "thumbnail": "https://i.ytimg.com/vi/XXWou4WFwy0/mqdefault.jpg",
+          "published_at": "2026-08-09T05:58:22Z",
+          "url": "https://www.youtube.com/watch?v=XXWou4WFwy0"
         },
         {
-          "id": "xX0mWtkC2_A",
-          "title": "PMWC at EWC GROUP STAGE DAY 3 - WATCHPARTY WITH JINDANX 🔥 #PMWC #EWC #BGMI #JINDANX #GamingLive",
-          "channel": "JindaanX",
-          "channel_id": "UC0PC9wJ-E2iIVorD69TAIxg",
-          "subscribers": 14,
-          "thumbnail": "https://i.ytimg.com/vi/xX0mWtkC2_A/mqdefault.jpg",
-          "published_at": "2026-08-09T00:30:59Z",
-          "url": "https://www.youtube.com/watch?v=xX0mWtkC2_A"
+          "id": "pcL80uk-sF4",
+          "title": "PMWC at EWC GROUP STAGE DAY 3 - WATCHPARTY WITH ToNYOP #live #bgmi #pubgmobile #ewc2026",
+          "channel": "Tonyop",
+          "channel_id": "UCrcnAZugioIRqUedX0kxmww",
+          "subscribers": 869,
+          "thumbnail": "https://i.ytimg.com/vi/pcL80uk-sF4/mqdefault.jpg",
+          "published_at": "2026-08-09T05:55:18Z",
+          "url": "https://www.youtube.com/watch?v=pcL80uk-sF4"
         }
       ],
       "first_detected_at": "2026-08-08T18:22:14.008578+00:00",
-      "last_seen_at": "2026-08-09T00:57:29.532885+00:00"
+      "last_seen_at": "2026-08-09T06:38:10.045358+00:00"
+    },
+    {
+      "phrase": "live gta5 gtav",
+      "video_count": 30,
+      "channel_count": 27,
+      "total_channels_seen": 27,
+      "uploads_per_hour": 2.25,
+      "window_hours": 12,
+      "example_videos": [
+        {
+          "id": "Wscvhed-hXQ",
+          "title": "GTA 5 LIVE #gta5 #gtav #gaming",
+          "channel": "Massom Sharma ",
+          "channel_id": "UC7ZtDUyGQsTR4eD_0XmFDdA",
+          "subscribers": 10600,
+          "thumbnail": "https://i.ytimg.com/vi/Wscvhed-hXQ/mqdefault.jpg",
+          "published_at": "2026-08-09T06:36:24Z",
+          "url": "https://www.youtube.com/watch?v=Wscvhed-hXQ"
+        },
+        {
+          "id": "SmirCWnAESM",
+          "title": "GTA V LIVE 🔥#shortsfeed #shortslive #gta #shorts #live #gta5",
+          "channel": "RageGod fps",
+          "channel_id": "UCSgW2d-IWIZKM6mHBe13YHQ",
+          "subscribers": 270000,
+          "thumbnail": "https://i.ytimg.com/vi/SmirCWnAESM/mqdefault.jpg",
+          "published_at": "2026-08-09T06:31:20Z",
+          "url": "https://www.youtube.com/watch?v=SmirCWnAESM"
+        },
+        {
+          "id": "C4It3OIawNo",
+          "title": "GTA 5 LIVE | GTRA 5 MODS GAMING |",
+          "channel": "Udit Gaming",
+          "channel_id": "UCR8cBRtAgOWHovG4E4bpMMg",
+          "subscribers": 22,
+          "thumbnail": "https://i.ytimg.com/vi/C4It3OIawNo/mqdefault.jpg",
+          "published_at": "2026-08-09T06:30:34Z",
+          "url": "https://www.youtube.com/watch?v=C4It3OIawNo"
+        },
+        {
+          "id": "U-Fl36iYkgQ",
+          "title": "🔴 GTA 5 LIVE – DON’T BLINK! SECRET MOD ACTIVATED 🤯 #gtalive #gtaonline",
+          "channel": "ClawSlash",
+          "channel_id": "UCNQhg4QwOqnjcSFuLJT0yQQ",
+          "subscribers": 10800,
+          "thumbnail": "https://i.ytimg.com/vi/U-Fl36iYkgQ/mqdefault.jpg",
+          "published_at": "2026-08-09T06:18:52Z",
+          "url": "https://www.youtube.com/watch?v=U-Fl36iYkgQ"
+        }
+      ],
+      "first_detected_at": "2026-08-09T06:38:10.045358+00:00",
+      "last_seen_at": "2026-08-09T06:38:10.045358+00:00"
+    },
+    {
+      "phrase": "iphone pro max",
+      "video_count": 29,
+      "channel_count": 27,
+      "total_channels_seen": 28,
+      "uploads_per_hour": 2.25,
+      "window_hours": 12,
+      "example_videos": [
+        {
+          "id": "Z_q_Jq4UX_0",
+          "title": "iPhone 18 Pro Max Dark Cherry📱🫶#noads #tiktok #usa",
+          "channel": "Danh Game Shorts",
+          "channel_id": "UClmA5oKhm9ku4w178VPwNdw",
+          "subscribers": 238000,
+          "thumbnail": "https://i.ytimg.com/vi/Z_q_Jq4UX_0/mqdefault.jpg",
+          "published_at": "2026-08-09T06:25:01Z",
+          "url": "https://www.youtube.com/watch?v=Z_q_Jq4UX_0"
+        },
+        {
+          "id": "NkBCKG5zyMI",
+          "title": "Unboxing a Tiny iPhone Pro Max (Miniature ASMR) 🤏✨",
+          "channel": "Mini Unbox ASMR",
+          "channel_id": "UCg4jBbI0q6UhvIsaia20vxQ",
+          "subscribers": 14,
+          "thumbnail": "https://i.ytimg.com/vi/NkBCKG5zyMI/mqdefault.jpg",
+          "published_at": "2026-08-09T06:15:37Z",
+          "url": "https://www.youtube.com/watch?v=NkBCKG5zyMI"
+        },
+        {
+          "id": "Yjw6vUESopU",
+          "title": "iPhone 18 Pro Max Dark Cherry📱🫶#noads #tiktok #usa",
+          "channel": "Jamaika_6_7",
+          "channel_id": "UCjVCBvi07-qH1DKNSrCcfrg",
+          "subscribers": 188000,
+          "thumbnail": "https://i.ytimg.com/vi/Yjw6vUESopU/mqdefault.jpg",
+          "published_at": "2026-08-09T06:07:37Z",
+          "url": "https://www.youtube.com/watch?v=Yjw6vUESopU"
+        },
+        {
+          "id": "irOb7XrIxzg",
+          "title": "iPhone 17 Pro vs 17 Pro Max: Kaun Sa Hai Asli King? 👑🔥 #iphone #iphone17promax pro #shorts",
+          "channel": "FactCurio",
+          "channel_id": "UCjnB7AnGnQxhXE1GEeUDOqg",
+          "subscribers": 11,
+          "thumbnail": "https://i.ytimg.com/vi/irOb7XrIxzg/mqdefault.jpg",
+          "published_at": "2026-08-09T06:02:54Z",
+          "url": "https://www.youtube.com/watch?v=irOb7XrIxzg"
+        }
+      ],
+      "first_detected_at": "2026-08-09T06:38:10.045358+00:00",
+      "last_seen_at": "2026-08-09T06:38:10.045358+00:00"
     },
     {
       "phrase": "group stage watchparty",
       "video_count": 28,
       "channel_count": 26,
-      "total_channels_seen": 28,
+      "total_channels_seen": 27,
       "uploads_per_hour": 2.17,
       "window_hours": 12,
       "example_videos": [
         {
-          "id": "wLiwT0tZAyY",
-          "title": "PMWC at EWC GROUP STAGE DAY 3 - WATCHPARTY WITH SNAX",
-          "channel": "SahilxD gaming ",
-          "channel_id": "UCoIT4GBST1UKp2a-DNuWehg",
-          "subscribers": 282,
-          "thumbnail": "https://i.ytimg.com/vi/wLiwT0tZAyY/mqdefault.jpg",
-          "published_at": "2026-08-09T00:46:21Z",
-          "url": "https://www.youtube.com/watch?v=wLiwT0tZAyY"
+          "id": "d5eg4CgOrBU",
+          "title": "PMWC at EWC 2026 Group Stage Day 4 LIVE | Watch Party with Alpha Titans Gaming | Hindi 🇮🇳",
+          "channel": "Alpha Titans Gaming",
+          "channel_id": "UCtZXS2iP1TUjaV6hRobZZYA",
+          "subscribers": 413,
+          "thumbnail": "https://i.ytimg.com/vi/d5eg4CgOrBU/mqdefault_live.jpg",
+          "published_at": "2026-08-09T06:13:17Z",
+          "url": "https://www.youtube.com/watch?v=d5eg4CgOrBU"
         },
         {
-          "id": "WGukuH9fsVI",
-          "title": "GROUP A CHAMPIONS 4 THRIVES | NOW GROUP B | PMWC WATCH PARTY",
-          "channel": "Hamza X Live",
-          "channel_id": "UCcZn0_42F_Nkhd6afSaKjIg",
-          "subscribers": 40,
-          "thumbnail": "https://i.ytimg.com/vi/WGukuH9fsVI/mqdefault.jpg",
-          "published_at": "2026-08-09T00:34:13Z",
-          "url": "https://www.youtube.com/watch?v=WGukuH9fsVI"
+          "id": "z3_zqj3fmVE",
+          "title": "PMWC WATCH PARTY CHIT CHAT - GROUP STAGE DAY 2 | EWC 2026",
+          "channel": "Fahadre",
+          "channel_id": "UCCAPRICRo4AXGB0HsRiqaZA",
+          "subscribers": 7290,
+          "thumbnail": "https://i.ytimg.com/vi/z3_zqj3fmVE/mqdefault.jpg",
+          "published_at": "2026-08-09T06:02:23Z",
+          "url": "https://www.youtube.com/watch?v=z3_zqj3fmVE"
         },
         {
-          "id": "tHX3VsH0JXk",
-          "title": "PMWC at EWC GROUP STAGE DAY 3 - WATCHPARTY🔴#pubgmobile #paris #ewc",
-          "channel": "Vagale GamerZ",
-          "channel_id": "UCFNHOZZ6RoKOywljwuyxOVw",
-          "subscribers": 495,
-          "thumbnail": "https://i.ytimg.com/vi/tHX3VsH0JXk/mqdefault.jpg",
-          "published_at": "2026-08-09T00:33:02Z",
-          "url": "https://www.youtube.com/watch?v=tHX3VsH0JXk"
+          "id": "pcL80uk-sF4",
+          "title": "PMWC at EWC GROUP STAGE DAY 3 - WATCHPARTY WITH ToNYOP #live #bgmi #pubgmobile #ewc2026",
+          "channel": "Tonyop",
+          "channel_id": "UCrcnAZugioIRqUedX0kxmww",
+          "subscribers": 869,
+          "thumbnail": "https://i.ytimg.com/vi/pcL80uk-sF4/mqdefault.jpg",
+          "published_at": "2026-08-09T05:55:18Z",
+          "url": "https://www.youtube.com/watch?v=pcL80uk-sF4"
         },
         {
-          "id": "xX0mWtkC2_A",
-          "title": "PMWC at EWC GROUP STAGE DAY 3 - WATCHPARTY WITH JINDANX 🔥 #PMWC #EWC #BGMI #JINDANX #GamingLive",
-          "channel": "JindaanX",
-          "channel_id": "UC0PC9wJ-E2iIVorD69TAIxg",
-          "subscribers": 14,
-          "thumbnail": "https://i.ytimg.com/vi/xX0mWtkC2_A/mqdefault.jpg",
-          "published_at": "2026-08-09T00:30:59Z",
-          "url": "https://www.youtube.com/watch?v=xX0mWtkC2_A"
+          "id": "0DBvehgfDdA",
+          "title": "FFMIC 2026 FALL WATCH PARTY🔥🏆 ( GROUP STAGE ) | DAY 3 - FREE FIRE MAX #live #freefire #ffmic",
+          "channel": "Fact Storage",
+          "channel_id": "UCImLinXeCNMkgWs6pFO7MAw",
+          "subscribers": 949000,
+          "thumbnail": "https://i.ytimg.com/vi/0DBvehgfDdA/mqdefault.jpg",
+          "published_at": "2026-08-09T05:39:45Z",
+          "url": "https://www.youtube.com/watch?v=0DBvehgfDdA"
         }
       ],
       "first_detected_at": "2026-08-08T18:22:14.008578+00:00",
-      "last_seen_at": "2026-08-09T00:57:29.532885+00:00"
+      "last_seen_at": "2026-08-09T06:38:10.045358+00:00"
     },
     {
-      "phrase": "group stage",
-      "video_count": 27,
-      "channel_count": 26,
-      "total_channels_seen": 29,
-      "uploads_per_hour": 2.17,
-      "window_hours": 12,
-      "example_videos": [
-        {
-          "id": "yLXcE_Q9S5k",
-          "title": "PMWC at EWC GROUP STAGE DAY 3 || 4v3 fight || #gaming #shorts",
-          "channel": "COSMICxTERROR_GAMING",
-          "channel_id": "UCIHCNb7Q0OZOvasSqCUzH1A",
-          "subscribers": 28,
-          "thumbnail": "https://i.ytimg.com/vi/yLXcE_Q9S5k/mqdefault.jpg",
-          "published_at": "2026-08-09T00:39:00Z",
-          "url": "https://www.youtube.com/watch?v=yLXcE_Q9S5k"
-        },
-        {
-          "id": "RvahF48gURk",
-          "title": "G2 leaf reflects on the team&#39;s performance in the Group Stage and what to improve for the postseason",
-          "channel": "alo | Esports Content Creator",
-          "channel_id": "UC1kjd4km4fryqzCM5qQaixA",
-          "subscribers": 312,
-          "thumbnail": "https://i.ytimg.com/vi/RvahF48gURk/mqdefault.jpg",
-          "published_at": "2026-08-09T00:31:37Z",
-          "url": "https://www.youtube.com/watch?v=RvahF48gURk"
-        },
-        {
-          "id": "_f15NdVTkaI",
-          "title": "KRU vs SEN | FUT vs GX &amp; EF vs JL | VCT Stage 2 Americas Groups &amp; EMEA Playins | !patreon",
-          "channel": "Sliggy",
-          "channel_id": "UCBgWHcUevzhAJ3eWSetT8-g",
-          "subscribers": 68600,
-          "thumbnail": "https://i.ytimg.com/vi/_f15NdVTkaI/mqdefault.jpg",
-          "published_at": "2026-08-09T00:27:18Z",
-          "url": "https://www.youtube.com/watch?v=_f15NdVTkaI"
-        },
-        {
-          "id": "Rle76m5xjxo",
-          "title": "Đình Bắc ghi 5 bàn cho tuyển Việt Nam tại AFF Cup 2026: Vua phá lưới bất ngờ!",
-          "channel": "LinPi NewsReview",
-          "channel_id": "UCSvLHgxk1IH6_iuwvpGzF8A",
-          "subscribers": 1210,
-          "thumbnail": "https://i.ytimg.com/vi/Rle76m5xjxo/mqdefault.jpg",
-          "published_at": "2026-08-09T00:00:10Z",
-          "url": "https://www.youtube.com/watch?v=Rle76m5xjxo"
-        }
-      ],
-      "first_detected_at": "2026-08-08T18:22:14.008578+00:00",
-      "last_seen_at": "2026-08-09T00:57:29.532885+00:00"
-    },
-    {
-      "phrase": "ewc group stage",
-      "video_count": 27,
-      "channel_count": 26,
-      "total_channels_seen": 28,
-      "uploads_per_hour": 2.17,
-      "window_hours": 12,
-      "example_videos": [
-        {
-          "id": "hA1sGSfoTi8",
-          "title": "PMWC at EWC GROUP STAGE 3 - WATCHPARTY WITH Turbo | #ewc",
-          "channel": "Turbo Torque",
-          "channel_id": "UCtpcqQwkp0SdeXZERml2Skw",
-          "subscribers": 52,
-          "thumbnail": "https://i.ytimg.com/vi/hA1sGSfoTi8/mqdefault.jpg",
-          "published_at": "2026-08-09T00:54:38Z",
-          "url": "https://www.youtube.com/watch?v=hA1sGSfoTi8"
-        },
-        {
-          "id": "wLiwT0tZAyY",
-          "title": "PMWC at EWC GROUP STAGE DAY 3 - WATCHPARTY WITH SNAX",
-          "channel": "SahilxD gaming ",
-          "channel_id": "UCoIT4GBST1UKp2a-DNuWehg",
-          "subscribers": 282,
-          "thumbnail": "https://i.ytimg.com/vi/wLiwT0tZAyY/mqdefault.jpg",
-          "published_at": "2026-08-09T00:46:21Z",
-          "url": "https://www.youtube.com/watch?v=wLiwT0tZAyY"
-        },
-        {
-          "id": "yLXcE_Q9S5k",
-          "title": "PMWC at EWC GROUP STAGE DAY 3 || 4v3 fight || #gaming #shorts",
-          "channel": "COSMICxTERROR_GAMING",
-          "channel_id": "UCIHCNb7Q0OZOvasSqCUzH1A",
-          "subscribers": 28,
-          "thumbnail": "https://i.ytimg.com/vi/yLXcE_Q9S5k/mqdefault.jpg",
-          "published_at": "2026-08-09T00:39:00Z",
-          "url": "https://www.youtube.com/watch?v=yLXcE_Q9S5k"
-        },
-        {
-          "id": "xX0mWtkC2_A",
-          "title": "PMWC at EWC GROUP STAGE DAY 3 - WATCHPARTY WITH JINDANX 🔥 #PMWC #EWC #BGMI #JINDANX #GamingLive",
-          "channel": "JindaanX",
-          "channel_id": "UC0PC9wJ-E2iIVorD69TAIxg",
-          "subscribers": 14,
-          "thumbnail": "https://i.ytimg.com/vi/xX0mWtkC2_A/mqdefault.jpg",
-          "published_at": "2026-08-09T00:30:59Z",
-          "url": "https://www.youtube.com/watch?v=xX0mWtkC2_A"
-        }
-      ],
-      "first_detected_at": "2026-08-08T18:22:14.008578+00:00",
-      "last_seen_at": "2026-08-09T00:57:29.532885+00:00"
-    },
-    {
-      "phrase": "esports world cup",
-      "video_count": 25,
+      "phrase": "max dark cherry",
+      "video_count": 29,
       "channel_count": 25,
-      "total_channels_seen": 29,
+      "total_channels_seen": 26,
       "uploads_per_hour": 2.08,
       "window_hours": 12,
       "example_videos": [
         {
-          "id": "Z87MC296kZU",
-          "title": "🇵🇰 M ZUBAIR 👑 TEKKEN 8 EWC CHAMPION",
-          "channel": "Raza Highlights",
-          "channel_id": "UC_KcLQDTByIdTsli3XJ2Ksw",
-          "subscribers": 29500,
-          "thumbnail": "https://i.ytimg.com/vi/Z87MC296kZU/mqdefault.jpg",
-          "published_at": "2026-08-09T00:41:47Z",
-          "url": "https://www.youtube.com/watch?v=Z87MC296kZU"
+          "id": "hDjALSUrRhg",
+          "title": "iPhone 18 Pro Max Dark Cherry📱🫶#noads #tiktok #usa",
+          "channel": "Jamaika_6_7",
+          "channel_id": "UCjVCBvi07-qH1DKNSrCcfrg",
+          "subscribers": 188000,
+          "thumbnail": "https://i.ytimg.com/vi/hDjALSUrRhg/mqdefault.jpg",
+          "published_at": "2026-08-09T06:15:17Z",
+          "url": "https://www.youtube.com/watch?v=hDjALSUrRhg"
         },
         {
-          "id": "ggiOx2PyUBc",
-          "title": "Which team can beat this record ? 💀 #ewc #esports #pubgmobile",
-          "channel": "OBITO IS LIVE",
-          "channel_id": "UCT8nFZxzGtiNm7xUWqYHFvw",
-          "subscribers": 393,
-          "thumbnail": "https://i.ytimg.com/vi/ggiOx2PyUBc/mqdefault.jpg",
-          "published_at": "2026-08-09T00:31:35Z",
-          "url": "https://www.youtube.com/watch?v=ggiOx2PyUBc"
+          "id": "Yjw6vUESopU",
+          "title": "iPhone 18 Pro Max Dark Cherry📱🫶#noads #tiktok #usa",
+          "channel": "Jamaika_6_7",
+          "channel_id": "UCjVCBvi07-qH1DKNSrCcfrg",
+          "subscribers": 188000,
+          "thumbnail": "https://i.ytimg.com/vi/Yjw6vUESopU/mqdefault.jpg",
+          "published_at": "2026-08-09T06:07:37Z",
+          "url": "https://www.youtube.com/watch?v=Yjw6vUESopU"
         },
         {
-          "id": "iyLDYKo8oK8",
-          "title": "🔥 Fuudo vs Moke Was INSANE! | Ed vs Mai | Esports World Cup 2026 #SF6",
-          "channel": "Super Fighters-Jkm",
-          "channel_id": "UCvOOnA96PF6Ac1Yx0kH4OxQ",
-          "subscribers": 188,
-          "thumbnail": "https://i.ytimg.com/vi/iyLDYKo8oK8/mqdefault.jpg",
-          "published_at": "2026-08-09T00:31:01Z",
-          "url": "https://www.youtube.com/watch?v=iyLDYKo8oK8"
+          "id": "V94QZmrvKSs",
+          "title": "iPhone 18 Pro Max Dark Cherry 📱🫶#usa #noads #tiktok",
+          "channel": "Zumi shorts",
+          "channel_id": "UCAK5DOGpx0doCRvd80BcrLQ",
+          "subscribers": 3120,
+          "thumbnail": "https://i.ytimg.com/vi/V94QZmrvKSs/mqdefault.jpg",
+          "published_at": "2026-08-09T06:02:27Z",
+          "url": "https://www.youtube.com/watch?v=V94QZmrvKSs"
         },
         {
-          "id": "DiASdla0-78",
-          "title": "Welcome To The International Lobby 😱🥶#pmwc #pmwc2026 #ewc2026 #ewc26 #ewc #esports #pubgmobile #sing",
-          "channel": "Nostalgic PlayzZz ",
-          "channel_id": "UCbyqRkN68kQ-G14UKJCC7hw",
-          "subscribers": 1800,
-          "thumbnail": "https://i.ytimg.com/vi/DiASdla0-78/mqdefault.jpg",
-          "published_at": "2026-08-09T00:30:49Z",
-          "url": "https://www.youtube.com/watch?v=DiASdla0-78"
+          "id": "1coGrwO4_VU",
+          "title": "iPhone 18 Pro Max Dark Cherry📱🫶#noads #tiktok #usa",
+          "channel": "Dark Arun ",
+          "channel_id": "UC55OTzCsvi4Azq2u1Ddw4Yw",
+          "subscribers": 113000,
+          "thumbnail": "https://i.ytimg.com/vi/1coGrwO4_VU/mqdefault.jpg",
+          "published_at": "2026-08-09T05:38:01Z",
+          "url": "https://www.youtube.com/watch?v=1coGrwO4_VU"
         }
       ],
-      "first_detected_at": "2026-08-09T00:57:29.532885+00:00",
-      "last_seen_at": "2026-08-09T00:57:29.532885+00:00"
+      "first_detected_at": "2026-08-09T06:38:10.045358+00:00",
+      "last_seen_at": "2026-08-09T06:38:10.045358+00:00"
+    },
+    {
+      "phrase": "group stage",
+      "video_count": 27,
+      "channel_count": 23,
+      "total_channels_seen": 25,
+      "uploads_per_hour": 1.92,
+      "window_hours": 12,
+      "example_videos": [
+        {
+          "id": "PgUUcl_LAiU",
+          "title": "PUBG MOBILE PMWC TOURNAMENT GROUP A DAY 2 | PMWC GROUP STAGE MATCH #pubgmesports #pubgesports #pubg",
+          "channel": "KHAN X GAMING ",
+          "channel_id": "UCoQGr48f4KHc6TZGHJPqp7A",
+          "subscribers": 46000,
+          "thumbnail": "https://i.ytimg.com/vi/PgUUcl_LAiU/mqdefault.jpg",
+          "published_at": "2026-08-09T06:25:42Z",
+          "url": "https://www.youtube.com/watch?v=PgUUcl_LAiU"
+        },
+        {
+          "id": "5AzLbY2aFdI",
+          "title": "Ek aur Booyah🤯 #TEZFFMIC2026 #FALL #GROUPSTAGE #FORGEYOURLEGACY",
+          "channel": "Mayuur_271",
+          "channel_id": "UCPIqH9QTbln8HdG_jaB1aVw",
+          "subscribers": 233,
+          "thumbnail": "https://i.ytimg.com/vi/5AzLbY2aFdI/mqdefault.jpg",
+          "published_at": "2026-08-09T06:10:35Z",
+          "url": "https://www.youtube.com/watch?v=5AzLbY2aFdI"
+        },
+        {
+          "id": "xt29Cp3IDbI",
+          "title": "suporter marahi timnas indonesia usai gagal lolos fase grup.#short#timnas#suporter#aff",
+          "channel": "wprojek123",
+          "channel_id": "UCriXErdxaZ9Bk9HeOQllD1A",
+          "subscribers": 20400,
+          "thumbnail": "https://i.ytimg.com/vi/xt29Cp3IDbI/mqdefault.jpg",
+          "published_at": "2026-08-09T06:04:54Z",
+          "url": "https://www.youtube.com/watch?v=xt29Cp3IDbI"
+        },
+        {
+          "id": "XXWou4WFwy0",
+          "title": "@GodLikeEsportss 🇮🇳 in @ewc Group Stage",
+          "channel": "OG TV 📺 ",
+          "channel_id": "UCQJElV-yFNFzenxl8MBHKuQ",
+          "subscribers": 86,
+          "thumbnail": "https://i.ytimg.com/vi/XXWou4WFwy0/mqdefault.jpg",
+          "published_at": "2026-08-09T05:58:22Z",
+          "url": "https://www.youtube.com/watch?v=XXWou4WFwy0"
+        }
+      ],
+      "first_detected_at": "2026-08-08T18:22:14.008578+00:00",
+      "last_seen_at": "2026-08-09T06:38:10.045358+00:00"
     }
   ],
   "topics": [
     {
       "phrase": "minecraft",
-      "video_count": 6,
-      "momentum": 29.93,
+      "video_count": 5,
+      "momentum": 25.19,
       "regions": [
         "IN"
       ],
@@ -489,8 +489,8 @@
           "channel": "YesSmartyPie",
           "thumbnail": "https://i.ytimg.com/vi/7pryDGPLkG0/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=7pryDGPLkG0",
-          "views": 518033,
-          "age_hours": 16.3
+          "views": 570051,
+          "age_hours": 22.0
         },
         {
           "id": "DO4MytuWOQA",
@@ -498,8 +498,8 @@
           "channel": "Anshu Bisht",
           "thumbnail": "https://i.ytimg.com/vi/DO4MytuWOQA/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=DO4MytuWOQA",
-          "views": 1197443,
-          "age_hours": 40.5
+          "views": 1233134,
+          "age_hours": 46.2
         },
         {
           "id": "eO7J0ydXck4",
@@ -507,15 +507,15 @@
           "channel": "SenpaiExtras",
           "thumbnail": "https://i.ytimg.com/vi/eO7J0ydXck4/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=eO7J0ydXck4",
-          "views": 1048708,
-          "age_hours": 41.5
+          "views": 1077847,
+          "age_hours": 47.1
         }
       ]
     },
     {
       "phrase": "life",
       "video_count": 5,
-      "momentum": 22.72,
+      "momentum": 21.78,
       "regions": [
         "US"
       ],
@@ -527,8 +527,8 @@
           "channel": "MissMangoButt",
           "thumbnail": "https://i.ytimg.com/vi/Q1bRYXB69so/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=Q1bRYXB69so",
-          "views": 136029,
-          "age_hours": 8.0
+          "views": 214813,
+          "age_hours": 13.7
         },
         {
           "id": "7SzZr8WQWhc",
@@ -536,8 +536,8 @@
           "channel": "Nicole Laeno",
           "thumbnail": "https://i.ytimg.com/vi/7SzZr8WQWhc/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=7SzZr8WQWhc",
-          "views": 98193,
-          "age_hours": 25.4
+          "views": 108340,
+          "age_hours": 31.1
         },
         {
           "id": "PXMJvid2Ks8",
@@ -545,66 +545,37 @@
           "channel": "Lala Baptiste",
           "thumbnail": "https://i.ytimg.com/vi/PXMJvid2Ks8/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=PXMJvid2Ks8",
-          "views": 71744,
-          "age_hours": 24.0
-        }
-      ]
-    },
-    {
-      "phrase": "pmwc ewc",
-      "video_count": 3,
-      "momentum": 20.61,
-      "regions": [
-        "IN"
-      ],
-      "lang": "en",
-      "example_videos": [
-        {
-          "id": "mIoVlSJKBXA",
-          "title": "PMWC at EWC GROUP STAGE DAY 3 - WATCHPARTY WITH SNAX",
-          "channel": "Snax Gaming",
-          "thumbnail": "https://i.ytimg.com/vi/mIoVlSJKBXA/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=mIoVlSJKBXA",
-          "views": 4129898,
-          "age_hours": 9.0
-        },
-        {
-          "id": "xPyf1ybFUVw",
-          "title": "[IND] PMWC at EWC 26 - दिन 3 - ग्रुप चरण",
-          "channel": "EWC India",
-          "thumbnail": "https://i.ytimg.com/vi/xPyf1ybFUVw/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=xPyf1ybFUVw",
-          "views": 763437,
-          "age_hours": 7.8
-        },
-        {
-          "id": "YmJOdPjxJjM",
-          "title": "PMWC at EWC GROUP STAGE DAY 3 - WATCHPARTY WITH NEYOO",
-          "channel": "Neyoo",
-          "thumbnail": "https://i.ytimg.com/vi/YmJOdPjxJjM/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=YmJOdPjxJjM",
-          "views": 407462,
-          "age_hours": 9.3
+          "views": 84461,
+          "age_hours": 29.6
         }
       ]
     },
     {
       "phrase": "iphone",
       "video_count": 5,
-      "momentum": 20.32,
+      "momentum": 20.95,
       "regions": [
         "BR"
       ],
       "lang": "pt",
       "example_videos": [
         {
+          "id": "N6S7ZMq9h6g",
+          "title": "IPHONE 18 PROMAX DARK CHERY 🙏💚 #usa #shorts #noads",
+          "channel": "TUAN NHI NHANH",
+          "thumbnail": "https://i.ytimg.com/vi/N6S7ZMq9h6g/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=N6S7ZMq9h6g",
+          "views": 780612,
+          "age_hours": 21.6
+        },
+        {
           "id": "cxQfMheQ7rQ",
           "title": "Será que iPhone FALSO da Shopee presta?",
           "channel": "Mike Fantástico",
           "thumbnail": "https://i.ytimg.com/vi/cxQfMheQ7rQ/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=cxQfMheQ7rQ",
-          "views": 268386,
-          "age_hours": 52.0
+          "views": 280695,
+          "age_hours": 57.6
         },
         {
           "id": "HYXrxXMM5Po",
@@ -612,24 +583,15 @@
           "channel": "Ryan Samuel",
           "thumbnail": "https://i.ytimg.com/vi/HYXrxXMM5Po/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=HYXrxXMM5Po",
-          "views": 288625,
-          "age_hours": 47.3
-        },
-        {
-          "id": "fwQZJa3HzAY",
-          "title": "Modifiquei meu carregador de iPhone #tecnologia #entretenimento #carregador #iphone #celular",
-          "channel": "RC ASSISTEC ",
-          "thumbnail": "https://i.ytimg.com/vi/fwQZJa3HzAY/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=fwQZJa3HzAY",
-          "views": 575055,
-          "age_hours": 120.5
+          "views": 311354,
+          "age_hours": 53.0
         }
       ]
     },
     {
-      "phrase": "group stage",
+      "phrase": "pmwc ewc",
       "video_count": 3,
-      "momentum": 20.25,
+      "momentum": 19.74,
       "regions": [
         "IN"
       ],
@@ -641,8 +603,17 @@
           "channel": "Snax Gaming",
           "thumbnail": "https://i.ytimg.com/vi/mIoVlSJKBXA/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=mIoVlSJKBXA",
-          "views": 4129898,
-          "age_hours": 9.0
+          "views": 4151132,
+          "age_hours": 14.7
+        },
+        {
+          "id": "xPyf1ybFUVw",
+          "title": "[IND] PMWC at EWC 26 - दिन 3 - ग्रुप चरण",
+          "channel": "EWC India",
+          "thumbnail": "https://i.ytimg.com/vi/xPyf1ybFUVw/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=xPyf1ybFUVw",
+          "views": 768803,
+          "age_hours": 13.4
         },
         {
           "id": "YmJOdPjxJjM",
@@ -650,8 +621,75 @@
           "channel": "Neyoo",
           "thumbnail": "https://i.ytimg.com/vi/YmJOdPjxJjM/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=YmJOdPjxJjM",
-          "views": 407462,
-          "age_hours": 9.3
+          "views": 410038,
+          "age_hours": 15.0
+        }
+      ]
+    },
+    {
+      "phrase": "gta live",
+      "video_count": 3,
+      "momentum": 19.47,
+      "regions": [
+        "IN"
+      ],
+      "lang": "en",
+      "example_videos": [
+        {
+          "id": "0lqacLeyMcI",
+          "title": "GTA 5 LIVE  #gta5 #gtav #gaming",
+          "channel": "PAJI IS LIVE",
+          "thumbnail": "https://i.ytimg.com/vi/0lqacLeyMcI/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=0lqacLeyMcI",
+          "views": 1597105,
+          "age_hours": 2.1
+        },
+        {
+          "id": "aTUwIuTq04g",
+          "title": "GTA 5 LIVE  #gta5 #gtav #gaming",
+          "channel": "PAJI IS LIVE",
+          "thumbnail": "https://i.ytimg.com/vi/aTUwIuTq04g/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=aTUwIuTq04g",
+          "views": 1917896,
+          "age_hours": 27.8
+        },
+        {
+          "id": "IumDbAVMAm4",
+          "title": "GTA 5 LIVE | MRRAJAPLAY#shortslive #shortsfeed #gta5 #gtaonline",
+          "channel": "MR RAJA PLAYZONE",
+          "thumbnail": "https://i.ytimg.com/vi/IumDbAVMAm4/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=IumDbAVMAm4",
+          "views": 2342107,
+          "age_hours": 36.8
+        }
+      ]
+    },
+    {
+      "phrase": "group stage",
+      "video_count": 3,
+      "momentum": 19.43,
+      "regions": [
+        "IN"
+      ],
+      "lang": "en",
+      "example_videos": [
+        {
+          "id": "mIoVlSJKBXA",
+          "title": "PMWC at EWC GROUP STAGE DAY 3 - WATCHPARTY WITH SNAX",
+          "channel": "Snax Gaming",
+          "thumbnail": "https://i.ytimg.com/vi/mIoVlSJKBXA/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=mIoVlSJKBXA",
+          "views": 4151132,
+          "age_hours": 14.7
+        },
+        {
+          "id": "YmJOdPjxJjM",
+          "title": "PMWC at EWC GROUP STAGE DAY 3 - WATCHPARTY WITH NEYOO",
+          "channel": "Neyoo",
+          "thumbnail": "https://i.ytimg.com/vi/YmJOdPjxJjM/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=YmJOdPjxJjM",
+          "views": 410038,
+          "age_hours": 15.0
         },
         {
           "id": "nyUEDkSJ2CI",
@@ -659,53 +697,53 @@
           "channel": "Free Fire MAX Esports India Official",
           "thumbnail": "https://i.ytimg.com/vi/nyUEDkSJ2CI/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=nyUEDkSJ2CI",
-          "views": 319601,
-          "age_hours": 9.4
+          "views": 326241,
+          "age_hours": 15.0
         }
       ]
     },
     {
-      "phrase": "ao vivo",
+      "phrase": "back",
       "video_count": 4,
-      "momentum": 18.48,
+      "momentum": 19.2,
       "regions": [
-        "BR"
+        "US"
       ],
-      "lang": "pt",
+      "lang": "en",
       "example_videos": [
         {
-          "id": "BSQc5Bmm7-Q",
-          "title": "🔴 FREE FIRE AO VIVO: FFWS BRASIL SPLIT 2 | RODADA 3",
-          "channel": "Free Fire Esports Brasil #FREEFIRE",
-          "thumbnail": "https://i.ytimg.com/vi/BSQc5Bmm7-Q/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=BSQc5Bmm7-Q",
-          "views": 549254,
-          "age_hours": 5.0
+          "id": "wfT5JNx6TGI",
+          "title": "Lankybox is back and it's DISTURBING",
+          "channel": "Flamingo",
+          "thumbnail": "https://i.ytimg.com/vi/wfT5JNx6TGI/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=wfT5JNx6TGI",
+          "views": 218250,
+          "age_hours": 6.7
         },
         {
-          "id": "1Qi1vEJaJ_Y",
-          "title": "Liga Joe - Give Me Your Heart Tonight - Ao Vivo Em São Paulo - \"Flashbacks 20 Anos\"",
-          "channel": "Liga Joe",
-          "thumbnail": "https://i.ytimg.com/vi/1Qi1vEJaJ_Y/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=1Qi1vEJaJ_Y",
-          "views": 37458,
-          "age_hours": 28.0
+          "id": "mD7eBMw-Ohk",
+          "title": "Bro fought back to protect his car #shorts #edit",
+          "channel": "Olivia Gomes",
+          "thumbnail": "https://i.ytimg.com/vi/mD7eBMw-Ohk/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=mD7eBMw-Ohk",
+          "views": 5486907,
+          "age_hours": 95.4
         },
         {
-          "id": "QCr7tSuAZsI",
-          "title": "Bye Bye (Ao Vivo)",
-          "channel": "Marília Mendonça - Topic",
-          "thumbnail": "https://i.ytimg.com/vi/QCr7tSuAZsI/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=QCr7tSuAZsI",
-          "views": 38610,
-          "age_hours": 38.9
+          "id": "7SzZr8WQWhc",
+          "title": "RESET VLOG: SAS prep, packing for a trip, & getting my life back together!!!",
+          "channel": "Nicole Laeno",
+          "thumbnail": "https://i.ytimg.com/vi/7SzZr8WQWhc/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=7SzZr8WQWhc",
+          "views": 108340,
+          "age_hours": 31.1
         }
       ]
     },
     {
       "phrase": "tamil",
       "video_count": 4,
-      "momentum": 18.47,
+      "momentum": 18.37,
       "regions": [
         "IN"
       ],
@@ -717,8 +755,8 @@
           "channel": "T-Series",
           "thumbnail": "https://i.ytimg.com/vi/6JaeasJw-QI/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=6JaeasJw-QI",
-          "views": 1386731,
-          "age_hours": 37.4
+          "views": 1526799,
+          "age_hours": 43.1
         },
         {
           "id": "Uo4ZIaLyrSU",
@@ -726,8 +764,8 @@
           "channel": "Soundarya with varshini - tamil",
           "thumbnail": "https://i.ytimg.com/vi/Uo4ZIaLyrSU/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=Uo4ZIaLyrSU",
-          "views": 2209944,
-          "age_hours": 91.5
+          "views": 2242215,
+          "age_hours": 97.1
         },
         {
           "id": "CtF4w3iwOs4",
@@ -735,15 +773,129 @@
           "channel": "MH AMALDAS",
           "thumbnail": "https://i.ytimg.com/vi/CtF4w3iwOs4/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=CtF4w3iwOs4",
-          "views": 3235669,
-          "age_hours": 112.3
+          "views": 3489939,
+          "age_hours": 118.0
+        }
+      ]
+    },
+    {
+      "phrase": "ao vivo",
+      "video_count": 4,
+      "momentum": 18.1,
+      "regions": [
+        "BR"
+      ],
+      "lang": "pt",
+      "example_videos": [
+        {
+          "id": "BSQc5Bmm7-Q",
+          "title": "🔴 FREE FIRE AO VIVO: FFWS BRASIL SPLIT 2 | RODADA 3",
+          "channel": "Free Fire Esports Brasil #FREEFIRE",
+          "thumbnail": "https://i.ytimg.com/vi/BSQc5Bmm7-Q/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=BSQc5Bmm7-Q",
+          "views": 557155,
+          "age_hours": 10.7
+        },
+        {
+          "id": "1Qi1vEJaJ_Y",
+          "title": "Liga Joe - Give Me Your Heart Tonight - Ao Vivo Em São Paulo - \"Flashbacks 20 Anos\"",
+          "channel": "Liga Joe",
+          "thumbnail": "https://i.ytimg.com/vi/1Qi1vEJaJ_Y/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=1Qi1vEJaJ_Y",
+          "views": 51104,
+          "age_hours": 33.6
+        },
+        {
+          "id": "QCr7tSuAZsI",
+          "title": "Bye Bye (Ao Vivo)",
+          "channel": "Marília Mendonça - Topic",
+          "thumbnail": "https://i.ytimg.com/vi/QCr7tSuAZsI/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=QCr7tSuAZsI",
+          "views": 45453,
+          "age_hours": 44.6
+        }
+      ]
+    },
+    {
+      "phrase": "humor",
+      "video_count": 4,
+      "momentum": 18.04,
+      "regions": [
+        "BR"
+      ],
+      "lang": "pt",
+      "example_videos": [
+        {
+          "id": "uSMpBOQESQs",
+          "title": "PESSOAS QUE NÃO GOSTAM DE MILHO!😹kkk        #shorts #humor",
+          "channel": "Biel Yoshi",
+          "thumbnail": "https://i.ytimg.com/vi/uSMpBOQESQs/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=uSMpBOQESQs",
+          "views": 1156322,
+          "age_hours": 37.6
+        },
+        {
+          "id": "ljDFMX18rHI",
+          "title": "A vovó tá escutando tudo errado kkk #meme #humor #comedia #engraçado #risos",
+          "channel": "A ruiva da roça / Fabio Castro",
+          "thumbnail": "https://i.ytimg.com/vi/ljDFMX18rHI/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=ljDFMX18rHI",
+          "views": 1390319,
+          "age_hours": 57.0
+        },
+        {
+          "id": "IlpvjQYTGAQ",
+          "title": "Que barulho ela fez ? (#funny #comedy #humor )",
+          "channel": "Lulu Perrier",
+          "thumbnail": "https://i.ytimg.com/vi/IlpvjQYTGAQ/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=IlpvjQYTGAQ",
+          "views": 3226950,
+          "age_hours": 161.4
+        }
+      ]
+    },
+    {
+      "phrase": "ficou",
+      "video_count": 4,
+      "momentum": 17.77,
+      "regions": [
+        "BR"
+      ],
+      "lang": "pt",
+      "example_videos": [
+        {
+          "id": "YuyxOO53x0c",
+          "title": "A MÃO DA EMILLY VICK FICOU PRESA!",
+          "channel": "Lari Fez",
+          "thumbnail": "https://i.ytimg.com/vi/YuyxOO53x0c/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=YuyxOO53x0c",
+          "views": 1062550,
+          "age_hours": 10.6
+        },
+        {
+          "id": "mV6InmpKT7E",
+          "title": "AGORA FICOU SÉRIO! ESTREIA DO BANQUETA NA 2ª DIVISÃO PEGOU FOGO NO EFOOTBALL 🔥",
+          "channel": "AD0LFzZ",
+          "thumbnail": "https://i.ytimg.com/vi/mV6InmpKT7E/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=mV6InmpKT7E",
+          "views": 116755,
+          "age_hours": 15.1
+        },
+        {
+          "id": "5ooSweeDjMk",
+          "title": "Cadres ficou MUSCULOSO para NAMORAR SUA AMIGA!",
+          "channel": "Cadres",
+          "thumbnail": "https://i.ytimg.com/vi/5ooSweeDjMk/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=5ooSweeDjMk",
+          "views": 475776,
+          "age_hours": 18.6
         }
       ]
     },
     {
       "phrase": "comedy",
       "video_count": 4,
-      "momentum": 17.06,
+      "momentum": 16.89,
       "regions": [
         "DE"
       ],
@@ -755,8 +907,8 @@
           "channel": "marvintsp",
           "thumbnail": "https://i.ytimg.com/vi/Zj_Z_GAkXvk/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=Zj_Z_GAkXvk",
-          "views": 605130,
-          "age_hours": 31.8
+          "views": 611168,
+          "age_hours": 37.5
         },
         {
           "id": "PHjapK12Sf8",
@@ -764,8 +916,8 @@
           "channel": "ISI",
           "thumbnail": "https://i.ytimg.com/vi/PHjapK12Sf8/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=PHjapK12Sf8",
-          "views": 595223,
-          "age_hours": 32.7
+          "views": 599277,
+          "age_hours": 38.4
         },
         {
           "id": "T7DeLEsNaQA",
@@ -773,15 +925,15 @@
           "channel": "Comedy Jess",
           "thumbnail": "https://i.ytimg.com/vi/T7DeLEsNaQA/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=T7DeLEsNaQA",
-          "views": 775155,
-          "age_hours": 129.8
+          "views": 776621,
+          "age_hours": 135.4
         }
       ]
     },
     {
       "phrase": "pmwc ewc group",
       "video_count": 2,
-      "momentum": 16.93,
+      "momentum": 16.25,
       "regions": [
         "IN"
       ],
@@ -793,8 +945,8 @@
           "channel": "Snax Gaming",
           "thumbnail": "https://i.ytimg.com/vi/mIoVlSJKBXA/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=mIoVlSJKBXA",
-          "views": 4129898,
-          "age_hours": 9.0
+          "views": 4151132,
+          "age_hours": 14.7
         },
         {
           "id": "YmJOdPjxJjM",
@@ -802,15 +954,15 @@
           "channel": "Neyoo",
           "thumbnail": "https://i.ytimg.com/vi/YmJOdPjxJjM/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=YmJOdPjxJjM",
-          "views": 407462,
-          "age_hours": 9.3
+          "views": 410038,
+          "age_hours": 15.0
         }
       ]
     },
     {
       "phrase": "ewc group stage",
       "video_count": 2,
-      "momentum": 16.93,
+      "momentum": 16.25,
       "regions": [
         "IN"
       ],
@@ -822,8 +974,8 @@
           "channel": "Snax Gaming",
           "thumbnail": "https://i.ytimg.com/vi/mIoVlSJKBXA/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=mIoVlSJKBXA",
-          "views": 4129898,
-          "age_hours": 9.0
+          "views": 4151132,
+          "age_hours": 14.7
         },
         {
           "id": "YmJOdPjxJjM",
@@ -831,15 +983,15 @@
           "channel": "Neyoo",
           "thumbnail": "https://i.ytimg.com/vi/YmJOdPjxJjM/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=YmJOdPjxJjM",
-          "views": 407462,
-          "age_hours": 9.3
+          "views": 410038,
+          "age_hours": 15.0
         }
       ]
     },
     {
       "phrase": "group stage watchparty",
       "video_count": 2,
-      "momentum": 16.93,
+      "momentum": 16.25,
       "regions": [
         "IN"
       ],
@@ -851,8 +1003,8 @@
           "channel": "Snax Gaming",
           "thumbnail": "https://i.ytimg.com/vi/mIoVlSJKBXA/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=mIoVlSJKBXA",
-          "views": 4129898,
-          "age_hours": 9.0
+          "views": 4151132,
+          "age_hours": 14.7
         },
         {
           "id": "YmJOdPjxJjM",
@@ -860,238 +1012,95 @@
           "channel": "Neyoo",
           "thumbnail": "https://i.ytimg.com/vi/YmJOdPjxJjM/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=YmJOdPjxJjM",
-          "views": 407462,
-          "age_hours": 9.3
+          "views": 410038,
+          "age_hours": 15.0
         }
       ]
     },
     {
-      "phrase": "sale",
-      "video_count": 4,
-      "momentum": 16.03,
-      "regions": [
-        "IN"
-      ],
-      "lang": "en",
-      "example_videos": [
-        {
-          "id": "CPmA0TXKmns",
-          "title": "Best Mobiles Deals to Grab This Freedom Sale On Amazon & Flipkart 🥳 || Don't Miss Out This Time.👀",
-          "channel": "Prasadtechintelugu",
-          "thumbnail": "https://i.ytimg.com/vi/CPmA0TXKmns/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=CPmA0TXKmns",
-          "views": 469572,
-          "age_hours": 58.5
-        },
-        {
-          "id": "byBIxkIl5pU",
-          "title": "Don't Miss These 12 Jabadast Deals ⚡ Ft.Amazon & Flipkart Sale 2026",
-          "channel": "Trakin Tech",
-          "thumbnail": "https://i.ytimg.com/vi/byBIxkIl5pU/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=byBIxkIl5pU",
-          "views": 202223,
-          "age_hours": 41.6
-        },
-        {
-          "id": "ayjpBNOSJzQ",
-          "title": "Best Smartphones to buy on Flipkart Freedom Sale !",
-          "channel": "Tech Burner",
-          "thumbnail": "https://i.ytimg.com/vi/ayjpBNOSJzQ/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=ayjpBNOSJzQ",
-          "views": 457727,
-          "age_hours": 81.1
-        }
-      ]
-    },
-    {
-      "phrase": "flipkart",
-      "video_count": 4,
-      "momentum": 16.03,
-      "regions": [
-        "IN"
-      ],
-      "lang": "en",
-      "example_videos": [
-        {
-          "id": "CPmA0TXKmns",
-          "title": "Best Mobiles Deals to Grab This Freedom Sale On Amazon & Flipkart 🥳 || Don't Miss Out This Time.👀",
-          "channel": "Prasadtechintelugu",
-          "thumbnail": "https://i.ytimg.com/vi/CPmA0TXKmns/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=CPmA0TXKmns",
-          "views": 469572,
-          "age_hours": 58.5
-        },
-        {
-          "id": "byBIxkIl5pU",
-          "title": "Don't Miss These 12 Jabadast Deals ⚡ Ft.Amazon & Flipkart Sale 2026",
-          "channel": "Trakin Tech",
-          "thumbnail": "https://i.ytimg.com/vi/byBIxkIl5pU/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=byBIxkIl5pU",
-          "views": 202223,
-          "age_hours": 41.6
-        },
-        {
-          "id": "ayjpBNOSJzQ",
-          "title": "Best Smartphones to buy on Flipkart Freedom Sale !",
-          "channel": "Tech Burner",
-          "thumbnail": "https://i.ytimg.com/vi/ayjpBNOSJzQ/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=ayjpBNOSJzQ",
-          "views": 457727,
-          "age_hours": 81.1
-        }
-      ]
-    },
-    {
-      "phrase": "esports world cup",
+      "phrase": "gta live gta5",
       "video_count": 2,
-      "momentum": 15.99,
-      "regions": [
-        "US"
-      ],
-      "lang": "en",
-      "example_videos": [
-        {
-          "id": "VnTRgEfCzUk",
-          "title": "OpTic GAMING vs FAZE!! SCUMP WATCH PARTY - ESPORTS WORLD CUP DAY 4",
-          "channel": "Scump",
-          "thumbnail": "https://i.ytimg.com/vi/VnTRgEfCzUk/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=VnTRgEfCzUk",
-          "views": 585072,
-          "age_hours": 2.6
-        },
-        {
-          "id": "ciOaZXz8CdQ",
-          "title": "Call of Duty: Black Ops 7 Esports World Cup | Playoffs",
-          "channel": "Call of Duty League",
-          "thumbnail": "https://i.ytimg.com/vi/ciOaZXz8CdQ/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=ciOaZXz8CdQ",
-          "views": 291652,
-          "age_hours": 2.3
-        }
-      ]
-    },
-    {
-      "phrase": "toxic trailer reaction",
-      "video_count": 2,
-      "momentum": 15.33,
+      "momentum": 16.16,
       "regions": [
         "IN"
       ],
       "lang": "en",
       "example_videos": [
         {
-          "id": "TbixB4Z7ItE",
-          "title": "Toxic Trailer • Reaction",
-          "channel": "thePJ",
-          "thumbnail": "https://i.ytimg.com/vi/TbixB4Z7ItE/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=TbixB4Z7ItE",
-          "views": 364119,
-          "age_hours": 10.6
+          "id": "0lqacLeyMcI",
+          "title": "GTA 5 LIVE  #gta5 #gtav #gaming",
+          "channel": "PAJI IS LIVE",
+          "thumbnail": "https://i.ytimg.com/vi/0lqacLeyMcI/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=0lqacLeyMcI",
+          "views": 1597105,
+          "age_hours": 2.1
         },
         {
-          "id": "7VNabImqM2s",
-          "title": "Toxic |  Trailer Reaction | Rocking Star Yash| Geetu Mohandas | Malayalam",
-          "channel": "LifeofShazzam",
-          "thumbnail": "https://i.ytimg.com/vi/7VNabImqM2s/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=7VNabImqM2s",
-          "views": 212077,
-          "age_hours": 10.5
+          "id": "aTUwIuTq04g",
+          "title": "GTA 5 LIVE  #gta5 #gtav #gaming",
+          "channel": "PAJI IS LIVE",
+          "thumbnail": "https://i.ytimg.com/vi/aTUwIuTq04g/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=aTUwIuTq04g",
+          "views": 1917896,
+          "age_hours": 27.8
         }
       ]
     },
     {
-      "phrase": "freedom sale",
-      "video_count": 3,
-      "momentum": 14.93,
+      "phrase": "live gta5 gtav",
+      "video_count": 2,
+      "momentum": 16.16,
       "regions": [
         "IN"
       ],
       "lang": "en",
       "example_videos": [
         {
-          "id": "CPmA0TXKmns",
-          "title": "Best Mobiles Deals to Grab This Freedom Sale On Amazon & Flipkart 🥳 || Don't Miss Out This Time.👀",
-          "channel": "Prasadtechintelugu",
-          "thumbnail": "https://i.ytimg.com/vi/CPmA0TXKmns/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=CPmA0TXKmns",
-          "views": 469572,
-          "age_hours": 58.5
+          "id": "0lqacLeyMcI",
+          "title": "GTA 5 LIVE  #gta5 #gtav #gaming",
+          "channel": "PAJI IS LIVE",
+          "thumbnail": "https://i.ytimg.com/vi/0lqacLeyMcI/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=0lqacLeyMcI",
+          "views": 1597105,
+          "age_hours": 2.1
         },
         {
-          "id": "ayjpBNOSJzQ",
-          "title": "Best Smartphones to buy on Flipkart Freedom Sale !",
-          "channel": "Tech Burner",
-          "thumbnail": "https://i.ytimg.com/vi/ayjpBNOSJzQ/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=ayjpBNOSJzQ",
-          "views": 457727,
-          "age_hours": 81.1
-        },
-        {
-          "id": "_4tCzjAEUUc",
-          "title": "Best Phone Offers | Flipkart & Amazon Freedom Sale | Malayalam",
-          "channel": "Mr Perfect Tech",
-          "thumbnail": "https://i.ytimg.com/vi/_4tCzjAEUUc/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=_4tCzjAEUUc",
-          "views": 97875,
-          "age_hours": 35.1
+          "id": "aTUwIuTq04g",
+          "title": "GTA 5 LIVE  #gta5 #gtav #gaming",
+          "channel": "PAJI IS LIVE",
+          "thumbnail": "https://i.ytimg.com/vi/aTUwIuTq04g/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=aTUwIuTq04g",
+          "views": 1917896,
+          "age_hours": 27.8
         }
       ]
     },
     {
-      "phrase": "minecraft smp",
+      "phrase": "gta5 gtav gaming",
       "video_count": 2,
-      "momentum": 13.25,
+      "momentum": 16.16,
       "regions": [
         "IN"
       ],
       "lang": "en",
       "example_videos": [
         {
-          "id": "7pryDGPLkG0",
-          "title": "I Was BANNED From HIMLANDS… But I Came Back  [S7-Ep13] | Minecraft SMP",
-          "channel": "YesSmartyPie",
-          "thumbnail": "https://i.ytimg.com/vi/7pryDGPLkG0/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=7pryDGPLkG0",
-          "views": 518033,
-          "age_hours": 16.3
+          "id": "0lqacLeyMcI",
+          "title": "GTA 5 LIVE  #gta5 #gtav #gaming",
+          "channel": "PAJI IS LIVE",
+          "thumbnail": "https://i.ytimg.com/vi/0lqacLeyMcI/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=0lqacLeyMcI",
+          "views": 1597105,
+          "age_hours": 2.1
         },
         {
-          "id": "eO7J0ydXck4",
-          "title": "How I Started a WAR BETWEEN DIMENSIONS in This Minecraft SMP",
-          "channel": "SenpaiExtras",
-          "thumbnail": "https://i.ytimg.com/vi/eO7J0ydXck4/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=eO7J0ydXck4",
-          "views": 1048708,
-          "age_hours": 41.5
-        }
-      ]
-    },
-    {
-      "phrase": "car shorts",
-      "video_count": 2,
-      "momentum": 13.1,
-      "regions": [
-        "US"
-      ],
-      "lang": "en",
-      "example_videos": [
-        {
-          "id": "mD7eBMw-Ohk",
-          "title": "Bro fought back to protect his car #shorts #edit",
-          "channel": "Olivia Gomes",
-          "thumbnail": "https://i.ytimg.com/vi/mD7eBMw-Ohk/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=mD7eBMw-Ohk",
-          "views": 5171274,
-          "age_hours": 89.7
-        },
-        {
-          "id": "nQcrANpsmHk",
-          "title": "Why You Should NEVER Park Your Car Here 🚗 ⚠️  #shorts #car",
-          "channel": "lemi",
-          "thumbnail": "https://i.ytimg.com/vi/nQcrANpsmHk/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=nQcrANpsmHk",
-          "views": 4271181,
-          "age_hours": 59.6
+          "id": "aTUwIuTq04g",
+          "title": "GTA 5 LIVE  #gta5 #gtav #gaming",
+          "channel": "PAJI IS LIVE",
+          "thumbnail": "https://i.ytimg.com/vi/aTUwIuTq04g/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=aTUwIuTq04g",
+          "views": 1917896,
+          "age_hours": 27.8
         }
       ]
     }
@@ -1101,7 +1110,7 @@
       {
         "phrase": "life",
         "video_count": 5,
-        "momentum": 22.72,
+        "momentum": 21.78,
         "regions": [
           "US"
         ],
@@ -1113,8 +1122,8 @@
             "channel": "MissMangoButt",
             "thumbnail": "https://i.ytimg.com/vi/Q1bRYXB69so/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=Q1bRYXB69so",
-            "views": 136029,
-            "age_hours": 8.0
+            "views": 214813,
+            "age_hours": 13.7
           },
           {
             "id": "7SzZr8WQWhc",
@@ -1122,8 +1131,8 @@
             "channel": "Nicole Laeno",
             "thumbnail": "https://i.ytimg.com/vi/7SzZr8WQWhc/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=7SzZr8WQWhc",
-            "views": 98193,
-            "age_hours": 25.4
+            "views": 108340,
+            "age_hours": 31.1
           },
           {
             "id": "PXMJvid2Ks8",
@@ -1131,44 +1140,256 @@
             "channel": "Lala Baptiste",
             "thumbnail": "https://i.ytimg.com/vi/PXMJvid2Ks8/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=PXMJvid2Ks8",
-            "views": 71744,
-            "age_hours": 24.0
+            "views": 84461,
+            "age_hours": 29.6
           }
         ]
       },
       {
-        "phrase": "esports world cup",
-        "video_count": 2,
-        "momentum": 15.99,
+        "phrase": "back",
+        "video_count": 4,
+        "momentum": 19.2,
         "regions": [
           "US"
         ],
         "lang": "en",
         "example_videos": [
           {
-            "id": "VnTRgEfCzUk",
-            "title": "OpTic GAMING vs FAZE!! SCUMP WATCH PARTY - ESPORTS WORLD CUP DAY 4",
-            "channel": "Scump",
-            "thumbnail": "https://i.ytimg.com/vi/VnTRgEfCzUk/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=VnTRgEfCzUk",
-            "views": 585072,
-            "age_hours": 2.6
+            "id": "wfT5JNx6TGI",
+            "title": "Lankybox is back and it's DISTURBING",
+            "channel": "Flamingo",
+            "thumbnail": "https://i.ytimg.com/vi/wfT5JNx6TGI/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=wfT5JNx6TGI",
+            "views": 218250,
+            "age_hours": 6.7
           },
           {
-            "id": "ciOaZXz8CdQ",
-            "title": "Call of Duty: Black Ops 7 Esports World Cup | Playoffs",
-            "channel": "Call of Duty League",
-            "thumbnail": "https://i.ytimg.com/vi/ciOaZXz8CdQ/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=ciOaZXz8CdQ",
-            "views": 291652,
-            "age_hours": 2.3
+            "id": "mD7eBMw-Ohk",
+            "title": "Bro fought back to protect his car #shorts #edit",
+            "channel": "Olivia Gomes",
+            "thumbnail": "https://i.ytimg.com/vi/mD7eBMw-Ohk/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=mD7eBMw-Ohk",
+            "views": 5486907,
+            "age_hours": 95.4
+          },
+          {
+            "id": "7SzZr8WQWhc",
+            "title": "RESET VLOG: SAS prep, packing for a trip, & getting my life back together!!!",
+            "channel": "Nicole Laeno",
+            "thumbnail": "https://i.ytimg.com/vi/7SzZr8WQWhc/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=7SzZr8WQWhc",
+            "views": 108340,
+            "age_hours": 31.1
+          }
+        ]
+      },
+      {
+        "phrase": "iphone pro max",
+        "video_count": 2,
+        "momentum": 15.47,
+        "regions": [
+          "US"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "f4VdofF9GQ0",
+            "title": "iPhone 18 Pro Max Dark Cherry📱🫶#noads #tiktok #usa Part 102",
+            "channel": "Mr Tungtungsahur Blue ",
+            "thumbnail": "https://i.ytimg.com/vi/f4VdofF9GQ0/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=f4VdofF9GQ0",
+            "views": 9764476,
+            "age_hours": 75.6
+          },
+          {
+            "id": "Aet5tZZulK4",
+            "title": "iPhone 18 Pro Max Dark Cherry📱🫶#noads #tiktok #usa",
+            "channel": "Dark Arun ",
+            "thumbnail": "https://i.ytimg.com/vi/Aet5tZZulK4/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=Aet5tZZulK4",
+            "views": 2783455,
+            "age_hours": 26.0
+          }
+        ]
+      },
+      {
+        "phrase": "pro max dark",
+        "video_count": 2,
+        "momentum": 15.47,
+        "regions": [
+          "US"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "f4VdofF9GQ0",
+            "title": "iPhone 18 Pro Max Dark Cherry📱🫶#noads #tiktok #usa Part 102",
+            "channel": "Mr Tungtungsahur Blue ",
+            "thumbnail": "https://i.ytimg.com/vi/f4VdofF9GQ0/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=f4VdofF9GQ0",
+            "views": 9764476,
+            "age_hours": 75.6
+          },
+          {
+            "id": "Aet5tZZulK4",
+            "title": "iPhone 18 Pro Max Dark Cherry📱🫶#noads #tiktok #usa",
+            "channel": "Dark Arun ",
+            "thumbnail": "https://i.ytimg.com/vi/Aet5tZZulK4/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=Aet5tZZulK4",
+            "views": 2783455,
+            "age_hours": 26.0
+          }
+        ]
+      },
+      {
+        "phrase": "max dark cherry",
+        "video_count": 2,
+        "momentum": 15.47,
+        "regions": [
+          "US"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "f4VdofF9GQ0",
+            "title": "iPhone 18 Pro Max Dark Cherry📱🫶#noads #tiktok #usa Part 102",
+            "channel": "Mr Tungtungsahur Blue ",
+            "thumbnail": "https://i.ytimg.com/vi/f4VdofF9GQ0/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=f4VdofF9GQ0",
+            "views": 9764476,
+            "age_hours": 75.6
+          },
+          {
+            "id": "Aet5tZZulK4",
+            "title": "iPhone 18 Pro Max Dark Cherry📱🫶#noads #tiktok #usa",
+            "channel": "Dark Arun ",
+            "thumbnail": "https://i.ytimg.com/vi/Aet5tZZulK4/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=Aet5tZZulK4",
+            "views": 2783455,
+            "age_hours": 26.0
+          }
+        ]
+      },
+      {
+        "phrase": "dark cherry noads",
+        "video_count": 2,
+        "momentum": 15.47,
+        "regions": [
+          "US"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "f4VdofF9GQ0",
+            "title": "iPhone 18 Pro Max Dark Cherry📱🫶#noads #tiktok #usa Part 102",
+            "channel": "Mr Tungtungsahur Blue ",
+            "thumbnail": "https://i.ytimg.com/vi/f4VdofF9GQ0/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=f4VdofF9GQ0",
+            "views": 9764476,
+            "age_hours": 75.6
+          },
+          {
+            "id": "Aet5tZZulK4",
+            "title": "iPhone 18 Pro Max Dark Cherry📱🫶#noads #tiktok #usa",
+            "channel": "Dark Arun ",
+            "thumbnail": "https://i.ytimg.com/vi/Aet5tZZulK4/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=Aet5tZZulK4",
+            "views": 2783455,
+            "age_hours": 26.0
+          }
+        ]
+      },
+      {
+        "phrase": "cherry noads tiktok",
+        "video_count": 2,
+        "momentum": 15.47,
+        "regions": [
+          "US"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "f4VdofF9GQ0",
+            "title": "iPhone 18 Pro Max Dark Cherry📱🫶#noads #tiktok #usa Part 102",
+            "channel": "Mr Tungtungsahur Blue ",
+            "thumbnail": "https://i.ytimg.com/vi/f4VdofF9GQ0/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=f4VdofF9GQ0",
+            "views": 9764476,
+            "age_hours": 75.6
+          },
+          {
+            "id": "Aet5tZZulK4",
+            "title": "iPhone 18 Pro Max Dark Cherry📱🫶#noads #tiktok #usa",
+            "channel": "Dark Arun ",
+            "thumbnail": "https://i.ytimg.com/vi/Aet5tZZulK4/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=Aet5tZZulK4",
+            "views": 2783455,
+            "age_hours": 26.0
+          }
+        ]
+      },
+      {
+        "phrase": "noads tiktok usa",
+        "video_count": 2,
+        "momentum": 15.47,
+        "regions": [
+          "US"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "f4VdofF9GQ0",
+            "title": "iPhone 18 Pro Max Dark Cherry📱🫶#noads #tiktok #usa Part 102",
+            "channel": "Mr Tungtungsahur Blue ",
+            "thumbnail": "https://i.ytimg.com/vi/f4VdofF9GQ0/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=f4VdofF9GQ0",
+            "views": 9764476,
+            "age_hours": 75.6
+          },
+          {
+            "id": "Aet5tZZulK4",
+            "title": "iPhone 18 Pro Max Dark Cherry📱🫶#noads #tiktok #usa",
+            "channel": "Dark Arun ",
+            "thumbnail": "https://i.ytimg.com/vi/Aet5tZZulK4/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=Aet5tZZulK4",
+            "views": 2783455,
+            "age_hours": 26.0
+          }
+        ]
+      },
+      {
+        "phrase": "tom holland",
+        "video_count": 2,
+        "momentum": 14.21,
+        "regions": [
+          "US"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "CU9tbavgEKI",
+            "title": "Tom Holland Was the Only One Who Understood the Assignment",
+            "channel": "Heartsnreels",
+            "thumbnail": "https://i.ytimg.com/vi/CU9tbavgEKI/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=CU9tbavgEKI",
+            "views": 1684046,
+            "age_hours": 18.3
+          },
+          {
+            "id": "srBJKGo8hV8",
+            "title": "Ranking The Top 6 Tom Holland Spider-Man Bloopers 🤣 #shorts #spiderman",
+            "channel": "Starring Fallon",
+            "thumbnail": "https://i.ytimg.com/vi/srBJKGo8hV8/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=srBJKGo8hV8",
+            "views": 5031494,
+            "age_hours": 69.6
           }
         ]
       },
       {
         "phrase": "car shorts",
         "video_count": 2,
-        "momentum": 13.1,
+        "momentum": 13.04,
         "regions": [
           "US"
         ],
@@ -1180,8 +1401,8 @@
             "channel": "Olivia Gomes",
             "thumbnail": "https://i.ytimg.com/vi/mD7eBMw-Ohk/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=mD7eBMw-Ohk",
-            "views": 5171274,
-            "age_hours": 89.7
+            "views": 5486907,
+            "age_hours": 95.4
           },
           {
             "id": "nQcrANpsmHk",
@@ -1189,15 +1410,15 @@
             "channel": "lemi",
             "thumbnail": "https://i.ytimg.com/vi/nQcrANpsmHk/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=nQcrANpsmHk",
-            "views": 4271181,
-            "age_hours": 59.6
+            "views": 4284967,
+            "age_hours": 65.2
           }
         ]
       },
       {
         "phrase": "dayinmylife vlog",
         "video_count": 2,
-        "momentum": 9.1,
+        "momentum": 9.05,
         "regions": [
           "US"
         ],
@@ -1209,8 +1430,8 @@
             "channel": "Haylee Hess",
             "thumbnail": "https://i.ytimg.com/vi/vqcapYHi3UQ/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=vqcapYHi3UQ",
-            "views": 235486,
-            "age_hours": 104.9
+            "views": 240264,
+            "age_hours": 110.5
           },
           {
             "id": "_Vdy4MHlrmQ",
@@ -1218,8 +1439,8 @@
             "channel": "Miriam Ezagui",
             "thumbnail": "https://i.ytimg.com/vi/_Vdy4MHlrmQ/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=_Vdy4MHlrmQ",
-            "views": 151944,
-            "age_hours": 129.6
+            "views": 154862,
+            "age_hours": 135.3
           }
         ]
       }
@@ -1228,20 +1449,29 @@
       {
         "phrase": "iphone",
         "video_count": 5,
-        "momentum": 20.32,
+        "momentum": 20.95,
         "regions": [
           "BR"
         ],
         "lang": "pt",
         "example_videos": [
           {
+            "id": "N6S7ZMq9h6g",
+            "title": "IPHONE 18 PROMAX DARK CHERY 🙏💚 #usa #shorts #noads",
+            "channel": "TUAN NHI NHANH",
+            "thumbnail": "https://i.ytimg.com/vi/N6S7ZMq9h6g/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=N6S7ZMq9h6g",
+            "views": 780612,
+            "age_hours": 21.6
+          },
+          {
             "id": "cxQfMheQ7rQ",
             "title": "Será que iPhone FALSO da Shopee presta?",
             "channel": "Mike Fantástico",
             "thumbnail": "https://i.ytimg.com/vi/cxQfMheQ7rQ/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=cxQfMheQ7rQ",
-            "views": 268386,
-            "age_hours": 52.0
+            "views": 280695,
+            "age_hours": 57.6
           },
           {
             "id": "HYXrxXMM5Po",
@@ -1249,62 +1479,15 @@
             "channel": "Ryan Samuel",
             "thumbnail": "https://i.ytimg.com/vi/HYXrxXMM5Po/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=HYXrxXMM5Po",
-            "views": 288625,
-            "age_hours": 47.3
-          },
-          {
-            "id": "fwQZJa3HzAY",
-            "title": "Modifiquei meu carregador de iPhone #tecnologia #entretenimento #carregador #iphone #celular",
-            "channel": "RC ASSISTEC ",
-            "thumbnail": "https://i.ytimg.com/vi/fwQZJa3HzAY/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=fwQZJa3HzAY",
-            "views": 575055,
-            "age_hours": 120.5
-          }
-        ]
-      },
-      {
-        "phrase": "minecraft",
-        "video_count": 4,
-        "momentum": 18.79,
-        "regions": [
-          "BR"
-        ],
-        "lang": "pt",
-        "example_videos": [
-          {
-            "id": "ZKV-6AzbKq4",
-            "title": "Copa Mundial de SINUCA no Minecraft! - Craft Games 353",
-            "channel": "Davi",
-            "thumbnail": "https://i.ytimg.com/vi/ZKV-6AzbKq4/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=ZKV-6AzbKq4",
-            "views": 131043,
-            "age_hours": 10.0
-          },
-          {
-            "id": "7DL2Itc-aEQ",
-            "title": "SE O SMILLING FREAK SORRIR PRA VOCÊ FECHE O JOGO IMEDIATAMENTE MINECRAFT",
-            "channel": "Amandinha",
-            "thumbnail": "https://i.ytimg.com/vi/7DL2Itc-aEQ/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=7DL2Itc-aEQ",
-            "views": 74774,
-            "age_hours": 11.4
-          },
-          {
-            "id": "qX2qAiCqM2U",
-            "title": "MINECRAFT MAS VIREI UMA SEREIA NO OCEANO",
-            "channel": "AmyCraftando",
-            "thumbnail": "https://i.ytimg.com/vi/qX2qAiCqM2U/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=qX2qAiCqM2U",
-            "views": 83510,
-            "age_hours": 9.9
+            "views": 311354,
+            "age_hours": 53.0
           }
         ]
       },
       {
         "phrase": "ao vivo",
         "video_count": 4,
-        "momentum": 18.48,
+        "momentum": 18.1,
         "regions": [
           "BR"
         ],
@@ -1316,8 +1499,8 @@
             "channel": "Free Fire Esports Brasil #FREEFIRE",
             "thumbnail": "https://i.ytimg.com/vi/BSQc5Bmm7-Q/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=BSQc5Bmm7-Q",
-            "views": 549254,
-            "age_hours": 5.0
+            "views": 557155,
+            "age_hours": 10.7
           },
           {
             "id": "1Qi1vEJaJ_Y",
@@ -1325,8 +1508,8 @@
             "channel": "Liga Joe",
             "thumbnail": "https://i.ytimg.com/vi/1Qi1vEJaJ_Y/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=1Qi1vEJaJ_Y",
-            "views": 37458,
-            "age_hours": 28.0
+            "views": 51104,
+            "age_hours": 33.6
           },
           {
             "id": "QCr7tSuAZsI",
@@ -1334,44 +1517,120 @@
             "channel": "Marília Mendonça - Topic",
             "thumbnail": "https://i.ytimg.com/vi/QCr7tSuAZsI/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=QCr7tSuAZsI",
-            "views": 38610,
-            "age_hours": 38.9
+            "views": 45453,
+            "age_hours": 44.6
           }
         ]
       },
       {
-        "phrase": "emilly vick",
-        "video_count": 2,
-        "momentum": 11.27,
+        "phrase": "humor",
+        "video_count": 4,
+        "momentum": 18.04,
         "regions": [
           "BR"
         ],
         "lang": "pt",
         "example_videos": [
           {
+            "id": "uSMpBOQESQs",
+            "title": "PESSOAS QUE NÃO GOSTAM DE MILHO!😹kkk        #shorts #humor",
+            "channel": "Biel Yoshi",
+            "thumbnail": "https://i.ytimg.com/vi/uSMpBOQESQs/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=uSMpBOQESQs",
+            "views": 1156322,
+            "age_hours": 37.6
+          },
+          {
+            "id": "ljDFMX18rHI",
+            "title": "A vovó tá escutando tudo errado kkk #meme #humor #comedia #engraçado #risos",
+            "channel": "A ruiva da roça / Fabio Castro",
+            "thumbnail": "https://i.ytimg.com/vi/ljDFMX18rHI/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=ljDFMX18rHI",
+            "views": 1390319,
+            "age_hours": 57.0
+          },
+          {
+            "id": "IlpvjQYTGAQ",
+            "title": "Que barulho ela fez ? (#funny #comedy #humor )",
+            "channel": "Lulu Perrier",
+            "thumbnail": "https://i.ytimg.com/vi/IlpvjQYTGAQ/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=IlpvjQYTGAQ",
+            "views": 3226950,
+            "age_hours": 161.4
+          }
+        ]
+      },
+      {
+        "phrase": "ficou",
+        "video_count": 4,
+        "momentum": 17.77,
+        "regions": [
+          "BR"
+        ],
+        "lang": "pt",
+        "example_videos": [
+          {
+            "id": "YuyxOO53x0c",
+            "title": "A MÃO DA EMILLY VICK FICOU PRESA!",
+            "channel": "Lari Fez",
+            "thumbnail": "https://i.ytimg.com/vi/YuyxOO53x0c/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=YuyxOO53x0c",
+            "views": 1062550,
+            "age_hours": 10.6
+          },
+          {
+            "id": "mV6InmpKT7E",
+            "title": "AGORA FICOU SÉRIO! ESTREIA DO BANQUETA NA 2ª DIVISÃO PEGOU FOGO NO EFOOTBALL 🔥",
+            "channel": "AD0LFzZ",
+            "thumbnail": "https://i.ytimg.com/vi/mV6InmpKT7E/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=mV6InmpKT7E",
+            "views": 116755,
+            "age_hours": 15.1
+          },
+          {
+            "id": "5ooSweeDjMk",
+            "title": "Cadres ficou MUSCULOSO para NAMORAR SUA AMIGA!",
+            "channel": "Cadres",
+            "thumbnail": "https://i.ytimg.com/vi/5ooSweeDjMk/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=5ooSweeDjMk",
+            "views": 475776,
+            "age_hours": 18.6
+          }
+        ]
+      },
+      {
+        "phrase": "emilly vick",
+        "video_count": 2,
+        "momentum": 12.1,
+        "regions": [
+          "BR"
+        ],
+        "lang": "pt",
+        "example_videos": [
+          {
+            "id": "YuyxOO53x0c",
+            "title": "A MÃO DA EMILLY VICK FICOU PRESA!",
+            "channel": "Lari Fez",
+            "thumbnail": "https://i.ytimg.com/vi/YuyxOO53x0c/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=YuyxOO53x0c",
+            "views": 1062550,
+            "age_hours": 10.6
+          },
+          {
             "id": "8VxubvuMVVc",
             "title": "A EMILLY VICK TOMOU BEBIDAS MISTERIOSAS!",
             "channel": "Joãozynho Fez",
             "thumbnail": "https://i.ytimg.com/vi/8VxubvuMVVc/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=8VxubvuMVVc",
-            "views": 2253044,
-            "age_hours": 80.9
-          },
-          {
-            "id": "vR0k2Q5daLc",
-            "title": "A EMILLY VICK COLOCOU CIMENTO NA BOLA!",
-            "channel": "Lari Fez",
-            "thumbnail": "https://i.ytimg.com/vi/vR0k2Q5daLc/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=vR0k2Q5daLc",
-            "views": 2259469,
-            "age_hours": 101.0
+            "views": 2369106,
+            "age_hours": 86.6
           }
         ]
       },
       {
         "phrase": "comedy humor",
         "video_count": 2,
-        "momentum": 10.95,
+        "momentum": 10.91,
         "regions": [
           "BR"
         ],
@@ -1383,8 +1642,8 @@
             "channel": "Lulu Perrier",
             "thumbnail": "https://i.ytimg.com/vi/IlpvjQYTGAQ/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=IlpvjQYTGAQ",
-            "views": 3149500,
-            "age_hours": 155.7
+            "views": 3226950,
+            "age_hours": 161.4
           },
           {
             "id": "AZL48saMLSc",
@@ -1392,15 +1651,15 @@
             "channel": "Marliana Oliveira",
             "thumbnail": "https://i.ytimg.com/vi/AZL48saMLSc/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=AZL48saMLSc",
-            "views": 1021066,
-            "age_hours": 51.3
+            "views": 1066958,
+            "age_hours": 56.9
           }
         ]
       },
       {
         "phrase": "tudo errado",
         "video_count": 2,
-        "momentum": 10.8,
+        "momentum": 10.63,
         "regions": [
           "BR"
         ],
@@ -1412,8 +1671,8 @@
             "channel": "A ruiva da roça / Fabio Castro",
             "thumbnail": "https://i.ytimg.com/vi/ljDFMX18rHI/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=ljDFMX18rHI",
-            "views": 1316188,
-            "age_hours": 51.4
+            "views": 1390319,
+            "age_hours": 57.0
           },
           {
             "id": "VygaW-1f5gk",
@@ -1421,44 +1680,15 @@
             "channel": "💞 Gleici Souza 💞",
             "thumbnail": "https://i.ytimg.com/vi/VygaW-1f5gk/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=VygaW-1f5gk",
-            "views": 25840,
-            "age_hours": 27.6
-          }
-        ]
-      },
-      {
-        "phrase": "antigas melhores",
-        "video_count": 2,
-        "momentum": 8.63,
-        "regions": [
-          "BR"
-        ],
-        "lang": "pt",
-        "example_videos": [
-          {
-            "id": "4HWtbqn4s5I",
-            "title": "💿RAÇA NEGRA SÓ RECORDAÇÕES ANTIGAS AS MELHORES💿",
-            "channel": "Vortex Melody",
-            "thumbnail": "https://i.ytimg.com/vi/4HWtbqn4s5I/mqdefault_live.jpg",
-            "url": "https://www.youtube.com/watch?v=4HWtbqn4s5I",
-            "views": 52152,
-            "age_hours": 23.2
-          },
-          {
-            "id": "_do4iOB1Kew",
-            "title": "PABLO 💖 SÓ AS ANTIGAS PLAYLIST 💝 ANTIGAS AS MELHORES",
-            "channel": "Coração Sertanejo",
-            "thumbnail": "https://i.ytimg.com/vi/_do4iOB1Kew/mqdefault_live.jpg",
-            "url": "https://www.youtube.com/watch?v=_do4iOB1Kew",
-            "views": 45696,
-            "age_hours": 22.3
+            "views": 27113,
+            "age_hours": 33.3
           }
         ]
       },
       {
         "phrase": "vida real",
         "video_count": 2,
-        "momentum": 7.55,
+        "momentum": 7.52,
         "regions": [
           "BR"
         ],
@@ -1470,8 +1700,8 @@
             "channel": "Bia Galvão - mãe da Mia e Olívia",
             "thumbnail": "https://i.ytimg.com/vi/GorJtCqX5uc/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=GorJtCqX5uc",
-            "views": 229184,
-            "age_hours": 144.5
+            "views": 235464,
+            "age_hours": 150.2
           },
           {
             "id": "GQw5NXiGApI",
@@ -1479,8 +1709,39 @@
             "channel": "Kathy Castricini",
             "thumbnail": "https://i.ytimg.com/vi/GQw5NXiGApI/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=GQw5NXiGApI",
-            "views": 33514,
-            "age_hours": 99.7
+            "views": 33911,
+            "age_hours": 105.4
+          }
+        ]
+      }
+    ],
+    "GB": [
+      {
+        "phrase": "played meccha chameleon",
+        "video_count": 2,
+        "momentum": 13.8,
+        "regions": [
+          "GB"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "hkX--QTPK9g",
+            "title": "I Finally Played The New Meccha Chameleon Update...",
+            "channel": "SMii7Y",
+            "thumbnail": "https://i.ytimg.com/vi/hkX--QTPK9g/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=hkX--QTPK9g",
+            "views": 2377906,
+            "age_hours": 35.4
+          },
+          {
+            "id": "73VroahhCU8",
+            "title": "We Played Meccha Chameleon... But It's *JURASSIC PARK*",
+            "channel": "ZerkaaPlays",
+            "thumbnail": "https://i.ytimg.com/vi/73VroahhCU8/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=73VroahhCU8",
+            "views": 51013,
+            "age_hours": 11.1
           }
         ]
       }
@@ -1489,7 +1750,7 @@
       {
         "phrase": "comedy",
         "video_count": 4,
-        "momentum": 17.06,
+        "momentum": 16.89,
         "regions": [
           "DE"
         ],
@@ -1501,8 +1762,8 @@
             "channel": "marvintsp",
             "thumbnail": "https://i.ytimg.com/vi/Zj_Z_GAkXvk/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=Zj_Z_GAkXvk",
-            "views": 605130,
-            "age_hours": 31.8
+            "views": 611168,
+            "age_hours": 37.5
           },
           {
             "id": "PHjapK12Sf8",
@@ -1510,8 +1771,8 @@
             "channel": "ISI",
             "thumbnail": "https://i.ytimg.com/vi/PHjapK12Sf8/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=PHjapK12Sf8",
-            "views": 595223,
-            "age_hours": 32.7
+            "views": 599277,
+            "age_hours": 38.4
           },
           {
             "id": "T7DeLEsNaQA",
@@ -1519,626 +1780,37 @@
             "channel": "Comedy Jess",
             "thumbnail": "https://i.ytimg.com/vi/T7DeLEsNaQA/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=T7DeLEsNaQA",
-            "views": 775155,
-            "age_hours": 129.8
+            "views": 776621,
+            "age_hours": 135.4
           }
         ]
       },
       {
         "phrase": "keyboard escape",
         "video_count": 2,
-        "momentum": 11.18,
+        "momentum": 10.46,
         "regions": [
           "DE"
         ],
         "lang": "de",
         "example_videos": [
           {
-            "id": "gAxzes4dJUI",
-            "title": "KEYBOARD ESCAPE ADMIN SPAWNT seltenste ITEM HEUTE!",
-            "channel": "Standart Skill",
-            "thumbnail": "https://i.ytimg.com/vi/gAxzes4dJUI/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=gAxzes4dJUI",
-            "views": 95994,
-            "age_hours": 4.2
-          },
-          {
             "id": "g-d13e4PDwQ",
             "title": "ICH komme ENDLICH weiter bei KEYBOARD ESCAPE! 😳 | Mohi Plays",
             "channel": "Mohi Plays",
             "thumbnail": "https://i.ytimg.com/vi/g-d13e4PDwQ/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=g-d13e4PDwQ",
-            "views": 98503,
-            "age_hours": 10.2
-          }
-        ]
-      }
-    ],
-    "CA": [],
-    "GB": [],
-    "IN": [
-      {
-        "phrase": "minecraft",
-        "video_count": 6,
-        "momentum": 29.93,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "7pryDGPLkG0",
-            "title": "I Was BANNED From HIMLANDS… But I Came Back  [S7-Ep13] | Minecraft SMP",
-            "channel": "YesSmartyPie",
-            "thumbnail": "https://i.ytimg.com/vi/7pryDGPLkG0/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=7pryDGPLkG0",
-            "views": 518033,
-            "age_hours": 16.3
+            "views": 102524,
+            "age_hours": 15.9
           },
           {
-            "id": "DO4MytuWOQA",
-            "title": "100 Days But BLOCKS GIVE OP WEAPONS In Minecraft 😱",
-            "channel": "Anshu Bisht",
-            "thumbnail": "https://i.ytimg.com/vi/DO4MytuWOQA/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=DO4MytuWOQA",
-            "views": 1197443,
-            "age_hours": 40.5
-          },
-          {
-            "id": "eO7J0ydXck4",
-            "title": "How I Started a WAR BETWEEN DIMENSIONS in This Minecraft SMP",
-            "channel": "SenpaiExtras",
-            "thumbnail": "https://i.ytimg.com/vi/eO7J0ydXck4/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=eO7J0ydXck4",
-            "views": 1048708,
-            "age_hours": 41.5
-          }
-        ]
-      },
-      {
-        "phrase": "pmwc ewc",
-        "video_count": 3,
-        "momentum": 20.61,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "mIoVlSJKBXA",
-            "title": "PMWC at EWC GROUP STAGE DAY 3 - WATCHPARTY WITH SNAX",
-            "channel": "Snax Gaming",
-            "thumbnail": "https://i.ytimg.com/vi/mIoVlSJKBXA/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=mIoVlSJKBXA",
-            "views": 4129898,
-            "age_hours": 9.0
-          },
-          {
-            "id": "xPyf1ybFUVw",
-            "title": "[IND] PMWC at EWC 26 - दिन 3 - ग्रुप चरण",
-            "channel": "EWC India",
-            "thumbnail": "https://i.ytimg.com/vi/xPyf1ybFUVw/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=xPyf1ybFUVw",
-            "views": 763437,
-            "age_hours": 7.8
-          },
-          {
-            "id": "YmJOdPjxJjM",
-            "title": "PMWC at EWC GROUP STAGE DAY 3 - WATCHPARTY WITH NEYOO",
-            "channel": "Neyoo",
-            "thumbnail": "https://i.ytimg.com/vi/YmJOdPjxJjM/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=YmJOdPjxJjM",
-            "views": 407462,
-            "age_hours": 9.3
-          }
-        ]
-      },
-      {
-        "phrase": "group stage",
-        "video_count": 3,
-        "momentum": 20.25,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "mIoVlSJKBXA",
-            "title": "PMWC at EWC GROUP STAGE DAY 3 - WATCHPARTY WITH SNAX",
-            "channel": "Snax Gaming",
-            "thumbnail": "https://i.ytimg.com/vi/mIoVlSJKBXA/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=mIoVlSJKBXA",
-            "views": 4129898,
-            "age_hours": 9.0
-          },
-          {
-            "id": "YmJOdPjxJjM",
-            "title": "PMWC at EWC GROUP STAGE DAY 3 - WATCHPARTY WITH NEYOO",
-            "channel": "Neyoo",
-            "thumbnail": "https://i.ytimg.com/vi/YmJOdPjxJjM/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=YmJOdPjxJjM",
-            "views": 407462,
-            "age_hours": 9.3
-          },
-          {
-            "id": "nyUEDkSJ2CI",
-            "title": "🔴 [HINDI] TEZ FFMIC 2026 Fall | GROUP STAGE - WEEK 1 | DAY 3 | GROUP C",
-            "channel": "Free Fire MAX Esports India Official",
-            "thumbnail": "https://i.ytimg.com/vi/nyUEDkSJ2CI/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=nyUEDkSJ2CI",
-            "views": 319601,
-            "age_hours": 9.4
-          }
-        ]
-      },
-      {
-        "phrase": "tamil",
-        "video_count": 4,
-        "momentum": 18.47,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "6JaeasJw-QI",
-            "title": "Thalapathy Kacheri Full Video (Tamil) | Hon’ble CM Thalapathy Vijay| Jana Nayagan| H Vinoth| Anirudh",
-            "channel": "T-Series",
-            "thumbnail": "https://i.ytimg.com/vi/6JaeasJw-QI/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=6JaeasJw-QI",
-            "views": 1386731,
-            "age_hours": 37.4
-          },
-          {
-            "id": "Uo4ZIaLyrSU",
-            "title": "Veetlaiye valakappu set ready panirka ❤️#ishqyouall #swv #tamil #funny #comedy #youtube #shorts",
-            "channel": "Soundarya with varshini - tamil",
-            "thumbnail": "https://i.ytimg.com/vi/Uo4ZIaLyrSU/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=Uo4ZIaLyrSU",
-            "views": 2209944,
-            "age_hours": 91.5
-          },
-          {
-            "id": "CtF4w3iwOs4",
-            "title": "New villain born tday 🤣 | MHAMALDAS | #mhamaldas #comedy #trending #tamil #funny #tamilcomedy",
-            "channel": "MH AMALDAS",
-            "thumbnail": "https://i.ytimg.com/vi/CtF4w3iwOs4/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=CtF4w3iwOs4",
-            "views": 3235669,
-            "age_hours": 112.3
-          }
-        ]
-      },
-      {
-        "phrase": "pmwc ewc group",
-        "video_count": 2,
-        "momentum": 16.93,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "mIoVlSJKBXA",
-            "title": "PMWC at EWC GROUP STAGE DAY 3 - WATCHPARTY WITH SNAX",
-            "channel": "Snax Gaming",
-            "thumbnail": "https://i.ytimg.com/vi/mIoVlSJKBXA/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=mIoVlSJKBXA",
-            "views": 4129898,
-            "age_hours": 9.0
-          },
-          {
-            "id": "YmJOdPjxJjM",
-            "title": "PMWC at EWC GROUP STAGE DAY 3 - WATCHPARTY WITH NEYOO",
-            "channel": "Neyoo",
-            "thumbnail": "https://i.ytimg.com/vi/YmJOdPjxJjM/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=YmJOdPjxJjM",
-            "views": 407462,
-            "age_hours": 9.3
-          }
-        ]
-      },
-      {
-        "phrase": "ewc group stage",
-        "video_count": 2,
-        "momentum": 16.93,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "mIoVlSJKBXA",
-            "title": "PMWC at EWC GROUP STAGE DAY 3 - WATCHPARTY WITH SNAX",
-            "channel": "Snax Gaming",
-            "thumbnail": "https://i.ytimg.com/vi/mIoVlSJKBXA/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=mIoVlSJKBXA",
-            "views": 4129898,
-            "age_hours": 9.0
-          },
-          {
-            "id": "YmJOdPjxJjM",
-            "title": "PMWC at EWC GROUP STAGE DAY 3 - WATCHPARTY WITH NEYOO",
-            "channel": "Neyoo",
-            "thumbnail": "https://i.ytimg.com/vi/YmJOdPjxJjM/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=YmJOdPjxJjM",
-            "views": 407462,
-            "age_hours": 9.3
-          }
-        ]
-      },
-      {
-        "phrase": "group stage watchparty",
-        "video_count": 2,
-        "momentum": 16.93,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "mIoVlSJKBXA",
-            "title": "PMWC at EWC GROUP STAGE DAY 3 - WATCHPARTY WITH SNAX",
-            "channel": "Snax Gaming",
-            "thumbnail": "https://i.ytimg.com/vi/mIoVlSJKBXA/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=mIoVlSJKBXA",
-            "views": 4129898,
-            "age_hours": 9.0
-          },
-          {
-            "id": "YmJOdPjxJjM",
-            "title": "PMWC at EWC GROUP STAGE DAY 3 - WATCHPARTY WITH NEYOO",
-            "channel": "Neyoo",
-            "thumbnail": "https://i.ytimg.com/vi/YmJOdPjxJjM/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=YmJOdPjxJjM",
-            "views": 407462,
-            "age_hours": 9.3
-          }
-        ]
-      },
-      {
-        "phrase": "sale",
-        "video_count": 4,
-        "momentum": 16.03,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "CPmA0TXKmns",
-            "title": "Best Mobiles Deals to Grab This Freedom Sale On Amazon & Flipkart 🥳 || Don't Miss Out This Time.👀",
-            "channel": "Prasadtechintelugu",
-            "thumbnail": "https://i.ytimg.com/vi/CPmA0TXKmns/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=CPmA0TXKmns",
-            "views": 469572,
-            "age_hours": 58.5
-          },
-          {
-            "id": "byBIxkIl5pU",
-            "title": "Don't Miss These 12 Jabadast Deals ⚡ Ft.Amazon & Flipkart Sale 2026",
-            "channel": "Trakin Tech",
-            "thumbnail": "https://i.ytimg.com/vi/byBIxkIl5pU/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=byBIxkIl5pU",
-            "views": 202223,
-            "age_hours": 41.6
-          },
-          {
-            "id": "ayjpBNOSJzQ",
-            "title": "Best Smartphones to buy on Flipkart Freedom Sale !",
-            "channel": "Tech Burner",
-            "thumbnail": "https://i.ytimg.com/vi/ayjpBNOSJzQ/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=ayjpBNOSJzQ",
-            "views": 457727,
-            "age_hours": 81.1
-          }
-        ]
-      },
-      {
-        "phrase": "flipkart",
-        "video_count": 4,
-        "momentum": 16.03,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "CPmA0TXKmns",
-            "title": "Best Mobiles Deals to Grab This Freedom Sale On Amazon & Flipkart 🥳 || Don't Miss Out This Time.👀",
-            "channel": "Prasadtechintelugu",
-            "thumbnail": "https://i.ytimg.com/vi/CPmA0TXKmns/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=CPmA0TXKmns",
-            "views": 469572,
-            "age_hours": 58.5
-          },
-          {
-            "id": "byBIxkIl5pU",
-            "title": "Don't Miss These 12 Jabadast Deals ⚡ Ft.Amazon & Flipkart Sale 2026",
-            "channel": "Trakin Tech",
-            "thumbnail": "https://i.ytimg.com/vi/byBIxkIl5pU/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=byBIxkIl5pU",
-            "views": 202223,
-            "age_hours": 41.6
-          },
-          {
-            "id": "ayjpBNOSJzQ",
-            "title": "Best Smartphones to buy on Flipkart Freedom Sale !",
-            "channel": "Tech Burner",
-            "thumbnail": "https://i.ytimg.com/vi/ayjpBNOSJzQ/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=ayjpBNOSJzQ",
-            "views": 457727,
-            "age_hours": 81.1
-          }
-        ]
-      },
-      {
-        "phrase": "toxic trailer reaction",
-        "video_count": 2,
-        "momentum": 15.33,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "TbixB4Z7ItE",
-            "title": "Toxic Trailer • Reaction",
-            "channel": "thePJ",
-            "thumbnail": "https://i.ytimg.com/vi/TbixB4Z7ItE/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=TbixB4Z7ItE",
-            "views": 364119,
-            "age_hours": 10.6
-          },
-          {
-            "id": "7VNabImqM2s",
-            "title": "Toxic |  Trailer Reaction | Rocking Star Yash| Geetu Mohandas | Malayalam",
-            "channel": "LifeofShazzam",
-            "thumbnail": "https://i.ytimg.com/vi/7VNabImqM2s/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=7VNabImqM2s",
-            "views": 212077,
-            "age_hours": 10.5
-          }
-        ]
-      },
-      {
-        "phrase": "freedom sale",
-        "video_count": 3,
-        "momentum": 14.93,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "CPmA0TXKmns",
-            "title": "Best Mobiles Deals to Grab This Freedom Sale On Amazon & Flipkart 🥳 || Don't Miss Out This Time.👀",
-            "channel": "Prasadtechintelugu",
-            "thumbnail": "https://i.ytimg.com/vi/CPmA0TXKmns/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=CPmA0TXKmns",
-            "views": 469572,
-            "age_hours": 58.5
-          },
-          {
-            "id": "ayjpBNOSJzQ",
-            "title": "Best Smartphones to buy on Flipkart Freedom Sale !",
-            "channel": "Tech Burner",
-            "thumbnail": "https://i.ytimg.com/vi/ayjpBNOSJzQ/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=ayjpBNOSJzQ",
-            "views": 457727,
-            "age_hours": 81.1
-          },
-          {
-            "id": "_4tCzjAEUUc",
-            "title": "Best Phone Offers | Flipkart & Amazon Freedom Sale | Malayalam",
-            "channel": "Mr Perfect Tech",
-            "thumbnail": "https://i.ytimg.com/vi/_4tCzjAEUUc/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=_4tCzjAEUUc",
-            "views": 97875,
-            "age_hours": 35.1
-          }
-        ]
-      },
-      {
-        "phrase": "minecraft smp",
-        "video_count": 2,
-        "momentum": 13.25,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "7pryDGPLkG0",
-            "title": "I Was BANNED From HIMLANDS… But I Came Back  [S7-Ep13] | Minecraft SMP",
-            "channel": "YesSmartyPie",
-            "thumbnail": "https://i.ytimg.com/vi/7pryDGPLkG0/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=7pryDGPLkG0",
-            "views": 518033,
-            "age_hours": 16.3
-          },
-          {
-            "id": "eO7J0ydXck4",
-            "title": "How I Started a WAR BETWEEN DIMENSIONS in This Minecraft SMP",
-            "channel": "SenpaiExtras",
-            "thumbnail": "https://i.ytimg.com/vi/eO7J0ydXck4/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=eO7J0ydXck4",
-            "views": 1048708,
-            "age_hours": 41.5
-          }
-        ]
-      },
-      {
-        "phrase": "fun comedy",
-        "video_count": 2,
-        "momentum": 12.7,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "eNcE8ta4xZ0",
-            "title": "Area Sandiyar😅Kandippa Twist irukku🤣Just For Fun🤣 #comedy #trending #autokaaran #tamilcomedy",
-            "channel": "Auto Kaaran ",
-            "thumbnail": "https://i.ytimg.com/vi/eNcE8ta4xZ0/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=eNcE8ta4xZ0",
-            "views": 2570341,
-            "age_hours": 84.7
-          },
-          {
-            "id": "u6CIvT2IWQE",
-            "title": "Award ah குடுக்குறாங்க இப்படி நடுக்குற😜🤣 #shorts #fun #comedy",
-            "channel": "With Love Nagaraj Sangeetha",
-            "thumbnail": "https://i.ytimg.com/vi/u6CIvT2IWQE/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=u6CIvT2IWQE",
-            "views": 1810925,
-            "age_hours": 34.3
-          }
-        ]
-      },
-      {
-        "phrase": "gta live",
-        "video_count": 2,
-        "momentum": 12.3,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "aTUwIuTq04g",
-            "title": "GTA 5 LIVE  #gta5 #gtav #gaming",
-            "channel": "PAJI IS LIVE",
-            "thumbnail": "https://i.ytimg.com/vi/aTUwIuTq04g/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=aTUwIuTq04g",
-            "views": 1917471,
-            "age_hours": 22.1
-          },
-          {
-            "id": "IumDbAVMAm4",
-            "title": "GTA 5 LIVE | MRRAJAPLAY#shortslive #shortsfeed #gta5 #gtaonline",
-            "channel": "MR RAJA PLAYZONE",
-            "thumbnail": "https://i.ytimg.com/vi/IumDbAVMAm4/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=IumDbAVMAm4",
-            "views": 2342020,
-            "age_hours": 31.1
-          }
-        ]
-      },
-      {
-        "phrase": "ffmic fall",
-        "video_count": 2,
-        "momentum": 12.14,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "nyUEDkSJ2CI",
-            "title": "🔴 [HINDI] TEZ FFMIC 2026 Fall | GROUP STAGE - WEEK 1 | DAY 3 | GROUP C",
-            "channel": "Free Fire MAX Esports India Official",
-            "thumbnail": "https://i.ytimg.com/vi/nyUEDkSJ2CI/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=nyUEDkSJ2CI",
-            "views": 319601,
-            "age_hours": 9.4
-          },
-          {
-            "id": "YWe1v32dHB0",
-            "title": "FFMIC 2026 FALL GRP-C WATCH PARTY 🥶 || TG vs RNTX vs RES vs VE   #iQOO #iQOOZ11",
-            "channel": "Nonstop Gaming",
-            "thumbnail": "https://i.ytimg.com/vi/YWe1v32dHB0/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=YWe1v32dHB0",
-            "views": 228607,
-            "age_hours": 9.7
-          }
-        ]
-      },
-      {
-        "phrase": "tamil funny",
-        "video_count": 2,
-        "momentum": 12.01,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "Uo4ZIaLyrSU",
-            "title": "Veetlaiye valakappu set ready panirka ❤️#ishqyouall #swv #tamil #funny #comedy #youtube #shorts",
-            "channel": "Soundarya with varshini - tamil",
-            "thumbnail": "https://i.ytimg.com/vi/Uo4ZIaLyrSU/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=Uo4ZIaLyrSU",
-            "views": 2209944,
-            "age_hours": 91.5
-          },
-          {
-            "id": "CtF4w3iwOs4",
-            "title": "New villain born tday 🤣 | MHAMALDAS | #mhamaldas #comedy #trending #tamil #funny #tamilcomedy",
-            "channel": "MH AMALDAS",
-            "thumbnail": "https://i.ytimg.com/vi/CtF4w3iwOs4/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=CtF4w3iwOs4",
-            "views": 3235669,
-            "age_hours": 112.3
-          }
-        ]
-      },
-      {
-        "phrase": "amazon flipkart",
-        "video_count": 2,
-        "momentum": 10.4,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "CPmA0TXKmns",
-            "title": "Best Mobiles Deals to Grab This Freedom Sale On Amazon & Flipkart 🥳 || Don't Miss Out This Time.👀",
-            "channel": "Prasadtechintelugu",
-            "thumbnail": "https://i.ytimg.com/vi/CPmA0TXKmns/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=CPmA0TXKmns",
-            "views": 469572,
-            "age_hours": 58.5
-          },
-          {
-            "id": "byBIxkIl5pU",
-            "title": "Don't Miss These 12 Jabadast Deals ⚡ Ft.Amazon & Flipkart Sale 2026",
-            "channel": "Trakin Tech",
-            "thumbnail": "https://i.ytimg.com/vi/byBIxkIl5pU/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=byBIxkIl5pU",
-            "views": 202223,
-            "age_hours": 41.6
-          }
-        ]
-      },
-      {
-        "phrase": "don't miss",
-        "video_count": 2,
-        "momentum": 10.4,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "CPmA0TXKmns",
-            "title": "Best Mobiles Deals to Grab This Freedom Sale On Amazon & Flipkart 🥳 || Don't Miss Out This Time.👀",
-            "channel": "Prasadtechintelugu",
-            "thumbnail": "https://i.ytimg.com/vi/CPmA0TXKmns/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=CPmA0TXKmns",
-            "views": 469572,
-            "age_hours": 58.5
-          },
-          {
-            "id": "byBIxkIl5pU",
-            "title": "Don't Miss These 12 Jabadast Deals ⚡ Ft.Amazon & Flipkart Sale 2026",
-            "channel": "Trakin Tech",
-            "thumbnail": "https://i.ytimg.com/vi/byBIxkIl5pU/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=byBIxkIl5pU",
-            "views": 202223,
-            "age_hours": 41.6
+            "id": "gAxzes4dJUI",
+            "title": "KEYBOARD ESCAPE ADMIN SPAWNT seltenste ITEM HEUTE!",
+            "channel": "Standart Skill",
+            "thumbnail": "https://i.ytimg.com/vi/gAxzes4dJUI/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=gAxzes4dJUI",
+            "views": 97929,
+            "age_hours": 9.9
           }
         ]
       }
@@ -2147,7 +1819,7 @@
       {
         "phrase": "weekly vlog",
         "video_count": 2,
-        "momentum": 6.27,
+        "momentum": 6.23,
         "regions": [
           "AU"
         ],
@@ -2159,8 +1831,8 @@
             "channel": "Jaz Hand",
             "thumbnail": "https://i.ytimg.com/vi/hYGy8jskR1I/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=hYGy8jskR1I",
-            "views": 37022,
-            "age_hours": 142.4
+            "views": 37705,
+            "age_hours": 148.1
           },
           {
             "id": "f1FluwsQ92A",
@@ -2168,17 +1840,17 @@
             "channel": "Hogan Twins",
             "thumbnail": "https://i.ytimg.com/vi/f1FluwsQ92A/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=f1FluwsQ92A",
-            "views": 21157,
-            "age_hours": 111.8
+            "views": 21484,
+            "age_hours": 117.5
           }
         ]
       }
     ],
-    "ALL": [
+    "IN": [
       {
         "phrase": "minecraft",
-        "video_count": 6,
-        "momentum": 29.93,
+        "video_count": 5,
+        "momentum": 25.19,
         "regions": [
           "IN"
         ],
@@ -2190,8 +1862,8 @@
             "channel": "YesSmartyPie",
             "thumbnail": "https://i.ytimg.com/vi/7pryDGPLkG0/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=7pryDGPLkG0",
-            "views": 518033,
-            "age_hours": 16.3
+            "views": 570051,
+            "age_hours": 22.0
           },
           {
             "id": "DO4MytuWOQA",
@@ -2199,8 +1871,8 @@
             "channel": "Anshu Bisht",
             "thumbnail": "https://i.ytimg.com/vi/DO4MytuWOQA/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=DO4MytuWOQA",
-            "views": 1197443,
-            "age_hours": 40.5
+            "views": 1233134,
+            "age_hours": 46.2
           },
           {
             "id": "eO7J0ydXck4",
@@ -2208,53 +1880,15 @@
             "channel": "SenpaiExtras",
             "thumbnail": "https://i.ytimg.com/vi/eO7J0ydXck4/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=eO7J0ydXck4",
-            "views": 1048708,
-            "age_hours": 41.5
-          }
-        ]
-      },
-      {
-        "phrase": "life",
-        "video_count": 5,
-        "momentum": 22.72,
-        "regions": [
-          "US"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "Q1bRYXB69so",
-            "title": "life update: Netflix show, a thank you gift & travel to Korea with me",
-            "channel": "MissMangoButt",
-            "thumbnail": "https://i.ytimg.com/vi/Q1bRYXB69so/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=Q1bRYXB69so",
-            "views": 136029,
-            "age_hours": 8.0
-          },
-          {
-            "id": "7SzZr8WQWhc",
-            "title": "RESET VLOG: SAS prep, packing for a trip, & getting my life back together!!!",
-            "channel": "Nicole Laeno",
-            "thumbnail": "https://i.ytimg.com/vi/7SzZr8WQWhc/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=7SzZr8WQWhc",
-            "views": 98193,
-            "age_hours": 25.4
-          },
-          {
-            "id": "PXMJvid2Ks8",
-            "title": "Week in the Life: Mom Life, First Father’s Day, Cooking…",
-            "channel": "Lala Baptiste",
-            "thumbnail": "https://i.ytimg.com/vi/PXMJvid2Ks8/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=PXMJvid2Ks8",
-            "views": 71744,
-            "age_hours": 24.0
+            "views": 1077847,
+            "age_hours": 47.1
           }
         ]
       },
       {
         "phrase": "pmwc ewc",
         "video_count": 3,
-        "momentum": 20.61,
+        "momentum": 19.74,
         "regions": [
           "IN"
         ],
@@ -2266,8 +1900,8 @@
             "channel": "Snax Gaming",
             "thumbnail": "https://i.ytimg.com/vi/mIoVlSJKBXA/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=mIoVlSJKBXA",
-            "views": 4129898,
-            "age_hours": 9.0
+            "views": 4151132,
+            "age_hours": 14.7
           },
           {
             "id": "xPyf1ybFUVw",
@@ -2275,8 +1909,8 @@
             "channel": "EWC India",
             "thumbnail": "https://i.ytimg.com/vi/xPyf1ybFUVw/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=xPyf1ybFUVw",
-            "views": 763437,
-            "age_hours": 7.8
+            "views": 768803,
+            "age_hours": 13.4
           },
           {
             "id": "YmJOdPjxJjM",
@@ -2284,53 +1918,53 @@
             "channel": "Neyoo",
             "thumbnail": "https://i.ytimg.com/vi/YmJOdPjxJjM/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=YmJOdPjxJjM",
-            "views": 407462,
-            "age_hours": 9.3
+            "views": 410038,
+            "age_hours": 15.0
           }
         ]
       },
       {
-        "phrase": "iphone",
-        "video_count": 5,
-        "momentum": 20.32,
+        "phrase": "gta live",
+        "video_count": 3,
+        "momentum": 19.47,
         "regions": [
-          "BR"
+          "IN"
         ],
-        "lang": "pt",
+        "lang": "en",
         "example_videos": [
           {
-            "id": "cxQfMheQ7rQ",
-            "title": "Será que iPhone FALSO da Shopee presta?",
-            "channel": "Mike Fantástico",
-            "thumbnail": "https://i.ytimg.com/vi/cxQfMheQ7rQ/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=cxQfMheQ7rQ",
-            "views": 268386,
-            "age_hours": 52.0
+            "id": "0lqacLeyMcI",
+            "title": "GTA 5 LIVE  #gta5 #gtav #gaming",
+            "channel": "PAJI IS LIVE",
+            "thumbnail": "https://i.ytimg.com/vi/0lqacLeyMcI/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=0lqacLeyMcI",
+            "views": 1597105,
+            "age_hours": 2.1
           },
           {
-            "id": "HYXrxXMM5Po",
-            "title": "Abrindo o primeiro iPhone 17 dela #ryansamuel",
-            "channel": "Ryan Samuel",
-            "thumbnail": "https://i.ytimg.com/vi/HYXrxXMM5Po/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=HYXrxXMM5Po",
-            "views": 288625,
-            "age_hours": 47.3
+            "id": "aTUwIuTq04g",
+            "title": "GTA 5 LIVE  #gta5 #gtav #gaming",
+            "channel": "PAJI IS LIVE",
+            "thumbnail": "https://i.ytimg.com/vi/aTUwIuTq04g/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=aTUwIuTq04g",
+            "views": 1917896,
+            "age_hours": 27.8
           },
           {
-            "id": "fwQZJa3HzAY",
-            "title": "Modifiquei meu carregador de iPhone #tecnologia #entretenimento #carregador #iphone #celular",
-            "channel": "RC ASSISTEC ",
-            "thumbnail": "https://i.ytimg.com/vi/fwQZJa3HzAY/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=fwQZJa3HzAY",
-            "views": 575055,
-            "age_hours": 120.5
+            "id": "IumDbAVMAm4",
+            "title": "GTA 5 LIVE | MRRAJAPLAY#shortslive #shortsfeed #gta5 #gtaonline",
+            "channel": "MR RAJA PLAYZONE",
+            "thumbnail": "https://i.ytimg.com/vi/IumDbAVMAm4/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=IumDbAVMAm4",
+            "views": 2342107,
+            "age_hours": 36.8
           }
         ]
       },
       {
         "phrase": "group stage",
         "video_count": 3,
-        "momentum": 20.25,
+        "momentum": 19.43,
         "regions": [
           "IN"
         ],
@@ -2342,8 +1976,8 @@
             "channel": "Snax Gaming",
             "thumbnail": "https://i.ytimg.com/vi/mIoVlSJKBXA/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=mIoVlSJKBXA",
-            "views": 4129898,
-            "age_hours": 9.0
+            "views": 4151132,
+            "age_hours": 14.7
           },
           {
             "id": "YmJOdPjxJjM",
@@ -2351,8 +1985,8 @@
             "channel": "Neyoo",
             "thumbnail": "https://i.ytimg.com/vi/YmJOdPjxJjM/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=YmJOdPjxJjM",
-            "views": 407462,
-            "age_hours": 9.3
+            "views": 410038,
+            "age_hours": 15.0
           },
           {
             "id": "nyUEDkSJ2CI",
@@ -2360,53 +1994,15 @@
             "channel": "Free Fire MAX Esports India Official",
             "thumbnail": "https://i.ytimg.com/vi/nyUEDkSJ2CI/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=nyUEDkSJ2CI",
-            "views": 319601,
-            "age_hours": 9.4
-          }
-        ]
-      },
-      {
-        "phrase": "ao vivo",
-        "video_count": 4,
-        "momentum": 18.48,
-        "regions": [
-          "BR"
-        ],
-        "lang": "pt",
-        "example_videos": [
-          {
-            "id": "BSQc5Bmm7-Q",
-            "title": "🔴 FREE FIRE AO VIVO: FFWS BRASIL SPLIT 2 | RODADA 3",
-            "channel": "Free Fire Esports Brasil #FREEFIRE",
-            "thumbnail": "https://i.ytimg.com/vi/BSQc5Bmm7-Q/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=BSQc5Bmm7-Q",
-            "views": 549254,
-            "age_hours": 5.0
-          },
-          {
-            "id": "1Qi1vEJaJ_Y",
-            "title": "Liga Joe - Give Me Your Heart Tonight - Ao Vivo Em São Paulo - \"Flashbacks 20 Anos\"",
-            "channel": "Liga Joe",
-            "thumbnail": "https://i.ytimg.com/vi/1Qi1vEJaJ_Y/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=1Qi1vEJaJ_Y",
-            "views": 37458,
-            "age_hours": 28.0
-          },
-          {
-            "id": "QCr7tSuAZsI",
-            "title": "Bye Bye (Ao Vivo)",
-            "channel": "Marília Mendonça - Topic",
-            "thumbnail": "https://i.ytimg.com/vi/QCr7tSuAZsI/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=QCr7tSuAZsI",
-            "views": 38610,
-            "age_hours": 38.9
+            "views": 326241,
+            "age_hours": 15.0
           }
         ]
       },
       {
         "phrase": "tamil",
         "video_count": 4,
-        "momentum": 18.47,
+        "momentum": 18.37,
         "regions": [
           "IN"
         ],
@@ -2418,8 +2014,8 @@
             "channel": "T-Series",
             "thumbnail": "https://i.ytimg.com/vi/6JaeasJw-QI/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=6JaeasJw-QI",
-            "views": 1386731,
-            "age_hours": 37.4
+            "views": 1526799,
+            "age_hours": 43.1
           },
           {
             "id": "Uo4ZIaLyrSU",
@@ -2427,8 +2023,8 @@
             "channel": "Soundarya with varshini - tamil",
             "thumbnail": "https://i.ytimg.com/vi/Uo4ZIaLyrSU/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=Uo4ZIaLyrSU",
-            "views": 2209944,
-            "age_hours": 91.5
+            "views": 2242215,
+            "age_hours": 97.1
           },
           {
             "id": "CtF4w3iwOs4",
@@ -2436,53 +2032,15 @@
             "channel": "MH AMALDAS",
             "thumbnail": "https://i.ytimg.com/vi/CtF4w3iwOs4/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=CtF4w3iwOs4",
-            "views": 3235669,
-            "age_hours": 112.3
-          }
-        ]
-      },
-      {
-        "phrase": "comedy",
-        "video_count": 4,
-        "momentum": 17.06,
-        "regions": [
-          "DE"
-        ],
-        "lang": "de",
-        "example_videos": [
-          {
-            "id": "Zj_Z_GAkXvk",
-            "title": "Omg ICH habe ANGST vor FORTNITE?!😳😭😩 #marvintsp #comedy #fortnite",
-            "channel": "marvintsp",
-            "thumbnail": "https://i.ytimg.com/vi/Zj_Z_GAkXvk/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=Zj_Z_GAkXvk",
-            "views": 605130,
-            "age_hours": 31.8
-          },
-          {
-            "id": "PHjapK12Sf8",
-            "title": "Hässliche Schuhe in der Stadt 😅#comedy #lustig #outfit ￼ #socialanxiety #funny",
-            "channel": "ISI",
-            "thumbnail": "https://i.ytimg.com/vi/PHjapK12Sf8/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=PHjapK12Sf8",
-            "views": 595223,
-            "age_hours": 32.7
-          },
-          {
-            "id": "T7DeLEsNaQA",
-            "title": "Mama ausgetrickst😳🍫😂 #shorts #shortvideos #comedy #lustigevideos #lustig #humor #reels #funny",
-            "channel": "Comedy Jess",
-            "thumbnail": "https://i.ytimg.com/vi/T7DeLEsNaQA/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=T7DeLEsNaQA",
-            "views": 775155,
-            "age_hours": 129.8
+            "views": 3489939,
+            "age_hours": 118.0
           }
         ]
       },
       {
         "phrase": "pmwc ewc group",
         "video_count": 2,
-        "momentum": 16.93,
+        "momentum": 16.25,
         "regions": [
           "IN"
         ],
@@ -2494,8 +2052,8 @@
             "channel": "Snax Gaming",
             "thumbnail": "https://i.ytimg.com/vi/mIoVlSJKBXA/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=mIoVlSJKBXA",
-            "views": 4129898,
-            "age_hours": 9.0
+            "views": 4151132,
+            "age_hours": 14.7
           },
           {
             "id": "YmJOdPjxJjM",
@@ -2503,15 +2061,15 @@
             "channel": "Neyoo",
             "thumbnail": "https://i.ytimg.com/vi/YmJOdPjxJjM/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=YmJOdPjxJjM",
-            "views": 407462,
-            "age_hours": 9.3
+            "views": 410038,
+            "age_hours": 15.0
           }
         ]
       },
       {
         "phrase": "ewc group stage",
         "video_count": 2,
-        "momentum": 16.93,
+        "momentum": 16.25,
         "regions": [
           "IN"
         ],
@@ -2523,8 +2081,8 @@
             "channel": "Snax Gaming",
             "thumbnail": "https://i.ytimg.com/vi/mIoVlSJKBXA/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=mIoVlSJKBXA",
-            "views": 4129898,
-            "age_hours": 9.0
+            "views": 4151132,
+            "age_hours": 14.7
           },
           {
             "id": "YmJOdPjxJjM",
@@ -2532,15 +2090,15 @@
             "channel": "Neyoo",
             "thumbnail": "https://i.ytimg.com/vi/YmJOdPjxJjM/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=YmJOdPjxJjM",
-            "views": 407462,
-            "age_hours": 9.3
+            "views": 410038,
+            "age_hours": 15.0
           }
         ]
       },
       {
         "phrase": "group stage watchparty",
         "video_count": 2,
-        "momentum": 16.93,
+        "momentum": 16.25,
         "regions": [
           "IN"
         ],
@@ -2552,8 +2110,8 @@
             "channel": "Snax Gaming",
             "thumbnail": "https://i.ytimg.com/vi/mIoVlSJKBXA/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=mIoVlSJKBXA",
-            "views": 4129898,
-            "age_hours": 9.0
+            "views": 4151132,
+            "age_hours": 14.7
           },
           {
             "id": "YmJOdPjxJjM",
@@ -2561,15 +2119,102 @@
             "channel": "Neyoo",
             "thumbnail": "https://i.ytimg.com/vi/YmJOdPjxJjM/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=YmJOdPjxJjM",
-            "views": 407462,
-            "age_hours": 9.3
+            "views": 410038,
+            "age_hours": 15.0
+          }
+        ]
+      },
+      {
+        "phrase": "gta live gta5",
+        "video_count": 2,
+        "momentum": 16.16,
+        "regions": [
+          "IN"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "0lqacLeyMcI",
+            "title": "GTA 5 LIVE  #gta5 #gtav #gaming",
+            "channel": "PAJI IS LIVE",
+            "thumbnail": "https://i.ytimg.com/vi/0lqacLeyMcI/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=0lqacLeyMcI",
+            "views": 1597105,
+            "age_hours": 2.1
+          },
+          {
+            "id": "aTUwIuTq04g",
+            "title": "GTA 5 LIVE  #gta5 #gtav #gaming",
+            "channel": "PAJI IS LIVE",
+            "thumbnail": "https://i.ytimg.com/vi/aTUwIuTq04g/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=aTUwIuTq04g",
+            "views": 1917896,
+            "age_hours": 27.8
+          }
+        ]
+      },
+      {
+        "phrase": "live gta5 gtav",
+        "video_count": 2,
+        "momentum": 16.16,
+        "regions": [
+          "IN"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "0lqacLeyMcI",
+            "title": "GTA 5 LIVE  #gta5 #gtav #gaming",
+            "channel": "PAJI IS LIVE",
+            "thumbnail": "https://i.ytimg.com/vi/0lqacLeyMcI/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=0lqacLeyMcI",
+            "views": 1597105,
+            "age_hours": 2.1
+          },
+          {
+            "id": "aTUwIuTq04g",
+            "title": "GTA 5 LIVE  #gta5 #gtav #gaming",
+            "channel": "PAJI IS LIVE",
+            "thumbnail": "https://i.ytimg.com/vi/aTUwIuTq04g/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=aTUwIuTq04g",
+            "views": 1917896,
+            "age_hours": 27.8
+          }
+        ]
+      },
+      {
+        "phrase": "gta5 gtav gaming",
+        "video_count": 2,
+        "momentum": 16.16,
+        "regions": [
+          "IN"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "0lqacLeyMcI",
+            "title": "GTA 5 LIVE  #gta5 #gtav #gaming",
+            "channel": "PAJI IS LIVE",
+            "thumbnail": "https://i.ytimg.com/vi/0lqacLeyMcI/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=0lqacLeyMcI",
+            "views": 1597105,
+            "age_hours": 2.1
+          },
+          {
+            "id": "aTUwIuTq04g",
+            "title": "GTA 5 LIVE  #gta5 #gtav #gaming",
+            "channel": "PAJI IS LIVE",
+            "thumbnail": "https://i.ytimg.com/vi/aTUwIuTq04g/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=aTUwIuTq04g",
+            "views": 1917896,
+            "age_hours": 27.8
           }
         ]
       },
       {
         "phrase": "sale",
         "video_count": 4,
-        "momentum": 16.03,
+        "momentum": 15.87,
         "regions": [
           "IN"
         ],
@@ -2581,8 +2226,8 @@
             "channel": "Prasadtechintelugu",
             "thumbnail": "https://i.ytimg.com/vi/CPmA0TXKmns/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=CPmA0TXKmns",
-            "views": 469572,
-            "age_hours": 58.5
+            "views": 476224,
+            "age_hours": 64.2
           },
           {
             "id": "byBIxkIl5pU",
@@ -2590,8 +2235,8 @@
             "channel": "Trakin Tech",
             "thumbnail": "https://i.ytimg.com/vi/byBIxkIl5pU/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=byBIxkIl5pU",
-            "views": 202223,
-            "age_hours": 41.6
+            "views": 208223,
+            "age_hours": 47.3
           },
           {
             "id": "ayjpBNOSJzQ",
@@ -2599,15 +2244,15 @@
             "channel": "Tech Burner",
             "thumbnail": "https://i.ytimg.com/vi/ayjpBNOSJzQ/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=ayjpBNOSJzQ",
-            "views": 457727,
-            "age_hours": 81.1
+            "views": 461482,
+            "age_hours": 86.8
           }
         ]
       },
       {
         "phrase": "flipkart",
         "video_count": 4,
-        "momentum": 16.03,
+        "momentum": 15.87,
         "regions": [
           "IN"
         ],
@@ -2619,8 +2264,8 @@
             "channel": "Prasadtechintelugu",
             "thumbnail": "https://i.ytimg.com/vi/CPmA0TXKmns/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=CPmA0TXKmns",
-            "views": 469572,
-            "age_hours": 58.5
+            "views": 476224,
+            "age_hours": 64.2
           },
           {
             "id": "byBIxkIl5pU",
@@ -2628,8 +2273,8 @@
             "channel": "Trakin Tech",
             "thumbnail": "https://i.ytimg.com/vi/byBIxkIl5pU/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=byBIxkIl5pU",
-            "views": 202223,
-            "age_hours": 41.6
+            "views": 208223,
+            "age_hours": 47.3
           },
           {
             "id": "ayjpBNOSJzQ",
@@ -2637,44 +2282,15 @@
             "channel": "Tech Burner",
             "thumbnail": "https://i.ytimg.com/vi/ayjpBNOSJzQ/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=ayjpBNOSJzQ",
-            "views": 457727,
-            "age_hours": 81.1
-          }
-        ]
-      },
-      {
-        "phrase": "esports world cup",
-        "video_count": 2,
-        "momentum": 15.99,
-        "regions": [
-          "US"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "VnTRgEfCzUk",
-            "title": "OpTic GAMING vs FAZE!! SCUMP WATCH PARTY - ESPORTS WORLD CUP DAY 4",
-            "channel": "Scump",
-            "thumbnail": "https://i.ytimg.com/vi/VnTRgEfCzUk/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=VnTRgEfCzUk",
-            "views": 585072,
-            "age_hours": 2.6
-          },
-          {
-            "id": "ciOaZXz8CdQ",
-            "title": "Call of Duty: Black Ops 7 Esports World Cup | Playoffs",
-            "channel": "Call of Duty League",
-            "thumbnail": "https://i.ytimg.com/vi/ciOaZXz8CdQ/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=ciOaZXz8CdQ",
-            "views": 291652,
-            "age_hours": 2.3
+            "views": 461482,
+            "age_hours": 86.8
           }
         ]
       },
       {
         "phrase": "toxic trailer reaction",
         "video_count": 2,
-        "momentum": 15.33,
+        "momentum": 14.86,
         "regions": [
           "IN"
         ],
@@ -2686,8 +2302,8 @@
             "channel": "thePJ",
             "thumbnail": "https://i.ytimg.com/vi/TbixB4Z7ItE/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=TbixB4Z7ItE",
-            "views": 364119,
-            "age_hours": 10.6
+            "views": 396669,
+            "age_hours": 16.2
           },
           {
             "id": "7VNabImqM2s",
@@ -2695,15 +2311,15 @@
             "channel": "LifeofShazzam",
             "thumbnail": "https://i.ytimg.com/vi/7VNabImqM2s/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=7VNabImqM2s",
-            "views": 212077,
-            "age_hours": 10.5
+            "views": 240611,
+            "age_hours": 16.2
           }
         ]
       },
       {
         "phrase": "freedom sale",
         "video_count": 3,
-        "momentum": 14.93,
+        "momentum": 14.78,
         "regions": [
           "IN"
         ],
@@ -2715,8 +2331,8 @@
             "channel": "Prasadtechintelugu",
             "thumbnail": "https://i.ytimg.com/vi/CPmA0TXKmns/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=CPmA0TXKmns",
-            "views": 469572,
-            "age_hours": 58.5
+            "views": 476224,
+            "age_hours": 64.2
           },
           {
             "id": "ayjpBNOSJzQ",
@@ -2724,8 +2340,8 @@
             "channel": "Tech Burner",
             "thumbnail": "https://i.ytimg.com/vi/ayjpBNOSJzQ/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=ayjpBNOSJzQ",
-            "views": 457727,
-            "age_hours": 81.1
+            "views": 461482,
+            "age_hours": 86.8
           },
           {
             "id": "_4tCzjAEUUc",
@@ -2733,15 +2349,15 @@
             "channel": "Mr Perfect Tech",
             "thumbnail": "https://i.ytimg.com/vi/_4tCzjAEUUc/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=_4tCzjAEUUc",
-            "views": 97875,
-            "age_hours": 35.1
+            "views": 101618,
+            "age_hours": 40.8
           }
         ]
       },
       {
         "phrase": "minecraft smp",
         "video_count": 2,
-        "momentum": 13.25,
+        "momentum": 13.06,
         "regions": [
           "IN"
         ],
@@ -2753,8 +2369,8 @@
             "channel": "YesSmartyPie",
             "thumbnail": "https://i.ytimg.com/vi/7pryDGPLkG0/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=7pryDGPLkG0",
-            "views": 518033,
-            "age_hours": 16.3
+            "views": 570051,
+            "age_hours": 22.0
           },
           {
             "id": "eO7J0ydXck4",
@@ -2762,37 +2378,729 @@
             "channel": "SenpaiExtras",
             "thumbnail": "https://i.ytimg.com/vi/eO7J0ydXck4/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=eO7J0ydXck4",
-            "views": 1048708,
-            "age_hours": 41.5
+            "views": 1077847,
+            "age_hours": 47.1
           }
         ]
       },
       {
-        "phrase": "car shorts",
+        "phrase": "fun comedy",
         "video_count": 2,
-        "momentum": 13.1,
+        "momentum": 12.64,
+        "regions": [
+          "IN"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "eNcE8ta4xZ0",
+            "title": "Area Sandiyar😅Kandippa Twist irukku🤣Just For Fun🤣 #comedy #trending #autokaaran #tamilcomedy",
+            "channel": "Auto Kaaran ",
+            "thumbnail": "https://i.ytimg.com/vi/eNcE8ta4xZ0/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=eNcE8ta4xZ0",
+            "views": 2680211,
+            "age_hours": 90.4
+          },
+          {
+            "id": "u6CIvT2IWQE",
+            "title": "Award ah குடுக்குறாங்க இப்படி நடுக்குற😜🤣 #shorts #fun #comedy",
+            "channel": "With Love Nagaraj Sangeetha",
+            "thumbnail": "https://i.ytimg.com/vi/u6CIvT2IWQE/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=u6CIvT2IWQE",
+            "views": 1944311,
+            "age_hours": 40.0
+          }
+        ]
+      },
+      {
+        "phrase": "tamil funny",
+        "video_count": 2,
+        "momentum": 11.99,
+        "regions": [
+          "IN"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "Uo4ZIaLyrSU",
+            "title": "Veetlaiye valakappu set ready panirka ❤️#ishqyouall #swv #tamil #funny #comedy #youtube #shorts",
+            "channel": "Soundarya with varshini - tamil",
+            "thumbnail": "https://i.ytimg.com/vi/Uo4ZIaLyrSU/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=Uo4ZIaLyrSU",
+            "views": 2242215,
+            "age_hours": 97.1
+          },
+          {
+            "id": "CtF4w3iwOs4",
+            "title": "New villain born tday 🤣 | MHAMALDAS | #mhamaldas #comedy #trending #tamil #funny #tamilcomedy",
+            "channel": "MH AMALDAS",
+            "thumbnail": "https://i.ytimg.com/vi/CtF4w3iwOs4/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=CtF4w3iwOs4",
+            "views": 3489939,
+            "age_hours": 118.0
+          }
+        ]
+      }
+    ],
+    "CA": [
+      {
+        "phrase": "toxic trailer",
+        "video_count": 2,
+        "momentum": 12.8,
+        "regions": [
+          "CA"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "IAGaOmXLLHI",
+            "title": "Toxic Trailer REVIEW | Deeksha Sharma",
+            "channel": "Filmi Indian",
+            "thumbnail": "https://i.ytimg.com/vi/IAGaOmXLLHI/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=IAGaOmXLLHI",
+            "views": 606562,
+            "age_hours": 14.4
+          },
+          {
+            "id": "B9nJoPF2Mk0",
+            "title": "Toxic Trailer is Absolutely Shocking!!",
+            "channel": "FlickVerse",
+            "thumbnail": "https://i.ytimg.com/vi/B9nJoPF2Mk0/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=B9nJoPF2Mk0",
+            "views": 320201,
+            "age_hours": 14.0
+          }
+        ]
+      }
+    ],
+    "ALL": [
+      {
+        "phrase": "minecraft",
+        "video_count": 5,
+        "momentum": 25.19,
+        "regions": [
+          "IN"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "7pryDGPLkG0",
+            "title": "I Was BANNED From HIMLANDS… But I Came Back  [S7-Ep13] | Minecraft SMP",
+            "channel": "YesSmartyPie",
+            "thumbnail": "https://i.ytimg.com/vi/7pryDGPLkG0/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=7pryDGPLkG0",
+            "views": 570051,
+            "age_hours": 22.0
+          },
+          {
+            "id": "DO4MytuWOQA",
+            "title": "100 Days But BLOCKS GIVE OP WEAPONS In Minecraft 😱",
+            "channel": "Anshu Bisht",
+            "thumbnail": "https://i.ytimg.com/vi/DO4MytuWOQA/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=DO4MytuWOQA",
+            "views": 1233134,
+            "age_hours": 46.2
+          },
+          {
+            "id": "eO7J0ydXck4",
+            "title": "How I Started a WAR BETWEEN DIMENSIONS in This Minecraft SMP",
+            "channel": "SenpaiExtras",
+            "thumbnail": "https://i.ytimg.com/vi/eO7J0ydXck4/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=eO7J0ydXck4",
+            "views": 1077847,
+            "age_hours": 47.1
+          }
+        ]
+      },
+      {
+        "phrase": "life",
+        "video_count": 5,
+        "momentum": 21.78,
         "regions": [
           "US"
         ],
         "lang": "en",
         "example_videos": [
           {
+            "id": "Q1bRYXB69so",
+            "title": "life update: Netflix show, a thank you gift & travel to Korea with me",
+            "channel": "MissMangoButt",
+            "thumbnail": "https://i.ytimg.com/vi/Q1bRYXB69so/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=Q1bRYXB69so",
+            "views": 214813,
+            "age_hours": 13.7
+          },
+          {
+            "id": "7SzZr8WQWhc",
+            "title": "RESET VLOG: SAS prep, packing for a trip, & getting my life back together!!!",
+            "channel": "Nicole Laeno",
+            "thumbnail": "https://i.ytimg.com/vi/7SzZr8WQWhc/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=7SzZr8WQWhc",
+            "views": 108340,
+            "age_hours": 31.1
+          },
+          {
+            "id": "PXMJvid2Ks8",
+            "title": "Week in the Life: Mom Life, First Father’s Day, Cooking…",
+            "channel": "Lala Baptiste",
+            "thumbnail": "https://i.ytimg.com/vi/PXMJvid2Ks8/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=PXMJvid2Ks8",
+            "views": 84461,
+            "age_hours": 29.6
+          }
+        ]
+      },
+      {
+        "phrase": "iphone",
+        "video_count": 5,
+        "momentum": 20.95,
+        "regions": [
+          "BR"
+        ],
+        "lang": "pt",
+        "example_videos": [
+          {
+            "id": "N6S7ZMq9h6g",
+            "title": "IPHONE 18 PROMAX DARK CHERY 🙏💚 #usa #shorts #noads",
+            "channel": "TUAN NHI NHANH",
+            "thumbnail": "https://i.ytimg.com/vi/N6S7ZMq9h6g/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=N6S7ZMq9h6g",
+            "views": 780612,
+            "age_hours": 21.6
+          },
+          {
+            "id": "cxQfMheQ7rQ",
+            "title": "Será que iPhone FALSO da Shopee presta?",
+            "channel": "Mike Fantástico",
+            "thumbnail": "https://i.ytimg.com/vi/cxQfMheQ7rQ/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=cxQfMheQ7rQ",
+            "views": 280695,
+            "age_hours": 57.6
+          },
+          {
+            "id": "HYXrxXMM5Po",
+            "title": "Abrindo o primeiro iPhone 17 dela #ryansamuel",
+            "channel": "Ryan Samuel",
+            "thumbnail": "https://i.ytimg.com/vi/HYXrxXMM5Po/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=HYXrxXMM5Po",
+            "views": 311354,
+            "age_hours": 53.0
+          }
+        ]
+      },
+      {
+        "phrase": "pmwc ewc",
+        "video_count": 3,
+        "momentum": 19.74,
+        "regions": [
+          "IN"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "mIoVlSJKBXA",
+            "title": "PMWC at EWC GROUP STAGE DAY 3 - WATCHPARTY WITH SNAX",
+            "channel": "Snax Gaming",
+            "thumbnail": "https://i.ytimg.com/vi/mIoVlSJKBXA/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=mIoVlSJKBXA",
+            "views": 4151132,
+            "age_hours": 14.7
+          },
+          {
+            "id": "xPyf1ybFUVw",
+            "title": "[IND] PMWC at EWC 26 - दिन 3 - ग्रुप चरण",
+            "channel": "EWC India",
+            "thumbnail": "https://i.ytimg.com/vi/xPyf1ybFUVw/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=xPyf1ybFUVw",
+            "views": 768803,
+            "age_hours": 13.4
+          },
+          {
+            "id": "YmJOdPjxJjM",
+            "title": "PMWC at EWC GROUP STAGE DAY 3 - WATCHPARTY WITH NEYOO",
+            "channel": "Neyoo",
+            "thumbnail": "https://i.ytimg.com/vi/YmJOdPjxJjM/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=YmJOdPjxJjM",
+            "views": 410038,
+            "age_hours": 15.0
+          }
+        ]
+      },
+      {
+        "phrase": "gta live",
+        "video_count": 3,
+        "momentum": 19.47,
+        "regions": [
+          "IN"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "0lqacLeyMcI",
+            "title": "GTA 5 LIVE  #gta5 #gtav #gaming",
+            "channel": "PAJI IS LIVE",
+            "thumbnail": "https://i.ytimg.com/vi/0lqacLeyMcI/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=0lqacLeyMcI",
+            "views": 1597105,
+            "age_hours": 2.1
+          },
+          {
+            "id": "aTUwIuTq04g",
+            "title": "GTA 5 LIVE  #gta5 #gtav #gaming",
+            "channel": "PAJI IS LIVE",
+            "thumbnail": "https://i.ytimg.com/vi/aTUwIuTq04g/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=aTUwIuTq04g",
+            "views": 1917896,
+            "age_hours": 27.8
+          },
+          {
+            "id": "IumDbAVMAm4",
+            "title": "GTA 5 LIVE | MRRAJAPLAY#shortslive #shortsfeed #gta5 #gtaonline",
+            "channel": "MR RAJA PLAYZONE",
+            "thumbnail": "https://i.ytimg.com/vi/IumDbAVMAm4/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=IumDbAVMAm4",
+            "views": 2342107,
+            "age_hours": 36.8
+          }
+        ]
+      },
+      {
+        "phrase": "group stage",
+        "video_count": 3,
+        "momentum": 19.43,
+        "regions": [
+          "IN"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "mIoVlSJKBXA",
+            "title": "PMWC at EWC GROUP STAGE DAY 3 - WATCHPARTY WITH SNAX",
+            "channel": "Snax Gaming",
+            "thumbnail": "https://i.ytimg.com/vi/mIoVlSJKBXA/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=mIoVlSJKBXA",
+            "views": 4151132,
+            "age_hours": 14.7
+          },
+          {
+            "id": "YmJOdPjxJjM",
+            "title": "PMWC at EWC GROUP STAGE DAY 3 - WATCHPARTY WITH NEYOO",
+            "channel": "Neyoo",
+            "thumbnail": "https://i.ytimg.com/vi/YmJOdPjxJjM/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=YmJOdPjxJjM",
+            "views": 410038,
+            "age_hours": 15.0
+          },
+          {
+            "id": "nyUEDkSJ2CI",
+            "title": "🔴 [HINDI] TEZ FFMIC 2026 Fall | GROUP STAGE - WEEK 1 | DAY 3 | GROUP C",
+            "channel": "Free Fire MAX Esports India Official",
+            "thumbnail": "https://i.ytimg.com/vi/nyUEDkSJ2CI/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=nyUEDkSJ2CI",
+            "views": 326241,
+            "age_hours": 15.0
+          }
+        ]
+      },
+      {
+        "phrase": "back",
+        "video_count": 4,
+        "momentum": 19.2,
+        "regions": [
+          "US"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "wfT5JNx6TGI",
+            "title": "Lankybox is back and it's DISTURBING",
+            "channel": "Flamingo",
+            "thumbnail": "https://i.ytimg.com/vi/wfT5JNx6TGI/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=wfT5JNx6TGI",
+            "views": 218250,
+            "age_hours": 6.7
+          },
+          {
             "id": "mD7eBMw-Ohk",
             "title": "Bro fought back to protect his car #shorts #edit",
             "channel": "Olivia Gomes",
             "thumbnail": "https://i.ytimg.com/vi/mD7eBMw-Ohk/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=mD7eBMw-Ohk",
-            "views": 5171274,
-            "age_hours": 89.7
+            "views": 5486907,
+            "age_hours": 95.4
           },
           {
-            "id": "nQcrANpsmHk",
-            "title": "Why You Should NEVER Park Your Car Here 🚗 ⚠️  #shorts #car",
-            "channel": "lemi",
-            "thumbnail": "https://i.ytimg.com/vi/nQcrANpsmHk/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=nQcrANpsmHk",
-            "views": 4271181,
-            "age_hours": 59.6
+            "id": "7SzZr8WQWhc",
+            "title": "RESET VLOG: SAS prep, packing for a trip, & getting my life back together!!!",
+            "channel": "Nicole Laeno",
+            "thumbnail": "https://i.ytimg.com/vi/7SzZr8WQWhc/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=7SzZr8WQWhc",
+            "views": 108340,
+            "age_hours": 31.1
+          }
+        ]
+      },
+      {
+        "phrase": "tamil",
+        "video_count": 4,
+        "momentum": 18.37,
+        "regions": [
+          "IN"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "6JaeasJw-QI",
+            "title": "Thalapathy Kacheri Full Video (Tamil) | Hon’ble CM Thalapathy Vijay| Jana Nayagan| H Vinoth| Anirudh",
+            "channel": "T-Series",
+            "thumbnail": "https://i.ytimg.com/vi/6JaeasJw-QI/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=6JaeasJw-QI",
+            "views": 1526799,
+            "age_hours": 43.1
+          },
+          {
+            "id": "Uo4ZIaLyrSU",
+            "title": "Veetlaiye valakappu set ready panirka ❤️#ishqyouall #swv #tamil #funny #comedy #youtube #shorts",
+            "channel": "Soundarya with varshini - tamil",
+            "thumbnail": "https://i.ytimg.com/vi/Uo4ZIaLyrSU/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=Uo4ZIaLyrSU",
+            "views": 2242215,
+            "age_hours": 97.1
+          },
+          {
+            "id": "CtF4w3iwOs4",
+            "title": "New villain born tday 🤣 | MHAMALDAS | #mhamaldas #comedy #trending #tamil #funny #tamilcomedy",
+            "channel": "MH AMALDAS",
+            "thumbnail": "https://i.ytimg.com/vi/CtF4w3iwOs4/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=CtF4w3iwOs4",
+            "views": 3489939,
+            "age_hours": 118.0
+          }
+        ]
+      },
+      {
+        "phrase": "ao vivo",
+        "video_count": 4,
+        "momentum": 18.1,
+        "regions": [
+          "BR"
+        ],
+        "lang": "pt",
+        "example_videos": [
+          {
+            "id": "BSQc5Bmm7-Q",
+            "title": "🔴 FREE FIRE AO VIVO: FFWS BRASIL SPLIT 2 | RODADA 3",
+            "channel": "Free Fire Esports Brasil #FREEFIRE",
+            "thumbnail": "https://i.ytimg.com/vi/BSQc5Bmm7-Q/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=BSQc5Bmm7-Q",
+            "views": 557155,
+            "age_hours": 10.7
+          },
+          {
+            "id": "1Qi1vEJaJ_Y",
+            "title": "Liga Joe - Give Me Your Heart Tonight - Ao Vivo Em São Paulo - \"Flashbacks 20 Anos\"",
+            "channel": "Liga Joe",
+            "thumbnail": "https://i.ytimg.com/vi/1Qi1vEJaJ_Y/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=1Qi1vEJaJ_Y",
+            "views": 51104,
+            "age_hours": 33.6
+          },
+          {
+            "id": "QCr7tSuAZsI",
+            "title": "Bye Bye (Ao Vivo)",
+            "channel": "Marília Mendonça - Topic",
+            "thumbnail": "https://i.ytimg.com/vi/QCr7tSuAZsI/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=QCr7tSuAZsI",
+            "views": 45453,
+            "age_hours": 44.6
+          }
+        ]
+      },
+      {
+        "phrase": "humor",
+        "video_count": 4,
+        "momentum": 18.04,
+        "regions": [
+          "BR"
+        ],
+        "lang": "pt",
+        "example_videos": [
+          {
+            "id": "uSMpBOQESQs",
+            "title": "PESSOAS QUE NÃO GOSTAM DE MILHO!😹kkk        #shorts #humor",
+            "channel": "Biel Yoshi",
+            "thumbnail": "https://i.ytimg.com/vi/uSMpBOQESQs/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=uSMpBOQESQs",
+            "views": 1156322,
+            "age_hours": 37.6
+          },
+          {
+            "id": "ljDFMX18rHI",
+            "title": "A vovó tá escutando tudo errado kkk #meme #humor #comedia #engraçado #risos",
+            "channel": "A ruiva da roça / Fabio Castro",
+            "thumbnail": "https://i.ytimg.com/vi/ljDFMX18rHI/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=ljDFMX18rHI",
+            "views": 1390319,
+            "age_hours": 57.0
+          },
+          {
+            "id": "IlpvjQYTGAQ",
+            "title": "Que barulho ela fez ? (#funny #comedy #humor )",
+            "channel": "Lulu Perrier",
+            "thumbnail": "https://i.ytimg.com/vi/IlpvjQYTGAQ/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=IlpvjQYTGAQ",
+            "views": 3226950,
+            "age_hours": 161.4
+          }
+        ]
+      },
+      {
+        "phrase": "ficou",
+        "video_count": 4,
+        "momentum": 17.77,
+        "regions": [
+          "BR"
+        ],
+        "lang": "pt",
+        "example_videos": [
+          {
+            "id": "YuyxOO53x0c",
+            "title": "A MÃO DA EMILLY VICK FICOU PRESA!",
+            "channel": "Lari Fez",
+            "thumbnail": "https://i.ytimg.com/vi/YuyxOO53x0c/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=YuyxOO53x0c",
+            "views": 1062550,
+            "age_hours": 10.6
+          },
+          {
+            "id": "mV6InmpKT7E",
+            "title": "AGORA FICOU SÉRIO! ESTREIA DO BANQUETA NA 2ª DIVISÃO PEGOU FOGO NO EFOOTBALL 🔥",
+            "channel": "AD0LFzZ",
+            "thumbnail": "https://i.ytimg.com/vi/mV6InmpKT7E/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=mV6InmpKT7E",
+            "views": 116755,
+            "age_hours": 15.1
+          },
+          {
+            "id": "5ooSweeDjMk",
+            "title": "Cadres ficou MUSCULOSO para NAMORAR SUA AMIGA!",
+            "channel": "Cadres",
+            "thumbnail": "https://i.ytimg.com/vi/5ooSweeDjMk/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=5ooSweeDjMk",
+            "views": 475776,
+            "age_hours": 18.6
+          }
+        ]
+      },
+      {
+        "phrase": "comedy",
+        "video_count": 4,
+        "momentum": 16.89,
+        "regions": [
+          "DE"
+        ],
+        "lang": "de",
+        "example_videos": [
+          {
+            "id": "Zj_Z_GAkXvk",
+            "title": "Omg ICH habe ANGST vor FORTNITE?!😳😭😩 #marvintsp #comedy #fortnite",
+            "channel": "marvintsp",
+            "thumbnail": "https://i.ytimg.com/vi/Zj_Z_GAkXvk/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=Zj_Z_GAkXvk",
+            "views": 611168,
+            "age_hours": 37.5
+          },
+          {
+            "id": "PHjapK12Sf8",
+            "title": "Hässliche Schuhe in der Stadt 😅#comedy #lustig #outfit ￼ #socialanxiety #funny",
+            "channel": "ISI",
+            "thumbnail": "https://i.ytimg.com/vi/PHjapK12Sf8/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=PHjapK12Sf8",
+            "views": 599277,
+            "age_hours": 38.4
+          },
+          {
+            "id": "T7DeLEsNaQA",
+            "title": "Mama ausgetrickst😳🍫😂 #shorts #shortvideos #comedy #lustigevideos #lustig #humor #reels #funny",
+            "channel": "Comedy Jess",
+            "thumbnail": "https://i.ytimg.com/vi/T7DeLEsNaQA/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=T7DeLEsNaQA",
+            "views": 776621,
+            "age_hours": 135.4
+          }
+        ]
+      },
+      {
+        "phrase": "pmwc ewc group",
+        "video_count": 2,
+        "momentum": 16.25,
+        "regions": [
+          "IN"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "mIoVlSJKBXA",
+            "title": "PMWC at EWC GROUP STAGE DAY 3 - WATCHPARTY WITH SNAX",
+            "channel": "Snax Gaming",
+            "thumbnail": "https://i.ytimg.com/vi/mIoVlSJKBXA/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=mIoVlSJKBXA",
+            "views": 4151132,
+            "age_hours": 14.7
+          },
+          {
+            "id": "YmJOdPjxJjM",
+            "title": "PMWC at EWC GROUP STAGE DAY 3 - WATCHPARTY WITH NEYOO",
+            "channel": "Neyoo",
+            "thumbnail": "https://i.ytimg.com/vi/YmJOdPjxJjM/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=YmJOdPjxJjM",
+            "views": 410038,
+            "age_hours": 15.0
+          }
+        ]
+      },
+      {
+        "phrase": "ewc group stage",
+        "video_count": 2,
+        "momentum": 16.25,
+        "regions": [
+          "IN"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "mIoVlSJKBXA",
+            "title": "PMWC at EWC GROUP STAGE DAY 3 - WATCHPARTY WITH SNAX",
+            "channel": "Snax Gaming",
+            "thumbnail": "https://i.ytimg.com/vi/mIoVlSJKBXA/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=mIoVlSJKBXA",
+            "views": 4151132,
+            "age_hours": 14.7
+          },
+          {
+            "id": "YmJOdPjxJjM",
+            "title": "PMWC at EWC GROUP STAGE DAY 3 - WATCHPARTY WITH NEYOO",
+            "channel": "Neyoo",
+            "thumbnail": "https://i.ytimg.com/vi/YmJOdPjxJjM/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=YmJOdPjxJjM",
+            "views": 410038,
+            "age_hours": 15.0
+          }
+        ]
+      },
+      {
+        "phrase": "group stage watchparty",
+        "video_count": 2,
+        "momentum": 16.25,
+        "regions": [
+          "IN"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "mIoVlSJKBXA",
+            "title": "PMWC at EWC GROUP STAGE DAY 3 - WATCHPARTY WITH SNAX",
+            "channel": "Snax Gaming",
+            "thumbnail": "https://i.ytimg.com/vi/mIoVlSJKBXA/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=mIoVlSJKBXA",
+            "views": 4151132,
+            "age_hours": 14.7
+          },
+          {
+            "id": "YmJOdPjxJjM",
+            "title": "PMWC at EWC GROUP STAGE DAY 3 - WATCHPARTY WITH NEYOO",
+            "channel": "Neyoo",
+            "thumbnail": "https://i.ytimg.com/vi/YmJOdPjxJjM/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=YmJOdPjxJjM",
+            "views": 410038,
+            "age_hours": 15.0
+          }
+        ]
+      },
+      {
+        "phrase": "gta live gta5",
+        "video_count": 2,
+        "momentum": 16.16,
+        "regions": [
+          "IN"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "0lqacLeyMcI",
+            "title": "GTA 5 LIVE  #gta5 #gtav #gaming",
+            "channel": "PAJI IS LIVE",
+            "thumbnail": "https://i.ytimg.com/vi/0lqacLeyMcI/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=0lqacLeyMcI",
+            "views": 1597105,
+            "age_hours": 2.1
+          },
+          {
+            "id": "aTUwIuTq04g",
+            "title": "GTA 5 LIVE  #gta5 #gtav #gaming",
+            "channel": "PAJI IS LIVE",
+            "thumbnail": "https://i.ytimg.com/vi/aTUwIuTq04g/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=aTUwIuTq04g",
+            "views": 1917896,
+            "age_hours": 27.8
+          }
+        ]
+      },
+      {
+        "phrase": "live gta5 gtav",
+        "video_count": 2,
+        "momentum": 16.16,
+        "regions": [
+          "IN"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "0lqacLeyMcI",
+            "title": "GTA 5 LIVE  #gta5 #gtav #gaming",
+            "channel": "PAJI IS LIVE",
+            "thumbnail": "https://i.ytimg.com/vi/0lqacLeyMcI/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=0lqacLeyMcI",
+            "views": 1597105,
+            "age_hours": 2.1
+          },
+          {
+            "id": "aTUwIuTq04g",
+            "title": "GTA 5 LIVE  #gta5 #gtav #gaming",
+            "channel": "PAJI IS LIVE",
+            "thumbnail": "https://i.ytimg.com/vi/aTUwIuTq04g/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=aTUwIuTq04g",
+            "views": 1917896,
+            "age_hours": 27.8
+          }
+        ]
+      },
+      {
+        "phrase": "gta5 gtav gaming",
+        "video_count": 2,
+        "momentum": 16.16,
+        "regions": [
+          "IN"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "0lqacLeyMcI",
+            "title": "GTA 5 LIVE  #gta5 #gtav #gaming",
+            "channel": "PAJI IS LIVE",
+            "thumbnail": "https://i.ytimg.com/vi/0lqacLeyMcI/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=0lqacLeyMcI",
+            "views": 1597105,
+            "age_hours": 2.1
+          },
+          {
+            "id": "aTUwIuTq04g",
+            "title": "GTA 5 LIVE  #gta5 #gtav #gaming",
+            "channel": "PAJI IS LIVE",
+            "thumbnail": "https://i.ytimg.com/vi/aTUwIuTq04g/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=aTUwIuTq04g",
+            "views": 1917896,
+            "age_hours": 27.8
           }
         ]
       }
@@ -2800,87 +3108,87 @@
   },
   "trending_searches": [
     {
-      "phrase": "why do birds suddenly appear",
-      "prefix": "why do",
-      "rank": 1,
-      "first_seen_at": "2026-08-09T00:57:29.536396+00:00",
-      "is_new": true
-    },
-    {
-      "phrase": "why does he call you darling",
-      "prefix": "why does",
-      "rank": 1,
-      "first_seen_at": "2026-08-09T00:57:29.536396+00:00",
-      "is_new": true
-    },
-    {
-      "phrase": "what happened to virgil",
-      "prefix": "what happened",
-      "rank": 1,
-      "first_seen_at": "2026-08-09T00:57:29.536396+00:00",
-      "is_new": true
-    },
-    {
-      "phrase": "best build 2k26",
-      "prefix": "best",
-      "rank": 1,
-      "first_seen_at": "2026-08-09T00:57:29.536396+00:00",
-      "is_new": true
-    },
-    {
-      "phrase": "is it a crime mariah the scientist",
-      "prefix": "is it",
-      "rank": 1,
-      "first_seen_at": "2026-08-09T00:57:29.536396+00:00",
-      "is_new": true
-    },
-    {
-      "phrase": "should i stay or should i go",
-      "prefix": "should i",
-      "rank": 1,
-      "first_seen_at": "2026-08-09T00:57:29.536396+00:00",
-      "is_new": true
-    },
-    {
-      "phrase": "how to draw",
+      "phrase": "how to tie a tie",
       "prefix": "how to",
-      "rank": 2,
-      "first_seen_at": "2026-08-09T00:57:29.536396+00:00",
+      "rank": 1,
+      "first_seen_at": "2026-08-09T06:38:10.047759+00:00",
       "is_new": true
     },
     {
-      "phrase": "why don't we fall in love",
-      "prefix": "why do",
-      "rank": 2,
-      "first_seen_at": "2026-08-09T00:57:29.536396+00:00",
+      "phrase": "how do i say goodbye dean lewis",
+      "prefix": "how do",
+      "rank": 1,
+      "first_seen_at": "2026-08-09T06:38:10.047759+00:00",
       "is_new": true
     },
     {
-      "phrase": "why does it hurt to love you",
-      "prefix": "why does",
-      "rank": 2,
-      "first_seen_at": "2026-08-09T00:57:29.536396+00:00",
+      "phrase": "how does it feel d'angelo",
+      "prefix": "how does",
+      "rank": 1,
+      "first_seen_at": "2026-08-09T06:38:10.047759+00:00",
       "is_new": true
     },
     {
-      "phrase": "what is love",
+      "phrase": "why is it spicy",
+      "prefix": "why is",
+      "rank": 1,
+      "first_seen_at": "2026-08-09T06:38:10.047759+00:00",
+      "is_new": true
+    },
+    {
+      "phrase": "what is this diddy blud doing on the calculator",
       "prefix": "what is",
-      "rank": 2,
-      "first_seen_at": "2026-08-09T00:57:29.536396+00:00",
+      "rank": 1,
+      "first_seen_at": "2026-08-09T06:38:10.047759+00:00",
       "is_new": true
     },
     {
-      "phrase": "what are you doing",
+      "phrase": "what are you listening to chris stapleton",
       "prefix": "what are",
-      "rank": 2,
-      "first_seen_at": "2026-08-09T00:57:29.536396+00:00",
+      "rank": 1,
+      "first_seen_at": "2026-08-09T06:38:10.047759+00:00",
       "is_new": true
     },
     {
-      "phrase": "what happened to that boy",
-      "prefix": "what happened",
+      "phrase": "worst way riley green",
+      "prefix": "worst",
+      "rank": 1,
+      "first_seen_at": "2026-08-09T06:38:10.047759+00:00",
+      "is_new": true
+    },
+    {
+      "phrase": "topper guild",
+      "prefix": "top",
+      "rank": 1,
+      "first_seen_at": "2026-08-09T06:38:10.047759+00:00",
+      "is_new": true
+    },
+    {
+      "phrase": "can you stand the rain new edition",
+      "prefix": "can you",
+      "rank": 1,
+      "first_seen_at": "2026-08-09T06:38:10.047759+00:00",
+      "is_new": true
+    },
+    {
+      "phrase": "how does it feel",
+      "prefix": "how does",
       "rank": 2,
-      "first_seen_at": "2026-08-09T00:57:29.536396+00:00",
+      "first_seen_at": "2026-08-09T06:38:10.047759+00:00",
+      "is_new": true
+    },
+    {
+      "phrase": "why is my bus driver playing mitski",
+      "prefix": "why is",
+      "rank": 2,
+      "first_seen_at": "2026-08-09T06:38:10.047759+00:00",
+      "is_new": true
+    },
+    {
+      "phrase": "best practical basketball build",
+      "prefix": "best",
+      "rank": 2,
+      "first_seen_at": "2026-08-09T06:38:10.047759+00:00",
       "is_new": true
     }
   ],
@@ -2893,53 +3201,15 @@
       "thumbnail": "https://i.ytimg.com/vi/Q1bRYXB69so/mqdefault.jpg",
       "published_at": "2026-08-08T16:58:39Z",
       "category_id": "22",
-      "views": 136029,
-      "likes": 26007,
-      "comments": 5615,
-      "age_hours": 8.0,
-      "views_per_hour": 17051,
-      "momentum": 7.597,
+      "views": 214813,
+      "likes": 34431,
+      "comments": 6640,
+      "age_hours": 13.7,
+      "views_per_hour": 15731,
+      "momentum": 6.839,
       "url": "https://www.youtube.com/watch?v=Q1bRYXB69so",
       "region": "US",
       "category": "People & Blogs",
-      "_detected_lang": "en"
-    },
-    {
-      "id": "dOZWaUIvGG8",
-      "title": "SPIDER-MAN against TUNG TUNG TUNG SAHUR on Motorcycle in RAINBOW SPIDERS BRIDGE | GTA MULTIVERSE5",
-      "channel": "MARINARA",
-      "channel_id": "UCrfgwNVm6qjuRoD4SJS9OAA",
-      "thumbnail": "https://i.ytimg.com/vi/dOZWaUIvGG8/mqdefault.jpg",
-      "published_at": "2026-08-08T15:00:14Z",
-      "category_id": "20",
-      "views": 200902,
-      "likes": 52422,
-      "comments": 4263,
-      "age_hours": 10.0,
-      "views_per_hour": 20185,
-      "momentum": 7.465,
-      "url": "https://www.youtube.com/watch?v=dOZWaUIvGG8",
-      "region": "BR",
-      "category": "Gaming",
-      "_detected_lang": "en"
-    },
-    {
-      "id": "dPhP61TR8QQ",
-      "title": "САМЫЕ МРАЧНЫЕ ТАЙНЫ ВИДЕОИГР",
-      "channel": "TheBrianMaps",
-      "channel_id": "UCyJrhZm9KXrzRub3-wD2zWg",
-      "thumbnail": "https://i.ytimg.com/vi/dPhP61TR8QQ/mqdefault.jpg",
-      "published_at": "2026-08-08T16:57:27Z",
-      "category_id": "24",
-      "views": 584627,
-      "likes": 94654,
-      "comments": 6862,
-      "age_hours": 8.0,
-      "views_per_hour": 73085,
-      "momentum": 7.01,
-      "url": "https://www.youtube.com/watch?v=dPhP61TR8QQ",
-      "region": "DE",
-      "category": "Entertainment",
       "_detected_lang": "en"
     },
     {
@@ -2950,14 +3220,14 @@
       "thumbnail": "https://i.ytimg.com/vi/Af6i6ChAVTw/mqdefault.jpg",
       "published_at": "2026-08-08T16:00:01Z",
       "category_id": "24",
-      "views": 12132806,
-      "likes": 552690,
-      "comments": 54076,
-      "age_hours": 9.0,
-      "views_per_hour": 1354740,
-      "momentum": 6.964,
+      "views": 18598982,
+      "likes": 729699,
+      "comments": 66338,
+      "age_hours": 14.6,
+      "views_per_hour": 1271055,
+      "momentum": 6.801,
       "url": "https://www.youtube.com/watch?v=Af6i6ChAVTw",
-      "region": "CA",
+      "region": "US",
       "category": "Entertainment",
       "_detected_lang": "en"
     },
@@ -2969,12 +3239,12 @@
       "thumbnail": "https://i.ytimg.com/vi/9pzs8GZlK7A/mqdefault.jpg",
       "published_at": "2026-08-05T22:17:21Z",
       "category_id": "24",
-      "views": 5269341,
-      "likes": 608070,
-      "comments": 87811,
-      "age_hours": 74.7,
-      "views_per_hour": 70570,
-      "momentum": 6.776,
+      "views": 5446723,
+      "likes": 616960,
+      "comments": 88985,
+      "age_hours": 80.3,
+      "views_per_hour": 67791,
+      "momentum": 6.715,
       "url": "https://www.youtube.com/watch?v=9pzs8GZlK7A",
       "region": "BR",
       "category": "Entertainment",
@@ -2988,12 +3258,12 @@
       "thumbnail": "https://i.ytimg.com/vi/G5hWlD5zfhw/mqdefault.jpg",
       "published_at": "2026-08-08T13:31:22Z",
       "category_id": "1",
-      "views": 11373516,
-      "likes": 398606,
-      "comments": 25987,
-      "age_hours": 11.4,
-      "views_per_hour": 994807,
-      "momentum": 6.555,
+      "views": 13730502,
+      "likes": 462618,
+      "comments": 28839,
+      "age_hours": 17.1,
+      "views_per_hour": 802468,
+      "momentum": 6.426,
       "url": "https://www.youtube.com/watch?v=G5hWlD5zfhw",
       "region": "GB",
       "category": "Other",
@@ -3007,15 +3277,34 @@
       "thumbnail": "https://i.ytimg.com/vi/BZ4UzthYTss/mqdefault.jpg",
       "published_at": "2026-08-07T04:00:01Z",
       "category_id": "10",
-      "views": 21296095,
-      "likes": 1040324,
-      "comments": 98236,
-      "age_hours": 45.0,
-      "views_per_hour": 473719,
-      "momentum": 6.492,
+      "views": 23756997,
+      "likes": 1056216,
+      "comments": 99381,
+      "age_hours": 50.6,
+      "views_per_hour": 469205,
+      "momentum": 6.413,
       "url": "https://www.youtube.com/watch?v=BZ4UzthYTss",
       "region": "US",
       "category": "Other",
+      "_detected_lang": "en"
+    },
+    {
+      "id": "Cb5Cde_D5SM",
+      "title": "MINECRAFT HARDCORE ALL BOSSES DAY 2 🍄🔨🧟‍♂️ft. KaiCenat",
+      "channel": "IShowSpeed",
+      "channel_id": "UCWsDFcIhY2DBi3GB5uykGXA",
+      "thumbnail": "https://i.ytimg.com/vi/Cb5Cde_D5SM/mqdefault.jpg",
+      "published_at": "2026-08-08T21:25:33Z",
+      "category_id": "20",
+      "views": 10268885,
+      "likes": 196684,
+      "comments": 566,
+      "age_hours": 9.2,
+      "views_per_hour": 1115344,
+      "momentum": 6.282,
+      "url": "https://www.youtube.com/watch?v=Cb5Cde_D5SM",
+      "region": "US",
+      "category": "Gaming",
       "_detected_lang": "en"
     },
     {
@@ -3026,12 +3315,12 @@
       "thumbnail": "https://i.ytimg.com/vi/M7ztnsdo_6Y/mqdefault.jpg",
       "published_at": "2026-08-08T13:30:06Z",
       "category_id": "10",
-      "views": 73449,
-      "likes": 6293,
-      "comments": 3844,
-      "age_hours": 11.5,
-      "views_per_hour": 6412,
-      "momentum": 6.452,
+      "views": 78359,
+      "likes": 6525,
+      "comments": 3982,
+      "age_hours": 17.1,
+      "views_per_hour": 4574,
+      "momentum": 6.13,
       "url": "https://www.youtube.com/watch?v=M7ztnsdo_6Y",
       "region": "DE",
       "category": "Other",
@@ -3045,35 +3334,16 @@
       "thumbnail": "https://i.ytimg.com/vi/sJwaiRN-rvc/mqdefault.jpg",
       "published_at": "2026-08-08T13:31:16Z",
       "category_id": "1",
-      "views": 4137920,
-      "likes": 206652,
-      "comments": 7939,
-      "age_hours": 11.4,
-      "views_per_hour": 361844,
-      "momentum": 6.22,
+      "views": 5154267,
+      "likes": 229324,
+      "comments": 8467,
+      "age_hours": 17.1,
+      "views_per_hour": 301182,
+      "momentum": 6.056,
       "url": "https://www.youtube.com/watch?v=sJwaiRN-rvc",
       "region": "DE",
       "category": "Other",
       "_detected_lang": "de"
-    },
-    {
-      "id": "mIoVlSJKBXA",
-      "title": "PMWC at EWC GROUP STAGE DAY 3 - WATCHPARTY WITH SNAX",
-      "channel": "Snax Gaming",
-      "channel_id": "UCQfBN7Ut5TiZJAhMo_Rgfyw",
-      "thumbnail": "https://i.ytimg.com/vi/mIoVlSJKBXA/mqdefault.jpg",
-      "published_at": "2026-08-08T15:55:04Z",
-      "category_id": "20",
-      "views": 4129898,
-      "likes": 195607,
-      "comments": 232,
-      "age_hours": 9.0,
-      "views_per_hour": 456913,
-      "momentum": 6.199,
-      "url": "https://www.youtube.com/watch?v=mIoVlSJKBXA",
-      "region": "IN",
-      "category": "Gaming",
-      "_detected_lang": "en"
     },
     {
       "id": "Sm9Af2DPsqs",
@@ -3083,32 +3353,89 @@
       "thumbnail": "https://i.ytimg.com/vi/Sm9Af2DPsqs/mqdefault.jpg",
       "published_at": "2026-08-08T09:41:23Z",
       "category_id": "20",
-      "views": 11404228,
-      "likes": 290719,
-      "comments": 1060,
-      "age_hours": 15.3,
-      "views_per_hour": 747050,
-      "momentum": 6.178,
+      "views": 11456584,
+      "likes": 291418,
+      "comments": 1121,
+      "age_hours": 20.9,
+      "views_per_hour": 547007,
+      "momentum": 6.036,
       "url": "https://www.youtube.com/watch?v=Sm9Af2DPsqs",
+      "region": "AU",
+      "category": "Gaming",
+      "_detected_lang": "en"
+    },
+    {
+      "id": "mIoVlSJKBXA",
+      "title": "PMWC at EWC GROUP STAGE DAY 3 - WATCHPARTY WITH SNAX",
+      "channel": "Snax Gaming",
+      "channel_id": "UCQfBN7Ut5TiZJAhMo_Rgfyw",
+      "thumbnail": "https://i.ytimg.com/vi/mIoVlSJKBXA/mqdefault.jpg",
+      "published_at": "2026-08-08T15:55:04Z",
+      "category_id": "20",
+      "views": 4151132,
+      "likes": 196439,
+      "comments": 252,
+      "age_hours": 14.7,
+      "views_per_hour": 282075,
+      "momentum": 5.97,
+      "url": "https://www.youtube.com/watch?v=mIoVlSJKBXA",
+      "region": "IN",
+      "category": "Gaming",
+      "_detected_lang": "en"
+    },
+    {
+      "id": "wfT5JNx6TGI",
+      "title": "Lankybox is back and it's DISTURBING",
+      "channel": "Flamingo",
+      "channel_id": "UCm-X6o81nRsXQTmqpyArkBQ",
+      "thumbnail": "https://i.ytimg.com/vi/wfT5JNx6TGI/mqdefault.jpg",
+      "published_at": "2026-08-08T23:57:00Z",
+      "category_id": "20",
+      "views": 218250,
+      "likes": 19230,
+      "comments": 2947,
+      "age_hours": 6.7,
+      "views_per_hour": 32658,
+      "momentum": 5.919,
+      "url": "https://www.youtube.com/watch?v=wfT5JNx6TGI",
       "region": "US",
       "category": "Gaming",
       "_detected_lang": "en"
     },
     {
-      "id": "lZfO5wnhOU4",
-      "title": "KAI X SPEED MINECRAFT MARATHON BEATING ALL BOSSES *HARDCORE* DAY 1 PART 2",
-      "channel": "Kai Cenat Live",
-      "channel_id": "UCvCfpQXRXdJdL07pzTIA6Cw",
-      "thumbnail": "https://i.ytimg.com/vi/lZfO5wnhOU4/mqdefault.jpg",
-      "published_at": "2026-08-08T21:36:58Z",
+      "id": "0lqacLeyMcI",
+      "title": "GTA 5 LIVE  #gta5 #gtav #gaming",
+      "channel": "PAJI IS LIVE",
+      "channel_id": "UCDFCpzs71ziH52_FcL2eTNA",
+      "thumbnail": "https://i.ytimg.com/vi/0lqacLeyMcI/mqdefault.jpg",
+      "published_at": "2026-08-09T04:30:33Z",
+      "category_id": "20",
+      "views": 1597105,
+      "likes": 4287,
+      "comments": 0,
+      "age_hours": 2.1,
+      "views_per_hour": 751572,
+      "momentum": 5.908,
+      "url": "https://www.youtube.com/watch?v=0lqacLeyMcI",
+      "region": "IN",
+      "category": "Gaming",
+      "_detected_lang": "en"
+    },
+    {
+      "id": "CU9tbavgEKI",
+      "title": "Tom Holland Was the Only One Who Understood the Assignment",
+      "channel": "Heartsnreels",
+      "channel_id": "UCVNxnENGXoIVG15KDCiSk-g",
+      "thumbnail": "https://i.ytimg.com/vi/CU9tbavgEKI/mqdefault.jpg",
+      "published_at": "2026-08-08T12:17:18Z",
       "category_id": "24",
-      "views": 2777958,
-      "likes": 45165,
-      "comments": 107,
-      "age_hours": 3.3,
-      "views_per_hour": 831902,
-      "momentum": 6.115,
-      "url": "https://www.youtube.com/watch?v=lZfO5wnhOU4",
+      "views": 1684046,
+      "likes": 146185,
+      "comments": 2202,
+      "age_hours": 18.3,
+      "views_per_hour": 91801,
+      "momentum": 5.889,
+      "url": "https://www.youtube.com/watch?v=CU9tbavgEKI",
       "region": "US",
       "category": "Entertainment",
       "_detected_lang": "en"
@@ -3121,73 +3448,16 @@
       "thumbnail": "https://i.ytimg.com/vi/D-xhYklcM_w/mqdefault.jpg",
       "published_at": "2026-08-05T18:00:16Z",
       "category_id": "22",
-      "views": 47094257,
-      "likes": 517027,
-      "comments": 589,
-      "age_hours": 79.0,
-      "views_per_hour": 596487,
-      "momentum": 5.903,
+      "views": 48195041,
+      "likes": 529501,
+      "comments": 605,
+      "age_hours": 84.6,
+      "views_per_hour": 569475,
+      "momentum": 5.883,
       "url": "https://www.youtube.com/watch?v=D-xhYklcM_w",
       "region": "BR",
       "category": "People & Blogs",
       "_detected_lang": "en"
-    },
-    {
-      "id": "ZKV-6AzbKq4",
-      "title": "Copa Mundial de SINUCA no Minecraft! - Craft Games 353",
-      "channel": "Davi",
-      "channel_id": "UCtKndmEnQyqkhOQfpi5CgvQ",
-      "thumbnail": "https://i.ytimg.com/vi/ZKV-6AzbKq4/mqdefault.jpg",
-      "published_at": "2026-08-08T15:00:21Z",
-      "category_id": "20",
-      "views": 131043,
-      "likes": 23556,
-      "comments": 921,
-      "age_hours": 10.0,
-      "views_per_hour": 13169,
-      "momentum": 5.89,
-      "url": "https://www.youtube.com/watch?v=ZKV-6AzbKq4",
-      "region": "BR",
-      "category": "Gaming",
-      "_detected_lang": "pt"
-    },
-    {
-      "id": "0safa-gtIgQ",
-      "title": "Toxic Official Telugu Trailer | Rocking Star Yash | Geetu Mohandas | KVN | Monster Mind Creations",
-      "channel": "KVN PRODUCTIONS",
-      "channel_id": "UC3DOgauBYLQQXdH1siGjfpw",
-      "thumbnail": "https://i.ytimg.com/vi/0safa-gtIgQ/mqdefault.jpg",
-      "published_at": "2026-08-08T13:31:16Z",
-      "category_id": "1",
-      "views": 3547351,
-      "likes": 109170,
-      "comments": 3462,
-      "age_hours": 11.4,
-      "views_per_hour": 310238,
-      "momentum": 5.883,
-      "url": "https://www.youtube.com/watch?v=0safa-gtIgQ",
-      "region": "US",
-      "category": "Other",
-      "_detected_lang": "en"
-    },
-    {
-      "id": "v2EPD8B2U-s",
-      "title": "FIZERAM UM JOGO PRA MIM!!!",
-      "channel": "Ismael",
-      "channel_id": "UCLDBEDXQDUcchFUCZgMDRYg",
-      "thumbnail": "https://i.ytimg.com/vi/v2EPD8B2U-s/mqdefault.jpg",
-      "published_at": "2026-08-08T15:00:38Z",
-      "category_id": "22",
-      "views": 171712,
-      "likes": 27251,
-      "comments": 1184,
-      "age_hours": 9.9,
-      "views_per_hour": 17264,
-      "momentum": 5.874,
-      "url": "https://www.youtube.com/watch?v=v2EPD8B2U-s",
-      "region": "BR",
-      "category": "People & Blogs",
-      "_detected_lang": "pt"
     },
     {
       "id": "B6NVvtIz9_Q",
@@ -3197,35 +3467,16 @@
       "thumbnail": "https://i.ytimg.com/vi/B6NVvtIz9_Q/mqdefault.jpg",
       "published_at": "2026-08-02T06:30:07Z",
       "category_id": "23",
-      "views": 34578918,
-      "likes": 1501620,
-      "comments": 42637,
-      "age_hours": 162.5,
-      "views_per_hour": 212853,
-      "momentum": 5.857,
+      "views": 34655935,
+      "likes": 1504125,
+      "comments": 42678,
+      "age_hours": 168.1,
+      "views_per_hour": 206123,
+      "momentum": 5.841,
       "url": "https://www.youtube.com/watch?v=B6NVvtIz9_Q",
       "region": "IN",
       "category": "Comedy",
       "_detected_lang": "en"
-    },
-    {
-      "id": "cCn_D9PtXYs",
-      "title": "🚨Novo TEASER de Poppy Playtime com DATA e IMAGENS",
-      "channel": "Terrorizando",
-      "channel_id": "UCmF5w6pmvYfnMOqjQowgraA",
-      "thumbnail": "https://i.ytimg.com/vi/cCn_D9PtXYs/mqdefault.jpg",
-      "published_at": "2026-08-08T22:46:34Z",
-      "category_id": "20",
-      "views": 8022,
-      "likes": 1952,
-      "comments": 125,
-      "age_hours": 2.2,
-      "views_per_hour": 3678,
-      "momentum": 5.857,
-      "url": "https://www.youtube.com/watch?v=cCn_D9PtXYs",
-      "region": "BR",
-      "category": "Gaming",
-      "_detected_lang": "pt"
     },
     {
       "id": "qq76pQsI1iw",
@@ -3235,15 +3486,34 @@
       "thumbnail": "https://i.ytimg.com/vi/qq76pQsI1iw/mqdefault.jpg",
       "published_at": "2026-08-06T12:00:25Z",
       "category_id": "20",
-      "views": 3682271,
-      "likes": 290932,
-      "comments": 24615,
-      "age_hours": 60.9,
-      "views_per_hour": 60415,
-      "momentum": 5.856,
+      "views": 3722427,
+      "likes": 292707,
+      "comments": 24700,
+      "age_hours": 66.6,
+      "views_per_hour": 55870,
+      "momentum": 5.809,
       "url": "https://www.youtube.com/watch?v=qq76pQsI1iw",
       "region": "AU",
       "category": "Gaming",
+      "_detected_lang": "en"
+    },
+    {
+      "id": "0safa-gtIgQ",
+      "title": "Toxic Official Telugu Trailer | Rocking Star Yash | Geetu Mohandas | KVN | Monster Mind Creations",
+      "channel": "KVN PRODUCTIONS",
+      "channel_id": "UC3DOgauBYLQQXdH1siGjfpw",
+      "thumbnail": "https://i.ytimg.com/vi/0safa-gtIgQ/mqdefault.jpg",
+      "published_at": "2026-08-08T13:31:16Z",
+      "category_id": "1",
+      "views": 4746977,
+      "likes": 126371,
+      "comments": 4007,
+      "age_hours": 17.1,
+      "views_per_hour": 277412,
+      "momentum": 5.779,
+      "url": "https://www.youtube.com/watch?v=0safa-gtIgQ",
+      "region": "US",
+      "category": "Other",
       "_detected_lang": "en"
     },
     {
@@ -3254,72 +3524,72 @@
       "thumbnail": "https://i.ytimg.com/vi/0y5l6JruZys/mqdefault.jpg",
       "published_at": "2026-08-08T05:00:27Z",
       "category_id": "23",
-      "views": 3539265,
-      "likes": 189292,
-      "comments": 799,
-      "age_hours": 19.9,
-      "views_per_hour": 177425,
-      "momentum": 5.822,
+      "views": 4070951,
+      "likes": 221246,
+      "comments": 933,
+      "age_hours": 25.6,
+      "views_per_hour": 158864,
+      "momentum": 5.778,
       "url": "https://www.youtube.com/watch?v=0y5l6JruZys",
       "region": "US",
       "category": "Comedy",
       "_detected_lang": "en"
     },
     {
-      "id": "zTx7EJ6JqFs",
-      "title": "EU DESCOBRI DA PIOR FORMA QUE O MEU VIZINHO É UM SERIAL KILLER...",
-      "channel": "Jazzghost",
-      "channel_id": "UCIXguhHCl8eDTkXpEuiGPUA",
-      "thumbnail": "https://i.ytimg.com/vi/zTx7EJ6JqFs/mqdefault.jpg",
-      "published_at": "2026-08-08T15:00:36Z",
-      "category_id": "20",
-      "views": 725588,
-      "likes": 52874,
-      "comments": 3056,
-      "age_hours": 9.9,
-      "views_per_hour": 72945,
-      "momentum": 5.777,
-      "url": "https://www.youtube.com/watch?v=zTx7EJ6JqFs",
-      "region": "BR",
-      "category": "Gaming",
-      "_detected_lang": "pt"
-    },
-    {
-      "id": "8RRnODCp9GE",
-      "title": "ALORS ON DANSE",
-      "channel": "Lena Situations",
-      "channel_id": "UCDkl5M0WVaddTWE4rr2cSeA",
-      "thumbnail": "https://i.ytimg.com/vi/8RRnODCp9GE/mqdefault.jpg",
-      "published_at": "2026-08-08T18:49:37Z",
-      "category_id": "19",
-      "views": 342341,
-      "likes": 30252,
-      "comments": 1316,
-      "age_hours": 6.1,
-      "views_per_hour": 55856,
-      "momentum": 5.769,
-      "url": "https://www.youtube.com/watch?v=8RRnODCp9GE",
-      "region": "CA",
-      "category": "Other",
+      "id": "PMJIkcf4Gi4",
+      "title": "#rapper 🏫",
+      "channel": "punti993",
+      "channel_id": "UCVo0jSrlM0o1wiA9uuUyucQ",
+      "thumbnail": "https://i.ytimg.com/vi/PMJIkcf4Gi4/mqdefault.jpg",
+      "published_at": "2026-08-08T22:25:28Z",
+      "category_id": "23",
+      "views": 1205150,
+      "likes": 52713,
+      "comments": 2314,
+      "age_hours": 8.2,
+      "views_per_hour": 146799,
+      "momentum": 5.718,
+      "url": "https://www.youtube.com/watch?v=PMJIkcf4Gi4",
+      "region": "AU",
+      "category": "Comedy",
       "_detected_lang": "en"
     },
     {
-      "id": "qKw2Aajjkk0",
-      "title": "#Video | बाबा के नयनवा | Power Star #Pawan Singh | Baba Ke Nayanawa | New Bhojpuri Bolbam Song 2026",
-      "channel": "Maa Amma Films Bhakti",
-      "channel_id": "UCrY7iSPPkDddw2tBOXBUIUw",
-      "thumbnail": "https://i.ytimg.com/vi/qKw2Aajjkk0/mqdefault.jpg",
-      "published_at": "2026-08-07T04:15:26Z",
-      "category_id": "10",
-      "views": 1303009,
-      "likes": 108938,
-      "comments": 15203,
-      "age_hours": 44.7,
-      "views_per_hour": 29151,
-      "momentum": 5.732,
-      "url": "https://www.youtube.com/watch?v=qKw2Aajjkk0",
+      "id": "lZfO5wnhOU4",
+      "title": "KAI X SPEED MINECRAFT MARATHON BEATING ALL BOSSES *HARDCORE* DAY 1 PART 2",
+      "channel": "Kai Cenat Live",
+      "channel_id": "UCvCfpQXRXdJdL07pzTIA6Cw",
+      "thumbnail": "https://i.ytimg.com/vi/lZfO5wnhOU4/mqdefault.jpg",
+      "published_at": "2026-08-08T21:36:58Z",
+      "category_id": "24",
+      "views": 2801948,
+      "likes": 45344,
+      "comments": 154,
+      "age_hours": 9.0,
+      "views_per_hour": 310753,
+      "momentum": 5.673,
+      "url": "https://www.youtube.com/watch?v=lZfO5wnhOU4",
+      "region": "US",
+      "category": "Entertainment",
+      "_detected_lang": "en"
+    },
+    {
+      "id": "5AiDOytJdh4",
+      "title": "Desi Vs Electric Bhutta fryer! Part 1 #shorts",
+      "channel": "Shreemani Tripathi",
+      "channel_id": "UCcl4x-1l61b4mI3HnnmoxOg",
+      "thumbnail": "https://i.ytimg.com/vi/5AiDOytJdh4/mqdefault.jpg",
+      "published_at": "2026-08-06T07:31:02Z",
+      "category_id": "24",
+      "views": 9733482,
+      "likes": 504781,
+      "comments": 513,
+      "age_hours": 71.1,
+      "views_per_hour": 136866,
+      "momentum": 5.672,
+      "url": "https://www.youtube.com/watch?v=5AiDOytJdh4",
       "region": "IN",
-      "category": "Other",
+      "category": "Entertainment",
       "_detected_lang": "en"
     },
     {
@@ -3330,14 +3600,52 @@
       "thumbnail": "https://i.ytimg.com/vi/2v6oAj3TBhw/mqdefault.jpg",
       "published_at": "2026-08-04T23:08:23Z",
       "category_id": "20",
-      "views": 15850297,
-      "likes": 677310,
-      "comments": 6194,
-      "age_hours": 97.8,
-      "views_per_hour": 162042,
-      "momentum": 5.675,
+      "views": 16472259,
+      "likes": 701943,
+      "comments": 6410,
+      "age_hours": 103.5,
+      "views_per_hour": 159163,
+      "momentum": 5.665,
       "url": "https://www.youtube.com/watch?v=2v6oAj3TBhw",
       "region": "US",
+      "category": "Gaming",
+      "_detected_lang": "en"
+    },
+    {
+      "id": "O-x2TpmHii0",
+      "title": "Link in my profile to get this product 💌✨",
+      "channel": "Tailored Need",
+      "channel_id": "UC68AK5t3y5eJbfAh65t5TNw",
+      "thumbnail": "https://i.ytimg.com/vi/O-x2TpmHii0/mqdefault.jpg",
+      "published_at": "2026-08-03T15:30:37Z",
+      "category_id": "22",
+      "views": 32828248,
+      "likes": 808289,
+      "comments": 8392,
+      "age_hours": 135.1,
+      "views_per_hour": 242951,
+      "momentum": 5.664,
+      "url": "https://www.youtube.com/watch?v=O-x2TpmHii0",
+      "region": "US",
+      "category": "People & Blogs",
+      "_detected_lang": "en"
+    },
+    {
+      "id": "YbsmhaNcTZQ",
+      "title": "Can You S+ Rank Both RE2R Scenarios at the Same Time?",
+      "channel": "ZERO",
+      "channel_id": "UC99yWHU23j8wLdbQkAZ2d3Q",
+      "thumbnail": "https://i.ytimg.com/vi/YbsmhaNcTZQ/mqdefault.jpg",
+      "published_at": "2026-08-08T20:45:19Z",
+      "category_id": "20",
+      "views": 128880,
+      "likes": 14777,
+      "comments": 1853,
+      "age_hours": 9.9,
+      "views_per_hour": 13047,
+      "momentum": 5.651,
+      "url": "https://www.youtube.com/watch?v=YbsmhaNcTZQ",
+      "region": "GB",
       "category": "Gaming",
       "_detected_lang": "en"
     }
