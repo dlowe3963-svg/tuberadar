@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T00:43:06.661546+00:00",
+  "generated_at": "2026-08-23T06:23:44.482927+00:00",
   "regions": [
     "US",
     "GB",
@@ -40,22 +40,178 @@
     }
   ],
   "stats": {
-    "total_videos": 438,
+    "total_videos": 437,
     "total_topics": 18,
-    "total_themes": 3,
+    "total_themes": 5,
     "total_searches": 12,
     "by_category": {
-      "Other": 53,
-      "Gaming": 81,
-      "Science & Tech": 23,
-      "Entertainment": 103,
-      "Comedy": 15,
-      "People & Blogs": 133,
+      "Other": 50,
+      "Gaming": 76,
+      "People & Blogs": 141,
+      "Science & Tech": 24,
+      "Entertainment": 100,
+      "Comedy": 16,
       "Howto & Style": 23,
       "Education": 7
     }
   },
   "emerging_themes": [
+    {
+      "phrase": "gta5 gtav gaming",
+      "video_count": 30,
+      "channel_count": 30,
+      "total_channels_seen": 30,
+      "uploads_per_hour": 2.5,
+      "window_hours": 12,
+      "example_videos": [
+        {
+          "id": "DZc6FwCXM0Y",
+          "title": "I Reached Secret Second Flip World in GTA5 😱",
+          "channel": "PALNEX GAMING",
+          "channel_id": "UCAW5UulEtdDjXFRtUtSwiSw",
+          "subscribers": 1840,
+          "thumbnail": "https://i.ytimg.com/vi/DZc6FwCXM0Y/mqdefault.jpg",
+          "published_at": "2026-08-23T06:11:53Z",
+          "url": "https://www.youtube.com/watch?v=DZc6FwCXM0Y"
+        },
+        {
+          "id": "DPJ7chtr-Vs",
+          "title": "#GTA5 #GTAV #GTA5Gameplay #Gaming #viralgaming",
+          "channel": "YORIO PLAYS BD",
+          "channel_id": "UCiQarT6qSrTWakVvbbvUqfA",
+          "subscribers": 1190,
+          "thumbnail": "https://i.ytimg.com/vi/DPJ7chtr-Vs/mqdefault.jpg",
+          "published_at": "2026-08-23T05:57:43Z",
+          "url": "https://www.youtube.com/watch?v=DPJ7chtr-Vs"
+        },
+        {
+          "id": "CieATFBaqOM",
+          "title": "GTA V Spider-Man Betrays His Girlfriend?! 😱💔 But Saves Venom! 🕷️💚 #shorts",
+          "channel": "ZYNEX FF",
+          "channel_id": "UCdU_YubtUph3gKpzRBImRow",
+          "subscribers": 12200,
+          "thumbnail": "https://i.ytimg.com/vi/CieATFBaqOM/mqdefault.jpg",
+          "published_at": "2026-08-23T05:56:12Z",
+          "url": "https://www.youtube.com/watch?v=CieATFBaqOM"
+        },
+        {
+          "id": "XPprqY-LoyY",
+          "title": "GTA 5 live...!! Funny &amp; Epic Gameplay😱#gta5 #gtav #gaming",
+          "channel": "DUDU GAMING ",
+          "channel_id": "UCfwiyJY-7tqvcbC_E1i7iFA",
+          "subscribers": 33800,
+          "thumbnail": "https://i.ytimg.com/vi/XPprqY-LoyY/mqdefault.jpg",
+          "published_at": "2026-08-23T05:46:17Z",
+          "url": "https://www.youtube.com/watch?v=XPprqY-LoyY"
+        }
+      ],
+      "first_detected_at": "2026-08-23T06:23:44.482927+00:00",
+      "last_seen_at": "2026-08-23T06:23:44.482927+00:00"
+    },
+    {
+      "phrase": "live gta5 gtav",
+      "video_count": 30,
+      "channel_count": 30,
+      "total_channels_seen": 30,
+      "uploads_per_hour": 2.5,
+      "window_hours": 12,
+      "example_videos": [
+        {
+          "id": "eghgZjpm2gU",
+          "title": "GTA 5 LIVE #gtalive  #gtaonline  #gta5  #gtav  #gamin",
+          "channel": "AARISH GAMER",
+          "channel_id": "UCJZVJabJGficoKOLE9gPaOg",
+          "subscribers": 5030,
+          "thumbnail": "https://i.ytimg.com/vi/eghgZjpm2gU/mqdefault.jpg",
+          "published_at": "2026-08-23T06:21:46Z",
+          "url": "https://www.youtube.com/watch?v=eghgZjpm2gU"
+        },
+        {
+          "id": "qmfIDvKQc_w",
+          "title": "GTA 5 LIVE #gta5 #gtav #gaming",
+          "channel": "HHH Xtreme",
+          "channel_id": "UCLHeuCtkLv7gHRZfyh1rgjA",
+          "subscribers": 5570,
+          "thumbnail": "https://i.ytimg.com/vi/qmfIDvKQc_w/mqdefault.jpg",
+          "published_at": "2026-08-23T06:15:37Z",
+          "url": "https://www.youtube.com/watch?v=qmfIDvKQc_w"
+        },
+        {
+          "id": "UQWoK86CYWs",
+          "title": "🔴 GTA 5 LIVE – HULK 🟢 vs KING KONG 🦍 | THE ULTIMATE BATTLE! 💥😱 EP-028",
+          "channel": "PRINCE PLAYS ",
+          "channel_id": "UCpKvOlj0xyhjMZXfOSOfKxQ",
+          "subscribers": 75200,
+          "thumbnail": "https://i.ytimg.com/vi/UQWoK86CYWs/mqdefault_live.jpg",
+          "published_at": "2026-08-23T06:13:12Z",
+          "url": "https://www.youtube.com/watch?v=UQWoK86CYWs"
+        },
+        {
+          "id": "ajDPvayDSVU",
+          "title": "GTA 5 LIVE | Train vs 100 Luxury Cars 😱🔥 कौन बचेगा?",
+          "channel": "Sunil Gaming",
+          "channel_id": "UCzV2bxYY8F9Sb-I5RjC64JQ",
+          "subscribers": 536000,
+          "thumbnail": "https://i.ytimg.com/vi/ajDPvayDSVU/mqdefault_live.jpg",
+          "published_at": "2026-08-23T06:13:00Z",
+          "url": "https://www.youtube.com/watch?v=ajDPvayDSVU"
+        }
+      ],
+      "first_detected_at": "2026-08-23T06:23:44.482927+00:00",
+      "last_seen_at": "2026-08-23T06:23:44.482927+00:00"
+    },
+    {
+      "phrase": "live gta gameplay",
+      "video_count": 30,
+      "channel_count": 30,
+      "total_channels_seen": 30,
+      "uploads_per_hour": 2.5,
+      "window_hours": 12,
+      "example_videos": [
+        {
+          "id": "VLLh6FU_7b4",
+          "title": "bike crash #bikecrashing #live #ghost #funny #viral #shorts #gta #cartoon #popular #gaming #cargames",
+          "channel": "Aman Singh",
+          "channel_id": "UCdbuEcR_NsLVkuCe7pz3KsA",
+          "subscribers": 30,
+          "thumbnail": "https://i.ytimg.com/vi/VLLh6FU_7b4/mqdefault.jpg",
+          "published_at": "2026-08-23T06:19:33Z",
+          "url": "https://www.youtube.com/watch?v=VLLh6FU_7b4"
+        },
+        {
+          "id": "UQWoK86CYWs",
+          "title": "🔴 GTA 5 LIVE – HULK 🟢 vs KING KONG 🦍 | THE ULTIMATE BATTLE! 💥😱 EP-028",
+          "channel": "PRINCE PLAYS ",
+          "channel_id": "UCpKvOlj0xyhjMZXfOSOfKxQ",
+          "subscribers": 75200,
+          "thumbnail": "https://i.ytimg.com/vi/UQWoK86CYWs/mqdefault_live.jpg",
+          "published_at": "2026-08-23T06:13:12Z",
+          "url": "https://www.youtube.com/watch?v=UQWoK86CYWs"
+        },
+        {
+          "id": "ECwKXY-WIqo",
+          "title": "GTA Game 🎮 india Live #gta #Live #game",
+          "channel": "SHIVANSHU PATEL ",
+          "channel_id": "UC9FErRVIgxkOpEWze3Kb02Q",
+          "subscribers": 5530,
+          "thumbnail": "https://i.ytimg.com/vi/ECwKXY-WIqo/mqdefault.jpg",
+          "published_at": "2026-08-23T06:08:18Z",
+          "url": "https://www.youtube.com/watch?v=ECwKXY-WIqo"
+        },
+        {
+          "id": "2d1BuAa6AWY",
+          "title": "GTA 5 LIVE 🔴 | GTA V Story Mode Gameplay | Indian Gaming",
+          "channel": "Abhay Kamble",
+          "channel_id": "UCairHarmdGx0nDGQhEVz7jw",
+          "subscribers": 0,
+          "thumbnail": "https://i.ytimg.com/vi/2d1BuAa6AWY/mqdefault.jpg",
+          "published_at": "2026-08-23T06:07:56Z",
+          "url": "https://www.youtube.com/watch?v=2d1BuAa6AWY"
+        }
+      ],
+      "first_detected_at": "2026-08-23T06:23:44.482927+00:00",
+      "last_seen_at": "2026-08-23T06:23:44.482927+00:00"
+    },
     {
       "phrase": "shorts youtubeshorts cricket",
       "video_count": 30,
@@ -65,197 +221,221 @@
       "window_hours": 12,
       "example_videos": [
         {
-          "id": "5_C5pzrp7EU",
-          "title": "🚨 india vs pakistan cricket war 🔥#shorts #viratkohli",
-          "channel": "@cricwithshubh.1",
-          "channel_id": "UCbILe68LwcLqKOb-3gY6nMQ",
-          "subscribers": 5810,
-          "thumbnail": "https://i.ytimg.com/vi/5_C5pzrp7EU/mqdefault.jpg",
-          "published_at": "2026-08-23T00:34:10Z",
-          "url": "https://www.youtube.com/watch?v=5_C5pzrp7EU"
+          "id": "k3F0q1Lqhlk",
+          "title": "वनडे क्रिकेट इतिहास के  सभी रिकार्ड || one day cricket records #cricket​​ #oneday​​ #gk​​ #cricketre",
+          "channel": "Ankush gk video ",
+          "channel_id": "UCL8NxnZyY1mL-5Q4XBVt-Vw",
+          "subscribers": 1090,
+          "thumbnail": "https://i.ytimg.com/vi/k3F0q1Lqhlk/mqdefault.jpg",
+          "published_at": "2026-08-23T06:22:44Z",
+          "url": "https://www.youtube.com/watch?v=k3F0q1Lqhlk"
         },
         {
-          "id": "rZx6hVu3X8k",
-          "title": "4 months Baby watching cricket 🏏#cricket #ipl #viral #trending #shorts #youtubeshorts #baby #funny",
-          "channel": "SNG Family 💜",
-          "channel_id": "UCRWhvHkehm_J45LjBsg1y-A",
-          "subscribers": 48,
-          "thumbnail": "https://i.ytimg.com/vi/rZx6hVu3X8k/mqdefault.jpg",
-          "published_at": "2026-08-23T00:30:35Z",
-          "url": "https://www.youtube.com/watch?v=rZx6hVu3X8k"
+          "id": "5V5nfv0Ec9g",
+          "title": "Cricket unforgettable memories 🤔#shorts #youtubeshorts #viral #cricket #rohitsharma #ipl",
+          "channel": "Legend_Saurabh_shirshak",
+          "channel_id": "UCaKrnlVlG5-tGqJyhlvZ0kg",
+          "subscribers": 225,
+          "thumbnail": "https://i.ytimg.com/vi/5V5nfv0Ec9g/mqdefault.jpg",
+          "published_at": "2026-08-23T06:20:09Z",
+          "url": "https://www.youtube.com/watch?v=5V5nfv0Ec9g"
         },
         {
-          "id": "vJUqOju50zs",
-          "title": "LBW or NOT OUT 🤔🏏 #trending #viralshorts #cricket #youtubeshorts #india #ipl2026 #viratkohli",
-          "channel": "umakant dwivedi",
-          "channel_id": "UCCy7WZNm5SfQhz3ZxZ0yH4A",
-          "subscribers": 104000,
-          "thumbnail": "https://i.ytimg.com/vi/vJUqOju50zs/mqdefault.jpg",
-          "published_at": "2026-08-23T00:30:33Z",
-          "url": "https://www.youtube.com/watch?v=vJUqOju50zs"
+          "id": "OIvJ907PCLs",
+          "title": "Unbelievable Cricket Moment! 🏏🔥 The Ball Everyone Was Watching! #Shorts#youtubeshorts #viralshorts",
+          "channel": "Hasim Ali ",
+          "channel_id": "UCw68020ToxftrUQD62mIWjA",
+          "subscribers": 23,
+          "thumbnail": "https://i.ytimg.com/vi/OIvJ907PCLs/mqdefault.jpg",
+          "published_at": "2026-08-23T06:19:25Z",
+          "url": "https://www.youtube.com/watch?v=OIvJ907PCLs"
         },
         {
-          "id": "vmhqe8B3rrQ",
-          "title": "#anushkasharma #cricket #viratkohli #shortsfeed #youtubeshorts #viral #shorts #viratkholi #bollywood",
-          "channel": "Cric news",
-          "channel_id": "UC6_lvwQSHYAJeOsySdjrdEQ",
-          "subscribers": 228,
-          "thumbnail": "https://i.ytimg.com/vi/vmhqe8B3rrQ/mqdefault.jpg",
-          "published_at": "2026-08-23T00:27:52Z",
-          "url": "https://www.youtube.com/watch?v=vmhqe8B3rrQ"
+          "id": "Xvhr8yGRpKM",
+          "title": "Kl Rahul ka classic 6🔥#shorts #youtubeshorts# cricket",
+          "channel": "Shravan Information ",
+          "channel_id": "UCzD6aHgPIhLW47DbGJfNpgA",
+          "subscribers": 5,
+          "thumbnail": "https://i.ytimg.com/vi/Xvhr8yGRpKM/mqdefault.jpg",
+          "published_at": "2026-08-23T06:10:08Z",
+          "url": "https://www.youtube.com/watch?v=Xvhr8yGRpKM"
         }
       ],
       "first_detected_at": "2026-08-21T18:22:24.882988+00:00",
-      "last_seen_at": "2026-08-23T00:43:06.661546+00:00"
-    },
-    {
-      "phrase": "free fire",
-      "video_count": 28,
-      "channel_count": 27,
-      "total_channels_seen": 29,
-      "uploads_per_hour": 2.25,
-      "window_hours": 12,
-      "example_videos": [
-        {
-          "id": "Jr1AtGXVdzw",
-          "title": "những màn giao tranh đối đầu trong free fire #shorts #freefire #games",
-          "channel": "Gà Garena",
-          "channel_id": "UC2Iccup2vOA3O24vRWtrGQA",
-          "subscribers": 703,
-          "thumbnail": "https://i.ytimg.com/vi/Jr1AtGXVdzw/mqdefault.jpg",
-          "published_at": "2026-08-23T00:32:53Z",
-          "url": "https://www.youtube.com/watch?v=Jr1AtGXVdzw"
-        },
-        {
-          "id": "R5pvk_HOfM0",
-          "title": "FREE FIRE KA SAD 💔 SHORT AMIT BHAI OR PAGAL M10 BHAI OR ADITECH BHAI #shortsfeed",
-          "channel": "RABRAHUL1K",
-          "channel_id": "UCLWaQ80BNuYxhXDs1YhZGNw",
-          "subscribers": 18500,
-          "thumbnail": "https://i.ytimg.com/vi/R5pvk_HOfM0/mqdefault.jpg",
-          "published_at": "2026-08-23T00:30:39Z",
-          "url": "https://www.youtube.com/watch?v=R5pvk_HOfM0"
-        },
-        {
-          "id": "77IzJmT2xdI",
-          "title": "Udi Udi X Free Fire #freefire #song #shorts",
-          "channel": "  Tohid   H4X",
-          "channel_id": "UCJ3NWCGCEuQjGWOLSPA7Hug",
-          "subscribers": 459,
-          "thumbnail": "https://i.ytimg.com/vi/77IzJmT2xdI/mqdefault.jpg",
-          "published_at": "2026-08-23T00:30:35Z",
-          "url": "https://www.youtube.com/watch?v=77IzJmT2xdI"
-        },
-        {
-          "id": "FZ_5pmnbbXg",
-          "title": "Top Grandmaster player aaj ye kya bolne laga - Garena free fire max #shorts",
-          "channel": "Risky Playz",
-          "channel_id": "UCdJov4sLMXyLgCvTr1S6uXg",
-          "subscribers": 72900,
-          "thumbnail": "https://i.ytimg.com/vi/FZ_5pmnbbXg/mqdefault.jpg",
-          "published_at": "2026-08-23T00:30:27Z",
-          "url": "https://www.youtube.com/watch?v=FZ_5pmnbbXg"
-        }
-      ],
-      "first_detected_at": "2026-08-23T00:43:06.661546+00:00",
-      "last_seen_at": "2026-08-23T00:43:06.661546+00:00"
+      "last_seen_at": "2026-08-23T06:23:44.482927+00:00"
     },
     {
       "phrase": "surajactor shorts surajactor",
-      "video_count": 29,
-      "channel_count": 24,
-      "total_channels_seen": 25,
-      "uploads_per_hour": 2.0,
+      "video_count": 30,
+      "channel_count": 28,
+      "total_channels_seen": 28,
+      "uploads_per_hour": 2.33,
       "window_hours": 12,
       "example_videos": [
         {
-          "id": "hf1z6yD4n3Y",
-          "title": "Suprit ko mammy ne mara #short #surajactor",
-          "channel": "Masti with Manish",
-          "channel_id": "UCHoIIAR1KRQNLh5ciS3v7cA",
-          "subscribers": 25600,
-          "thumbnail": "https://i.ytimg.com/vi/hf1z6yD4n3Y/mqdefault.jpg",
-          "published_at": "2026-08-23T00:35:14Z",
-          "url": "https://www.youtube.com/watch?v=hf1z6yD4n3Y"
+          "id": "HxyPbcegiGs",
+          "title": "Surajactor new shorts bibi no. 1#surajactor",
+          "channel": "Sajid Khan0786",
+          "channel_id": "UCa21OoZzk9b9iuiLB80fUVw",
+          "subscribers": 1,
+          "thumbnail": "https://i.ytimg.com/vi/HxyPbcegiGs/mqdefault.jpg",
+          "published_at": "2026-08-23T05:56:56Z",
+          "url": "https://www.youtube.com/watch?v=HxyPbcegiGs"
         },
         {
-          "id": "3216rmR-e7Q",
-          "title": "New short video of our team with Suraj Actor// Vishal Rajput",
-          "channel": "ayodhya Yadav 9142",
-          "channel_id": "UCz00cwKYXRD47cotw-9FRDg",
-          "subscribers": 921,
-          "thumbnail": "https://i.ytimg.com/vi/3216rmR-e7Q/mqdefault.jpg",
-          "published_at": "2026-08-22T22:30:05Z",
-          "url": "https://www.youtube.com/watch?v=3216rmR-e7Q"
+          "id": "RgqcUFqh-SQ",
+          "title": "Surajactor new shorts #surajactor #comdeymemes #amazingmemes",
+          "channel": "babubhai",
+          "channel_id": "UCE9yIqPdjh3yBQF_zQUCoDg",
+          "subscribers": 2820,
+          "thumbnail": "https://i.ytimg.com/vi/RgqcUFqh-SQ/mqdefault.jpg",
+          "published_at": "2026-08-23T05:53:57Z",
+          "url": "https://www.youtube.com/watch?v=RgqcUFqh-SQ"
         },
         {
-          "id": "qJAKYSYEm14",
-          "title": "9760740789 #Shortsvideo #YouTube#shorts#video #trending #shortsvideo #surajactor",
-          "channel": "Rahul actor official",
-          "channel_id": "UCz5Kecd9OlLsLf-Tf0yRi6Q",
-          "subscribers": 2170,
-          "thumbnail": "https://i.ytimg.com/vi/qJAKYSYEm14/mqdefault.jpg",
-          "published_at": "2026-08-22T20:58:01Z",
-          "url": "https://www.youtube.com/watch?v=qJAKYSYEm14"
+          "id": "csN6fXRULEM",
+          "title": "Mahi manisha aparajita official | indian idol | priti #shorts #trending #surajactor #Ajeet0fficial",
+          "channel": "Ajeet Official",
+          "channel_id": "UCo-xz4RRW_2f1j5tLnhd1DA",
+          "subscribers": 22700,
+          "thumbnail": "https://i.ytimg.com/vi/csN6fXRULEM/mqdefault.jpg",
+          "published_at": "2026-08-23T05:43:26Z",
+          "url": "https://www.youtube.com/watch?v=csN6fXRULEM"
         },
         {
-          "id": "tLtaxI47mgQ",
-          "title": "Bibi no. 1 // surajactor new shorts #surajactor",
-          "channel": "IG LIVE RANI ",
-          "channel_id": "UCGTWXQRB48MER1ZsAoRE5Aw",
-          "subscribers": 46400,
-          "thumbnail": "https://i.ytimg.com/vi/tLtaxI47mgQ/mqdefault.jpg",
-          "published_at": "2026-08-22T17:45:14Z",
-          "url": "https://www.youtube.com/watch?v=tLtaxI47mgQ"
+          "id": "j2U3WITUfog",
+          "title": "😔 Tum hi aana || Suraj actor short video / #surajactor #shortfilm #video #love",
+          "channel": "Suraj Shorts",
+          "channel_id": "UCpWVg9msCTx7mR7t1JDaEew",
+          "subscribers": 80900,
+          "thumbnail": "https://i.ytimg.com/vi/j2U3WITUfog/mqdefault.jpg",
+          "published_at": "2026-08-23T05:36:28Z",
+          "url": "https://www.youtube.com/watch?v=j2U3WITUfog"
         }
       ],
       "first_detected_at": "2026-08-22T00:39:50.374114+00:00",
-      "last_seen_at": "2026-08-23T00:43:06.661546+00:00"
+      "last_seen_at": "2026-08-23T06:23:44.482927+00:00"
     }
   ],
   "topics": [
     {
-      "phrase": "minecraft",
-      "video_count": 6,
-      "momentum": 31.43,
+      "phrase": "gta5 gtav gaming",
+      "video_count": 4,
+      "momentum": 30.89,
       "regions": [
-        "US"
+        "IN"
       ],
       "lang": "en",
       "example_videos": [
         {
-          "id": "Ytm8WiQLNZA",
-          "title": "How I Destroyed an Entire Minecraft Civilization",
-          "channel": "Wemmbu",
-          "thumbnail": "https://i.ytimg.com/vi/Ytm8WiQLNZA/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=Ytm8WiQLNZA",
-          "views": 1994818,
-          "age_hours": 10.6
+          "id": "11xV5vVVLtM",
+          "title": "GTA 5 LIVE  #gta5 #gtav #gaming",
+          "channel": "PAJI IS LIVE",
+          "thumbnail": "https://i.ytimg.com/vi/11xV5vVVLtM/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=11xV5vVVLtM",
+          "views": 1155687,
+          "age_hours": 2.9
         },
         {
-          "id": "GEFXsy_tGnM",
-          "title": "MINECRAFT HARDCORE",
-          "channel": "Flamingo",
-          "thumbnail": "https://i.ytimg.com/vi/GEFXsy_tGnM/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=GEFXsy_tGnM",
-          "views": 482093,
-          "age_hours": 16.5
+          "id": "h2Qd8dwRcrA",
+          "title": "GTA 5 LIVE | MRRAJAPLAY #gtalive #gtaonline #gta5 #gtav #gaming",
+          "channel": "MR RAJA PLAYZONE",
+          "thumbnail": "https://i.ytimg.com/vi/h2Qd8dwRcrA/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=h2Qd8dwRcrA",
+          "views": 1843939,
+          "age_hours": 11.2
         },
         {
-          "id": "pzXDoKYxq40",
-          "title": "BOYS vs GIRLS Military Battle! (Minecraft)",
-          "channel": "Cash",
-          "thumbnail": "https://i.ytimg.com/vi/pzXDoKYxq40/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=pzXDoKYxq40",
-          "views": 342747,
-          "age_hours": 9.7
+          "id": "FCx69E9V-hA",
+          "title": "🔴GTA 5 LIVE 🔥#gta5 #gtav #gaming",
+          "channel": "ADITYAISLIVE",
+          "thumbnail": "https://i.ytimg.com/vi/FCx69E9V-hA/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=FCx69E9V-hA",
+          "views": 366664,
+          "age_hours": 5.1
+        }
+      ]
+    },
+    {
+      "phrase": "gta live",
+      "video_count": 4,
+      "momentum": 26.38,
+      "regions": [
+        "IN"
+      ],
+      "lang": "en",
+      "example_videos": [
+        {
+          "id": "11xV5vVVLtM",
+          "title": "GTA 5 LIVE  #gta5 #gtav #gaming",
+          "channel": "PAJI IS LIVE",
+          "thumbnail": "https://i.ytimg.com/vi/11xV5vVVLtM/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=11xV5vVVLtM",
+          "views": 1155687,
+          "age_hours": 2.9
+        },
+        {
+          "id": "-w8-TvDNv4Q",
+          "title": "🔴GTA 5 LIVE - DON'T BLINK! SECRET MOD ACTIVATED🤯  #gta5 #gta5live #gaming",
+          "channel": "RapterJOD",
+          "thumbnail": "https://i.ytimg.com/vi/-w8-TvDNv4Q/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=-w8-TvDNv4Q",
+          "views": 3302192,
+          "age_hours": 15.1
+        },
+        {
+          "id": "h2Qd8dwRcrA",
+          "title": "GTA 5 LIVE | MRRAJAPLAY #gtalive #gtaonline #gta5 #gtav #gaming",
+          "channel": "MR RAJA PLAYZONE",
+          "thumbnail": "https://i.ytimg.com/vi/h2Qd8dwRcrA/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=h2Qd8dwRcrA",
+          "views": 1843939,
+          "age_hours": 11.2
+        }
+      ]
+    },
+    {
+      "phrase": "gta5",
+      "video_count": 5,
+      "momentum": 25.94,
+      "regions": [
+        "IN"
+      ],
+      "lang": "en",
+      "example_videos": [
+        {
+          "id": "11xV5vVVLtM",
+          "title": "GTA 5 LIVE  #gta5 #gtav #gaming",
+          "channel": "PAJI IS LIVE",
+          "thumbnail": "https://i.ytimg.com/vi/11xV5vVVLtM/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=11xV5vVVLtM",
+          "views": 1155687,
+          "age_hours": 2.9
+        },
+        {
+          "id": "-w8-TvDNv4Q",
+          "title": "🔴GTA 5 LIVE - DON'T BLINK! SECRET MOD ACTIVATED🤯  #gta5 #gta5live #gaming",
+          "channel": "RapterJOD",
+          "thumbnail": "https://i.ytimg.com/vi/-w8-TvDNv4Q/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=-w8-TvDNv4Q",
+          "views": 3302192,
+          "age_hours": 15.1
+        },
+        {
+          "id": "h2Qd8dwRcrA",
+          "title": "GTA 5 LIVE | MRRAJAPLAY #gtalive #gtaonline #gta5 #gtav #gaming",
+          "channel": "MR RAJA PLAYZONE",
+          "thumbnail": "https://i.ytimg.com/vi/h2Qd8dwRcrA/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=h2Qd8dwRcrA",
+          "views": 1843939,
+          "age_hours": 11.2
         }
       ]
     },
     {
       "phrase": "official video",
       "video_count": 4,
-      "momentum": 22.49,
+      "momentum": 22.22,
       "regions": [
         "DE"
       ],
@@ -267,8 +447,8 @@
           "channel": "Sido",
           "thumbnail": "https://i.ytimg.com/vi/NBZ30B8VYqo/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=NBZ30B8VYqo",
-          "views": 998146,
-          "age_hours": 54.7
+          "views": 1017339,
+          "age_hours": 60.4
         },
         {
           "id": "getnHpYUxoM",
@@ -276,8 +456,8 @@
           "channel": "Saint Levant ",
           "thumbnail": "https://i.ytimg.com/vi/getnHpYUxoM/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=getnHpYUxoM",
-          "views": 876484,
-          "age_hours": 34.7
+          "views": 922256,
+          "age_hours": 40.4
         },
         {
           "id": "4UNk_J8TaYM",
@@ -285,15 +465,15 @@
           "channel": "Capital Bra",
           "thumbnail": "https://i.ytimg.com/vi/4UNk_J8TaYM/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=4UNk_J8TaYM",
-          "views": 323407,
-          "age_hours": 50.7
+          "views": 330240,
+          "age_hours": 56.4
         }
       ]
     },
     {
       "phrase": "comedy",
       "video_count": 5,
-      "momentum": 22.08,
+      "momentum": 21.93,
       "regions": [
         "DE"
       ],
@@ -305,8 +485,8 @@
           "channel": "Mette Kleinert",
           "thumbnail": "https://i.ytimg.com/vi/jCnJDOD-AzE/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=jCnJDOD-AzE",
-          "views": 1091598,
-          "age_hours": 107.9
+          "views": 1098911,
+          "age_hours": 113.6
         },
         {
           "id": "xyfZXLlb_DM",
@@ -314,8 +494,8 @@
           "channel": "Selina & Haroon",
           "thumbnail": "https://i.ytimg.com/vi/xyfZXLlb_DM/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=xyfZXLlb_DM",
-          "views": 1260650,
-          "age_hours": 77.7
+          "views": 1268815,
+          "age_hours": 83.4
         },
         {
           "id": "shH5sMF2XxE",
@@ -323,91 +503,91 @@
           "channel": "JeNiSP Comedy",
           "thumbnail": "https://i.ytimg.com/vi/shH5sMF2XxE/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=shH5sMF2XxE",
-          "views": 1088595,
-          "age_hours": 84.7
+          "views": 1093327,
+          "age_hours": 90.4
         }
       ]
     },
     {
-      "phrase": "humor",
+      "phrase": "minecraft",
       "video_count": 4,
-      "momentum": 19.1,
+      "momentum": 21.64,
       "regions": [
-        "BR"
-      ],
-      "lang": "pt",
-      "example_videos": [
-        {
-          "id": "i7BV3ZAF5yo",
-          "title": "ele largou o carrinho na descida kkkkk l #humor #engraçado #shorts",
-          "channel": "Tio Baldo",
-          "thumbnail": "https://i.ytimg.com/vi/i7BV3ZAF5yo/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=i7BV3ZAF5yo",
-          "views": 2457672,
-          "age_hours": 81.1
-        },
-        {
-          "id": "O2T1RYNQCWk",
-          "title": "Eita esse peixe é diferente... #humor #comedia #trollagens #casal #memes",
-          "channel": "Casal Chupa Cabra",
-          "thumbnail": "https://i.ytimg.com/vi/O2T1RYNQCWk/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=O2T1RYNQCWk",
-          "views": 2375905,
-          "age_hours": 54.1
-        },
-        {
-          "id": "J_sQ8NWsq7Q",
-          "title": "EU SOU O HOMEM-ARANHA #shortsbrasil #homemaranha #humor #crianças",
-          "channel": "Edu o Pimentinha e Família ",
-          "thumbnail": "https://i.ytimg.com/vi/J_sQ8NWsq7Q/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=J_sQ8NWsq7Q",
-          "views": 1307207,
-          "age_hours": 51.7
-        }
-      ]
-    },
-    {
-      "phrase": "free fire",
-      "video_count": 3,
-      "momentum": 18.25,
-      "regions": [
-        "IN"
+        "US"
       ],
       "lang": "en",
       "example_videos": [
         {
-          "id": "uB2KvjNkbKY",
-          "title": "🌿FREE FIRE LIVE🌿PLAYING BR-RANKED😎2X AWM SPEED GAME PLAY 🎮🎯 ON LIVE - GARENA FREE FIRE",
-          "channel": "DAD I AM OK GAMING",
-          "thumbnail": "https://i.ytimg.com/vi/uB2KvjNkbKY/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=uB2KvjNkbKY",
-          "views": 463122,
-          "age_hours": 3.7
+          "id": "Ytm8WiQLNZA",
+          "title": "How I Destroyed an Entire Minecraft Civilization",
+          "channel": "Wemmbu",
+          "thumbnail": "https://i.ytimg.com/vi/Ytm8WiQLNZA/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=Ytm8WiQLNZA",
+          "views": 2641773,
+          "age_hours": 16.3
         },
         {
-          "id": "jPD0RVIkgdg",
-          "title": "🔴[Live Free Fire New Rank Season Rank Push Live !!",
-          "channel": "VISHNU RAJPUT GAMING",
-          "thumbnail": "https://i.ytimg.com/vi/jPD0RVIkgdg/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=jPD0RVIkgdg",
-          "views": 443418,
-          "age_hours": 12.6
+          "id": "GEFXsy_tGnM",
+          "title": "MINECRAFT HARDCORE",
+          "channel": "Flamingo",
+          "thumbnail": "https://i.ytimg.com/vi/GEFXsy_tGnM/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=GEFXsy_tGnM",
+          "views": 595289,
+          "age_hours": 22.2
         },
         {
-          "id": "QXde2Yg53nA",
-          "title": "Scarlet Moon | Full Animation | Free Fire MAX",
-          "channel": "Free Fire India Official",
-          "thumbnail": "https://i.ytimg.com/vi/QXde2Yg53nA/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=QXde2Yg53nA",
-          "views": 1579858,
-          "age_hours": 50.5
+          "id": "pzXDoKYxq40",
+          "title": "BOYS vs GIRLS Military Battle! (Minecraft)",
+          "channel": "Cash",
+          "thumbnail": "https://i.ytimg.com/vi/pzXDoKYxq40/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=pzXDoKYxq40",
+          "views": 478539,
+          "age_hours": 15.4
+        }
+      ]
+    },
+    {
+      "phrase": "even",
+      "video_count": 4,
+      "momentum": 21.31,
+      "regions": [
+        "US"
+      ],
+      "lang": "en",
+      "example_videos": [
+        {
+          "id": "aMZDKcIFFSM",
+          "title": "GTA 6 Leak Situation Got Even Crazier",
+          "channel": "penguinz0",
+          "thumbnail": "https://i.ytimg.com/vi/aMZDKcIFFSM/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=aMZDKcIFFSM",
+          "views": 683558,
+          "age_hours": 5.1
+        },
+        {
+          "id": "AeQGdLtdB8Y",
+          "title": "Those high kicks are still clean even sped up #megan #yoonchae #sophia #katseye",
+          "channel": "WLRFH",
+          "thumbnail": "https://i.ytimg.com/vi/AeQGdLtdB8Y/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=AeQGdLtdB8Y",
+          "views": 6033777,
+          "age_hours": 41.3
+        },
+        {
+          "id": "-sXRndzahHw",
+          "title": "Well he didn’t even have the courage to do it in person so",
+          "channel": "Girlyycorre",
+          "thumbnail": "https://i.ytimg.com/vi/-sXRndzahHw/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=-sXRndzahHw",
+          "views": 1864328,
+          "age_hours": 51.1
         }
       ]
     },
     {
       "phrase": "shorts youtubeshorts cricket",
       "video_count": 2,
-      "momentum": 16.88,
+      "momentum": 16.8,
       "regions": [
         "IN"
       ],
@@ -419,8 +599,8 @@
           "channel": "Box Of Vengeance",
           "thumbnail": "https://i.ytimg.com/vi/x-BsuSv2DGo/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=x-BsuSv2DGo",
-          "views": 3394200,
-          "age_hours": 88.2
+          "views": 3483853,
+          "age_hours": 93.9
         },
         {
           "id": "1GebsCjUlCc",
@@ -428,15 +608,15 @@
           "channel": "Box Of Vengeance",
           "thumbnail": "https://i.ytimg.com/vi/1GebsCjUlCc/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=1GebsCjUlCc",
-          "views": 5386253,
-          "age_hours": 40.2
+          "views": 5564052,
+          "age_hours": 45.9
         }
       ]
     },
     {
       "phrase": "youtubeshorts cricket unboxing",
       "video_count": 2,
-      "momentum": 16.88,
+      "momentum": 16.8,
       "regions": [
         "IN"
       ],
@@ -448,8 +628,8 @@
           "channel": "Box Of Vengeance",
           "thumbnail": "https://i.ytimg.com/vi/x-BsuSv2DGo/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=x-BsuSv2DGo",
-          "views": 3394200,
-          "age_hours": 88.2
+          "views": 3483853,
+          "age_hours": 93.9
         },
         {
           "id": "1GebsCjUlCc",
@@ -457,15 +637,15 @@
           "channel": "Box Of Vengeance",
           "thumbnail": "https://i.ytimg.com/vi/1GebsCjUlCc/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=1GebsCjUlCc",
-          "views": 5386253,
-          "age_hours": 40.2
+          "views": 5564052,
+          "age_hours": 45.9
         }
       ]
     },
     {
       "phrase": "cricket unboxing ball",
       "video_count": 2,
-      "momentum": 16.88,
+      "momentum": 16.8,
       "regions": [
         "IN"
       ],
@@ -477,8 +657,8 @@
           "channel": "Box Of Vengeance",
           "thumbnail": "https://i.ytimg.com/vi/x-BsuSv2DGo/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=x-BsuSv2DGo",
-          "views": 3394200,
-          "age_hours": 88.2
+          "views": 3483853,
+          "age_hours": 93.9
         },
         {
           "id": "1GebsCjUlCc",
@@ -486,15 +666,15 @@
           "channel": "Box Of Vengeance",
           "thumbnail": "https://i.ytimg.com/vi/1GebsCjUlCc/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=1GebsCjUlCc",
-          "views": 5386253,
-          "age_hours": 40.2
+          "views": 5564052,
+          "age_hours": 45.9
         }
       ]
     },
     {
       "phrase": "unboxing ball funny",
       "video_count": 2,
-      "momentum": 16.88,
+      "momentum": 16.8,
       "regions": [
         "IN"
       ],
@@ -506,8 +686,8 @@
           "channel": "Box Of Vengeance",
           "thumbnail": "https://i.ytimg.com/vi/x-BsuSv2DGo/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=x-BsuSv2DGo",
-          "views": 3394200,
-          "age_hours": 88.2
+          "views": 3483853,
+          "age_hours": 93.9
         },
         {
           "id": "1GebsCjUlCc",
@@ -515,8 +695,95 @@
           "channel": "Box Of Vengeance",
           "thumbnail": "https://i.ytimg.com/vi/1GebsCjUlCc/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=1GebsCjUlCc",
-          "views": 5386253,
-          "age_hours": 40.2
+          "views": 5564052,
+          "age_hours": 45.9
+        }
+      ]
+    },
+    {
+      "phrase": "gta live gta5",
+      "video_count": 2,
+      "momentum": 15.83,
+      "regions": [
+        "IN"
+      ],
+      "lang": "en",
+      "example_videos": [
+        {
+          "id": "11xV5vVVLtM",
+          "title": "GTA 5 LIVE  #gta5 #gtav #gaming",
+          "channel": "PAJI IS LIVE",
+          "thumbnail": "https://i.ytimg.com/vi/11xV5vVVLtM/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=11xV5vVVLtM",
+          "views": 1155687,
+          "age_hours": 2.9
+        },
+        {
+          "id": "FCx69E9V-hA",
+          "title": "🔴GTA 5 LIVE 🔥#gta5 #gtav #gaming",
+          "channel": "ADITYAISLIVE",
+          "thumbnail": "https://i.ytimg.com/vi/FCx69E9V-hA/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=FCx69E9V-hA",
+          "views": 366664,
+          "age_hours": 5.1
+        }
+      ]
+    },
+    {
+      "phrase": "live gta5 gtav",
+      "video_count": 2,
+      "momentum": 15.83,
+      "regions": [
+        "IN"
+      ],
+      "lang": "en",
+      "example_videos": [
+        {
+          "id": "11xV5vVVLtM",
+          "title": "GTA 5 LIVE  #gta5 #gtav #gaming",
+          "channel": "PAJI IS LIVE",
+          "thumbnail": "https://i.ytimg.com/vi/11xV5vVVLtM/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=11xV5vVVLtM",
+          "views": 1155687,
+          "age_hours": 2.9
+        },
+        {
+          "id": "FCx69E9V-hA",
+          "title": "🔴GTA 5 LIVE 🔥#gta5 #gtav #gaming",
+          "channel": "ADITYAISLIVE",
+          "thumbnail": "https://i.ytimg.com/vi/FCx69E9V-hA/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=FCx69E9V-hA",
+          "views": 366664,
+          "age_hours": 5.1
+        }
+      ]
+    },
+    {
+      "phrase": "live gta gameplay",
+      "video_count": 2,
+      "momentum": 15.31,
+      "regions": [
+        "IN"
+      ],
+      "lang": "en",
+      "example_videos": [
+        {
+          "id": "5_64OqXhBRI",
+          "title": "🔴LIVE GTA 5 GAMEPLAY | RAAJOO GAMING",
+          "channel": "Raajoo Gaming",
+          "thumbnail": "https://i.ytimg.com/vi/5_64OqXhBRI/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=5_64OqXhBRI",
+          "views": 972047,
+          "age_hours": 4.4
+        },
+        {
+          "id": "y5eKalAEc9E",
+          "title": "🔴LIVE GTA 5 GAMEPLAY | #gta5 #gtav #gaming",
+          "channel": "SANGU IS LIVE",
+          "thumbnail": "https://i.ytimg.com/vi/y5eKalAEc9E/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=y5eKalAEc9E",
+          "views": 233615,
+          "age_hours": 3.9
         }
       ]
     },
@@ -535,8 +802,8 @@
           "channel": "Filmy Surraj",
           "thumbnail": "https://i.ytimg.com/vi/YVqvsDAi30k/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=YVqvsDAi30k",
-          "views": 19337273,
-          "age_hours": 202.2
+          "views": 19398438,
+          "age_hours": 207.9
         },
         {
           "id": "OIH8ibxkF4k",
@@ -544,15 +811,15 @@
           "channel": "Filmy Surraj",
           "thumbnail": "https://i.ytimg.com/vi/OIH8ibxkF4k/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=OIH8ibxkF4k",
-          "views": 5201664,
-          "age_hours": 107.5
+          "views": 5508569,
+          "age_hours": 113.2
         }
       ]
     },
     {
       "phrase": "vida pessoa usa",
       "video_count": 2,
-      "momentum": 15.07,
+      "momentum": 14.98,
       "regions": [
         "BR"
       ],
@@ -564,8 +831,8 @@
           "channel": "Victor Pac",
           "thumbnail": "https://i.ytimg.com/vi/YArNjRcWc2g/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=YArNjRcWc2g",
-          "views": 1880998,
-          "age_hours": 27.7
+          "views": 2136017,
+          "age_hours": 33.4
         },
         {
           "id": "6SNpV0NCfh0",
@@ -573,15 +840,15 @@
           "channel": "Victor Pac",
           "thumbnail": "https://i.ytimg.com/vi/6SNpV0NCfh0/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=6SNpV0NCfh0",
-          "views": 4770932,
-          "age_hours": 105.6
+          "views": 4947019,
+          "age_hours": 111.3
         }
       ]
     },
     {
       "phrase": "pessoa usa óculos",
       "video_count": 2,
-      "momentum": 15.07,
+      "momentum": 14.98,
       "regions": [
         "BR"
       ],
@@ -593,8 +860,8 @@
           "channel": "Victor Pac",
           "thumbnail": "https://i.ytimg.com/vi/YArNjRcWc2g/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=YArNjRcWc2g",
-          "views": 1880998,
-          "age_hours": 27.7
+          "views": 2136017,
+          "age_hours": 33.4
         },
         {
           "id": "6SNpV0NCfh0",
@@ -602,471 +869,48 @@
           "channel": "Victor Pac",
           "thumbnail": "https://i.ytimg.com/vi/6SNpV0NCfh0/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=6SNpV0NCfh0",
-          "views": 4770932,
-          "age_hours": 105.6
+          "views": 4947019,
+          "age_hours": 111.3
         }
       ]
     },
     {
-      "phrase": "antigas melhores",
-      "video_count": 3,
-      "momentum": 14.7,
+      "phrase": "alemã reage ao",
+      "video_count": 2,
+      "momentum": 14.11,
       "regions": [
         "BR"
       ],
       "lang": "pt",
       "example_videos": [
         {
-          "id": "wbzvd_cDtak",
-          "title": "PABLO 💖 SÓ AS ANTIGAS PLAYLIST 💝 ANTIGAS AS MELHORES",
-          "channel": "Coração Sertanejo",
-          "thumbnail": "https://i.ytimg.com/vi/wbzvd_cDtak/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=wbzvd_cDtak",
-          "views": 80352,
-          "age_hours": 1.0
+          "id": "xBwOX-8j-tU",
+          "title": "Alemã reage ao Spider Slack - Errei a privada",
+          "channel": "Alemã",
+          "thumbnail": "https://i.ytimg.com/vi/xBwOX-8j-tU/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=xBwOX-8j-tU",
+          "views": 1276992,
+          "age_hours": 30.4
         },
         {
-          "id": "pcPTDV4Acr8",
-          "title": "💿RAÇA NEGRA SÓ RECORDAÇÕES ANTIGAS AS MELHORES💿",
-          "channel": "Vortex Melody",
-          "thumbnail": "https://i.ytimg.com/vi/pcPTDV4Acr8/mqdefault_live.jpg",
-          "url": "https://www.youtube.com/watch?v=pcPTDV4Acr8",
-          "views": 33412,
-          "age_hours": 14.9
-        },
-        {
-          "id": "RKOLw92Njm8",
-          "title": "PABLO PLAYLIST 💖 SÓ AS ANTIGAS  💝 ANTIGAS AS MELHORES",
-          "channel": "Som da Rua",
-          "thumbnail": "https://i.ytimg.com/vi/RKOLw92Njm8/mqdefault_live.jpg",
-          "url": "https://www.youtube.com/watch?v=RKOLw92Njm8",
-          "views": 30273,
-          "age_hours": 23.8
-        }
-      ]
-    },
-    {
-      "phrase": "gta live",
-      "video_count": 2,
-      "momentum": 13.84,
-      "regions": [
-        "IN"
-      ],
-      "lang": "en",
-      "example_videos": [
-        {
-          "id": "-w8-TvDNv4Q",
-          "title": "🔴GTA 5 LIVE - DON'T BLINK! SECRET MOD ACTIVATED🤯  #gta5 #gta5live #gaming",
-          "channel": "RapterJOD",
-          "thumbnail": "https://i.ytimg.com/vi/-w8-TvDNv4Q/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=-w8-TvDNv4Q",
-          "views": 3301977,
-          "age_hours": 9.4
-        },
-        {
-          "id": "h2Qd8dwRcrA",
-          "title": "GTA 5 LIVE | MRRAJAPLAY #gtalive #gtaonline #gta5 #gtav #gaming",
-          "channel": "MR RAJA PLAYZONE",
-          "thumbnail": "https://i.ytimg.com/vi/h2Qd8dwRcrA/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=h2Qd8dwRcrA",
-          "views": 1843490,
-          "age_hours": 5.5
-        }
-      ]
-    },
-    {
-      "phrase": "challenge shorts",
-      "video_count": 2,
-      "momentum": 13.37,
-      "regions": [
-        "IN"
-      ],
-      "lang": "en",
-      "example_videos": [
-        {
-          "id": "A3LjuubxOEk",
-          "title": "Shanti vs Bhaiya! Electric cycle challenge #shorts",
-          "channel": "Shreemani Tripathi",
-          "thumbnail": "https://i.ytimg.com/vi/A3LjuubxOEk/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=A3LjuubxOEk",
-          "views": 2372458,
-          "age_hours": 16.9
-        },
-        {
-          "id": "oLJYXPJPd6k",
-          "title": "Blinkit Vs Instamart! Raincoat challenge #shorts",
-          "channel": "Shreemani Tripathi",
-          "thumbnail": "https://i.ytimg.com/vi/oLJYXPJPd6k/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=oLJYXPJPd6k",
-          "views": 18967117,
-          "age_hours": 185.9
-        }
-      ]
-    },
-    {
-      "phrase": "ao vivo",
-      "video_count": 3,
-      "momentum": 13.32,
-      "regions": [
-        "BR"
-      ],
-      "lang": "pt",
-      "example_videos": [
-        {
-          "id": "NCP1h364PQo",
-          "title": "🔴 FREE FIRE AO VIVO: FFWS BRASIL SPLIT 2 | RODADA 7",
-          "channel": "Free Fire Esports Brasil #FREEFIRE",
-          "thumbnail": "https://i.ytimg.com/vi/NCP1h364PQo/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=NCP1h364PQo",
-          "views": 368023,
-          "age_hours": 5.1
-        },
-        {
-          "id": "CbwqunFA89M",
-          "title": "Ninguém Me Rouba (Ao Vivo)",
-          "channel": "Panda - Topic",
-          "thumbnail": "https://i.ytimg.com/vi/CbwqunFA89M/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=CbwqunFA89M",
-          "views": 36302,
-          "age_hours": 48.7
-        },
-        {
-          "id": "S10jxeQRgEU",
-          "title": "Que Sorte A Nossa (Ao Vivo)",
-          "channel": "Matheus & Kauan - Topic",
-          "thumbnail": "https://i.ytimg.com/vi/S10jxeQRgEU/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=S10jxeQRgEU",
-          "views": 22671,
-          "age_hours": 86.6
-        }
-      ]
-    },
-    {
-      "phrase": "battle minecraft",
-      "video_count": 2,
-      "momentum": 12.05,
-      "regions": [
-        "US"
-      ],
-      "lang": "en",
-      "example_videos": [
-        {
-          "id": "pzXDoKYxq40",
-          "title": "BOYS vs GIRLS Military Battle! (Minecraft)",
-          "channel": "Cash",
-          "thumbnail": "https://i.ytimg.com/vi/pzXDoKYxq40/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=pzXDoKYxq40",
-          "views": 342747,
-          "age_hours": 9.7
-        },
-        {
-          "id": "Lx_jIEBFxek",
-          "title": "POOR vs RICH Cruise Battle in Minecraft!",
-          "channel": "PrestonPlayz",
-          "thumbnail": "https://i.ytimg.com/vi/Lx_jIEBFxek/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=Lx_jIEBFxek",
-          "views": 280206,
-          "age_hours": 10.5
-        }
-      ]
-    },
-    {
-      "phrase": "deu ruim",
-      "video_count": 2,
-      "momentum": 11.59,
-      "regions": [
-        "BR"
-      ],
-      "lang": "pt",
-      "example_videos": [
-        {
-          "id": "jvlpT-zf1_g",
-          "title": "ADIVINHANDO AS FALAS DO VOID *deu ruim",
-          "channel": "Katlenof",
-          "thumbnail": "https://i.ytimg.com/vi/jvlpT-zf1_g/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=jvlpT-zf1_g",
-          "views": 999066,
-          "age_hours": 8.9
-        },
-        {
-          "id": "DsN1CYMojYI",
-          "title": "Deu ruim essa pegadinha Parte 2 #pegadinha #errado #motovlog",
-          "channel": "Edu Vieira ",
-          "thumbnail": "https://i.ytimg.com/vi/DsN1CYMojYI/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=DsN1CYMojYI",
-          "views": 44004,
-          "age_hours": 36.3
+          "id": "n3nnPx11URo",
+          "title": "Alemã reage ao Paulinho99 - Como é a sua mochila 😂",
+          "channel": "Alemã",
+          "thumbnail": "https://i.ytimg.com/vi/n3nnPx11URo/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=n3nnPx11URo",
+          "views": 1533143,
+          "age_hours": 80.4
         }
       ]
     }
   ],
   "topics_by_region": {
-    "BR": [
-      {
-        "phrase": "humor",
-        "video_count": 4,
-        "momentum": 19.1,
-        "regions": [
-          "BR"
-        ],
-        "lang": "pt",
-        "example_videos": [
-          {
-            "id": "i7BV3ZAF5yo",
-            "title": "ele largou o carrinho na descida kkkkk l #humor #engraçado #shorts",
-            "channel": "Tio Baldo",
-            "thumbnail": "https://i.ytimg.com/vi/i7BV3ZAF5yo/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=i7BV3ZAF5yo",
-            "views": 2457672,
-            "age_hours": 81.1
-          },
-          {
-            "id": "O2T1RYNQCWk",
-            "title": "Eita esse peixe é diferente... #humor #comedia #trollagens #casal #memes",
-            "channel": "Casal Chupa Cabra",
-            "thumbnail": "https://i.ytimg.com/vi/O2T1RYNQCWk/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=O2T1RYNQCWk",
-            "views": 2375905,
-            "age_hours": 54.1
-          },
-          {
-            "id": "J_sQ8NWsq7Q",
-            "title": "EU SOU O HOMEM-ARANHA #shortsbrasil #homemaranha #humor #crianças",
-            "channel": "Edu o Pimentinha e Família ",
-            "thumbnail": "https://i.ytimg.com/vi/J_sQ8NWsq7Q/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=J_sQ8NWsq7Q",
-            "views": 1307207,
-            "age_hours": 51.7
-          }
-        ]
-      },
-      {
-        "phrase": "vida pessoa usa",
-        "video_count": 2,
-        "momentum": 15.07,
-        "regions": [
-          "BR"
-        ],
-        "lang": "pt",
-        "example_videos": [
-          {
-            "id": "YArNjRcWc2g",
-            "title": "A vida da pessoa que usa óculos😂",
-            "channel": "Victor Pac",
-            "thumbnail": "https://i.ytimg.com/vi/YArNjRcWc2g/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=YArNjRcWc2g",
-            "views": 1880998,
-            "age_hours": 27.7
-          },
-          {
-            "id": "6SNpV0NCfh0",
-            "title": "A vida da pessoa que usa óculos😂",
-            "channel": "Victor Pac",
-            "thumbnail": "https://i.ytimg.com/vi/6SNpV0NCfh0/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=6SNpV0NCfh0",
-            "views": 4770932,
-            "age_hours": 105.6
-          }
-        ]
-      },
-      {
-        "phrase": "pessoa usa óculos",
-        "video_count": 2,
-        "momentum": 15.07,
-        "regions": [
-          "BR"
-        ],
-        "lang": "pt",
-        "example_videos": [
-          {
-            "id": "YArNjRcWc2g",
-            "title": "A vida da pessoa que usa óculos😂",
-            "channel": "Victor Pac",
-            "thumbnail": "https://i.ytimg.com/vi/YArNjRcWc2g/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=YArNjRcWc2g",
-            "views": 1880998,
-            "age_hours": 27.7
-          },
-          {
-            "id": "6SNpV0NCfh0",
-            "title": "A vida da pessoa que usa óculos😂",
-            "channel": "Victor Pac",
-            "thumbnail": "https://i.ytimg.com/vi/6SNpV0NCfh0/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=6SNpV0NCfh0",
-            "views": 4770932,
-            "age_hours": 105.6
-          }
-        ]
-      },
-      {
-        "phrase": "antigas melhores",
-        "video_count": 3,
-        "momentum": 14.7,
-        "regions": [
-          "BR"
-        ],
-        "lang": "pt",
-        "example_videos": [
-          {
-            "id": "wbzvd_cDtak",
-            "title": "PABLO 💖 SÓ AS ANTIGAS PLAYLIST 💝 ANTIGAS AS MELHORES",
-            "channel": "Coração Sertanejo",
-            "thumbnail": "https://i.ytimg.com/vi/wbzvd_cDtak/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=wbzvd_cDtak",
-            "views": 80352,
-            "age_hours": 1.0
-          },
-          {
-            "id": "pcPTDV4Acr8",
-            "title": "💿RAÇA NEGRA SÓ RECORDAÇÕES ANTIGAS AS MELHORES💿",
-            "channel": "Vortex Melody",
-            "thumbnail": "https://i.ytimg.com/vi/pcPTDV4Acr8/mqdefault_live.jpg",
-            "url": "https://www.youtube.com/watch?v=pcPTDV4Acr8",
-            "views": 33412,
-            "age_hours": 14.9
-          },
-          {
-            "id": "RKOLw92Njm8",
-            "title": "PABLO PLAYLIST 💖 SÓ AS ANTIGAS  💝 ANTIGAS AS MELHORES",
-            "channel": "Som da Rua",
-            "thumbnail": "https://i.ytimg.com/vi/RKOLw92Njm8/mqdefault_live.jpg",
-            "url": "https://www.youtube.com/watch?v=RKOLw92Njm8",
-            "views": 30273,
-            "age_hours": 23.8
-          }
-        ]
-      },
-      {
-        "phrase": "ao vivo",
-        "video_count": 3,
-        "momentum": 13.32,
-        "regions": [
-          "BR"
-        ],
-        "lang": "pt",
-        "example_videos": [
-          {
-            "id": "NCP1h364PQo",
-            "title": "🔴 FREE FIRE AO VIVO: FFWS BRASIL SPLIT 2 | RODADA 7",
-            "channel": "Free Fire Esports Brasil #FREEFIRE",
-            "thumbnail": "https://i.ytimg.com/vi/NCP1h364PQo/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=NCP1h364PQo",
-            "views": 368023,
-            "age_hours": 5.1
-          },
-          {
-            "id": "CbwqunFA89M",
-            "title": "Ninguém Me Rouba (Ao Vivo)",
-            "channel": "Panda - Topic",
-            "thumbnail": "https://i.ytimg.com/vi/CbwqunFA89M/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=CbwqunFA89M",
-            "views": 36302,
-            "age_hours": 48.7
-          },
-          {
-            "id": "S10jxeQRgEU",
-            "title": "Que Sorte A Nossa (Ao Vivo)",
-            "channel": "Matheus & Kauan - Topic",
-            "thumbnail": "https://i.ytimg.com/vi/S10jxeQRgEU/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=S10jxeQRgEU",
-            "views": 22671,
-            "age_hours": 86.6
-          }
-        ]
-      },
-      {
-        "phrase": "deu ruim",
-        "video_count": 2,
-        "momentum": 11.59,
-        "regions": [
-          "BR"
-        ],
-        "lang": "pt",
-        "example_videos": [
-          {
-            "id": "jvlpT-zf1_g",
-            "title": "ADIVINHANDO AS FALAS DO VOID *deu ruim",
-            "channel": "Katlenof",
-            "thumbnail": "https://i.ytimg.com/vi/jvlpT-zf1_g/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=jvlpT-zf1_g",
-            "views": 999066,
-            "age_hours": 8.9
-          },
-          {
-            "id": "DsN1CYMojYI",
-            "title": "Deu ruim essa pegadinha Parte 2 #pegadinha #errado #motovlog",
-            "channel": "Edu Vieira ",
-            "thumbnail": "https://i.ytimg.com/vi/DsN1CYMojYI/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=DsN1CYMojYI",
-            "views": 44004,
-            "age_hours": 36.3
-          }
-        ]
-      },
-      {
-        "phrase": "playlist antigas",
-        "video_count": 2,
-        "momentum": 10.31,
-        "regions": [
-          "BR"
-        ],
-        "lang": "pt",
-        "example_videos": [
-          {
-            "id": "wbzvd_cDtak",
-            "title": "PABLO 💖 SÓ AS ANTIGAS PLAYLIST 💝 ANTIGAS AS MELHORES",
-            "channel": "Coração Sertanejo",
-            "thumbnail": "https://i.ytimg.com/vi/wbzvd_cDtak/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=wbzvd_cDtak",
-            "views": 80352,
-            "age_hours": 1.0
-          },
-          {
-            "id": "RKOLw92Njm8",
-            "title": "PABLO PLAYLIST 💖 SÓ AS ANTIGAS  💝 ANTIGAS AS MELHORES",
-            "channel": "Som da Rua",
-            "thumbnail": "https://i.ytimg.com/vi/RKOLw92Njm8/mqdefault_live.jpg",
-            "url": "https://www.youtube.com/watch?v=RKOLw92Njm8",
-            "views": 30273,
-            "age_hours": 23.8
-          }
-        ]
-      },
-      {
-        "phrase": "lele jp",
-        "video_count": 2,
-        "momentum": 9.12,
-        "regions": [
-          "BR"
-        ],
-        "lang": "pt",
-        "example_videos": [
-          {
-            "id": "XJLMelLlO4M",
-            "title": "Set Boca de 09 / Mostra Esses Peito No Teto Solar - Ryan SP, Meno K, GP, Jvila, Lele JP, DJ Glenner",
-            "channel": "MC Ryan SP",
-            "thumbnail": "https://i.ytimg.com/vi/XJLMelLlO4M/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=XJLMelLlO4M",
-            "views": 173676,
-            "age_hours": 26.7
-          },
-          {
-            "id": "8XdV7mJYH64",
-            "title": "FAMOSO IMÃ - MC Lele JP, MC Poze do Rodo e MC Leozinho ZS (DJ Gordinho da VF)",
-            "channel": "01 DO FUNK ",
-            "thumbnail": "https://i.ytimg.com/vi/8XdV7mJYH64/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=8XdV7mJYH64",
-            "views": 12704,
-            "age_hours": 10.5
-          }
-        ]
-      }
-    ],
+    "CA": [],
     "US": [
       {
         "phrase": "minecraft",
-        "video_count": 6,
-        "momentum": 31.43,
+        "video_count": 4,
+        "momentum": 21.64,
         "regions": [
           "US"
         ],
@@ -1078,8 +922,8 @@
             "channel": "Wemmbu",
             "thumbnail": "https://i.ytimg.com/vi/Ytm8WiQLNZA/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=Ytm8WiQLNZA",
-            "views": 1994818,
-            "age_hours": 10.6
+            "views": 2641773,
+            "age_hours": 16.3
           },
           {
             "id": "GEFXsy_tGnM",
@@ -1087,8 +931,8 @@
             "channel": "Flamingo",
             "thumbnail": "https://i.ytimg.com/vi/GEFXsy_tGnM/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=GEFXsy_tGnM",
-            "views": 482093,
-            "age_hours": 16.5
+            "views": 595289,
+            "age_hours": 22.2
           },
           {
             "id": "pzXDoKYxq40",
@@ -1096,15 +940,53 @@
             "channel": "Cash",
             "thumbnail": "https://i.ytimg.com/vi/pzXDoKYxq40/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=pzXDoKYxq40",
-            "views": 342747,
-            "age_hours": 9.7
+            "views": 478539,
+            "age_hours": 15.4
+          }
+        ]
+      },
+      {
+        "phrase": "even",
+        "video_count": 4,
+        "momentum": 21.31,
+        "regions": [
+          "US"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "aMZDKcIFFSM",
+            "title": "GTA 6 Leak Situation Got Even Crazier",
+            "channel": "penguinz0",
+            "thumbnail": "https://i.ytimg.com/vi/aMZDKcIFFSM/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=aMZDKcIFFSM",
+            "views": 683558,
+            "age_hours": 5.1
+          },
+          {
+            "id": "AeQGdLtdB8Y",
+            "title": "Those high kicks are still clean even sped up #megan #yoonchae #sophia #katseye",
+            "channel": "WLRFH",
+            "thumbnail": "https://i.ytimg.com/vi/AeQGdLtdB8Y/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=AeQGdLtdB8Y",
+            "views": 6033777,
+            "age_hours": 41.3
+          },
+          {
+            "id": "-sXRndzahHw",
+            "title": "Well he didn’t even have the courage to do it in person so",
+            "channel": "Girlyycorre",
+            "thumbnail": "https://i.ytimg.com/vi/-sXRndzahHw/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=-sXRndzahHw",
+            "views": 1864328,
+            "age_hours": 51.1
           }
         ]
       },
       {
         "phrase": "battle minecraft",
         "video_count": 2,
-        "momentum": 12.05,
+        "momentum": 11.79,
         "regions": [
           "US"
         ],
@@ -1116,8 +998,8 @@
             "channel": "Cash",
             "thumbnail": "https://i.ytimg.com/vi/pzXDoKYxq40/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=pzXDoKYxq40",
-            "views": 342747,
-            "age_hours": 9.7
+            "views": 478539,
+            "age_hours": 15.4
           },
           {
             "id": "Lx_jIEBFxek",
@@ -1125,15 +1007,15 @@
             "channel": "PrestonPlayz",
             "thumbnail": "https://i.ytimg.com/vi/Lx_jIEBFxek/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=Lx_jIEBFxek",
-            "views": 280206,
-            "age_hours": 10.5
+            "views": 369323,
+            "age_hours": 16.1
           }
         ]
       },
       {
         "phrase": "avengers doomsday",
         "video_count": 2,
-        "momentum": 10.64,
+        "momentum": 10.51,
         "regions": [
           "US"
         ],
@@ -1145,8 +1027,8 @@
             "channel": "New Rockstars",
             "thumbnail": "https://i.ytimg.com/vi/TsFvYJ8fQh4/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=TsFvYJ8fQh4",
-            "views": 616166,
-            "age_hours": 49.4
+            "views": 632618,
+            "age_hours": 55.1
           },
           {
             "id": "6ZmMUn5bQCw",
@@ -1154,8 +1036,184 @@
             "channel": "Emergency Awesome",
             "thumbnail": "https://i.ytimg.com/vi/6ZmMUn5bQCw/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=6ZmMUn5bQCw",
-            "views": 208350,
-            "age_hours": 27.2
+            "views": 221545,
+            "age_hours": 32.9
+          }
+        ]
+      }
+    ],
+    "BR": [
+      {
+        "phrase": "vida pessoa usa",
+        "video_count": 2,
+        "momentum": 14.98,
+        "regions": [
+          "BR"
+        ],
+        "lang": "pt",
+        "example_videos": [
+          {
+            "id": "YArNjRcWc2g",
+            "title": "A vida da pessoa que usa óculos😂",
+            "channel": "Victor Pac",
+            "thumbnail": "https://i.ytimg.com/vi/YArNjRcWc2g/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=YArNjRcWc2g",
+            "views": 2136017,
+            "age_hours": 33.4
+          },
+          {
+            "id": "6SNpV0NCfh0",
+            "title": "A vida da pessoa que usa óculos😂",
+            "channel": "Victor Pac",
+            "thumbnail": "https://i.ytimg.com/vi/6SNpV0NCfh0/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=6SNpV0NCfh0",
+            "views": 4947019,
+            "age_hours": 111.3
+          }
+        ]
+      },
+      {
+        "phrase": "pessoa usa óculos",
+        "video_count": 2,
+        "momentum": 14.98,
+        "regions": [
+          "BR"
+        ],
+        "lang": "pt",
+        "example_videos": [
+          {
+            "id": "YArNjRcWc2g",
+            "title": "A vida da pessoa que usa óculos😂",
+            "channel": "Victor Pac",
+            "thumbnail": "https://i.ytimg.com/vi/YArNjRcWc2g/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=YArNjRcWc2g",
+            "views": 2136017,
+            "age_hours": 33.4
+          },
+          {
+            "id": "6SNpV0NCfh0",
+            "title": "A vida da pessoa que usa óculos😂",
+            "channel": "Victor Pac",
+            "thumbnail": "https://i.ytimg.com/vi/6SNpV0NCfh0/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=6SNpV0NCfh0",
+            "views": 4947019,
+            "age_hours": 111.3
+          }
+        ]
+      },
+      {
+        "phrase": "alemã reage ao",
+        "video_count": 2,
+        "momentum": 14.11,
+        "regions": [
+          "BR"
+        ],
+        "lang": "pt",
+        "example_videos": [
+          {
+            "id": "xBwOX-8j-tU",
+            "title": "Alemã reage ao Spider Slack - Errei a privada",
+            "channel": "Alemã",
+            "thumbnail": "https://i.ytimg.com/vi/xBwOX-8j-tU/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=xBwOX-8j-tU",
+            "views": 1276992,
+            "age_hours": 30.4
+          },
+          {
+            "id": "n3nnPx11URo",
+            "title": "Alemã reage ao Paulinho99 - Como é a sua mochila 😂",
+            "channel": "Alemã",
+            "thumbnail": "https://i.ytimg.com/vi/n3nnPx11URo/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=n3nnPx11URo",
+            "views": 1533143,
+            "age_hours": 80.4
+          }
+        ]
+      },
+      {
+        "phrase": "deu ruim",
+        "video_count": 2,
+        "momentum": 11.42,
+        "regions": [
+          "BR"
+        ],
+        "lang": "pt",
+        "example_videos": [
+          {
+            "id": "jvlpT-zf1_g",
+            "title": "ADIVINHANDO AS FALAS DO VOID *deu ruim",
+            "channel": "Katlenof",
+            "thumbnail": "https://i.ytimg.com/vi/jvlpT-zf1_g/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=jvlpT-zf1_g",
+            "views": 1358084,
+            "age_hours": 14.6
+          },
+          {
+            "id": "DsN1CYMojYI",
+            "title": "Deu ruim essa pegadinha Parte 2 #pegadinha #errado #motovlog",
+            "channel": "Edu Vieira ",
+            "thumbnail": "https://i.ytimg.com/vi/DsN1CYMojYI/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=DsN1CYMojYI",
+            "views": 63132,
+            "age_hours": 42.0
+          }
+        ]
+      },
+      {
+        "phrase": "ao vivo",
+        "video_count": 2,
+        "momentum": 9.84,
+        "regions": [
+          "BR"
+        ],
+        "lang": "pt",
+        "example_videos": [
+          {
+            "id": "NCP1h364PQo",
+            "title": "🔴 FREE FIRE AO VIVO: FFWS BRASIL SPLIT 2 | RODADA 7",
+            "channel": "Free Fire Esports Brasil #FREEFIRE",
+            "thumbnail": "https://i.ytimg.com/vi/NCP1h364PQo/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=NCP1h364PQo",
+            "views": 377095,
+            "age_hours": 10.8
+          },
+          {
+            "id": "CbwqunFA89M",
+            "title": "Ninguém Me Rouba (Ao Vivo)",
+            "channel": "Panda - Topic",
+            "thumbnail": "https://i.ytimg.com/vi/CbwqunFA89M/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=CbwqunFA89M",
+            "views": 41891,
+            "age_hours": 54.4
+          }
+        ]
+      },
+      {
+        "phrase": "lele jp",
+        "video_count": 2,
+        "momentum": 9.1,
+        "regions": [
+          "BR"
+        ],
+        "lang": "pt",
+        "example_videos": [
+          {
+            "id": "XJLMelLlO4M",
+            "title": "Set Boca de 09 / Mostra Esses Peito No Teto Solar - Ryan SP, Meno K, GP, Jvila, Lele JP, DJ Glenner",
+            "channel": "MC Ryan SP",
+            "thumbnail": "https://i.ytimg.com/vi/XJLMelLlO4M/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=XJLMelLlO4M",
+            "views": 211220,
+            "age_hours": 32.4
+          },
+          {
+            "id": "8XdV7mJYH64",
+            "title": "FAMOSO IMÃ - MC Lele JP, MC Poze do Rodo e MC Leozinho ZS (DJ Gordinho da VF)",
+            "channel": "01 DO FUNK ",
+            "thumbnail": "https://i.ytimg.com/vi/8XdV7mJYH64/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=8XdV7mJYH64",
+            "views": 21215,
+            "age_hours": 16.2
           }
         ]
       }
@@ -1176,8 +1234,8 @@
             "channel": "Fun For Dayz 98",
             "thumbnail": "https://i.ytimg.com/vi/Fhej40Rc0h0/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=Fhej40Rc0h0",
-            "views": 1707996,
-            "age_hours": 81.7
+            "views": 1878796,
+            "age_hours": 87.4
           },
           {
             "id": "YImkMvhSL_M",
@@ -1185,15 +1243,15 @@
             "channel": "Natalie O'Neill",
             "thumbnail": "https://i.ytimg.com/vi/YImkMvhSL_M/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=YImkMvhSL_M",
-            "views": 144262,
-            "age_hours": 177.2
+            "views": 144295,
+            "age_hours": 182.9
           }
         ]
       },
       {
         "phrase": "home shopping",
         "video_count": 2,
-        "momentum": 9.11,
+        "momentum": 8.95,
         "regions": [
           "GB"
         ],
@@ -1205,8 +1263,8 @@
             "channel": "Gemma Louise Miles",
             "thumbnail": "https://i.ytimg.com/vi/oPvZ6crdiek/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=oPvZ6crdiek",
-            "views": 43062,
-            "age_hours": 17.5
+            "views": 46701,
+            "age_hours": 23.2
           },
           {
             "id": "czLW-CYMDz0",
@@ -1214,15 +1272,15 @@
             "channel": "livvy dimartino",
             "thumbnail": "https://i.ytimg.com/vi/czLW-CYMDz0/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=czLW-CYMDz0",
-            "views": 122583,
-            "age_hours": 127.1
+            "views": 123756,
+            "age_hours": 132.8
           }
         ]
       },
       {
         "phrase": "weekly vlog",
         "video_count": 2,
-        "momentum": 7.7,
+        "momentum": 7.62,
         "regions": [
           "GB"
         ],
@@ -1234,8 +1292,8 @@
             "channel": "livvy dimartino",
             "thumbnail": "https://i.ytimg.com/vi/czLW-CYMDz0/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=czLW-CYMDz0",
-            "views": 122583,
-            "age_hours": 127.1
+            "views": 123756,
+            "age_hours": 132.8
           },
           {
             "id": "rEI-aroYuD0",
@@ -1243,19 +1301,132 @@
             "channel": "Kane & Ieuan",
             "thumbnail": "https://i.ytimg.com/vi/rEI-aroYuD0/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=rEI-aroYuD0",
-            "views": 22762,
-            "age_hours": 55.7
+            "views": 23006,
+            "age_hours": 61.4
           }
         ]
       }
     ],
     "AU": [],
-    "CA": [],
     "IN": [
+      {
+        "phrase": "gta5 gtav gaming",
+        "video_count": 4,
+        "momentum": 30.89,
+        "regions": [
+          "IN"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "11xV5vVVLtM",
+            "title": "GTA 5 LIVE  #gta5 #gtav #gaming",
+            "channel": "PAJI IS LIVE",
+            "thumbnail": "https://i.ytimg.com/vi/11xV5vVVLtM/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=11xV5vVVLtM",
+            "views": 1155687,
+            "age_hours": 2.9
+          },
+          {
+            "id": "h2Qd8dwRcrA",
+            "title": "GTA 5 LIVE | MRRAJAPLAY #gtalive #gtaonline #gta5 #gtav #gaming",
+            "channel": "MR RAJA PLAYZONE",
+            "thumbnail": "https://i.ytimg.com/vi/h2Qd8dwRcrA/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=h2Qd8dwRcrA",
+            "views": 1843939,
+            "age_hours": 11.2
+          },
+          {
+            "id": "FCx69E9V-hA",
+            "title": "🔴GTA 5 LIVE 🔥#gta5 #gtav #gaming",
+            "channel": "ADITYAISLIVE",
+            "thumbnail": "https://i.ytimg.com/vi/FCx69E9V-hA/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=FCx69E9V-hA",
+            "views": 366664,
+            "age_hours": 5.1
+          }
+        ]
+      },
+      {
+        "phrase": "gta live",
+        "video_count": 4,
+        "momentum": 26.38,
+        "regions": [
+          "IN"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "11xV5vVVLtM",
+            "title": "GTA 5 LIVE  #gta5 #gtav #gaming",
+            "channel": "PAJI IS LIVE",
+            "thumbnail": "https://i.ytimg.com/vi/11xV5vVVLtM/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=11xV5vVVLtM",
+            "views": 1155687,
+            "age_hours": 2.9
+          },
+          {
+            "id": "-w8-TvDNv4Q",
+            "title": "🔴GTA 5 LIVE - DON'T BLINK! SECRET MOD ACTIVATED🤯  #gta5 #gta5live #gaming",
+            "channel": "RapterJOD",
+            "thumbnail": "https://i.ytimg.com/vi/-w8-TvDNv4Q/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=-w8-TvDNv4Q",
+            "views": 3302192,
+            "age_hours": 15.1
+          },
+          {
+            "id": "h2Qd8dwRcrA",
+            "title": "GTA 5 LIVE | MRRAJAPLAY #gtalive #gtaonline #gta5 #gtav #gaming",
+            "channel": "MR RAJA PLAYZONE",
+            "thumbnail": "https://i.ytimg.com/vi/h2Qd8dwRcrA/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=h2Qd8dwRcrA",
+            "views": 1843939,
+            "age_hours": 11.2
+          }
+        ]
+      },
+      {
+        "phrase": "gta5",
+        "video_count": 5,
+        "momentum": 25.94,
+        "regions": [
+          "IN"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "11xV5vVVLtM",
+            "title": "GTA 5 LIVE  #gta5 #gtav #gaming",
+            "channel": "PAJI IS LIVE",
+            "thumbnail": "https://i.ytimg.com/vi/11xV5vVVLtM/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=11xV5vVVLtM",
+            "views": 1155687,
+            "age_hours": 2.9
+          },
+          {
+            "id": "-w8-TvDNv4Q",
+            "title": "🔴GTA 5 LIVE - DON'T BLINK! SECRET MOD ACTIVATED🤯  #gta5 #gta5live #gaming",
+            "channel": "RapterJOD",
+            "thumbnail": "https://i.ytimg.com/vi/-w8-TvDNv4Q/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=-w8-TvDNv4Q",
+            "views": 3302192,
+            "age_hours": 15.1
+          },
+          {
+            "id": "h2Qd8dwRcrA",
+            "title": "GTA 5 LIVE | MRRAJAPLAY #gtalive #gtaonline #gta5 #gtav #gaming",
+            "channel": "MR RAJA PLAYZONE",
+            "thumbnail": "https://i.ytimg.com/vi/h2Qd8dwRcrA/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=h2Qd8dwRcrA",
+            "views": 1843939,
+            "age_hours": 11.2
+          }
+        ]
+      },
       {
         "phrase": "minecraft",
         "video_count": 4,
-        "momentum": 19.66,
+        "momentum": 19.4,
         "regions": [
           "IN"
         ],
@@ -1267,8 +1438,8 @@
             "channel": "ProBoiz 95",
             "thumbnail": "https://i.ytimg.com/vi/CN1JWY0fUbI/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=CN1JWY0fUbI",
-            "views": 2251097,
-            "age_hours": 33.9
+            "views": 2406445,
+            "age_hours": 39.5
           },
           {
             "id": "BGfIlIBAZ4Q",
@@ -1276,8 +1447,8 @@
             "channel": "SenpaiExtras",
             "thumbnail": "https://i.ytimg.com/vi/BGfIlIBAZ4Q/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=BGfIlIBAZ4Q",
-            "views": 535193,
-            "age_hours": 17.2
+            "views": 585554,
+            "age_hours": 22.9
           },
           {
             "id": "_HWIymu6mbI",
@@ -1285,53 +1456,15 @@
             "channel": "Karry Kraft",
             "thumbnail": "https://i.ytimg.com/vi/_HWIymu6mbI/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=_HWIymu6mbI",
-            "views": 458308,
-            "age_hours": 12.8
-          }
-        ]
-      },
-      {
-        "phrase": "free fire",
-        "video_count": 3,
-        "momentum": 18.25,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "uB2KvjNkbKY",
-            "title": "🌿FREE FIRE LIVE🌿PLAYING BR-RANKED😎2X AWM SPEED GAME PLAY 🎮🎯 ON LIVE - GARENA FREE FIRE",
-            "channel": "DAD I AM OK GAMING",
-            "thumbnail": "https://i.ytimg.com/vi/uB2KvjNkbKY/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=uB2KvjNkbKY",
-            "views": 463122,
-            "age_hours": 3.7
-          },
-          {
-            "id": "jPD0RVIkgdg",
-            "title": "🔴[Live Free Fire New Rank Season Rank Push Live !!",
-            "channel": "VISHNU RAJPUT GAMING",
-            "thumbnail": "https://i.ytimg.com/vi/jPD0RVIkgdg/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=jPD0RVIkgdg",
-            "views": 443418,
-            "age_hours": 12.6
-          },
-          {
-            "id": "QXde2Yg53nA",
-            "title": "Scarlet Moon | Full Animation | Free Fire MAX",
-            "channel": "Free Fire India Official",
-            "thumbnail": "https://i.ytimg.com/vi/QXde2Yg53nA/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=QXde2Yg53nA",
-            "views": 1579858,
-            "age_hours": 50.5
+            "views": 556313,
+            "age_hours": 18.5
           }
         ]
       },
       {
         "phrase": "shorts youtubeshorts cricket",
         "video_count": 2,
-        "momentum": 16.88,
+        "momentum": 16.8,
         "regions": [
           "IN"
         ],
@@ -1343,8 +1476,8 @@
             "channel": "Box Of Vengeance",
             "thumbnail": "https://i.ytimg.com/vi/x-BsuSv2DGo/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=x-BsuSv2DGo",
-            "views": 3394200,
-            "age_hours": 88.2
+            "views": 3483853,
+            "age_hours": 93.9
           },
           {
             "id": "1GebsCjUlCc",
@@ -1352,15 +1485,15 @@
             "channel": "Box Of Vengeance",
             "thumbnail": "https://i.ytimg.com/vi/1GebsCjUlCc/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=1GebsCjUlCc",
-            "views": 5386253,
-            "age_hours": 40.2
+            "views": 5564052,
+            "age_hours": 45.9
           }
         ]
       },
       {
         "phrase": "youtubeshorts cricket unboxing",
         "video_count": 2,
-        "momentum": 16.88,
+        "momentum": 16.8,
         "regions": [
           "IN"
         ],
@@ -1372,8 +1505,8 @@
             "channel": "Box Of Vengeance",
             "thumbnail": "https://i.ytimg.com/vi/x-BsuSv2DGo/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=x-BsuSv2DGo",
-            "views": 3394200,
-            "age_hours": 88.2
+            "views": 3483853,
+            "age_hours": 93.9
           },
           {
             "id": "1GebsCjUlCc",
@@ -1381,15 +1514,15 @@
             "channel": "Box Of Vengeance",
             "thumbnail": "https://i.ytimg.com/vi/1GebsCjUlCc/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=1GebsCjUlCc",
-            "views": 5386253,
-            "age_hours": 40.2
+            "views": 5564052,
+            "age_hours": 45.9
           }
         ]
       },
       {
         "phrase": "cricket unboxing ball",
         "video_count": 2,
-        "momentum": 16.88,
+        "momentum": 16.8,
         "regions": [
           "IN"
         ],
@@ -1401,8 +1534,8 @@
             "channel": "Box Of Vengeance",
             "thumbnail": "https://i.ytimg.com/vi/x-BsuSv2DGo/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=x-BsuSv2DGo",
-            "views": 3394200,
-            "age_hours": 88.2
+            "views": 3483853,
+            "age_hours": 93.9
           },
           {
             "id": "1GebsCjUlCc",
@@ -1410,15 +1543,15 @@
             "channel": "Box Of Vengeance",
             "thumbnail": "https://i.ytimg.com/vi/1GebsCjUlCc/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=1GebsCjUlCc",
-            "views": 5386253,
-            "age_hours": 40.2
+            "views": 5564052,
+            "age_hours": 45.9
           }
         ]
       },
       {
         "phrase": "unboxing ball funny",
         "video_count": 2,
-        "momentum": 16.88,
+        "momentum": 16.8,
         "regions": [
           "IN"
         ],
@@ -1430,8 +1563,8 @@
             "channel": "Box Of Vengeance",
             "thumbnail": "https://i.ytimg.com/vi/x-BsuSv2DGo/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=x-BsuSv2DGo",
-            "views": 3394200,
-            "age_hours": 88.2
+            "views": 3483853,
+            "age_hours": 93.9
           },
           {
             "id": "1GebsCjUlCc",
@@ -1439,8 +1572,95 @@
             "channel": "Box Of Vengeance",
             "thumbnail": "https://i.ytimg.com/vi/1GebsCjUlCc/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=1GebsCjUlCc",
-            "views": 5386253,
-            "age_hours": 40.2
+            "views": 5564052,
+            "age_hours": 45.9
+          }
+        ]
+      },
+      {
+        "phrase": "gta live gta5",
+        "video_count": 2,
+        "momentum": 15.83,
+        "regions": [
+          "IN"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "11xV5vVVLtM",
+            "title": "GTA 5 LIVE  #gta5 #gtav #gaming",
+            "channel": "PAJI IS LIVE",
+            "thumbnail": "https://i.ytimg.com/vi/11xV5vVVLtM/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=11xV5vVVLtM",
+            "views": 1155687,
+            "age_hours": 2.9
+          },
+          {
+            "id": "FCx69E9V-hA",
+            "title": "🔴GTA 5 LIVE 🔥#gta5 #gtav #gaming",
+            "channel": "ADITYAISLIVE",
+            "thumbnail": "https://i.ytimg.com/vi/FCx69E9V-hA/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=FCx69E9V-hA",
+            "views": 366664,
+            "age_hours": 5.1
+          }
+        ]
+      },
+      {
+        "phrase": "live gta5 gtav",
+        "video_count": 2,
+        "momentum": 15.83,
+        "regions": [
+          "IN"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "11xV5vVVLtM",
+            "title": "GTA 5 LIVE  #gta5 #gtav #gaming",
+            "channel": "PAJI IS LIVE",
+            "thumbnail": "https://i.ytimg.com/vi/11xV5vVVLtM/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=11xV5vVVLtM",
+            "views": 1155687,
+            "age_hours": 2.9
+          },
+          {
+            "id": "FCx69E9V-hA",
+            "title": "🔴GTA 5 LIVE 🔥#gta5 #gtav #gaming",
+            "channel": "ADITYAISLIVE",
+            "thumbnail": "https://i.ytimg.com/vi/FCx69E9V-hA/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=FCx69E9V-hA",
+            "views": 366664,
+            "age_hours": 5.1
+          }
+        ]
+      },
+      {
+        "phrase": "live gta gameplay",
+        "video_count": 2,
+        "momentum": 15.31,
+        "regions": [
+          "IN"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "5_64OqXhBRI",
+            "title": "🔴LIVE GTA 5 GAMEPLAY | RAAJOO GAMING",
+            "channel": "Raajoo Gaming",
+            "thumbnail": "https://i.ytimg.com/vi/5_64OqXhBRI/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=5_64OqXhBRI",
+            "views": 972047,
+            "age_hours": 4.4
+          },
+          {
+            "id": "y5eKalAEc9E",
+            "title": "🔴LIVE GTA 5 GAMEPLAY | #gta5 #gtav #gaming",
+            "channel": "SANGU IS LIVE",
+            "thumbnail": "https://i.ytimg.com/vi/y5eKalAEc9E/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=y5eKalAEc9E",
+            "views": 233615,
+            "age_hours": 3.9
           }
         ]
       },
@@ -1459,8 +1679,8 @@
             "channel": "Filmy Surraj",
             "thumbnail": "https://i.ytimg.com/vi/YVqvsDAi30k/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=YVqvsDAi30k",
-            "views": 19337273,
-            "age_hours": 202.2
+            "views": 19398438,
+            "age_hours": 207.9
           },
           {
             "id": "OIH8ibxkF4k",
@@ -1468,37 +1688,8 @@
             "channel": "Filmy Surraj",
             "thumbnail": "https://i.ytimg.com/vi/OIH8ibxkF4k/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=OIH8ibxkF4k",
-            "views": 5201664,
-            "age_hours": 107.5
-          }
-        ]
-      },
-      {
-        "phrase": "gta live",
-        "video_count": 2,
-        "momentum": 13.84,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "-w8-TvDNv4Q",
-            "title": "🔴GTA 5 LIVE - DON'T BLINK! SECRET MOD ACTIVATED🤯  #gta5 #gta5live #gaming",
-            "channel": "RapterJOD",
-            "thumbnail": "https://i.ytimg.com/vi/-w8-TvDNv4Q/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=-w8-TvDNv4Q",
-            "views": 3301977,
-            "age_hours": 9.4
-          },
-          {
-            "id": "h2Qd8dwRcrA",
-            "title": "GTA 5 LIVE | MRRAJAPLAY #gtalive #gtaonline #gta5 #gtav #gaming",
-            "channel": "MR RAJA PLAYZONE",
-            "thumbnail": "https://i.ytimg.com/vi/h2Qd8dwRcrA/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=h2Qd8dwRcrA",
-            "views": 1843490,
-            "age_hours": 5.5
+            "views": 5508569,
+            "age_hours": 113.2
           }
         ]
       },
@@ -1517,8 +1708,8 @@
             "channel": "Shreemani Tripathi",
             "thumbnail": "https://i.ytimg.com/vi/A3LjuubxOEk/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=A3LjuubxOEk",
-            "views": 2372458,
-            "age_hours": 16.9
+            "views": 2934358,
+            "age_hours": 22.6
           },
           {
             "id": "oLJYXPJPd6k",
@@ -1526,8 +1717,37 @@
             "channel": "Shreemani Tripathi",
             "thumbnail": "https://i.ytimg.com/vi/oLJYXPJPd6k/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=oLJYXPJPd6k",
-            "views": 18967117,
-            "age_hours": 185.9
+            "views": 19131385,
+            "age_hours": 191.6
+          }
+        ]
+      },
+      {
+        "phrase": "choo choo charles",
+        "video_count": 2,
+        "momentum": 12.68,
+        "regions": [
+          "IN"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "ogikDaeBaXQ",
+            "title": "PLAY REAL CHOO CHOO CHARLES GAME CHOTU PART 2 | CAN WE SAVE CHOTU #dhannoisfire",
+            "channel": "DHANNO IS FIRE ",
+            "thumbnail": "https://i.ytimg.com/vi/ogikDaeBaXQ/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=ogikDaeBaXQ",
+            "views": 188079,
+            "age_hours": 14.6
+          },
+          {
+            "id": "aktD6ppm0lQ",
+            "title": "CHOO - CHOO CHARLES HORROR GAMEPLAY 👹😱 ",
+            "channel": "MOSTIR DUNIYA",
+            "thumbnail": "https://i.ytimg.com/vi/aktD6ppm0lQ/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=aktD6ppm0lQ",
+            "views": 181087,
+            "age_hours": 18.8
           }
         ]
       }
@@ -1536,7 +1756,7 @@
       {
         "phrase": "official video",
         "video_count": 4,
-        "momentum": 22.49,
+        "momentum": 22.22,
         "regions": [
           "DE"
         ],
@@ -1548,8 +1768,8 @@
             "channel": "Sido",
             "thumbnail": "https://i.ytimg.com/vi/NBZ30B8VYqo/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=NBZ30B8VYqo",
-            "views": 998146,
-            "age_hours": 54.7
+            "views": 1017339,
+            "age_hours": 60.4
           },
           {
             "id": "getnHpYUxoM",
@@ -1557,8 +1777,8 @@
             "channel": "Saint Levant ",
             "thumbnail": "https://i.ytimg.com/vi/getnHpYUxoM/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=getnHpYUxoM",
-            "views": 876484,
-            "age_hours": 34.7
+            "views": 922256,
+            "age_hours": 40.4
           },
           {
             "id": "4UNk_J8TaYM",
@@ -1566,15 +1786,15 @@
             "channel": "Capital Bra",
             "thumbnail": "https://i.ytimg.com/vi/4UNk_J8TaYM/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=4UNk_J8TaYM",
-            "views": 323407,
-            "age_hours": 50.7
+            "views": 330240,
+            "age_hours": 56.4
           }
         ]
       },
       {
         "phrase": "comedy",
         "video_count": 5,
-        "momentum": 22.08,
+        "momentum": 21.93,
         "regions": [
           "DE"
         ],
@@ -1586,8 +1806,8 @@
             "channel": "Mette Kleinert",
             "thumbnail": "https://i.ytimg.com/vi/jCnJDOD-AzE/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=jCnJDOD-AzE",
-            "views": 1091598,
-            "age_hours": 107.9
+            "views": 1098911,
+            "age_hours": 113.6
           },
           {
             "id": "xyfZXLlb_DM",
@@ -1595,8 +1815,8 @@
             "channel": "Selina & Haroon",
             "thumbnail": "https://i.ytimg.com/vi/xyfZXLlb_DM/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=xyfZXLlb_DM",
-            "views": 1260650,
-            "age_hours": 77.7
+            "views": 1268815,
+            "age_hours": 83.4
           },
           {
             "id": "shH5sMF2XxE",
@@ -1604,17 +1824,207 @@
             "channel": "JeNiSP Comedy",
             "thumbnail": "https://i.ytimg.com/vi/shH5sMF2XxE/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=shH5sMF2XxE",
-            "views": 1088595,
-            "age_hours": 84.7
+            "views": 1093327,
+            "age_hours": 90.4
           }
         ]
       }
     ],
     "ALL": [
       {
+        "phrase": "gta5 gtav gaming",
+        "video_count": 4,
+        "momentum": 30.89,
+        "regions": [
+          "IN"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "11xV5vVVLtM",
+            "title": "GTA 5 LIVE  #gta5 #gtav #gaming",
+            "channel": "PAJI IS LIVE",
+            "thumbnail": "https://i.ytimg.com/vi/11xV5vVVLtM/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=11xV5vVVLtM",
+            "views": 1155687,
+            "age_hours": 2.9
+          },
+          {
+            "id": "h2Qd8dwRcrA",
+            "title": "GTA 5 LIVE | MRRAJAPLAY #gtalive #gtaonline #gta5 #gtav #gaming",
+            "channel": "MR RAJA PLAYZONE",
+            "thumbnail": "https://i.ytimg.com/vi/h2Qd8dwRcrA/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=h2Qd8dwRcrA",
+            "views": 1843939,
+            "age_hours": 11.2
+          },
+          {
+            "id": "FCx69E9V-hA",
+            "title": "🔴GTA 5 LIVE 🔥#gta5 #gtav #gaming",
+            "channel": "ADITYAISLIVE",
+            "thumbnail": "https://i.ytimg.com/vi/FCx69E9V-hA/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=FCx69E9V-hA",
+            "views": 366664,
+            "age_hours": 5.1
+          }
+        ]
+      },
+      {
+        "phrase": "gta live",
+        "video_count": 4,
+        "momentum": 26.38,
+        "regions": [
+          "IN"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "11xV5vVVLtM",
+            "title": "GTA 5 LIVE  #gta5 #gtav #gaming",
+            "channel": "PAJI IS LIVE",
+            "thumbnail": "https://i.ytimg.com/vi/11xV5vVVLtM/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=11xV5vVVLtM",
+            "views": 1155687,
+            "age_hours": 2.9
+          },
+          {
+            "id": "-w8-TvDNv4Q",
+            "title": "🔴GTA 5 LIVE - DON'T BLINK! SECRET MOD ACTIVATED🤯  #gta5 #gta5live #gaming",
+            "channel": "RapterJOD",
+            "thumbnail": "https://i.ytimg.com/vi/-w8-TvDNv4Q/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=-w8-TvDNv4Q",
+            "views": 3302192,
+            "age_hours": 15.1
+          },
+          {
+            "id": "h2Qd8dwRcrA",
+            "title": "GTA 5 LIVE | MRRAJAPLAY #gtalive #gtaonline #gta5 #gtav #gaming",
+            "channel": "MR RAJA PLAYZONE",
+            "thumbnail": "https://i.ytimg.com/vi/h2Qd8dwRcrA/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=h2Qd8dwRcrA",
+            "views": 1843939,
+            "age_hours": 11.2
+          }
+        ]
+      },
+      {
+        "phrase": "gta5",
+        "video_count": 5,
+        "momentum": 25.94,
+        "regions": [
+          "IN"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "11xV5vVVLtM",
+            "title": "GTA 5 LIVE  #gta5 #gtav #gaming",
+            "channel": "PAJI IS LIVE",
+            "thumbnail": "https://i.ytimg.com/vi/11xV5vVVLtM/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=11xV5vVVLtM",
+            "views": 1155687,
+            "age_hours": 2.9
+          },
+          {
+            "id": "-w8-TvDNv4Q",
+            "title": "🔴GTA 5 LIVE - DON'T BLINK! SECRET MOD ACTIVATED🤯  #gta5 #gta5live #gaming",
+            "channel": "RapterJOD",
+            "thumbnail": "https://i.ytimg.com/vi/-w8-TvDNv4Q/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=-w8-TvDNv4Q",
+            "views": 3302192,
+            "age_hours": 15.1
+          },
+          {
+            "id": "h2Qd8dwRcrA",
+            "title": "GTA 5 LIVE | MRRAJAPLAY #gtalive #gtaonline #gta5 #gtav #gaming",
+            "channel": "MR RAJA PLAYZONE",
+            "thumbnail": "https://i.ytimg.com/vi/h2Qd8dwRcrA/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=h2Qd8dwRcrA",
+            "views": 1843939,
+            "age_hours": 11.2
+          }
+        ]
+      },
+      {
+        "phrase": "official video",
+        "video_count": 4,
+        "momentum": 22.22,
+        "regions": [
+          "DE"
+        ],
+        "lang": "de",
+        "example_videos": [
+          {
+            "id": "NBZ30B8VYqo",
+            "title": "Sido - ISSA [Official Video]",
+            "channel": "Sido",
+            "thumbnail": "https://i.ytimg.com/vi/NBZ30B8VYqo/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=NBZ30B8VYqo",
+            "views": 1017339,
+            "age_hours": 60.4
+          },
+          {
+            "id": "getnHpYUxoM",
+            "title": "Saint Levant, Mohammed Assaf - MASKARA / مسكرة (Official Video)",
+            "channel": "Saint Levant ",
+            "thumbnail": "https://i.ytimg.com/vi/getnHpYUxoM/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=getnHpYUxoM",
+            "views": 922256,
+            "age_hours": 40.4
+          },
+          {
+            "id": "4UNk_J8TaYM",
+            "title": "CAPITAL BRA x SAMRA x LACAZETTE - BÖSE JUNGS [Official Video]",
+            "channel": "Capital Bra",
+            "thumbnail": "https://i.ytimg.com/vi/4UNk_J8TaYM/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=4UNk_J8TaYM",
+            "views": 330240,
+            "age_hours": 56.4
+          }
+        ]
+      },
+      {
+        "phrase": "comedy",
+        "video_count": 5,
+        "momentum": 21.93,
+        "regions": [
+          "DE"
+        ],
+        "lang": "de",
+        "example_videos": [
+          {
+            "id": "jCnJDOD-AzE",
+            "title": "Wie viel Geld war drin? 😂 # #comedy #lustig #viral #heftig #funny",
+            "channel": "Mette Kleinert",
+            "thumbnail": "https://i.ytimg.com/vi/jCnJDOD-AzE/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=jCnJDOD-AzE",
+            "views": 1098911,
+            "age_hours": 113.6
+          },
+          {
+            "id": "xyfZXLlb_DM",
+            "title": "Wer hat die bessere Pizza?🤔🍕 #selinaundharoon #comedy #couple #funny #beziehung #lustig #humor",
+            "channel": "Selina & Haroon",
+            "thumbnail": "https://i.ytimg.com/vi/xyfZXLlb_DM/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=xyfZXLlb_DM",
+            "views": 1268815,
+            "age_hours": 83.4
+          },
+          {
+            "id": "shH5sMF2XxE",
+            "title": "JeNiSP Comedy 😂 #shorts #short #JeNiSPComedy",
+            "channel": "JeNiSP Comedy",
+            "thumbnail": "https://i.ytimg.com/vi/shH5sMF2XxE/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=shH5sMF2XxE",
+            "views": 1093327,
+            "age_hours": 90.4
+          }
+        ]
+      },
+      {
         "phrase": "minecraft",
-        "video_count": 6,
-        "momentum": 31.43,
+        "video_count": 4,
+        "momentum": 21.64,
         "regions": [
           "US"
         ],
@@ -1626,8 +2036,8 @@
             "channel": "Wemmbu",
             "thumbnail": "https://i.ytimg.com/vi/Ytm8WiQLNZA/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=Ytm8WiQLNZA",
-            "views": 1994818,
-            "age_hours": 10.6
+            "views": 2641773,
+            "age_hours": 16.3
           },
           {
             "id": "GEFXsy_tGnM",
@@ -1635,8 +2045,8 @@
             "channel": "Flamingo",
             "thumbnail": "https://i.ytimg.com/vi/GEFXsy_tGnM/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=GEFXsy_tGnM",
-            "views": 482093,
-            "age_hours": 16.5
+            "views": 595289,
+            "age_hours": 22.2
           },
           {
             "id": "pzXDoKYxq40",
@@ -1644,167 +2054,53 @@
             "channel": "Cash",
             "thumbnail": "https://i.ytimg.com/vi/pzXDoKYxq40/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=pzXDoKYxq40",
-            "views": 342747,
-            "age_hours": 9.7
+            "views": 478539,
+            "age_hours": 15.4
           }
         ]
       },
       {
-        "phrase": "official video",
+        "phrase": "even",
         "video_count": 4,
-        "momentum": 22.49,
+        "momentum": 21.31,
         "regions": [
-          "DE"
-        ],
-        "lang": "de",
-        "example_videos": [
-          {
-            "id": "NBZ30B8VYqo",
-            "title": "Sido - ISSA [Official Video]",
-            "channel": "Sido",
-            "thumbnail": "https://i.ytimg.com/vi/NBZ30B8VYqo/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=NBZ30B8VYqo",
-            "views": 998146,
-            "age_hours": 54.7
-          },
-          {
-            "id": "getnHpYUxoM",
-            "title": "Saint Levant, Mohammed Assaf - MASKARA / مسكرة (Official Video)",
-            "channel": "Saint Levant ",
-            "thumbnail": "https://i.ytimg.com/vi/getnHpYUxoM/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=getnHpYUxoM",
-            "views": 876484,
-            "age_hours": 34.7
-          },
-          {
-            "id": "4UNk_J8TaYM",
-            "title": "CAPITAL BRA x SAMRA x LACAZETTE - BÖSE JUNGS [Official Video]",
-            "channel": "Capital Bra",
-            "thumbnail": "https://i.ytimg.com/vi/4UNk_J8TaYM/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=4UNk_J8TaYM",
-            "views": 323407,
-            "age_hours": 50.7
-          }
-        ]
-      },
-      {
-        "phrase": "comedy",
-        "video_count": 5,
-        "momentum": 22.08,
-        "regions": [
-          "DE"
-        ],
-        "lang": "de",
-        "example_videos": [
-          {
-            "id": "jCnJDOD-AzE",
-            "title": "Wie viel Geld war drin? 😂 # #comedy #lustig #viral #heftig #funny",
-            "channel": "Mette Kleinert",
-            "thumbnail": "https://i.ytimg.com/vi/jCnJDOD-AzE/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=jCnJDOD-AzE",
-            "views": 1091598,
-            "age_hours": 107.9
-          },
-          {
-            "id": "xyfZXLlb_DM",
-            "title": "Wer hat die bessere Pizza?🤔🍕 #selinaundharoon #comedy #couple #funny #beziehung #lustig #humor",
-            "channel": "Selina & Haroon",
-            "thumbnail": "https://i.ytimg.com/vi/xyfZXLlb_DM/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=xyfZXLlb_DM",
-            "views": 1260650,
-            "age_hours": 77.7
-          },
-          {
-            "id": "shH5sMF2XxE",
-            "title": "JeNiSP Comedy 😂 #shorts #short #JeNiSPComedy",
-            "channel": "JeNiSP Comedy",
-            "thumbnail": "https://i.ytimg.com/vi/shH5sMF2XxE/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=shH5sMF2XxE",
-            "views": 1088595,
-            "age_hours": 84.7
-          }
-        ]
-      },
-      {
-        "phrase": "humor",
-        "video_count": 4,
-        "momentum": 19.1,
-        "regions": [
-          "BR"
-        ],
-        "lang": "pt",
-        "example_videos": [
-          {
-            "id": "i7BV3ZAF5yo",
-            "title": "ele largou o carrinho na descida kkkkk l #humor #engraçado #shorts",
-            "channel": "Tio Baldo",
-            "thumbnail": "https://i.ytimg.com/vi/i7BV3ZAF5yo/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=i7BV3ZAF5yo",
-            "views": 2457672,
-            "age_hours": 81.1
-          },
-          {
-            "id": "O2T1RYNQCWk",
-            "title": "Eita esse peixe é diferente... #humor #comedia #trollagens #casal #memes",
-            "channel": "Casal Chupa Cabra",
-            "thumbnail": "https://i.ytimg.com/vi/O2T1RYNQCWk/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=O2T1RYNQCWk",
-            "views": 2375905,
-            "age_hours": 54.1
-          },
-          {
-            "id": "J_sQ8NWsq7Q",
-            "title": "EU SOU O HOMEM-ARANHA #shortsbrasil #homemaranha #humor #crianças",
-            "channel": "Edu o Pimentinha e Família ",
-            "thumbnail": "https://i.ytimg.com/vi/J_sQ8NWsq7Q/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=J_sQ8NWsq7Q",
-            "views": 1307207,
-            "age_hours": 51.7
-          }
-        ]
-      },
-      {
-        "phrase": "free fire",
-        "video_count": 3,
-        "momentum": 18.25,
-        "regions": [
-          "IN"
+          "US"
         ],
         "lang": "en",
         "example_videos": [
           {
-            "id": "uB2KvjNkbKY",
-            "title": "🌿FREE FIRE LIVE🌿PLAYING BR-RANKED😎2X AWM SPEED GAME PLAY 🎮🎯 ON LIVE - GARENA FREE FIRE",
-            "channel": "DAD I AM OK GAMING",
-            "thumbnail": "https://i.ytimg.com/vi/uB2KvjNkbKY/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=uB2KvjNkbKY",
-            "views": 463122,
-            "age_hours": 3.7
+            "id": "aMZDKcIFFSM",
+            "title": "GTA 6 Leak Situation Got Even Crazier",
+            "channel": "penguinz0",
+            "thumbnail": "https://i.ytimg.com/vi/aMZDKcIFFSM/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=aMZDKcIFFSM",
+            "views": 683558,
+            "age_hours": 5.1
           },
           {
-            "id": "jPD0RVIkgdg",
-            "title": "🔴[Live Free Fire New Rank Season Rank Push Live !!",
-            "channel": "VISHNU RAJPUT GAMING",
-            "thumbnail": "https://i.ytimg.com/vi/jPD0RVIkgdg/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=jPD0RVIkgdg",
-            "views": 443418,
-            "age_hours": 12.6
+            "id": "AeQGdLtdB8Y",
+            "title": "Those high kicks are still clean even sped up #megan #yoonchae #sophia #katseye",
+            "channel": "WLRFH",
+            "thumbnail": "https://i.ytimg.com/vi/AeQGdLtdB8Y/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=AeQGdLtdB8Y",
+            "views": 6033777,
+            "age_hours": 41.3
           },
           {
-            "id": "QXde2Yg53nA",
-            "title": "Scarlet Moon | Full Animation | Free Fire MAX",
-            "channel": "Free Fire India Official",
-            "thumbnail": "https://i.ytimg.com/vi/QXde2Yg53nA/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=QXde2Yg53nA",
-            "views": 1579858,
-            "age_hours": 50.5
+            "id": "-sXRndzahHw",
+            "title": "Well he didn’t even have the courage to do it in person so",
+            "channel": "Girlyycorre",
+            "thumbnail": "https://i.ytimg.com/vi/-sXRndzahHw/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=-sXRndzahHw",
+            "views": 1864328,
+            "age_hours": 51.1
           }
         ]
       },
       {
         "phrase": "shorts youtubeshorts cricket",
         "video_count": 2,
-        "momentum": 16.88,
+        "momentum": 16.8,
         "regions": [
           "IN"
         ],
@@ -1816,8 +2112,8 @@
             "channel": "Box Of Vengeance",
             "thumbnail": "https://i.ytimg.com/vi/x-BsuSv2DGo/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=x-BsuSv2DGo",
-            "views": 3394200,
-            "age_hours": 88.2
+            "views": 3483853,
+            "age_hours": 93.9
           },
           {
             "id": "1GebsCjUlCc",
@@ -1825,15 +2121,15 @@
             "channel": "Box Of Vengeance",
             "thumbnail": "https://i.ytimg.com/vi/1GebsCjUlCc/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=1GebsCjUlCc",
-            "views": 5386253,
-            "age_hours": 40.2
+            "views": 5564052,
+            "age_hours": 45.9
           }
         ]
       },
       {
         "phrase": "youtubeshorts cricket unboxing",
         "video_count": 2,
-        "momentum": 16.88,
+        "momentum": 16.8,
         "regions": [
           "IN"
         ],
@@ -1845,8 +2141,8 @@
             "channel": "Box Of Vengeance",
             "thumbnail": "https://i.ytimg.com/vi/x-BsuSv2DGo/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=x-BsuSv2DGo",
-            "views": 3394200,
-            "age_hours": 88.2
+            "views": 3483853,
+            "age_hours": 93.9
           },
           {
             "id": "1GebsCjUlCc",
@@ -1854,15 +2150,15 @@
             "channel": "Box Of Vengeance",
             "thumbnail": "https://i.ytimg.com/vi/1GebsCjUlCc/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=1GebsCjUlCc",
-            "views": 5386253,
-            "age_hours": 40.2
+            "views": 5564052,
+            "age_hours": 45.9
           }
         ]
       },
       {
         "phrase": "cricket unboxing ball",
         "video_count": 2,
-        "momentum": 16.88,
+        "momentum": 16.8,
         "regions": [
           "IN"
         ],
@@ -1874,8 +2170,8 @@
             "channel": "Box Of Vengeance",
             "thumbnail": "https://i.ytimg.com/vi/x-BsuSv2DGo/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=x-BsuSv2DGo",
-            "views": 3394200,
-            "age_hours": 88.2
+            "views": 3483853,
+            "age_hours": 93.9
           },
           {
             "id": "1GebsCjUlCc",
@@ -1883,15 +2179,15 @@
             "channel": "Box Of Vengeance",
             "thumbnail": "https://i.ytimg.com/vi/1GebsCjUlCc/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=1GebsCjUlCc",
-            "views": 5386253,
-            "age_hours": 40.2
+            "views": 5564052,
+            "age_hours": 45.9
           }
         ]
       },
       {
         "phrase": "unboxing ball funny",
         "video_count": 2,
-        "momentum": 16.88,
+        "momentum": 16.8,
         "regions": [
           "IN"
         ],
@@ -1903,8 +2199,8 @@
             "channel": "Box Of Vengeance",
             "thumbnail": "https://i.ytimg.com/vi/x-BsuSv2DGo/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=x-BsuSv2DGo",
-            "views": 3394200,
-            "age_hours": 88.2
+            "views": 3483853,
+            "age_hours": 93.9
           },
           {
             "id": "1GebsCjUlCc",
@@ -1912,8 +2208,95 @@
             "channel": "Box Of Vengeance",
             "thumbnail": "https://i.ytimg.com/vi/1GebsCjUlCc/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=1GebsCjUlCc",
-            "views": 5386253,
-            "age_hours": 40.2
+            "views": 5564052,
+            "age_hours": 45.9
+          }
+        ]
+      },
+      {
+        "phrase": "gta live gta5",
+        "video_count": 2,
+        "momentum": 15.83,
+        "regions": [
+          "IN"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "11xV5vVVLtM",
+            "title": "GTA 5 LIVE  #gta5 #gtav #gaming",
+            "channel": "PAJI IS LIVE",
+            "thumbnail": "https://i.ytimg.com/vi/11xV5vVVLtM/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=11xV5vVVLtM",
+            "views": 1155687,
+            "age_hours": 2.9
+          },
+          {
+            "id": "FCx69E9V-hA",
+            "title": "🔴GTA 5 LIVE 🔥#gta5 #gtav #gaming",
+            "channel": "ADITYAISLIVE",
+            "thumbnail": "https://i.ytimg.com/vi/FCx69E9V-hA/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=FCx69E9V-hA",
+            "views": 366664,
+            "age_hours": 5.1
+          }
+        ]
+      },
+      {
+        "phrase": "live gta5 gtav",
+        "video_count": 2,
+        "momentum": 15.83,
+        "regions": [
+          "IN"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "11xV5vVVLtM",
+            "title": "GTA 5 LIVE  #gta5 #gtav #gaming",
+            "channel": "PAJI IS LIVE",
+            "thumbnail": "https://i.ytimg.com/vi/11xV5vVVLtM/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=11xV5vVVLtM",
+            "views": 1155687,
+            "age_hours": 2.9
+          },
+          {
+            "id": "FCx69E9V-hA",
+            "title": "🔴GTA 5 LIVE 🔥#gta5 #gtav #gaming",
+            "channel": "ADITYAISLIVE",
+            "thumbnail": "https://i.ytimg.com/vi/FCx69E9V-hA/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=FCx69E9V-hA",
+            "views": 366664,
+            "age_hours": 5.1
+          }
+        ]
+      },
+      {
+        "phrase": "live gta gameplay",
+        "video_count": 2,
+        "momentum": 15.31,
+        "regions": [
+          "IN"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "5_64OqXhBRI",
+            "title": "🔴LIVE GTA 5 GAMEPLAY | RAAJOO GAMING",
+            "channel": "Raajoo Gaming",
+            "thumbnail": "https://i.ytimg.com/vi/5_64OqXhBRI/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=5_64OqXhBRI",
+            "views": 972047,
+            "age_hours": 4.4
+          },
+          {
+            "id": "y5eKalAEc9E",
+            "title": "🔴LIVE GTA 5 GAMEPLAY | #gta5 #gtav #gaming",
+            "channel": "SANGU IS LIVE",
+            "thumbnail": "https://i.ytimg.com/vi/y5eKalAEc9E/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=y5eKalAEc9E",
+            "views": 233615,
+            "age_hours": 3.9
           }
         ]
       },
@@ -1932,8 +2315,8 @@
             "channel": "Filmy Surraj",
             "thumbnail": "https://i.ytimg.com/vi/YVqvsDAi30k/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=YVqvsDAi30k",
-            "views": 19337273,
-            "age_hours": 202.2
+            "views": 19398438,
+            "age_hours": 207.9
           },
           {
             "id": "OIH8ibxkF4k",
@@ -1941,15 +2324,15 @@
             "channel": "Filmy Surraj",
             "thumbnail": "https://i.ytimg.com/vi/OIH8ibxkF4k/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=OIH8ibxkF4k",
-            "views": 5201664,
-            "age_hours": 107.5
+            "views": 5508569,
+            "age_hours": 113.2
           }
         ]
       },
       {
         "phrase": "vida pessoa usa",
         "video_count": 2,
-        "momentum": 15.07,
+        "momentum": 14.98,
         "regions": [
           "BR"
         ],
@@ -1961,8 +2344,8 @@
             "channel": "Victor Pac",
             "thumbnail": "https://i.ytimg.com/vi/YArNjRcWc2g/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=YArNjRcWc2g",
-            "views": 1880998,
-            "age_hours": 27.7
+            "views": 2136017,
+            "age_hours": 33.4
           },
           {
             "id": "6SNpV0NCfh0",
@@ -1970,15 +2353,15 @@
             "channel": "Victor Pac",
             "thumbnail": "https://i.ytimg.com/vi/6SNpV0NCfh0/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=6SNpV0NCfh0",
-            "views": 4770932,
-            "age_hours": 105.6
+            "views": 4947019,
+            "age_hours": 111.3
           }
         ]
       },
       {
         "phrase": "pessoa usa óculos",
         "video_count": 2,
-        "momentum": 15.07,
+        "momentum": 14.98,
         "regions": [
           "BR"
         ],
@@ -1990,8 +2373,8 @@
             "channel": "Victor Pac",
             "thumbnail": "https://i.ytimg.com/vi/YArNjRcWc2g/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=YArNjRcWc2g",
-            "views": 1880998,
-            "age_hours": 27.7
+            "views": 2136017,
+            "age_hours": 33.4
           },
           {
             "id": "6SNpV0NCfh0",
@@ -1999,200 +2382,37 @@
             "channel": "Victor Pac",
             "thumbnail": "https://i.ytimg.com/vi/6SNpV0NCfh0/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=6SNpV0NCfh0",
-            "views": 4770932,
-            "age_hours": 105.6
+            "views": 4947019,
+            "age_hours": 111.3
           }
         ]
       },
       {
-        "phrase": "antigas melhores",
-        "video_count": 3,
-        "momentum": 14.7,
+        "phrase": "alemã reage ao",
+        "video_count": 2,
+        "momentum": 14.11,
         "regions": [
           "BR"
         ],
         "lang": "pt",
         "example_videos": [
           {
-            "id": "wbzvd_cDtak",
-            "title": "PABLO 💖 SÓ AS ANTIGAS PLAYLIST 💝 ANTIGAS AS MELHORES",
-            "channel": "Coração Sertanejo",
-            "thumbnail": "https://i.ytimg.com/vi/wbzvd_cDtak/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=wbzvd_cDtak",
-            "views": 80352,
-            "age_hours": 1.0
+            "id": "xBwOX-8j-tU",
+            "title": "Alemã reage ao Spider Slack - Errei a privada",
+            "channel": "Alemã",
+            "thumbnail": "https://i.ytimg.com/vi/xBwOX-8j-tU/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=xBwOX-8j-tU",
+            "views": 1276992,
+            "age_hours": 30.4
           },
           {
-            "id": "pcPTDV4Acr8",
-            "title": "💿RAÇA NEGRA SÓ RECORDAÇÕES ANTIGAS AS MELHORES💿",
-            "channel": "Vortex Melody",
-            "thumbnail": "https://i.ytimg.com/vi/pcPTDV4Acr8/mqdefault_live.jpg",
-            "url": "https://www.youtube.com/watch?v=pcPTDV4Acr8",
-            "views": 33412,
-            "age_hours": 14.9
-          },
-          {
-            "id": "RKOLw92Njm8",
-            "title": "PABLO PLAYLIST 💖 SÓ AS ANTIGAS  💝 ANTIGAS AS MELHORES",
-            "channel": "Som da Rua",
-            "thumbnail": "https://i.ytimg.com/vi/RKOLw92Njm8/mqdefault_live.jpg",
-            "url": "https://www.youtube.com/watch?v=RKOLw92Njm8",
-            "views": 30273,
-            "age_hours": 23.8
-          }
-        ]
-      },
-      {
-        "phrase": "gta live",
-        "video_count": 2,
-        "momentum": 13.84,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "-w8-TvDNv4Q",
-            "title": "🔴GTA 5 LIVE - DON'T BLINK! SECRET MOD ACTIVATED🤯  #gta5 #gta5live #gaming",
-            "channel": "RapterJOD",
-            "thumbnail": "https://i.ytimg.com/vi/-w8-TvDNv4Q/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=-w8-TvDNv4Q",
-            "views": 3301977,
-            "age_hours": 9.4
-          },
-          {
-            "id": "h2Qd8dwRcrA",
-            "title": "GTA 5 LIVE | MRRAJAPLAY #gtalive #gtaonline #gta5 #gtav #gaming",
-            "channel": "MR RAJA PLAYZONE",
-            "thumbnail": "https://i.ytimg.com/vi/h2Qd8dwRcrA/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=h2Qd8dwRcrA",
-            "views": 1843490,
-            "age_hours": 5.5
-          }
-        ]
-      },
-      {
-        "phrase": "challenge shorts",
-        "video_count": 2,
-        "momentum": 13.37,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "A3LjuubxOEk",
-            "title": "Shanti vs Bhaiya! Electric cycle challenge #shorts",
-            "channel": "Shreemani Tripathi",
-            "thumbnail": "https://i.ytimg.com/vi/A3LjuubxOEk/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=A3LjuubxOEk",
-            "views": 2372458,
-            "age_hours": 16.9
-          },
-          {
-            "id": "oLJYXPJPd6k",
-            "title": "Blinkit Vs Instamart! Raincoat challenge #shorts",
-            "channel": "Shreemani Tripathi",
-            "thumbnail": "https://i.ytimg.com/vi/oLJYXPJPd6k/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=oLJYXPJPd6k",
-            "views": 18967117,
-            "age_hours": 185.9
-          }
-        ]
-      },
-      {
-        "phrase": "ao vivo",
-        "video_count": 3,
-        "momentum": 13.32,
-        "regions": [
-          "BR"
-        ],
-        "lang": "pt",
-        "example_videos": [
-          {
-            "id": "NCP1h364PQo",
-            "title": "🔴 FREE FIRE AO VIVO: FFWS BRASIL SPLIT 2 | RODADA 7",
-            "channel": "Free Fire Esports Brasil #FREEFIRE",
-            "thumbnail": "https://i.ytimg.com/vi/NCP1h364PQo/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=NCP1h364PQo",
-            "views": 368023,
-            "age_hours": 5.1
-          },
-          {
-            "id": "CbwqunFA89M",
-            "title": "Ninguém Me Rouba (Ao Vivo)",
-            "channel": "Panda - Topic",
-            "thumbnail": "https://i.ytimg.com/vi/CbwqunFA89M/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=CbwqunFA89M",
-            "views": 36302,
-            "age_hours": 48.7
-          },
-          {
-            "id": "S10jxeQRgEU",
-            "title": "Que Sorte A Nossa (Ao Vivo)",
-            "channel": "Matheus & Kauan - Topic",
-            "thumbnail": "https://i.ytimg.com/vi/S10jxeQRgEU/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=S10jxeQRgEU",
-            "views": 22671,
-            "age_hours": 86.6
-          }
-        ]
-      },
-      {
-        "phrase": "battle minecraft",
-        "video_count": 2,
-        "momentum": 12.05,
-        "regions": [
-          "US"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "pzXDoKYxq40",
-            "title": "BOYS vs GIRLS Military Battle! (Minecraft)",
-            "channel": "Cash",
-            "thumbnail": "https://i.ytimg.com/vi/pzXDoKYxq40/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=pzXDoKYxq40",
-            "views": 342747,
-            "age_hours": 9.7
-          },
-          {
-            "id": "Lx_jIEBFxek",
-            "title": "POOR vs RICH Cruise Battle in Minecraft!",
-            "channel": "PrestonPlayz",
-            "thumbnail": "https://i.ytimg.com/vi/Lx_jIEBFxek/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=Lx_jIEBFxek",
-            "views": 280206,
-            "age_hours": 10.5
-          }
-        ]
-      },
-      {
-        "phrase": "deu ruim",
-        "video_count": 2,
-        "momentum": 11.59,
-        "regions": [
-          "BR"
-        ],
-        "lang": "pt",
-        "example_videos": [
-          {
-            "id": "jvlpT-zf1_g",
-            "title": "ADIVINHANDO AS FALAS DO VOID *deu ruim",
-            "channel": "Katlenof",
-            "thumbnail": "https://i.ytimg.com/vi/jvlpT-zf1_g/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=jvlpT-zf1_g",
-            "views": 999066,
-            "age_hours": 8.9
-          },
-          {
-            "id": "DsN1CYMojYI",
-            "title": "Deu ruim essa pegadinha Parte 2 #pegadinha #errado #motovlog",
-            "channel": "Edu Vieira ",
-            "thumbnail": "https://i.ytimg.com/vi/DsN1CYMojYI/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=DsN1CYMojYI",
-            "views": 44004,
-            "age_hours": 36.3
+            "id": "n3nnPx11URo",
+            "title": "Alemã reage ao Paulinho99 - Como é a sua mochila 😂",
+            "channel": "Alemã",
+            "thumbnail": "https://i.ytimg.com/vi/n3nnPx11URo/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=n3nnPx11URo",
+            "views": 1533143,
+            "age_hours": 80.4
           }
         ]
       }
@@ -2200,109 +2420,128 @@
   },
   "trending_searches": [
     {
-      "phrase": "why do birds suddenly appear",
-      "prefix": "why do",
-      "rank": 1,
-      "first_seen_at": "2026-08-23T00:43:06.664164+00:00",
-      "is_new": true
-    },
-    {
-      "phrase": "why does he call you darling",
-      "prefix": "why does",
-      "rank": 1,
-      "first_seen_at": "2026-08-23T00:43:06.664164+00:00",
-      "is_new": true
-    },
-    {
-      "phrase": "best build 2k26",
-      "prefix": "best",
-      "rank": 1,
-      "first_seen_at": "2026-08-23T00:43:06.664164+00:00",
-      "is_new": true
-    },
-    {
-      "phrase": "topper guild",
-      "prefix": "top",
-      "rank": 1,
-      "first_seen_at": "2026-08-23T00:43:06.664164+00:00",
-      "is_new": true
-    },
-    {
-      "phrase": "is it a crime mariah the scientist",
-      "prefix": "is it",
-      "rank": 1,
-      "first_seen_at": "2026-08-23T00:43:06.664164+00:00",
-      "is_new": true
-    },
-    {
-      "phrase": "should i stay or should i go",
-      "prefix": "should i",
-      "rank": 1,
-      "first_seen_at": "2026-08-23T00:43:06.664164+00:00",
-      "is_new": true
-    },
-    {
-      "phrase": "can you stand the rain new edition",
-      "prefix": "can you",
-      "rank": 1,
-      "first_seen_at": "2026-08-23T00:43:06.664164+00:00",
-      "is_new": true
-    },
-    {
-      "phrase": "how to draw",
+      "phrase": "how to tie a tie",
       "prefix": "how to",
-      "rank": 2,
-      "first_seen_at": "2026-08-23T00:43:06.664164+00:00",
+      "rank": 1,
+      "first_seen_at": "2026-08-23T06:23:44.485691+00:00",
       "is_new": true
     },
     {
-      "phrase": "why don't we fall in love",
-      "prefix": "why do",
-      "rank": 2,
-      "first_seen_at": "2026-08-23T00:43:06.664164+00:00",
+      "phrase": "how do i say goodbye dean lewis",
+      "prefix": "how do",
+      "rank": 1,
+      "first_seen_at": "2026-08-23T06:23:44.485691+00:00",
       "is_new": true
     },
     {
-      "phrase": "why does it hurt so bad whitney houston",
+      "phrase": "how does it feel d'angelo",
+      "prefix": "how does",
+      "rank": 1,
+      "first_seen_at": "2026-08-23T06:23:44.485691+00:00",
+      "is_new": true
+    },
+    {
+      "phrase": "why is it spicy",
+      "prefix": "why is",
+      "rank": 1,
+      "first_seen_at": "2026-08-23T06:23:44.485691+00:00",
+      "is_new": true
+    },
+    {
+      "phrase": "what is this diddy blud doing on the calculator",
+      "prefix": "what is",
+      "rank": 1,
+      "first_seen_at": "2026-08-23T06:23:44.485691+00:00",
+      "is_new": true
+    },
+    {
+      "phrase": "what are you listening to chris stapleton",
+      "prefix": "what are",
+      "rank": 1,
+      "first_seen_at": "2026-08-23T06:23:44.485691+00:00",
+      "is_new": true
+    },
+    {
+      "phrase": "what happened to virgil",
+      "prefix": "what happened",
+      "rank": 1,
+      "first_seen_at": "2026-08-23T06:23:44.485691+00:00",
+      "is_new": true
+    },
+    {
+      "phrase": "worst way riley green",
+      "prefix": "worst",
+      "rank": 1,
+      "first_seen_at": "2026-08-23T06:23:44.485691+00:00",
+      "is_new": true
+    },
+    {
+      "phrase": "how does it feel",
+      "prefix": "how does",
+      "rank": 2,
+      "first_seen_at": "2026-08-23T06:23:44.485691+00:00",
+      "is_new": true
+    },
+    {
+      "phrase": "why is my bus driver playing mitski",
+      "prefix": "why is",
+      "rank": 2,
+      "first_seen_at": "2026-08-23T06:23:44.485691+00:00",
+      "is_new": true
+    },
+    {
+      "phrase": "why does it hurt to love you",
       "prefix": "why does",
       "rank": 2,
-      "first_seen_at": "2026-08-23T00:43:06.664164+00:00",
+      "first_seen_at": "2026-08-23T06:23:44.485691+00:00",
       "is_new": true
     },
     {
-      "phrase": "what is love",
-      "prefix": "what is",
-      "rank": 2,
-      "first_seen_at": "2026-08-23T00:43:06.664164+00:00",
-      "is_new": true
-    },
-    {
-      "phrase": "what are you doing",
+      "phrase": "what are those",
       "prefix": "what are",
       "rank": 2,
-      "first_seen_at": "2026-08-23T00:43:06.664164+00:00",
+      "first_seen_at": "2026-08-23T06:23:44.485691+00:00",
       "is_new": true
     }
   ],
   "breakout_videos": [
     {
-      "id": "fZoCEzumGi8",
-      "title": "M4rkim - IMPERADOR (Michael Kaiser)",
-      "channel": "M4rkim",
-      "channel_id": "UC8F_XIeG-FYJ8ezSB352MYg",
-      "thumbnail": "https://i.ytimg.com/vi/fZoCEzumGi8/mqdefault.jpg",
-      "published_at": "2026-08-22T21:00:06Z",
+      "id": "thHxtnJf9HA",
+      "title": "Stray Kids \"After You\" Video",
+      "channel": "Stray Kids",
+      "channel_id": "UC9rMiEjNaCSsebs31MRDCRA",
+      "thumbnail": "https://i.ytimg.com/vi/thHxtnJf9HA/mqdefault.jpg",
+      "published_at": "2026-08-23T02:00:00Z",
       "category_id": "10",
-      "views": 77183,
-      "likes": 23749,
-      "comments": 1562,
-      "age_hours": 3.7,
-      "views_per_hour": 20772,
-      "momentum": 7.848,
-      "url": "https://www.youtube.com/watch?v=fZoCEzumGi8",
-      "region": "BR",
+      "views": 252363,
+      "likes": 108678,
+      "comments": 9482,
+      "age_hours": 4.4,
+      "views_per_hour": 57444,
+      "momentum": 10.646,
+      "url": "https://www.youtube.com/watch?v=thHxtnJf9HA",
+      "region": "CA",
       "category": "Other",
-      "_detected_lang": "pt"
+      "_detected_lang": "en"
+    },
+    {
+      "id": "ZeiCK3sNCRo",
+      "title": "UPDATE 30 TEASER | Blox Fruits",
+      "channel": "Gamer Robot",
+      "channel_id": "UC_xlDCBWQPlihORIZLWtpbA",
+      "thumbnail": "https://i.ytimg.com/vi/ZeiCK3sNCRo/mqdefault.jpg",
+      "published_at": "2026-08-23T02:00:06Z",
+      "category_id": "20",
+      "views": 806675,
+      "likes": 83044,
+      "comments": 22750,
+      "age_hours": 4.4,
+      "views_per_hour": 183713,
+      "momentum": 7.833,
+      "url": "https://www.youtube.com/watch?v=ZeiCK3sNCRo",
+      "region": "US",
+      "category": "Gaming",
+      "_detected_lang": "en"
     },
     {
       "id": "Ytm8WiQLNZA",
@@ -2312,35 +2551,54 @@
       "thumbnail": "https://i.ytimg.com/vi/Ytm8WiQLNZA/mqdefault.jpg",
       "published_at": "2026-08-22T14:07:09Z",
       "category_id": "20",
-      "views": 1994818,
-      "likes": 191303,
-      "comments": 36162,
-      "age_hours": 10.6,
-      "views_per_hour": 188254,
-      "momentum": 7.243,
+      "views": 2641773,
+      "likes": 215181,
+      "comments": 38133,
+      "age_hours": 16.3,
+      "views_per_hour": 162336,
+      "momentum": 6.811,
       "url": "https://www.youtube.com/watch?v=Ytm8WiQLNZA",
       "region": "US",
       "category": "Gaming",
       "_detected_lang": "en"
     },
     {
-      "id": "zPf4c6SQ_sk",
-      "title": "Hermitcraft 11: Episode 26 - GRAND OPENING",
-      "channel": "Mumbo Jumbo",
-      "channel_id": "UChFur_NwVSbUozOcF_F2kMg",
-      "thumbnail": "https://i.ytimg.com/vi/zPf4c6SQ_sk/mqdefault.jpg",
-      "published_at": "2026-08-22T19:00:26Z",
-      "category_id": "20",
-      "views": 212537,
-      "likes": 30339,
-      "comments": 1823,
-      "age_hours": 5.7,
-      "views_per_hour": 37233,
-      "momentum": 6.268,
-      "url": "https://www.youtube.com/watch?v=zPf4c6SQ_sk",
-      "region": "US",
-      "category": "Gaming",
+      "id": "ttWkUQyq4J8",
+      "title": "GamerFleet  Ne Rula Diya 😭",
+      "channel": "Sourav Joshi Vlogs",
+      "channel_id": "UCjvgGbPPn-FgYeguc5nxG4A",
+      "thumbnail": "https://i.ytimg.com/vi/ttWkUQyq4J8/mqdefault.jpg",
+      "published_at": "2026-08-23T02:30:32Z",
+      "category_id": "22",
+      "views": 1428810,
+      "likes": 95926,
+      "comments": 3863,
+      "age_hours": 3.9,
+      "views_per_hour": 367832,
+      "momentum": 6.463,
+      "url": "https://www.youtube.com/watch?v=ttWkUQyq4J8",
+      "region": "CA",
+      "category": "People & Blogs",
       "_detected_lang": "en"
+    },
+    {
+      "id": "fZoCEzumGi8",
+      "title": "M4rkim - IMPERADOR (Michael Kaiser)",
+      "channel": "M4rkim",
+      "channel_id": "UC8F_XIeG-FYJ8ezSB352MYg",
+      "thumbnail": "https://i.ytimg.com/vi/fZoCEzumGi8/mqdefault.jpg",
+      "published_at": "2026-08-22T21:00:06Z",
+      "category_id": "10",
+      "views": 173109,
+      "likes": 31747,
+      "comments": 1869,
+      "age_hours": 9.4,
+      "views_per_hour": 18430,
+      "momentum": 6.291,
+      "url": "https://www.youtube.com/watch?v=fZoCEzumGi8",
+      "region": "BR",
+      "category": "Other",
+      "_detected_lang": "pt"
     },
     {
       "id": "GQoQkeMdvQM",
@@ -2350,34 +2608,15 @@
       "thumbnail": "https://i.ytimg.com/vi/GQoQkeMdvQM/mqdefault.jpg",
       "published_at": "2026-08-21T05:43:30Z",
       "category_id": "28",
-      "views": 995402,
-      "likes": 185677,
-      "comments": 6143,
-      "age_hours": 43.0,
-      "views_per_hour": 23154,
-      "momentum": 6.262,
+      "views": 1033390,
+      "likes": 191125,
+      "comments": 6393,
+      "age_hours": 48.7,
+      "views_per_hour": 21234,
+      "momentum": 6.195,
       "url": "https://www.youtube.com/watch?v=GQoQkeMdvQM",
       "region": "US",
       "category": "Science & Tech",
-      "_detected_lang": "en"
-    },
-    {
-      "id": "7Braqk651MA",
-      "title": "SML Movie: Jeffy's 22nd Birthday!",
-      "channel": "SML",
-      "channel_id": "UCnSWkrRWNQWNhDusoWr_HXQ",
-      "thumbnail": "https://i.ytimg.com/vi/7Braqk651MA/mqdefault.jpg",
-      "published_at": "2026-08-22T02:10:25Z",
-      "category_id": "24",
-      "views": 2840231,
-      "likes": 159035,
-      "comments": 32216,
-      "age_hours": 22.5,
-      "views_per_hour": 125996,
-      "momentum": 6.25,
-      "url": "https://www.youtube.com/watch?v=7Braqk651MA",
-      "region": "US",
-      "category": "Entertainment",
       "_detected_lang": "en"
     },
     {
@@ -2388,34 +2627,53 @@
       "thumbnail": "https://i.ytimg.com/vi/MT-4Bk1Lw8g/mqdefault.jpg",
       "published_at": "2026-08-21T14:58:07Z",
       "category_id": "10",
-      "views": 10478204,
-      "likes": 543387,
-      "comments": 29749,
-      "age_hours": 33.7,
-      "views_per_hour": 310493,
-      "momentum": 6.218,
+      "views": 12299978,
+      "likes": 562844,
+      "comments": 31716,
+      "age_hours": 39.4,
+      "views_per_hour": 311992,
+      "momentum": 6.139,
       "url": "https://www.youtube.com/watch?v=MT-4Bk1Lw8g",
       "region": "US",
       "category": "Other",
       "_detected_lang": "en"
     },
     {
-      "id": "oHuq2IVcmLQ",
-      "title": "IT JUST KEEPS GETTING BETTER | Endacopia - Part 2",
-      "channel": "Markiplier",
-      "channel_id": "UC7_YxT-KID8kRbqZo7MyscQ",
-      "thumbnail": "https://i.ytimg.com/vi/oHuq2IVcmLQ/mqdefault.jpg",
-      "published_at": "2026-08-22T19:11:44Z",
-      "category_id": "20",
-      "views": 171476,
-      "likes": 23438,
-      "comments": 1569,
-      "age_hours": 5.5,
-      "views_per_hour": 31064,
-      "momentum": 6.131,
-      "url": "https://www.youtube.com/watch?v=oHuq2IVcmLQ",
+      "id": "aMZDKcIFFSM",
+      "title": "GTA 6 Leak Situation Got Even Crazier",
+      "channel": "penguinz0",
+      "channel_id": "UCq6VFHwMzcMXbuKyG7SQYIg",
+      "thumbnail": "https://i.ytimg.com/vi/aMZDKcIFFSM/mqdefault.jpg",
+      "published_at": "2026-08-23T01:15:03Z",
+      "category_id": "24",
+      "views": 683558,
+      "likes": 37538,
+      "comments": 5703,
+      "age_hours": 5.1,
+      "views_per_hour": 132941,
+      "momentum": 6.114,
+      "url": "https://www.youtube.com/watch?v=aMZDKcIFFSM",
       "region": "US",
-      "category": "Gaming",
+      "category": "Entertainment",
+      "_detected_lang": "en"
+    },
+    {
+      "id": "7Braqk651MA",
+      "title": "SML Movie: Jeffy's 22nd Birthday!",
+      "channel": "SML",
+      "channel_id": "UCnSWkrRWNQWNhDusoWr_HXQ",
+      "thumbnail": "https://i.ytimg.com/vi/7Braqk651MA/mqdefault.jpg",
+      "published_at": "2026-08-22T02:10:25Z",
+      "category_id": "24",
+      "views": 3188197,
+      "likes": 166771,
+      "comments": 31972,
+      "age_hours": 28.2,
+      "views_per_hour": 112980,
+      "momentum": 6.088,
+      "url": "https://www.youtube.com/watch?v=7Braqk651MA",
+      "region": "US",
+      "category": "Entertainment",
       "_detected_lang": "en"
     },
     {
@@ -2426,54 +2684,35 @@
       "thumbnail": "https://i.ytimg.com/vi/0YAcT8GSqPE/mqdefault.jpg",
       "published_at": "2026-08-21T21:00:31Z",
       "category_id": "23",
-      "views": 2132764,
-      "likes": 217456,
-      "comments": 4740,
-      "age_hours": 27.7,
-      "views_per_hour": 76975,
-      "momentum": 5.991,
+      "views": 2446143,
+      "likes": 244286,
+      "comments": 5237,
+      "age_hours": 33.4,
+      "views_per_hour": 73272,
+      "momentum": 5.941,
       "url": "https://www.youtube.com/watch?v=0YAcT8GSqPE",
       "region": "GB",
       "category": "Comedy",
       "_detected_lang": "en"
     },
     {
-      "id": "jvlpT-zf1_g",
-      "title": "ADIVINHANDO AS FALAS DO VOID *deu ruim",
-      "channel": "Katlenof",
-      "channel_id": "UC3UoCFQiZZxBPLkfh9WsNBA",
-      "thumbnail": "https://i.ytimg.com/vi/jvlpT-zf1_g/mqdefault.jpg",
-      "published_at": "2026-08-22T15:47:47Z",
+      "id": "ccHxDxd27z8",
+      "title": "AQUELES PERSINAGENS DE FILMES QUE NÃO COMEM CAFÉ DA MANHÃ 😹",
+      "channel": "MoriMura",
+      "channel_id": "UCdK_G8bo0X0kVwxiWoIUfwQ",
+      "thumbnail": "https://i.ytimg.com/vi/ccHxDxd27z8/mqdefault.jpg",
+      "published_at": "2026-08-22T21:02:22Z",
       "category_id": "22",
-      "views": 999066,
-      "likes": 85579,
-      "comments": 517,
-      "age_hours": 8.9,
-      "views_per_hour": 111988,
-      "momentum": 5.94,
-      "url": "https://www.youtube.com/watch?v=jvlpT-zf1_g",
+      "views": 1521953,
+      "likes": 98952,
+      "comments": 1207,
+      "age_hours": 9.4,
+      "views_per_hour": 162685,
+      "momentum": 5.93,
+      "url": "https://www.youtube.com/watch?v=ccHxDxd27z8",
       "region": "BR",
       "category": "People & Blogs",
       "_detected_lang": "pt"
-    },
-    {
-      "id": "L8ZnXgbyUuc",
-      "title": "BIGBANG - ‘BiiiG’ M/V",
-      "channel": "BIGBANG",
-      "channel_id": "UCzw-C7fNfs018R1FzIKnlaA",
-      "thumbnail": "https://i.ytimg.com/vi/L8ZnXgbyUuc/mqdefault.jpg",
-      "published_at": "2026-08-19T09:10:01Z",
-      "category_id": "10",
-      "views": 9003611,
-      "likes": 590288,
-      "comments": 37135,
-      "age_hours": 87.5,
-      "views_per_hour": 102840,
-      "momentum": 5.876,
-      "url": "https://www.youtube.com/watch?v=L8ZnXgbyUuc",
-      "region": "AU",
-      "category": "Other",
-      "_detected_lang": "en"
     },
     {
       "id": "oW-f6RYSwBI",
@@ -2483,15 +2722,34 @@
       "thumbnail": "https://i.ytimg.com/vi/oW-f6RYSwBI/mqdefault.jpg",
       "published_at": "2026-08-19T15:00:08Z",
       "category_id": "22",
-      "views": 20100127,
-      "likes": 843397,
-      "comments": 4727,
-      "age_hours": 81.7,
-      "views_per_hour": 245983,
-      "momentum": 5.856,
+      "views": 21337519,
+      "likes": 917923,
+      "comments": 5440,
+      "age_hours": 87.4,
+      "views_per_hour": 244163,
+      "momentum": 5.865,
       "url": "https://www.youtube.com/watch?v=oW-f6RYSwBI",
       "region": "US",
       "category": "People & Blogs",
+      "_detected_lang": "en"
+    },
+    {
+      "id": "L8ZnXgbyUuc",
+      "title": "BIGBANG - ‘BiiiG’ M/V",
+      "channel": "BIGBANG",
+      "channel_id": "UCzw-C7fNfs018R1FzIKnlaA",
+      "thumbnail": "https://i.ytimg.com/vi/L8ZnXgbyUuc/mqdefault.jpg",
+      "published_at": "2026-08-19T09:10:01Z",
+      "category_id": "10",
+      "views": 9194639,
+      "likes": 596115,
+      "comments": 37450,
+      "age_hours": 93.2,
+      "views_per_hour": 98627,
+      "momentum": 5.845,
+      "url": "https://www.youtube.com/watch?v=L8ZnXgbyUuc",
+      "region": "AU",
+      "category": "Other",
       "_detected_lang": "en"
     },
     {
@@ -2502,35 +2760,54 @@
       "thumbnail": "https://i.ytimg.com/vi/WNUjyPtfOdg/mqdefault.jpg",
       "published_at": "2026-08-20T01:58:38Z",
       "category_id": "22",
-      "views": 6162907,
-      "likes": 548219,
-      "comments": 2872,
-      "age_hours": 70.7,
-      "views_per_hour": 87122,
-      "momentum": 5.842,
+      "views": 6569944,
+      "likes": 580003,
+      "comments": 3097,
+      "age_hours": 76.4,
+      "views_per_hour": 85976,
+      "momentum": 5.829,
       "url": "https://www.youtube.com/watch?v=WNUjyPtfOdg",
       "region": "US",
       "category": "People & Blogs",
       "_detected_lang": "en"
     },
     {
-      "id": "jfLcHITJZpQ",
-      "title": "VOCÊ CONSEGUE ENCONTRAR OS 7 ERROS ENTRE ESSAS DUAS IMAGENS?",
-      "channel": "Jazzghost",
-      "channel_id": "UCIXguhHCl8eDTkXpEuiGPUA",
-      "thumbnail": "https://i.ytimg.com/vi/jfLcHITJZpQ/mqdefault.jpg",
-      "published_at": "2026-08-22T15:00:18Z",
+      "id": "zPf4c6SQ_sk",
+      "title": "Hermitcraft 11: Episode 26 - GRAND OPENING",
+      "channel": "Mumbo Jumbo",
+      "channel_id": "UChFur_NwVSbUozOcF_F2kMg",
+      "thumbnail": "https://i.ytimg.com/vi/zPf4c6SQ_sk/mqdefault.jpg",
+      "published_at": "2026-08-22T19:00:26Z",
       "category_id": "20",
-      "views": 589044,
-      "likes": 48049,
-      "comments": 3237,
-      "age_hours": 9.7,
-      "views_per_hour": 60648,
-      "momentum": 5.826,
-      "url": "https://www.youtube.com/watch?v=jfLcHITJZpQ",
-      "region": "BR",
+      "views": 353350,
+      "likes": 40610,
+      "comments": 2307,
+      "age_hours": 11.4,
+      "views_per_hour": 31035,
+      "momentum": 5.818,
+      "url": "https://www.youtube.com/watch?v=zPf4c6SQ_sk",
+      "region": "US",
       "category": "Gaming",
-      "_detected_lang": "pt"
+      "_detected_lang": "en"
+    },
+    {
+      "id": "8NMfCCSlOQY",
+      "title": "Too long to hold the laugh 😄 Video Credits to: @cure0721 on YT / @/cure_9997 on IG",
+      "channel": "Videos that make your day better ",
+      "channel_id": "UCBp4nh-pgJCtO-bTzomzSqA",
+      "thumbnail": "https://i.ytimg.com/vi/8NMfCCSlOQY/mqdefault.jpg",
+      "published_at": "2026-08-22T01:00:20Z",
+      "category_id": "23",
+      "views": 5230442,
+      "likes": 268658,
+      "comments": 605,
+      "age_hours": 29.4,
+      "views_per_hour": 177983,
+      "momentum": 5.796,
+      "url": "https://www.youtube.com/watch?v=8NMfCCSlOQY",
+      "region": "US",
+      "category": "Comedy",
+      "_detected_lang": "en"
     },
     {
       "id": "r01zeFtwHoA",
@@ -2540,34 +2817,15 @@
       "thumbnail": "https://i.ytimg.com/vi/r01zeFtwHoA/mqdefault.jpg",
       "published_at": "2026-08-21T09:02:30Z",
       "category_id": "1",
-      "views": 5077736,
-      "likes": 339897,
-      "comments": 1912,
-      "age_hours": 39.7,
-      "views_per_hour": 127985,
-      "momentum": 5.81,
+      "views": 5378850,
+      "likes": 364189,
+      "comments": 2085,
+      "age_hours": 45.4,
+      "views_per_hour": 118604,
+      "momentum": 5.781,
       "url": "https://www.youtube.com/watch?v=r01zeFtwHoA",
       "region": "GB",
       "category": "Other",
-      "_detected_lang": "en"
-    },
-    {
-      "id": "zydyS3SQyKE",
-      "title": "Fable ABANDONS the MoDeRn AuDiEnCe & comes crawling back to the CHUDS. Ugliness REMOVED?!",
-      "channel": "Doctor Disaster",
-      "channel_id": "UC7P8CvjrU1AexV5aliNeLXw",
-      "thumbnail": "https://i.ytimg.com/vi/zydyS3SQyKE/mqdefault.jpg",
-      "published_at": "2026-08-22T15:30:26Z",
-      "category_id": "20",
-      "views": 37076,
-      "likes": 4729,
-      "comments": 1313,
-      "age_hours": 9.2,
-      "views_per_hour": 4026,
-      "momentum": 5.801,
-      "url": "https://www.youtube.com/watch?v=zydyS3SQyKE",
-      "region": "US",
-      "category": "Gaming",
       "_detected_lang": "en"
     },
     {
@@ -2578,34 +2836,15 @@
       "thumbnail": "https://i.ytimg.com/vi/Sl3YiFhaUHE/mqdefault.jpg",
       "published_at": "2026-08-20T08:37:23Z",
       "category_id": "24",
-      "views": 3032337,
-      "likes": 358465,
-      "comments": 1193,
-      "age_hours": 64.1,
-      "views_per_hour": 47311,
-      "momentum": 5.799,
+      "views": 3159460,
+      "likes": 373428,
+      "comments": 1233,
+      "age_hours": 69.8,
+      "views_per_hour": 45284,
+      "momentum": 5.775,
       "url": "https://www.youtube.com/watch?v=Sl3YiFhaUHE",
       "region": "CA",
       "category": "Entertainment",
-      "_detected_lang": "en"
-    },
-    {
-      "id": "xW8Qz60Sdxk",
-      "title": "Everyone agrees that Reese is a great driver!#shorts #comedy #funny #dramaclips #trending #edit",
-      "channel": "Iorwerth Moive",
-      "channel_id": "UCCPZqpPlQX6nYz8uB4GWqDQ",
-      "thumbnail": "https://i.ytimg.com/vi/xW8Qz60Sdxk/mqdefault.jpg",
-      "published_at": "2026-08-22T02:39:57Z",
-      "category_id": "1",
-      "views": 2327567,
-      "likes": 174859,
-      "comments": 224,
-      "age_hours": 22.1,
-      "views_per_hour": 105558,
-      "momentum": 5.783,
-      "url": "https://www.youtube.com/watch?v=xW8Qz60Sdxk",
-      "region": "GB",
-      "category": "Other",
       "_detected_lang": "en"
     },
     {
@@ -2616,12 +2855,12 @@
       "thumbnail": "https://i.ytimg.com/vi/IWN1yuW1RoI/mqdefault.jpg",
       "published_at": "2026-08-21T01:20:10Z",
       "category_id": "22",
-      "views": 4512497,
-      "likes": 341371,
-      "comments": 4142,
-      "age_hours": 47.4,
-      "views_per_hour": 95241,
-      "momentum": 5.778,
+      "views": 4764622,
+      "likes": 357516,
+      "comments": 4366,
+      "age_hours": 53.1,
+      "views_per_hour": 89802,
+      "momentum": 5.742,
       "url": "https://www.youtube.com/watch?v=IWN1yuW1RoI",
       "region": "US",
       "category": "People & Blogs",
@@ -2635,54 +2874,54 @@
       "thumbnail": "https://i.ytimg.com/vi/X1aFkAkFASk/mqdefault.jpg",
       "published_at": "2026-08-15T04:06:21Z",
       "category_id": "24",
-      "views": 33159644,
-      "likes": 1316839,
-      "comments": 58180,
-      "age_hours": 188.6,
-      "views_per_hour": 175810,
-      "momentum": 5.754,
+      "views": 33260753,
+      "likes": 1317931,
+      "comments": 58221,
+      "age_hours": 194.3,
+      "views_per_hour": 171193,
+      "momentum": 5.74,
       "url": "https://www.youtube.com/watch?v=X1aFkAkFASk",
       "region": "AU",
       "category": "Entertainment",
       "_detected_lang": "en"
     },
     {
-      "id": "qYrQHFy2ukE",
-      "title": "LEGACY x SPIRIT - EWC 2026 - COUNTER STRIKE 2 - DIA 9 - Siga @Gaules nas redes sociais!",
-      "channel": "Gaules",
-      "channel_id": "UC5ZTRH1zclthyc6b_D3m2Pw",
-      "thumbnail": "https://i.ytimg.com/vi/qYrQHFy2ukE/mqdefault.jpg",
-      "published_at": "2026-08-22T20:49:58Z",
-      "category_id": "20",
-      "views": 911664,
-      "likes": 31975,
-      "comments": 15,
-      "age_hours": 3.9,
-      "views_per_hour": 234681,
-      "momentum": 5.748,
-      "url": "https://www.youtube.com/watch?v=qYrQHFy2ukE",
+      "id": "jvlpT-zf1_g",
+      "title": "ADIVINHANDO AS FALAS DO VOID *deu ruim",
+      "channel": "Katlenof",
+      "channel_id": "UC3UoCFQiZZxBPLkfh9WsNBA",
+      "thumbnail": "https://i.ytimg.com/vi/jvlpT-zf1_g/mqdefault.jpg",
+      "published_at": "2026-08-22T15:47:47Z",
+      "category_id": "22",
+      "views": 1358084,
+      "likes": 99622,
+      "comments": 573,
+      "age_hours": 14.6,
+      "views_per_hour": 93031,
+      "momentum": 5.719,
+      "url": "https://www.youtube.com/watch?v=jvlpT-zf1_g",
       "region": "BR",
-      "category": "Gaming",
+      "category": "People & Blogs",
       "_detected_lang": "pt"
     },
     {
-      "id": "Xil2ilVVUQo",
-      "title": "DESAFIO IMPOSSÍVEL DA LARANJA #shorts",
-      "channel": "Enaldinho",
-      "channel_id": "UC2bYhAHyaqfWlPXWBVk4BcA",
-      "thumbnail": "https://i.ytimg.com/vi/Xil2ilVVUQo/mqdefault.jpg",
-      "published_at": "2026-08-21T22:00:11Z",
-      "category_id": "24",
-      "views": 1761472,
-      "likes": 165166,
-      "comments": 167,
-      "age_hours": 26.7,
-      "views_per_hour": 65937,
-      "momentum": 5.727,
-      "url": "https://www.youtube.com/watch?v=Xil2ilVVUQo",
-      "region": "BR",
-      "category": "Entertainment",
-      "_detected_lang": "pt"
+      "id": "xW8Qz60Sdxk",
+      "title": "Everyone agrees that Reese is a great driver!#shorts #comedy #funny #dramaclips #trending #edit",
+      "channel": "Iorwerth Moive",
+      "channel_id": "UCCPZqpPlQX6nYz8uB4GWqDQ",
+      "thumbnail": "https://i.ytimg.com/vi/xW8Qz60Sdxk/mqdefault.jpg",
+      "published_at": "2026-08-22T02:39:57Z",
+      "category_id": "1",
+      "views": 2692243,
+      "likes": 191196,
+      "comments": 234,
+      "age_hours": 27.7,
+      "views_per_hour": 97098,
+      "momentum": 5.7,
+      "url": "https://www.youtube.com/watch?v=xW8Qz60Sdxk",
+      "region": "GB",
+      "category": "Other",
+      "_detected_lang": "en"
     },
     {
       "id": "DiSAr0Wawk4",
@@ -2692,12 +2931,12 @@
       "thumbnail": "https://i.ytimg.com/vi/DiSAr0Wawk4/mqdefault.jpg",
       "published_at": "2026-08-20T21:00:00Z",
       "category_id": "24",
-      "views": 6001942,
-      "likes": 371553,
-      "comments": 416,
-      "age_hours": 51.7,
-      "views_per_hour": 116052,
-      "momentum": 5.695,
+      "views": 6389582,
+      "likes": 394579,
+      "comments": 440,
+      "age_hours": 57.4,
+      "views_per_hour": 111327,
+      "momentum": 5.673,
       "url": "https://www.youtube.com/watch?v=DiSAr0Wawk4",
       "region": "BR",
       "category": "Entertainment",
@@ -2711,34 +2950,15 @@
       "thumbnail": "https://i.ytimg.com/vi/ADW2aXA7qe0/mqdefault.jpg",
       "published_at": "2026-08-19T22:47:25Z",
       "category_id": "24",
-      "views": 7139555,
-      "likes": 483753,
-      "comments": 4500,
-      "age_hours": 73.9,
-      "views_per_hour": 96578,
-      "momentum": 5.692,
+      "views": 7245973,
+      "likes": 488677,
+      "comments": 4584,
+      "age_hours": 79.6,
+      "views_per_hour": 91027,
+      "momentum": 5.659,
       "url": "https://www.youtube.com/watch?v=ADW2aXA7qe0",
-      "region": "US",
+      "region": "GB",
       "category": "Entertainment",
-      "_detected_lang": "en"
-    },
-    {
-      "id": "RKI1UnXFaCw",
-      "title": "Guess the number",
-      "channel": "Stiff Socks Podcast",
-      "channel_id": "UCzTu5l2o64P3VN3UcIy7gcg",
-      "thumbnail": "https://i.ytimg.com/vi/RKI1UnXFaCw/mqdefault.jpg",
-      "published_at": "2026-08-19T04:03:11Z",
-      "category_id": "23",
-      "views": 4635120,
-      "likes": 475699,
-      "comments": 1627,
-      "age_hours": 92.7,
-      "views_per_hour": 50021,
-      "momentum": 5.68,
-      "url": "https://www.youtube.com/watch?v=RKI1UnXFaCw",
-      "region": "US",
-      "category": "Comedy",
       "_detected_lang": "en"
     }
   ]
