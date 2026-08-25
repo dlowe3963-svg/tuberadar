@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T06:27:59.931699+00:00",
+  "generated_at": "2026-08-25T12:27:41.731395+00:00",
   "regions": [
     "US",
     "GB",
@@ -42,72 +42,20 @@
   "stats": {
     "total_videos": 420,
     "total_topics": 18,
-    "total_themes": 6,
+    "total_themes": 7,
     "total_searches": 12,
     "by_category": {
-      "Gaming": 80,
-      "Other": 48,
-      "Entertainment": 87,
-      "People & Blogs": 134,
-      "Comedy": 20,
-      "Education": 5,
-      "Science & Tech": 29,
-      "Howto & Style": 17
+      "Other": 45,
+      "Entertainment": 93,
+      "Science & Tech": 26,
+      "Gaming": 82,
+      "People & Blogs": 133,
+      "Comedy": 18,
+      "Education": 4,
+      "Howto & Style": 19
     }
   },
   "emerging_themes": [
-    {
-      "phrase": "gta5 gtav gaming",
-      "video_count": 30,
-      "channel_count": 30,
-      "total_channels_seen": 30,
-      "uploads_per_hour": 2.5,
-      "window_hours": 12,
-      "example_videos": [
-        {
-          "id": "fgEdDwjCdqA",
-          "title": "GTA 5 LIVE | #gtalive  #gtaonline #gta5 #gtav #gaming",
-          "channel": "GG GTA ",
-          "channel_id": "UCIf6gpyZ-CYZEjEzTbVs7LA",
-          "subscribers": 1700,
-          "thumbnail": "https://i.ytimg.com/vi/fgEdDwjCdqA/mqdefault.jpg",
-          "published_at": "2026-08-25T06:16:14Z",
-          "url": "https://www.youtube.com/watch?v=fgEdDwjCdqA"
-        },
-        {
-          "id": "btC0wPzBdFQ",
-          "title": "Trevor Finds Out Michael Is Alive After 10 Years 😱 | GTA V #GTA5 #GTAV #GTA #Gaming #gtaonline",
-          "channel": "Randy Empire Gaming",
-          "channel_id": "UCbHcYuIQzKWeCGWrxcsppkw",
-          "subscribers": 3,
-          "thumbnail": "https://i.ytimg.com/vi/btC0wPzBdFQ/mqdefault.jpg",
-          "published_at": "2026-08-25T06:14:11Z",
-          "url": "https://www.youtube.com/watch?v=btC0wPzBdFQ"
-        },
-        {
-          "id": "vSDDYQ0dp28",
-          "title": "CAN WE MANAGE TO GET THE BEAT ?? LETS SEE #gta5 #gtav #gaming #gta5stunts #viral #gamingshorts",
-          "channel": "GTA shorts",
-          "channel_id": "UCJVu93uu0jhelqNtY56QKrg",
-          "subscribers": 20,
-          "thumbnail": "https://i.ytimg.com/vi/vSDDYQ0dp28/mqdefault.jpg",
-          "published_at": "2026-08-25T06:09:40Z",
-          "url": "https://www.youtube.com/watch?v=vSDDYQ0dp28"
-        },
-        {
-          "id": "pjbBXL4ftB0",
-          "title": "#gaming #gta #gta5 #gtav #shorts #viral #gameplay #games #bgmi #pubgmobile #trending#youtubeshorts",
-          "channel": "SARDAR TECH GAMER",
-          "channel_id": "UCcZMiVFqKT6kzmMACw0PusA",
-          "subscribers": 7,
-          "thumbnail": "https://i.ytimg.com/vi/pjbBXL4ftB0/mqdefault.jpg",
-          "published_at": "2026-08-25T06:08:21Z",
-          "url": "https://www.youtube.com/watch?v=pjbBXL4ftB0"
-        }
-      ],
-      "first_detected_at": "2026-08-25T06:27:59.931699+00:00",
-      "last_seen_at": "2026-08-25T06:27:59.931699+00:00"
-    },
     {
       "phrase": "shorts youtubeshorts cricket",
       "video_count": 30,
@@ -117,48 +65,100 @@
       "window_hours": 12,
       "example_videos": [
         {
-          "id": "RYcV_SbG_40",
-          "title": "Timing shot and six run #youtubeshorts #cricket #cricketlover #cricketfans @Cricketloveshortv",
-          "channel": "Paras",
-          "channel_id": "UCQPY3dxxmnAfGRD3D_P4CtA",
-          "subscribers": 515,
-          "thumbnail": "https://i.ytimg.com/vi/RYcV_SbG_40/mqdefault.jpg",
-          "published_at": "2026-08-25T06:26:39Z",
-          "url": "https://www.youtube.com/watch?v=RYcV_SbG_40"
+          "id": "Uy9WUTWtnJw",
+          "title": "VIRAT KOHLI RCB CHAMPION 🏆🏆 TEAM #cricket #youtubeshorts #shorts",
+          "channel": "sandeep Rathore ",
+          "channel_id": "UCA1SSmbHuoa7A9qRSUrYJiA",
+          "subscribers": 273,
+          "thumbnail": "https://i.ytimg.com/vi/Uy9WUTWtnJw/mqdefault.jpg",
+          "published_at": "2026-08-25T12:22:42Z",
+          "url": "https://www.youtube.com/watch?v=Uy9WUTWtnJw"
         },
         {
-          "id": "zoXa4ax1iA0",
-          "title": "#trendingshorts #cricket #cricketlover #lifeisbutadream #shortvideo #ipl #shorts #youtubeshorts",
-          "channel": "Shivam Dube 45",
-          "channel_id": "UC8ydgh4dQGAozGGvhDgSTxA",
-          "subscribers": 718,
-          "thumbnail": "https://i.ytimg.com/vi/zoXa4ax1iA0/mqdefault.jpg",
-          "published_at": "2026-08-25T06:25:11Z",
-          "url": "https://www.youtube.com/watch?v=zoXa4ax1iA0"
+          "id": "EyidOyq7cVA",
+          "title": "Hardik pandey ka attitude six markar match khtam karna #hardikpandya #shorts #youtubeshorts#cricket ",
+          "channel": "LEGEND YT",
+          "channel_id": "UCla8-yYbyDG5iIwjGx-GOuw",
+          "subscribers": 592,
+          "thumbnail": "https://i.ytimg.com/vi/EyidOyq7cVA/mqdefault.jpg",
+          "published_at": "2026-08-25T12:12:14Z",
+          "url": "https://www.youtube.com/watch?v=EyidOyq7cVA"
         },
         {
-          "id": "UruNYpZkP-c",
-          "title": "Respect Full Moments #youtubeshorts #shorts #cricket",
-          "channel": "@fu8xy ",
-          "channel_id": "UCj9RHauaRWY3Zsp46hlPDng",
-          "subscribers": 16900,
-          "thumbnail": "https://i.ytimg.com/vi/UruNYpZkP-c/mqdefault.jpg",
-          "published_at": "2026-08-25T06:22:26Z",
-          "url": "https://www.youtube.com/watch?v=UruNYpZkP-c"
+          "id": "YDNQv-wO5JA",
+          "title": "What A Shot 😱🥵 || #karanambala #trending #shorts #viral",
+          "channel": "@Vighnesh_edits_05",
+          "channel_id": "UCx-angkU0e5irXGbtn_A3TA",
+          "subscribers": 2230,
+          "thumbnail": "https://i.ytimg.com/vi/YDNQv-wO5JA/mqdefault.jpg",
+          "published_at": "2026-08-25T12:10:13Z",
+          "url": "https://www.youtube.com/watch?v=YDNQv-wO5JA"
         },
         {
-          "id": "uruLpUkN20o",
-          "title": "Dhruv Jurel’s “Jai Jawan.. Jai Kisan” celebration ❤️❤️ !! #shorts #shortsfeed",
-          "channel": "ReelPlay",
-          "channel_id": "UCZcPQ0YwQgxKiGwLa-OO1yg",
-          "subscribers": 29400,
-          "thumbnail": "https://i.ytimg.com/vi/uruLpUkN20o/mqdefault.jpg",
-          "published_at": "2026-08-25T05:59:22Z",
-          "url": "https://www.youtube.com/watch?v=uruLpUkN20o"
+          "id": "PjAT801tI60",
+          "title": "Bharat Ka Babber Sher 💪🏻❤#cricketlover #cricket #shorts #youtubeshorts #youtube #viratkohli",
+          "channel": "Cricplainers",
+          "channel_id": "UC2HDKq7AguEW70MS48CSCrA",
+          "subscribers": 6750,
+          "thumbnail": "https://i.ytimg.com/vi/PjAT801tI60/mqdefault.jpg",
+          "published_at": "2026-08-25T12:00:07Z",
+          "url": "https://www.youtube.com/watch?v=PjAT801tI60"
         }
       ],
       "first_detected_at": "2026-08-21T18:22:24.882988+00:00",
-      "last_seen_at": "2026-08-25T06:27:59.931699+00:00"
+      "last_seen_at": "2026-08-25T12:27:41.731395+00:00"
+    },
+    {
+      "phrase": "gta5 gtav gaming",
+      "video_count": 30,
+      "channel_count": 29,
+      "total_channels_seen": 29,
+      "uploads_per_hour": 2.42,
+      "window_hours": 12,
+      "example_videos": [
+        {
+          "id": "3XO1iTpgUXU",
+          "title": "#GTA5 #GTAV #GTA #Gaming #GamingShorts #Viral #Shorts",
+          "channel": "VANN highline",
+          "channel_id": "UCAYORFufR6Ra2JfaQV65qQw",
+          "subscribers": 182,
+          "thumbnail": "https://i.ytimg.com/vi/3XO1iTpgUXU/mqdefault.jpg",
+          "published_at": "2026-08-25T12:25:26Z",
+          "url": "https://www.youtube.com/watch?v=3XO1iTpgUXU"
+        },
+        {
+          "id": "GT4fyU6mr7o",
+          "title": "GTA 5 buggy😱 #shortsfeed #gta #gta5 #gtav #shorts #short #shortsfeed #ytshorts #yt #foryou #gaming",
+          "channel": "PAIN YT 1.9M",
+          "channel_id": "UCq62wusLCNIzDqqKeGCCHiA",
+          "subscribers": 15900,
+          "thumbnail": "https://i.ytimg.com/vi/GT4fyU6mr7o/mqdefault.jpg",
+          "published_at": "2026-08-25T12:15:19Z",
+          "url": "https://www.youtube.com/watch?v=GT4fyU6mr7o"
+        },
+        {
+          "id": "M7Y7fRDqqYk",
+          "title": "3 Rare GTA 5 Vehicles You Missed! 🚜💨 #gta #gta5 #gaming #shorts",
+          "channel": "The Console Consultants",
+          "channel_id": "UCmOP5bKatz1Dont_OftufuQ",
+          "subscribers": 673,
+          "thumbnail": "https://i.ytimg.com/vi/M7Y7fRDqqYk/mqdefault.jpg",
+          "published_at": "2026-08-25T12:12:27Z",
+          "url": "https://www.youtube.com/watch?v=M7Y7fRDqqYk"
+        },
+        {
+          "id": "WNSYzEmmJ9A",
+          "title": "NETFLIX OPENING 😶 | #gta6 #memes #gaming",
+          "channel": "Dac6",
+          "channel_id": "UCjOJRHjcyHGjPu2stx7DwIQ",
+          "subscribers": 141,
+          "thumbnail": "https://i.ytimg.com/vi/WNSYzEmmJ9A/mqdefault.jpg",
+          "published_at": "2026-08-25T12:05:24Z",
+          "url": "https://www.youtube.com/watch?v=WNSYzEmmJ9A"
+        }
+      ],
+      "first_detected_at": "2026-08-25T06:27:59.931699+00:00",
+      "last_seen_at": "2026-08-25T12:27:41.731395+00:00"
     },
     {
       "phrase": "ball shorts youtubeshorts",
@@ -169,249 +169,263 @@
       "window_hours": 12,
       "example_videos": [
         {
-          "id": "oBF_b2XBR5U",
-          "title": "bhai ke pass bahut sare colourful ball #shorts  #youtubeshorts",
-          "channel": "kaach reaction ",
-          "channel_id": "UCzZ50baCZ45mhtYTdDGj0ew",
-          "subscribers": 867,
-          "thumbnail": "https://i.ytimg.com/vi/oBF_b2XBR5U/mqdefault.jpg",
-          "published_at": "2026-08-25T06:25:08Z",
-          "url": "https://www.youtube.com/watch?v=oBF_b2XBR5U"
+          "id": "j_chhEPRzws",
+          "title": "Which New Minecraft Ball Will Win This Race!#gamesLet&#39;s See! #shorts #gaming#youtubeshorts",
+          "channel": "VFX Nova ",
+          "channel_id": "UC4eK2Mab5flm8-qo4_dnTLQ",
+          "subscribers": 2,
+          "thumbnail": "https://i.ytimg.com/vi/j_chhEPRzws/mqdefault.jpg",
+          "published_at": "2026-08-25T11:50:40Z",
+          "url": "https://www.youtube.com/watch?v=j_chhEPRzws"
         },
         {
-          "id": "wl3lGLRLCPk",
-          "title": "🏀 Going Balls, SpeedRun, Going Balls #shorts  #youtubeshorts #viral #viralshorts #foryou #video ",
-          "channel": "Kids play cartoons ",
-          "channel_id": "UCRCcdS5LHnViNYhYS9AwDAA",
-          "subscribers": 514,
-          "thumbnail": "https://i.ytimg.com/vi/wl3lGLRLCPk/mqdefault.jpg",
-          "published_at": "2026-08-25T06:20:32Z",
-          "url": "https://www.youtube.com/watch?v=wl3lGLRLCPk"
+          "id": "2ZdBM8EZdUs",
+          "title": "Going Balls || Superhero Competition Challenge! 🤔 (Day 8/30) #shorts #goingballs #gaming #sportsgame",
+          "channel": "Going Ballz81",
+          "channel_id": "UCvtkupAAFaSpe6vdR_f5BlA",
+          "subscribers": 15,
+          "thumbnail": "https://i.ytimg.com/vi/2ZdBM8EZdUs/mqdefault.jpg",
+          "published_at": "2026-08-25T11:38:59Z",
+          "url": "https://www.youtube.com/watch?v=2ZdBM8EZdUs"
         },
         {
-          "id": "jWAnEMn812U",
-          "title": "Billie swallowed a Goff ball #youtubeshorts #funny #subscribe #comedy #shorts",
-          "channel": "Oga Visitor Tv",
-          "channel_id": "UCit4hQI6dfXcC4kIlq6SeDw",
-          "subscribers": 202000,
-          "thumbnail": "https://i.ytimg.com/vi/jWAnEMn812U/mqdefault.jpg",
-          "published_at": "2026-08-25T06:16:17Z",
-          "url": "https://www.youtube.com/watch?v=jWAnEMn812U"
+          "id": "4R6_oLOGYrw",
+          "title": "Salah, Neymar Messi vs Ronaldo Going balls Challenge #youtubeshorts #shorts",
+          "channel": "Rolling Shorts",
+          "channel_id": "UC5MGNNbKK282iJqN2otbUKw",
+          "subscribers": 33,
+          "thumbnail": "https://i.ytimg.com/vi/4R6_oLOGYrw/mqdefault.jpg",
+          "published_at": "2026-08-25T11:30:07Z",
+          "url": "https://www.youtube.com/watch?v=4R6_oLOGYrw"
         },
         {
-          "id": "ZWTBaBZkDS4",
-          "title": "going ball !! 🎯 CAN I SURVIVE THIS IMPOSSIBLE LEVEL?! 😱 | Going Balls #shorts #youtubeshorts",
-          "channel": "Ball Rush",
-          "channel_id": "UCXgMkEOLP-eWwEWfo0XYs-g",
-          "subscribers": 28,
-          "thumbnail": "https://i.ytimg.com/vi/ZWTBaBZkDS4/mqdefault.jpg",
-          "published_at": "2026-08-25T06:13:06Z",
-          "url": "https://www.youtube.com/watch?v=ZWTBaBZkDS4"
+          "id": "QCGa8VHgRwE",
+          "title": "going balls || powerful Ball  #shorts #geme #usa #viral #youtubeshorts#shorts #goingballs",
+          "channel": "USA Geming",
+          "channel_id": "UCtzBQMUl5AnRUIYP58Rn7IA",
+          "subscribers": 3,
+          "thumbnail": "https://i.ytimg.com/vi/QCGa8VHgRwE/mqdefault.jpg",
+          "published_at": "2026-08-25T11:27:06Z",
+          "url": "https://www.youtube.com/watch?v=QCGa8VHgRwE"
         }
       ],
       "first_detected_at": "2026-08-23T18:14:56.210740+00:00",
-      "last_seen_at": "2026-08-25T06:27:59.931699+00:00"
+      "last_seen_at": "2026-08-25T12:27:41.731395+00:00"
     },
     {
       "phrase": "live gta5 gtav",
       "video_count": 30,
-      "channel_count": 27,
-      "total_channels_seen": 27,
-      "uploads_per_hour": 2.25,
+      "channel_count": 29,
+      "total_channels_seen": 29,
+      "uploads_per_hour": 2.42,
       "window_hours": 12,
       "example_videos": [
         {
-          "id": "IE8e3LJw0TQ",
-          "title": "GTA 5 LIVE #gta5  #gtav  #gaming",
-          "channel": "AJ GTA ANIM",
-          "channel_id": "UCKZWs3hnF1htBZ-K4DaUr7w",
-          "subscribers": 856,
-          "thumbnail": "https://i.ytimg.com/vi/IE8e3LJw0TQ/mqdefault.jpg",
-          "published_at": "2026-08-25T06:22:52Z",
-          "url": "https://www.youtube.com/watch?v=IE8e3LJw0TQ"
+          "id": "AqBqvdmtB5o",
+          "title": "GTA V Live: Let the Madness Begin!",
+          "channel": "Postalspark",
+          "channel_id": "UCqqWDO1-J47kutp6BhoXyyQ",
+          "subscribers": 65,
+          "thumbnail": "https://i.ytimg.com/vi/AqBqvdmtB5o/mqdefault.jpg",
+          "published_at": "2026-08-25T12:27:09Z",
+          "url": "https://www.youtube.com/watch?v=AqBqvdmtB5o"
         },
         {
-          "id": "ISv9yXd3uX4",
-          "title": "GTA 5 LIVE #gta5 #gtav #gaming #KanishakOutlawgaming",
-          "channel": "kanishak Outlaw",
-          "channel_id": "UC4yy9uyDbEPh9YTA3n_ciTA",
-          "subscribers": 54,
-          "thumbnail": "https://i.ytimg.com/vi/ISv9yXd3uX4/mqdefault.jpg",
-          "published_at": "2026-08-25T06:20:21Z",
-          "url": "https://www.youtube.com/watch?v=ISv9yXd3uX4"
+          "id": "EoVDPdj43w8",
+          "title": "GTA 5 LIVE — 2 MONSTERS. 1 CITY. TOTAL CHAOS! 💀🔥 #gta5",
+          "channel": "AryanXP",
+          "channel_id": "UCNk1fIqYAWED1wbTREqu2Ww",
+          "subscribers": 5,
+          "thumbnail": "https://i.ytimg.com/vi/EoVDPdj43w8/mqdefault.jpg",
+          "published_at": "2026-08-25T12:17:09Z",
+          "url": "https://www.youtube.com/watch?v=EoVDPdj43w8"
         },
         {
-          "id": "0dIjjw8ZUZ4",
-          "title": "GTA 1 to GTA 5 Evolution #episode3  | NOVEX GTA #gta5 #gta6 #gtaonline",
-          "channel": "Novex GTA",
-          "channel_id": "UC1GBMY9BtPI9VWAhHG0PWhA",
-          "subscribers": 1,
-          "thumbnail": "https://i.ytimg.com/vi/0dIjjw8ZUZ4/mqdefault.jpg",
-          "published_at": "2026-08-25T06:20:16Z",
-          "url": "https://www.youtube.com/watch?v=0dIjjw8ZUZ4"
+          "id": "DKWV5hh5IVg",
+          "title": "HULK vs KING KONG in GTA 5! 💥 Ultimate Monster Battle LIVE! 🦍💚 Part 12 #gta5 #hulk #kingkong",
+          "channel": "Suraj Lohni",
+          "channel_id": "UCIknFR9lCz0_hHIVebxwEmA",
+          "subscribers": 27,
+          "thumbnail": "https://i.ytimg.com/vi/DKWV5hh5IVg/mqdefault.jpg",
+          "published_at": "2026-08-25T12:15:28Z",
+          "url": "https://www.youtube.com/watch?v=DKWV5hh5IVg"
         },
         {
-          "id": "fgEdDwjCdqA",
-          "title": "GTA 5 LIVE | #gtalive  #gtaonline #gta5 #gtav #gaming",
-          "channel": "GG GTA ",
-          "channel_id": "UCIf6gpyZ-CYZEjEzTbVs7LA",
-          "subscribers": 1700,
-          "thumbnail": "https://i.ytimg.com/vi/fgEdDwjCdqA/mqdefault.jpg",
-          "published_at": "2026-08-25T06:16:14Z",
-          "url": "https://www.youtube.com/watch?v=fgEdDwjCdqA"
+          "id": "3HWeZLyQN2g",
+          "title": "GTA V LIVE | LOS SANTOS CHAOS AND RACING 🔥 | #gta5 #gtav #gtalive #gaming",
+          "channel": "Eleven11x",
+          "channel_id": "UCb121WShjcpEutmaNqU0HiQ",
+          "subscribers": 4110,
+          "thumbnail": "https://i.ytimg.com/vi/3HWeZLyQN2g/mqdefault.jpg",
+          "published_at": "2026-08-25T12:09:09Z",
+          "url": "https://www.youtube.com/watch?v=3HWeZLyQN2g"
         }
       ],
       "first_detected_at": "2026-08-25T06:27:59.931699+00:00",
-      "last_seen_at": "2026-08-25T06:27:59.931699+00:00"
+      "last_seen_at": "2026-08-25T12:27:41.731395+00:00"
     },
     {
       "phrase": "real end twist",
-      "video_count": 28,
+      "video_count": 26,
       "channel_count": 24,
-      "total_channels_seen": 26,
+      "total_channels_seen": 27,
       "uploads_per_hour": 2.0,
       "window_hours": 12,
       "example_videos": [
         {
-          "id": "GwVMQTYMuBo",
-          "title": "Tom 🍓 Jerry (Milan_Dad&amp;Mom)Real End Twist😍🎈 #shorts #baby #tomandjerry #onam #getreadywithme",
-          "channel": "Milan Hriday",
-          "channel_id": "UCUmXN0P7kxrwNDaAeWuII_A",
-          "subscribers": 94,
-          "thumbnail": "https://i.ytimg.com/vi/GwVMQTYMuBo/mqdefault.jpg",
-          "published_at": "2026-08-25T06:21:06Z",
-          "url": "https://www.youtube.com/watch?v=GwVMQTYMuBo"
+          "id": "UaedQ1FgZ5o",
+          "title": "Tom 🍓Jerry (Mifra❤️ Play Silde) Real End Twist😂🎈 #shorts #mifrakhanofficial",
+          "channel": "Mifra Khan Official",
+          "channel_id": "UCzbnCVS0x43GMJyWNw9GAxg",
+          "subscribers": 35,
+          "thumbnail": "https://i.ytimg.com/vi/UaedQ1FgZ5o/mqdefault.jpg",
+          "published_at": "2026-08-25T12:19:57Z",
+          "url": "https://www.youtube.com/watch?v=UaedQ1FgZ5o"
         },
         {
-          "id": "o5QhXqaZP00",
-          "title": "Real End Twist😂#shorts",
-          "channel": "A1 Pikun",
-          "channel_id": "UCJUhCYtQZ5XCwh7aOcuyIOw",
-          "subscribers": 18,
-          "thumbnail": "https://i.ytimg.com/vi/o5QhXqaZP00/mqdefault.jpg",
-          "published_at": "2026-08-25T06:20:26Z",
-          "url": "https://www.youtube.com/watch?v=o5QhXqaZP00"
+          "id": "zvoPFUAw7ww",
+          "title": "😱Ada paavi🤪Real End Twist😂 #funny #comedy #trendingshorts #food #shorts #ytshorts",
+          "channel": "Krishna Anjali ",
+          "channel_id": "UCSt4s1yQ38NBPBaqb0qefsA",
+          "subscribers": 2560,
+          "thumbnail": "https://i.ytimg.com/vi/zvoPFUAw7ww/mqdefault.jpg",
+          "published_at": "2026-08-25T12:15:02Z",
+          "url": "https://www.youtube.com/watch?v=zvoPFUAw7ww"
         },
         {
-          "id": "8b0Wmj_LgcU",
-          "title": "Real or twist👻 wait for end🙃🙂#shorts",
-          "channel": "Rahul Mahour ",
-          "channel_id": "UCsbVuQU9T-_gFmWuHNI93Tw",
-          "subscribers": 0,
-          "thumbnail": "https://i.ytimg.com/vi/8b0Wmj_LgcU/mqdefault.jpg",
-          "published_at": "2026-08-25T06:16:59Z",
-          "url": "https://www.youtube.com/watch?v=8b0Wmj_LgcU"
+          "id": "yjKZh2Jhj_E",
+          "title": "#luckygameplay Real end twist 🥺#shortsBuilding Wooded Log Cabin in Forest 🌲🥰 Survival House Step",
+          "channel": "RAHU FACT 1M",
+          "channel_id": "UC4afYS6i3TfxilO3hBUHj5A",
+          "subscribers": 335000,
+          "thumbnail": "https://i.ytimg.com/vi/yjKZh2Jhj_E/mqdefault.jpg",
+          "published_at": "2026-08-25T12:13:53Z",
+          "url": "https://www.youtube.com/watch?v=yjKZh2Jhj_E"
         },
         {
-          "id": "legaMXOOQ_c",
-          "title": "😡Ada paavi🤔 real end twist😂 #comedy #funny (ssofficial)#trending #fun 😂",
-          "channel": "SS Official Short",
-          "channel_id": "UCAGtb-8e3K56Ti3TMLkpTVg",
-          "subscribers": 456000,
-          "thumbnail": "https://i.ytimg.com/vi/legaMXOOQ_c/mqdefault.jpg",
-          "published_at": "2026-08-25T06:02:26Z",
-          "url": "https://www.youtube.com/watch?v=legaMXOOQ_c"
+          "id": "n7w0_dlkdFA",
+          "title": "ഉത്രാടപ്പാച്ചിൽ 😂 real end twist 😆",
+          "channel": "Rudhrus World",
+          "channel_id": "UCxbyEtG0nbtamgydi0E3j-A",
+          "subscribers": 678000,
+          "thumbnail": "https://i.ytimg.com/vi/n7w0_dlkdFA/mqdefault.jpg",
+          "published_at": "2026-08-25T12:00:22Z",
+          "url": "https://www.youtube.com/watch?v=n7w0_dlkdFA"
         }
       ],
       "first_detected_at": "2026-08-24T06:36:19.104124+00:00",
-      "last_seen_at": "2026-08-25T06:27:59.931699+00:00"
+      "last_seen_at": "2026-08-25T12:27:41.731395+00:00"
     },
     {
       "phrase": "cricket unboxing ball",
-      "video_count": 8,
-      "channel_count": 8,
-      "total_channels_seen": 8,
-      "uploads_per_hour": 0.67,
+      "video_count": 17,
+      "channel_count": 16,
+      "total_channels_seen": 16,
+      "uploads_per_hour": 1.33,
       "window_hours": 12,
       "example_videos": [
         {
-          "id": "YgipBMZWMeA",
-          "title": "pov: Gully cricket ka power hitter 🏏 #cricket",
-          "channel": "Ayush Singh",
-          "channel_id": "UCZ1CDV0pTKRQt-zdPbhDKMA",
-          "subscribers": 847,
-          "thumbnail": "https://i.ytimg.com/vi/YgipBMZWMeA/mqdefault.jpg",
-          "published_at": "2026-08-25T06:06:29Z",
-          "url": "https://www.youtube.com/watch?v=YgipBMZWMeA"
+          "id": "zd6NjsnHo5s",
+          "title": "unboxing balls cricket #youtubeshorts #cricket #unboxing #cricketball #amazon",
+          "channel": "cricketballs",
+          "channel_id": "UCBkut1LR06oXvNrOAY9oz_g",
+          "subscribers": 3,
+          "thumbnail": "https://i.ytimg.com/vi/zd6NjsnHo5s/mqdefault.jpg",
+          "published_at": "2026-08-25T11:56:19Z",
+          "url": "https://www.youtube.com/watch?v=zd6NjsnHo5s"
         },
         {
-          "id": "PiRfIcBDCJU",
-          "title": "Opponent Lefty Batsman 🏏☠️#cricket #shorts #viratkohli #gullycricket",
-          "channel": "Pookie_Editz18",
-          "channel_id": "UCzx3OCRNMBBAfBEagmlyitQ",
-          "subscribers": 89500,
-          "thumbnail": "https://i.ytimg.com/vi/PiRfIcBDCJU/mqdefault.jpg",
-          "published_at": "2026-08-25T06:00:23Z",
-          "url": "https://www.youtube.com/watch?v=PiRfIcBDCJU"
+          "id": "czi435IVmNI",
+          "title": "Rishi Sports 🏏👍🏻 Top Quality cricket Leather Ball 70 over Capacity 👍🏻 order Now #shorts",
+          "channel": "CHIRAG (meerut)",
+          "channel_id": "UCDKhrC5BYxaw5V9p4hwv8nw",
+          "subscribers": 173,
+          "thumbnail": "https://i.ytimg.com/vi/czi435IVmNI/mqdefault.jpg",
+          "published_at": "2026-08-25T11:53:49Z",
+          "url": "https://www.youtube.com/watch?v=czi435IVmNI"
         },
         {
-          "id": "6_Tj8Z-bbX0",
-          "title": "Pov- That one bowler🏏☠️#shorts #cricket #gullycricket #viratkohli",
-          "channel": " Storm editz 33",
-          "channel_id": "UCJnsWEszrJiK-tGsQSDKu0Q",
-          "subscribers": 15500,
-          "thumbnail": "https://i.ytimg.com/vi/6_Tj8Z-bbX0/mqdefault.jpg",
-          "published_at": "2026-08-25T05:00:37Z",
-          "url": "https://www.youtube.com/watch?v=6_Tj8Z-bbX0"
+          "id": "RVTQZ1YHAqM",
+          "title": "silent basketball 🤫 #cricket #youtubeshorts #shorts #ytshorts #unboxing #collection #shortvideo",
+          "channel": "Ai Studio Jitu",
+          "channel_id": "UCSKMtRhwo8q62S-5pJeMfKw",
+          "subscribers": 626,
+          "thumbnail": "https://i.ytimg.com/vi/RVTQZ1YHAqM/mqdefault.jpg",
+          "published_at": "2026-08-25T08:29:30Z",
+          "url": "https://www.youtube.com/watch?v=RVTQZ1YHAqM"
         },
         {
-          "id": "HmggI4j9wrs",
-          "title": "18 ball challenge 😱 #cricket #cricketlover #trendingnow #shorts #funny #ipl #viral #tournament#insta",
-          "channel": "Apna cricket",
-          "channel_id": "UCY-HrDqGfomLiLtNGSO1qow",
-          "subscribers": 662,
-          "thumbnail": "https://i.ytimg.com/vi/HmggI4j9wrs/mqdefault.jpg",
-          "published_at": "2026-08-25T04:00:00Z",
-          "url": "https://www.youtube.com/watch?v=HmggI4j9wrs"
+          "id": "2yma6BNe33o",
+          "title": "unboxing of cricket ball 🤔 #cricketlover #jaspritbumrahwickets #jaspritbumrah #jaspritbumrah",
+          "channel": "Ms sports News",
+          "channel_id": "UCiM_VW-b1iQUeOXykGT7v6Q",
+          "subscribers": 35,
+          "thumbnail": "https://i.ytimg.com/vi/2yma6BNe33o/mqdefault.jpg",
+          "published_at": "2026-08-25T07:49:23Z",
+          "url": "https://www.youtube.com/watch?v=2yma6BNe33o"
         }
       ],
       "first_detected_at": "2026-08-25T06:27:59.931699+00:00",
-      "last_seen_at": "2026-08-25T06:27:59.931699+00:00"
+      "last_seen_at": "2026-08-25T12:27:41.731395+00:00"
+    },
+    {
+      "phrase": "youtubeshorts cricket unboxing",
+      "video_count": 9,
+      "channel_count": 9,
+      "total_channels_seen": 9,
+      "uploads_per_hour": 0.75,
+      "window_hours": 12,
+      "example_videos": [
+        {
+          "id": "zd6NjsnHo5s",
+          "title": "unboxing balls cricket #youtubeshorts #cricket #unboxing #cricketball #amazon",
+          "channel": "cricketballs",
+          "channel_id": "UCBkut1LR06oXvNrOAY9oz_g",
+          "subscribers": 3,
+          "thumbnail": "https://i.ytimg.com/vi/zd6NjsnHo5s/mqdefault.jpg",
+          "published_at": "2026-08-25T11:56:19Z",
+          "url": "https://www.youtube.com/watch?v=zd6NjsnHo5s"
+        },
+        {
+          "id": "RVTQZ1YHAqM",
+          "title": "silent basketball 🤫 #cricket #youtubeshorts #shorts #ytshorts #unboxing #collection #shortvideo",
+          "channel": "Ai Studio Jitu",
+          "channel_id": "UCSKMtRhwo8q62S-5pJeMfKw",
+          "subscribers": 626,
+          "thumbnail": "https://i.ytimg.com/vi/RVTQZ1YHAqM/mqdefault.jpg",
+          "published_at": "2026-08-25T08:29:30Z",
+          "url": "https://www.youtube.com/watch?v=RVTQZ1YHAqM"
+        },
+        {
+          "id": "tFGm2QsNBak",
+          "title": "Kitni Andar Ball Fenki hai 😂 #cricket #cricketshorts",
+          "channel": "Ajay ",
+          "channel_id": "UCGgczNs4UHe9sfIEq4WP0cA",
+          "subscribers": 34400,
+          "thumbnail": "https://i.ytimg.com/vi/tFGm2QsNBak/mqdefault.jpg",
+          "published_at": "2026-08-25T07:37:44Z",
+          "url": "https://www.youtube.com/watch?v=tFGm2QsNBak"
+        },
+        {
+          "id": "x6-ZVv0FPkU",
+          "title": "🏏 I Unboxed the TINIEST Cricket Bat Ever! 😱 #shorts #cricket #miniature #viral #trending",
+          "channel": "The AI Unboxing",
+          "channel_id": "UCfvykplnkfbRXDXP8EtDWKA",
+          "subscribers": 39,
+          "thumbnail": "https://i.ytimg.com/vi/x6-ZVv0FPkU/mqdefault.jpg",
+          "published_at": "2026-08-25T07:15:30Z",
+          "url": "https://www.youtube.com/watch?v=x6-ZVv0FPkU"
+        }
+      ],
+      "first_detected_at": "2026-08-25T12:27:41.731395+00:00",
+      "last_seen_at": "2026-08-25T12:27:41.731395+00:00"
     }
   ],
   "topics": [
     {
-      "phrase": "indian",
-      "video_count": 5,
-      "momentum": 24.88,
-      "regions": [
-        "IN"
-      ],
-      "lang": "en",
-      "example_videos": [
-        {
-          "id": "9sQ9IzvBZp4",
-          "title": "Ajnabee The Unknown - Indian Horror Game",
-          "channel": "Live Insaan",
-          "thumbnail": "https://i.ytimg.com/vi/9sQ9IzvBZp4/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=9sQ9IzvBZp4",
-          "views": 710046,
-          "age_hours": 18.0
-        },
-        {
-          "id": "kGrp0ak7a70",
-          "title": "Indian Bike Driving 3d 🔥 #shortsfeed #shortslive #shorts #live #gaming",
-          "channel": "Galax Gamer",
-          "thumbnail": "https://i.ytimg.com/vi/kGrp0ak7a70/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=kGrp0ak7a70",
-          "views": 549900,
-          "age_hours": 3.1
-        },
-        {
-          "id": "SNPN86edrJo",
-          "title": "Kaate wali chamach 😂🔥| Indian family #shorts #indian #chaman #relatable #chotabhai #bachpan #funny",
-          "channel": "We r Loser",
-          "thumbnail": "https://i.ytimg.com/vi/SNPN86edrJo/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=SNPN86edrJo",
-          "views": 7494247,
-          "age_hours": 159.6
-        }
-      ]
-    },
-    {
       "phrase": "gta live",
-      "video_count": 3,
-      "momentum": 20.44,
+      "video_count": 4,
+      "momentum": 24.85,
       "regions": [
         "IN"
       ],
@@ -423,17 +437,8 @@
           "channel": "PAJI IS LIVE",
           "thumbnail": "https://i.ytimg.com/vi/143E51NKfIg/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=143E51NKfIg",
-          "views": 1004727,
-          "age_hours": 1.0
-        },
-        {
-          "id": "ZRjW4kU8hiQ",
-          "title": "🔴GTA 5 LIVE 🔥#gta5 #gtav #gaming",
-          "channel": "ADITYAISLIVE",
-          "thumbnail": "https://i.ytimg.com/vi/ZRjW4kU8hiQ/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=ZRjW4kU8hiQ",
-          "views": 450018,
-          "age_hours": 3.2
+          "views": 1419268,
+          "age_hours": 6.2
         },
         {
           "id": "QXJ-uEwV1BU",
@@ -441,15 +446,62 @@
           "channel": "RapterJOD",
           "thumbnail": "https://i.ytimg.com/vi/QXJ-uEwV1BU/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=QXJ-uEwV1BU",
-          "views": 1147965,
-          "age_hours": 9.5
+          "views": 1148161,
+          "age_hours": 15.4
+        },
+        {
+          "id": "4b8pMjev9TQ",
+          "title": "GTA 5 LIVE | MRRAJAPLAY #gtalive #gtaonline #gta5 #gtav #gaming",
+          "channel": "MR RAJA PLAYZONE",
+          "thumbnail": "https://i.ytimg.com/vi/4b8pMjev9TQ/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=4b8pMjev9TQ",
+          "views": 3014895,
+          "age_hours": 40.7
+        }
+      ]
+    },
+    {
+      "phrase": "gta5 gtav gaming",
+      "video_count": 3,
+      "momentum": 22.51,
+      "regions": [
+        "IN"
+      ],
+      "lang": "en",
+      "example_videos": [
+        {
+          "id": "143E51NKfIg",
+          "title": "GTA 5 LIVE  #gta5 #gtav #gaming",
+          "channel": "PAJI IS LIVE",
+          "thumbnail": "https://i.ytimg.com/vi/143E51NKfIg/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=143E51NKfIg",
+          "views": 1419268,
+          "age_hours": 6.2
+        },
+        {
+          "id": "4b8pMjev9TQ",
+          "title": "GTA 5 LIVE | MRRAJAPLAY #gtalive #gtaonline #gta5 #gtav #gaming",
+          "channel": "MR RAJA PLAYZONE",
+          "thumbnail": "https://i.ytimg.com/vi/4b8pMjev9TQ/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=4b8pMjev9TQ",
+          "views": 3014895,
+          "age_hours": 40.7
+        },
+        {
+          "id": "ZRjW4kU8hiQ",
+          "title": "🔴GTA 5 LIVE 🔥#gta5 #gtav #gaming",
+          "channel": "ADITYAISLIVE",
+          "thumbnail": "https://i.ytimg.com/vi/ZRjW4kU8hiQ/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=ZRjW4kU8hiQ",
+          "views": 450076,
+          "age_hours": 9.2
         }
       ]
     },
     {
       "phrase": "rakshabandhan",
       "video_count": 4,
-      "momentum": 20.28,
+      "momentum": 20.33,
       "regions": [
         "IN"
       ],
@@ -461,8 +513,8 @@
           "channel": "Neetu Bisht",
           "thumbnail": "https://i.ytimg.com/vi/QM4t6wcGXIU/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=QM4t6wcGXIU",
-          "views": 2558153,
-          "age_hours": 26.0
+          "views": 3164943,
+          "age_hours": 32.0
         },
         {
           "id": "lAOUIRScmw8",
@@ -470,62 +522,100 @@
           "channel": "Priyal Kukreja",
           "thumbnail": "https://i.ytimg.com/vi/lAOUIRScmw8/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=lAOUIRScmw8",
-          "views": 31335212,
-          "age_hours": 279.9
+          "views": 31368512,
+          "age_hours": 285.9
         },
         {
-          "id": "wQfGnmJHofk",
-          "title": "Kids v/s legend😂on rakshabandhan #funnyvideo #comedy #comedyshorts #funnyshorts",
-          "channel": "Ketan mehta",
-          "thumbnail": "https://i.ytimg.com/vi/wQfGnmJHofk/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=wQfGnmJHofk",
-          "views": 4635543,
-          "age_hours": 65.5
+          "id": "_p4aPIy2M3w",
+          "title": "Raksha Bandhan 🥺😍 || #childhoodmemories #friends #relatable #rakshabandhan #dosti #rakhi",
+          "channel": "Prince Yuvraj Sen 09",
+          "thumbnail": "https://i.ytimg.com/vi/_p4aPIy2M3w/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=_p4aPIy2M3w",
+          "views": 5010134,
+          "age_hours": 79.9
         }
       ]
     },
     {
-      "phrase": "humor",
+      "phrase": "gta5",
       "video_count": 4,
-      "momentum": 18.93,
+      "momentum": 19.88,
       "regions": [
-        "BR"
+        "IN"
       ],
-      "lang": "pt",
+      "lang": "en",
       "example_videos": [
         {
-          "id": "IzqN9G1HgJ8",
-          "title": "Acho que ela não entendeu🤣#mindset #motivação #inspiração #felicidade #viral #divertido #humor",
-          "channel": "Marco Morastoni ",
-          "thumbnail": "https://i.ytimg.com/vi/IzqN9G1HgJ8/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=IzqN9G1HgJ8",
-          "views": 1203368,
-          "age_hours": 16.2
+          "id": "143E51NKfIg",
+          "title": "GTA 5 LIVE  #gta5 #gtav #gaming",
+          "channel": "PAJI IS LIVE",
+          "thumbnail": "https://i.ytimg.com/vi/143E51NKfIg/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=143E51NKfIg",
+          "views": 1419268,
+          "age_hours": 6.2
         },
         {
-          "id": "O2T1RYNQCWk",
-          "title": "Eita esse peixe é diferente... #humor #comedia #trollagens #casal #memes",
-          "channel": "Casal Chupa Cabra",
-          "thumbnail": "https://i.ytimg.com/vi/O2T1RYNQCWk/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=O2T1RYNQCWk",
-          "views": 3021964,
-          "age_hours": 107.9
+          "id": "QXJ-uEwV1BU",
+          "title": "🔴GTA 5 LIVE - DON'T BLINK! SECRET MOD ACTIVATED🤯  #gta5 #gta5live #gaming",
+          "channel": "RapterJOD",
+          "thumbnail": "https://i.ytimg.com/vi/QXJ-uEwV1BU/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=QXJ-uEwV1BU",
+          "views": 1148161,
+          "age_hours": 15.4
         },
         {
-          "id": "JiTOZsgiV6g",
-          "title": "Encontro de gigantes 🦒😂#edit #humor #memes #fyp #animals",
-          "channel": "Tereza edições",
-          "thumbnail": "https://i.ytimg.com/vi/JiTOZsgiV6g/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=JiTOZsgiV6g",
-          "views": 1221268,
-          "age_hours": 56.5
+          "id": "4b8pMjev9TQ",
+          "title": "GTA 5 LIVE | MRRAJAPLAY #gtalive #gtaonline #gta5 #gtav #gaming",
+          "channel": "MR RAJA PLAYZONE",
+          "thumbnail": "https://i.ytimg.com/vi/4b8pMjev9TQ/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=4b8pMjev9TQ",
+          "views": 3014895,
+          "age_hours": 40.7
+        }
+      ]
+    },
+    {
+      "phrase": "indian",
+      "video_count": 4,
+      "momentum": 19.48,
+      "regions": [
+        "IN"
+      ],
+      "lang": "en",
+      "example_videos": [
+        {
+          "id": "9sQ9IzvBZp4",
+          "title": "Ajnabee The Unknown - Indian Horror Game",
+          "channel": "Live Insaan",
+          "thumbnail": "https://i.ytimg.com/vi/9sQ9IzvBZp4/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=9sQ9IzvBZp4",
+          "views": 1177940,
+          "age_hours": 24.0
+        },
+        {
+          "id": "fjdL9HXNsaw",
+          "title": "Papa ka belt collection 😂🔥| Indian family #shorts #indian #chaman #relatable #chotabhai #bachpan",
+          "channel": "We r Loser",
+          "thumbnail": "https://i.ytimg.com/vi/fjdL9HXNsaw/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=fjdL9HXNsaw",
+          "views": 4874807,
+          "age_hours": 69.6
+        },
+        {
+          "id": "5Ts6CjmBHwE",
+          "title": "Jagiya ka new guitar🎸🔥| Indian family😂|| #shorts #indian #relatable #guitar #chotabhai #comedy",
+          "channel": "Jagiya the fun",
+          "thumbnail": "https://i.ytimg.com/vi/5Ts6CjmBHwE/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=5Ts6CjmBHwE",
+          "views": 3519599,
+          "age_hours": 67.3
         }
       ]
     },
     {
       "phrase": "minecraft",
       "video_count": 4,
-      "momentum": 18.55,
+      "momentum": 18.44,
       "regions": [
         "IN"
       ],
@@ -537,8 +627,8 @@
           "channel": "ProBoiz 95",
           "thumbnail": "https://i.ytimg.com/vi/CN1JWY0fUbI/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=CN1JWY0fUbI",
-          "views": 3932662,
-          "age_hours": 87.6
+          "views": 4107405,
+          "age_hours": 93.6
         },
         {
           "id": "T0zvQ8ASGLU",
@@ -546,8 +636,8 @@
           "channel": "Carry Depie",
           "thumbnail": "https://i.ytimg.com/vi/T0zvQ8ASGLU/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=T0zvQ8ASGLU",
-          "views": 1298110,
-          "age_hours": 41.8
+          "views": 1396489,
+          "age_hours": 47.7
         },
         {
           "id": "qqhh8A6_axo",
@@ -555,102 +645,160 @@
           "channel": "Karry Kraft",
           "thumbnail": "https://i.ytimg.com/vi/qqhh8A6_axo/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=qqhh8A6_axo",
-          "views": 452844,
-          "age_hours": 20.4
+          "views": 548861,
+          "age_hours": 26.4
         }
       ]
     },
     {
-      "phrase": "gta live gta5",
+      "phrase": "ball shorts youtubeshorts",
       "video_count": 2,
-      "momentum": 16.9,
+      "momentum": 16.44,
       "regions": [
         "IN"
       ],
       "lang": "en",
       "example_videos": [
         {
-          "id": "143E51NKfIg",
-          "title": "GTA 5 LIVE  #gta5 #gtav #gaming",
-          "channel": "PAJI IS LIVE",
-          "thumbnail": "https://i.ytimg.com/vi/143E51NKfIg/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=143E51NKfIg",
-          "views": 1004727,
-          "age_hours": 1.0
+          "id": "iP2xwEDoeUk",
+          "title": "HAIR CLIP BALL 💇🏻📎⚾ #shorts #youtubeshorts #cricket #unboxing #ball #funny",
+          "channel": "Box Of Vengeance",
+          "thumbnail": "https://i.ytimg.com/vi/iP2xwEDoeUk/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=iP2xwEDoeUk",
+          "views": 5373361,
+          "age_hours": 56.0
         },
         {
-          "id": "ZRjW4kU8hiQ",
-          "title": "🔴GTA 5 LIVE 🔥#gta5 #gtav #gaming",
-          "channel": "ADITYAISLIVE",
-          "thumbnail": "https://i.ytimg.com/vi/ZRjW4kU8hiQ/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=ZRjW4kU8hiQ",
-          "views": 450018,
-          "age_hours": 3.2
+          "id": "1GebsCjUlCc",
+          "title": "BOOST MOON BALL 🧋🌕⚾ #shorts #youtubeshorts #cricket #unboxing #ball #funny",
+          "channel": "Box Of Vengeance",
+          "thumbnail": "https://i.ytimg.com/vi/1GebsCjUlCc/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=1GebsCjUlCc",
+          "views": 8297016,
+          "age_hours": 99.9
         }
       ]
     },
     {
-      "phrase": "live gta5 gtav",
+      "phrase": "shorts youtubeshorts cricket",
       "video_count": 2,
-      "momentum": 16.9,
+      "momentum": 16.44,
       "regions": [
         "IN"
       ],
       "lang": "en",
       "example_videos": [
         {
-          "id": "143E51NKfIg",
-          "title": "GTA 5 LIVE  #gta5 #gtav #gaming",
-          "channel": "PAJI IS LIVE",
-          "thumbnail": "https://i.ytimg.com/vi/143E51NKfIg/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=143E51NKfIg",
-          "views": 1004727,
-          "age_hours": 1.0
+          "id": "iP2xwEDoeUk",
+          "title": "HAIR CLIP BALL 💇🏻📎⚾ #shorts #youtubeshorts #cricket #unboxing #ball #funny",
+          "channel": "Box Of Vengeance",
+          "thumbnail": "https://i.ytimg.com/vi/iP2xwEDoeUk/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=iP2xwEDoeUk",
+          "views": 5373361,
+          "age_hours": 56.0
         },
         {
-          "id": "ZRjW4kU8hiQ",
-          "title": "🔴GTA 5 LIVE 🔥#gta5 #gtav #gaming",
-          "channel": "ADITYAISLIVE",
-          "thumbnail": "https://i.ytimg.com/vi/ZRjW4kU8hiQ/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=ZRjW4kU8hiQ",
-          "views": 450018,
-          "age_hours": 3.2
+          "id": "1GebsCjUlCc",
+          "title": "BOOST MOON BALL 🧋🌕⚾ #shorts #youtubeshorts #cricket #unboxing #ball #funny",
+          "channel": "Box Of Vengeance",
+          "thumbnail": "https://i.ytimg.com/vi/1GebsCjUlCc/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=1GebsCjUlCc",
+          "views": 8297016,
+          "age_hours": 99.9
         }
       ]
     },
     {
-      "phrase": "gta5 gtav gaming",
+      "phrase": "youtubeshorts cricket unboxing",
       "video_count": 2,
-      "momentum": 16.9,
+      "momentum": 16.44,
       "regions": [
         "IN"
       ],
       "lang": "en",
       "example_videos": [
         {
-          "id": "143E51NKfIg",
-          "title": "GTA 5 LIVE  #gta5 #gtav #gaming",
-          "channel": "PAJI IS LIVE",
-          "thumbnail": "https://i.ytimg.com/vi/143E51NKfIg/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=143E51NKfIg",
-          "views": 1004727,
-          "age_hours": 1.0
+          "id": "iP2xwEDoeUk",
+          "title": "HAIR CLIP BALL 💇🏻📎⚾ #shorts #youtubeshorts #cricket #unboxing #ball #funny",
+          "channel": "Box Of Vengeance",
+          "thumbnail": "https://i.ytimg.com/vi/iP2xwEDoeUk/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=iP2xwEDoeUk",
+          "views": 5373361,
+          "age_hours": 56.0
         },
         {
-          "id": "ZRjW4kU8hiQ",
-          "title": "🔴GTA 5 LIVE 🔥#gta5 #gtav #gaming",
-          "channel": "ADITYAISLIVE",
-          "thumbnail": "https://i.ytimg.com/vi/ZRjW4kU8hiQ/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=ZRjW4kU8hiQ",
-          "views": 450018,
-          "age_hours": 3.2
+          "id": "1GebsCjUlCc",
+          "title": "BOOST MOON BALL 🧋🌕⚾ #shorts #youtubeshorts #cricket #unboxing #ball #funny",
+          "channel": "Box Of Vengeance",
+          "thumbnail": "https://i.ytimg.com/vi/1GebsCjUlCc/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=1GebsCjUlCc",
+          "views": 8297016,
+          "age_hours": 99.9
+        }
+      ]
+    },
+    {
+      "phrase": "cricket unboxing ball",
+      "video_count": 2,
+      "momentum": 16.44,
+      "regions": [
+        "IN"
+      ],
+      "lang": "en",
+      "example_videos": [
+        {
+          "id": "iP2xwEDoeUk",
+          "title": "HAIR CLIP BALL 💇🏻📎⚾ #shorts #youtubeshorts #cricket #unboxing #ball #funny",
+          "channel": "Box Of Vengeance",
+          "thumbnail": "https://i.ytimg.com/vi/iP2xwEDoeUk/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=iP2xwEDoeUk",
+          "views": 5373361,
+          "age_hours": 56.0
+        },
+        {
+          "id": "1GebsCjUlCc",
+          "title": "BOOST MOON BALL 🧋🌕⚾ #shorts #youtubeshorts #cricket #unboxing #ball #funny",
+          "channel": "Box Of Vengeance",
+          "thumbnail": "https://i.ytimg.com/vi/1GebsCjUlCc/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=1GebsCjUlCc",
+          "views": 8297016,
+          "age_hours": 99.9
+        }
+      ]
+    },
+    {
+      "phrase": "unboxing ball funny",
+      "video_count": 2,
+      "momentum": 16.44,
+      "regions": [
+        "IN"
+      ],
+      "lang": "en",
+      "example_videos": [
+        {
+          "id": "iP2xwEDoeUk",
+          "title": "HAIR CLIP BALL 💇🏻📎⚾ #shorts #youtubeshorts #cricket #unboxing #ball #funny",
+          "channel": "Box Of Vengeance",
+          "thumbnail": "https://i.ytimg.com/vi/iP2xwEDoeUk/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=iP2xwEDoeUk",
+          "views": 5373361,
+          "age_hours": 56.0
+        },
+        {
+          "id": "1GebsCjUlCc",
+          "title": "BOOST MOON BALL 🧋🌕⚾ #shorts #youtubeshorts #cricket #unboxing #ball #funny",
+          "channel": "Box Of Vengeance",
+          "thumbnail": "https://i.ytimg.com/vi/1GebsCjUlCc/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=1GebsCjUlCc",
+          "views": 8297016,
+          "age_hours": 99.9
         }
       ]
     },
     {
       "phrase": "iphone",
       "video_count": 4,
-      "momentum": 16.55,
+      "momentum": 16.35,
       "regions": [
         "IN"
       ],
@@ -662,8 +810,8 @@
           "channel": "Prasadtechintelugu",
           "thumbnail": "https://i.ytimg.com/vi/ueKmw6LFjxc/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=ueKmw6LFjxc",
-          "views": 170353,
-          "age_hours": 16.4
+          "views": 204518,
+          "age_hours": 22.4
         },
         {
           "id": "xjmWZ1-H39M",
@@ -671,8 +819,8 @@
           "channel": "Tech Satire",
           "thumbnail": "https://i.ytimg.com/vi/xjmWZ1-H39M/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=xjmWZ1-H39M",
-          "views": 231332,
-          "age_hours": 89.6
+          "views": 236366,
+          "age_hours": 95.6
         },
         {
           "id": "RPDHaDbts8w",
@@ -680,153 +828,8 @@
           "channel": "Tamil Tech - MrTT",
           "thumbnail": "https://i.ytimg.com/vi/RPDHaDbts8w/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=RPDHaDbts8w",
-          "views": 829278,
-          "age_hours": 236.0
-        }
-      ]
-    },
-    {
-      "phrase": "ball shorts youtubeshorts",
-      "video_count": 2,
-      "momentum": 16.5,
-      "regions": [
-        "IN"
-      ],
-      "lang": "en",
-      "example_videos": [
-        {
-          "id": "iP2xwEDoeUk",
-          "title": "HAIR CLIP BALL 💇🏻📎⚾ #shorts #youtubeshorts #cricket #unboxing #ball #funny",
-          "channel": "Box Of Vengeance",
-          "thumbnail": "https://i.ytimg.com/vi/iP2xwEDoeUk/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=iP2xwEDoeUk",
-          "views": 5061018,
-          "age_hours": 50.0
-        },
-        {
-          "id": "1GebsCjUlCc",
-          "title": "BOOST MOON BALL 🧋🌕⚾ #shorts #youtubeshorts #cricket #unboxing #ball #funny",
-          "channel": "Box Of Vengeance",
-          "thumbnail": "https://i.ytimg.com/vi/1GebsCjUlCc/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=1GebsCjUlCc",
-          "views": 7907061,
-          "age_hours": 94.0
-        }
-      ]
-    },
-    {
-      "phrase": "shorts youtubeshorts cricket",
-      "video_count": 2,
-      "momentum": 16.5,
-      "regions": [
-        "IN"
-      ],
-      "lang": "en",
-      "example_videos": [
-        {
-          "id": "iP2xwEDoeUk",
-          "title": "HAIR CLIP BALL 💇🏻📎⚾ #shorts #youtubeshorts #cricket #unboxing #ball #funny",
-          "channel": "Box Of Vengeance",
-          "thumbnail": "https://i.ytimg.com/vi/iP2xwEDoeUk/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=iP2xwEDoeUk",
-          "views": 5061018,
-          "age_hours": 50.0
-        },
-        {
-          "id": "1GebsCjUlCc",
-          "title": "BOOST MOON BALL 🧋🌕⚾ #shorts #youtubeshorts #cricket #unboxing #ball #funny",
-          "channel": "Box Of Vengeance",
-          "thumbnail": "https://i.ytimg.com/vi/1GebsCjUlCc/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=1GebsCjUlCc",
-          "views": 7907061,
-          "age_hours": 94.0
-        }
-      ]
-    },
-    {
-      "phrase": "youtubeshorts cricket unboxing",
-      "video_count": 2,
-      "momentum": 16.5,
-      "regions": [
-        "IN"
-      ],
-      "lang": "en",
-      "example_videos": [
-        {
-          "id": "iP2xwEDoeUk",
-          "title": "HAIR CLIP BALL 💇🏻📎⚾ #shorts #youtubeshorts #cricket #unboxing #ball #funny",
-          "channel": "Box Of Vengeance",
-          "thumbnail": "https://i.ytimg.com/vi/iP2xwEDoeUk/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=iP2xwEDoeUk",
-          "views": 5061018,
-          "age_hours": 50.0
-        },
-        {
-          "id": "1GebsCjUlCc",
-          "title": "BOOST MOON BALL 🧋🌕⚾ #shorts #youtubeshorts #cricket #unboxing #ball #funny",
-          "channel": "Box Of Vengeance",
-          "thumbnail": "https://i.ytimg.com/vi/1GebsCjUlCc/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=1GebsCjUlCc",
-          "views": 7907061,
-          "age_hours": 94.0
-        }
-      ]
-    },
-    {
-      "phrase": "cricket unboxing ball",
-      "video_count": 2,
-      "momentum": 16.5,
-      "regions": [
-        "IN"
-      ],
-      "lang": "en",
-      "example_videos": [
-        {
-          "id": "iP2xwEDoeUk",
-          "title": "HAIR CLIP BALL 💇🏻📎⚾ #shorts #youtubeshorts #cricket #unboxing #ball #funny",
-          "channel": "Box Of Vengeance",
-          "thumbnail": "https://i.ytimg.com/vi/iP2xwEDoeUk/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=iP2xwEDoeUk",
-          "views": 5061018,
-          "age_hours": 50.0
-        },
-        {
-          "id": "1GebsCjUlCc",
-          "title": "BOOST MOON BALL 🧋🌕⚾ #shorts #youtubeshorts #cricket #unboxing #ball #funny",
-          "channel": "Box Of Vengeance",
-          "thumbnail": "https://i.ytimg.com/vi/1GebsCjUlCc/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=1GebsCjUlCc",
-          "views": 7907061,
-          "age_hours": 94.0
-        }
-      ]
-    },
-    {
-      "phrase": "unboxing ball funny",
-      "video_count": 2,
-      "momentum": 16.5,
-      "regions": [
-        "IN"
-      ],
-      "lang": "en",
-      "example_videos": [
-        {
-          "id": "iP2xwEDoeUk",
-          "title": "HAIR CLIP BALL 💇🏻📎⚾ #shorts #youtubeshorts #cricket #unboxing #ball #funny",
-          "channel": "Box Of Vengeance",
-          "thumbnail": "https://i.ytimg.com/vi/iP2xwEDoeUk/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=iP2xwEDoeUk",
-          "views": 5061018,
-          "age_hours": 50.0
-        },
-        {
-          "id": "1GebsCjUlCc",
-          "title": "BOOST MOON BALL 🧋🌕⚾ #shorts #youtubeshorts #cricket #unboxing #ball #funny",
-          "channel": "Box Of Vengeance",
-          "thumbnail": "https://i.ytimg.com/vi/1GebsCjUlCc/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=1GebsCjUlCc",
-          "views": 7907061,
-          "age_hours": 94.0
+          "views": 835081,
+          "age_hours": 242.0
         }
       ]
     },
@@ -845,8 +848,8 @@
           "channel": "KL BRO Biju Rithvik",
           "thumbnail": "https://i.ytimg.com/vi/UgY3UJwV4Nk/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=UgY3UJwV4Nk",
-          "views": 5038722,
-          "age_hours": 69.8
+          "views": 5487318,
+          "age_hours": 75.8
         },
         {
           "id": "RguAR4_Q6Wo",
@@ -854,28 +857,86 @@
           "channel": "vlog 4u",
           "thumbnail": "https://i.ytimg.com/vi/RguAR4_Q6Wo/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=RguAR4_Q6Wo",
-          "views": 4440224,
-          "age_hours": 69.3
+          "views": 4859831,
+          "age_hours": 75.3
+        }
+      ]
+    },
+    {
+      "phrase": "gta live gta5",
+      "video_count": 2,
+      "momentum": 15.2,
+      "regions": [
+        "IN"
+      ],
+      "lang": "en",
+      "example_videos": [
+        {
+          "id": "143E51NKfIg",
+          "title": "GTA 5 LIVE  #gta5 #gtav #gaming",
+          "channel": "PAJI IS LIVE",
+          "thumbnail": "https://i.ytimg.com/vi/143E51NKfIg/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=143E51NKfIg",
+          "views": 1419268,
+          "age_hours": 6.2
+        },
+        {
+          "id": "ZRjW4kU8hiQ",
+          "title": "🔴GTA 5 LIVE 🔥#gta5 #gtav #gaming",
+          "channel": "ADITYAISLIVE",
+          "thumbnail": "https://i.ytimg.com/vi/ZRjW4kU8hiQ/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=ZRjW4kU8hiQ",
+          "views": 450076,
+          "age_hours": 9.2
+        }
+      ]
+    },
+    {
+      "phrase": "live gta5 gtav",
+      "video_count": 2,
+      "momentum": 15.2,
+      "regions": [
+        "IN"
+      ],
+      "lang": "en",
+      "example_videos": [
+        {
+          "id": "143E51NKfIg",
+          "title": "GTA 5 LIVE  #gta5 #gtav #gaming",
+          "channel": "PAJI IS LIVE",
+          "thumbnail": "https://i.ytimg.com/vi/143E51NKfIg/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=143E51NKfIg",
+          "views": 1419268,
+          "age_hours": 6.2
+        },
+        {
+          "id": "ZRjW4kU8hiQ",
+          "title": "🔴GTA 5 LIVE 🔥#gta5 #gtav #gaming",
+          "channel": "ADITYAISLIVE",
+          "thumbnail": "https://i.ytimg.com/vi/ZRjW4kU8hiQ/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=ZRjW4kU8hiQ",
+          "views": 450076,
+          "age_hours": 9.2
         }
       ]
     },
     {
       "phrase": "indian family shorts",
       "video_count": 2,
-      "momentum": 14.32,
+      "momentum": 14.54,
       "regions": [
         "IN"
       ],
       "lang": "en",
       "example_videos": [
         {
-          "id": "SNPN86edrJo",
-          "title": "Kaate wali chamach 😂🔥| Indian family #shorts #indian #chaman #relatable #chotabhai #bachpan #funny",
+          "id": "fjdL9HXNsaw",
+          "title": "Papa ka belt collection 😂🔥| Indian family #shorts #indian #chaman #relatable #chotabhai #bachpan",
           "channel": "We r Loser",
-          "thumbnail": "https://i.ytimg.com/vi/SNPN86edrJo/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=SNPN86edrJo",
-          "views": 7494247,
-          "age_hours": 159.6
+          "thumbnail": "https://i.ytimg.com/vi/fjdL9HXNsaw/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=fjdL9HXNsaw",
+          "views": 4874807,
+          "age_hours": 69.6
         },
         {
           "id": "5Ts6CjmBHwE",
@@ -883,28 +944,28 @@
           "channel": "Jagiya the fun",
           "thumbnail": "https://i.ytimg.com/vi/5Ts6CjmBHwE/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=5Ts6CjmBHwE",
-          "views": 3394553,
-          "age_hours": 61.3
+          "views": 3519599,
+          "age_hours": 67.3
         }
       ]
     },
     {
       "phrase": "family shorts indian",
       "video_count": 2,
-      "momentum": 14.32,
+      "momentum": 14.54,
       "regions": [
         "IN"
       ],
       "lang": "en",
       "example_videos": [
         {
-          "id": "SNPN86edrJo",
-          "title": "Kaate wali chamach 😂🔥| Indian family #shorts #indian #chaman #relatable #chotabhai #bachpan #funny",
+          "id": "fjdL9HXNsaw",
+          "title": "Papa ka belt collection 😂🔥| Indian family #shorts #indian #chaman #relatable #chotabhai #bachpan",
           "channel": "We r Loser",
-          "thumbnail": "https://i.ytimg.com/vi/SNPN86edrJo/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=SNPN86edrJo",
-          "views": 7494247,
-          "age_hours": 159.6
+          "thumbnail": "https://i.ytimg.com/vi/fjdL9HXNsaw/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=fjdL9HXNsaw",
+          "views": 4874807,
+          "age_hours": 69.6
         },
         {
           "id": "5Ts6CjmBHwE",
@@ -912,15 +973,15 @@
           "channel": "Jagiya the fun",
           "thumbnail": "https://i.ytimg.com/vi/5Ts6CjmBHwE/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=5Ts6CjmBHwE",
-          "views": 3394553,
-          "age_hours": 61.3
+          "views": 3519599,
+          "age_hours": 67.3
         }
       ]
     },
     {
       "phrase": "alemã reage ao",
       "video_count": 2,
-      "momentum": 13.79,
+      "momentum": 13.71,
       "regions": [
         "BR"
       ],
@@ -932,8 +993,8 @@
           "channel": "Alemã",
           "thumbnail": "https://i.ytimg.com/vi/xBwOX-8j-tU/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=xBwOX-8j-tU",
-          "views": 2059082,
-          "age_hours": 78.5
+          "views": 2068483,
+          "age_hours": 84.5
         },
         {
           "id": "n3nnPx11URo",
@@ -941,207 +1002,20 @@
           "channel": "Alemã",
           "thumbnail": "https://i.ytimg.com/vi/n3nnPx11URo/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=n3nnPx11URo",
-          "views": 2827706,
-          "age_hours": 128.5
+          "views": 2854048,
+          "age_hours": 134.5
         }
       ]
     }
   ],
   "topics_by_region": {
-    "BR": [
-      {
-        "phrase": "humor",
-        "video_count": 4,
-        "momentum": 18.93,
-        "regions": [
-          "BR"
-        ],
-        "lang": "pt",
-        "example_videos": [
-          {
-            "id": "IzqN9G1HgJ8",
-            "title": "Acho que ela não entendeu🤣#mindset #motivação #inspiração #felicidade #viral #divertido #humor",
-            "channel": "Marco Morastoni ",
-            "thumbnail": "https://i.ytimg.com/vi/IzqN9G1HgJ8/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=IzqN9G1HgJ8",
-            "views": 1203368,
-            "age_hours": 16.2
-          },
-          {
-            "id": "O2T1RYNQCWk",
-            "title": "Eita esse peixe é diferente... #humor #comedia #trollagens #casal #memes",
-            "channel": "Casal Chupa Cabra",
-            "thumbnail": "https://i.ytimg.com/vi/O2T1RYNQCWk/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=O2T1RYNQCWk",
-            "views": 3021964,
-            "age_hours": 107.9
-          },
-          {
-            "id": "JiTOZsgiV6g",
-            "title": "Encontro de gigantes 🦒😂#edit #humor #memes #fyp #animals",
-            "channel": "Tereza edições",
-            "thumbnail": "https://i.ytimg.com/vi/JiTOZsgiV6g/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=JiTOZsgiV6g",
-            "views": 1221268,
-            "age_hours": 56.5
-          }
-        ]
-      },
-      {
-        "phrase": "alemã reage ao",
-        "video_count": 2,
-        "momentum": 13.79,
-        "regions": [
-          "BR"
-        ],
-        "lang": "pt",
-        "example_videos": [
-          {
-            "id": "xBwOX-8j-tU",
-            "title": "Alemã reage ao Spider Slack - Errei a privada",
-            "channel": "Alemã",
-            "thumbnail": "https://i.ytimg.com/vi/xBwOX-8j-tU/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=xBwOX-8j-tU",
-            "views": 2059082,
-            "age_hours": 78.5
-          },
-          {
-            "id": "n3nnPx11URo",
-            "title": "Alemã reage ao Paulinho99 - Como é a sua mochila 😂",
-            "channel": "Alemã",
-            "thumbnail": "https://i.ytimg.com/vi/n3nnPx11URo/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=n3nnPx11URo",
-            "views": 2827706,
-            "age_hours": 128.5
-          }
-        ]
-      },
-      {
-        "phrase": "nesse jogo roblox",
-        "video_count": 2,
-        "momentum": 13.44,
-        "regions": [
-          "BR"
-        ],
-        "lang": "pt",
-        "example_videos": [
-          {
-            "id": "YXRdDKNKtrk",
-            "title": "A MISSÃO É LEVAR O OVO DA MÃE NESSE JOGO DO ROBLOX",
-            "channel": "Amy Scarletona",
-            "thumbnail": "https://i.ytimg.com/vi/YXRdDKNKtrk/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=YXRdDKNKtrk",
-            "views": 129028,
-            "age_hours": 7.5
-          },
-          {
-            "id": "F10TEV6mGHk",
-            "title": "O DESAFIO ERA FICAR EM SILÊNCIO NESSE JOGO DO ROBLOX, MAS DEU ERRADO!",
-            "channel": "PIZÃO",
-            "thumbnail": "https://i.ytimg.com/vi/F10TEV6mGHk/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=F10TEV6mGHk",
-            "views": 90673,
-            "age_hours": 10.0
-          }
-        ]
-      },
-      {
-        "phrase": "deu ruim",
-        "video_count": 2,
-        "momentum": 10.68,
-        "regions": [
-          "BR"
-        ],
-        "lang": "pt",
-        "example_videos": [
-          {
-            "id": "jvlpT-zf1_g",
-            "title": "ADIVINHANDO AS FALAS DO VOID *deu ruim",
-            "channel": "Katlenof",
-            "thumbnail": "https://i.ytimg.com/vi/jvlpT-zf1_g/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=jvlpT-zf1_g",
-            "views": 2665012,
-            "age_hours": 62.7
-          },
-          {
-            "id": "DsN1CYMojYI",
-            "title": "Deu ruim essa pegadinha Parte 2 #pegadinha #errado #motovlog",
-            "channel": "Edu Vieira ",
-            "thumbnail": "https://i.ytimg.com/vi/DsN1CYMojYI/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=DsN1CYMojYI",
-            "views": 97006,
-            "age_hours": 90.1
-          }
-        ]
-      }
-    ],
-    "US": [
-      {
-        "phrase": "weekly vlog",
-        "video_count": 2,
-        "momentum": 9.61,
-        "regions": [
-          "US"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "uW9b-ZX0nYs",
-            "title": "WEEKLY VLOG | PANTRY MAKEOVER PT 1 + DRIVING CLASS + SHOPPING + HELLO KITTY HAUL +SISTER DATE+PICNIC",
-            "channel": "Bad Nana",
-            "thumbnail": "https://i.ytimg.com/vi/uW9b-ZX0nYs/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=uW9b-ZX0nYs",
-            "views": 15515,
-            "age_hours": 11.0
-          },
-          {
-            "id": "4p9o153jmE8",
-            "title": "Starting over with New Home Decor, Beauty Routines & a brand new life | WEEKLY VLOG",
-            "channel": "Maya Galore",
-            "thumbnail": "https://i.ytimg.com/vi/4p9o153jmE8/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=4p9o153jmE8",
-            "views": 47830,
-            "age_hours": 37.3
-          }
-        ]
-      }
-    ],
-    "AU": [
-      {
-        "phrase": "meccha chameleon",
-        "video_count": 2,
-        "momentum": 11.59,
-        "regions": [
-          "AU"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "R4E1eDW0fyE",
-            "title": "Meccha Chameleon - Nogla Hated This Game All Along",
-            "channel": "VanossGaming",
-            "thumbnail": "https://i.ytimg.com/vi/R4E1eDW0fyE/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=R4E1eDW0fyE",
-            "views": 497243,
-            "age_hours": 30.4
-          },
-          {
-            "id": "BxqtIBztX2I",
-            "title": "SIDEMEN MECCHA CHAMELEON BUT WE ARE HUGE",
-            "channel": "MoreSidemen",
-            "thumbnail": "https://i.ytimg.com/vi/BxqtIBztX2I/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=BxqtIBztX2I",
-            "views": 1169584,
-            "age_hours": 60.0
-          }
-        ]
-      }
-    ],
+    "US": [],
+    "AU": [],
     "GB": [
       {
         "phrase": "home shopping",
         "video_count": 2,
-        "momentum": 8.34,
+        "momentum": 8.29,
         "regions": [
           "GB"
         ],
@@ -1153,8 +1027,8 @@
             "channel": "Gemma Louise Miles",
             "thumbnail": "https://i.ytimg.com/vi/oPvZ6crdiek/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=oPvZ6crdiek",
-            "views": 81458,
-            "age_hours": 71.3
+            "views": 83902,
+            "age_hours": 77.3
           },
           {
             "id": "czLW-CYMDz0",
@@ -1162,1252 +1036,17 @@
             "channel": "livvy dimartino",
             "thumbnail": "https://i.ytimg.com/vi/czLW-CYMDz0/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=czLW-CYMDz0",
-            "views": 137160,
-            "age_hours": 180.9
-          }
-        ]
-      },
-      {
-        "phrase": "weekly vlog",
-        "video_count": 2,
-        "momentum": 7.59,
-        "regions": [
-          "GB"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "czLW-CYMDz0",
-            "title": "a VERY busy weekly vlog: HUGE home shopping haul, moving updates, seeing the weeknd",
-            "channel": "livvy dimartino",
-            "thumbnail": "https://i.ytimg.com/vi/czLW-CYMDz0/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=czLW-CYMDz0",
-            "views": 137160,
-            "age_hours": 180.9
-          },
-          {
-            "id": "Kkt3ZtrgLkI",
-            "title": "Threenager, contraception & restarting my life in September. Weekly Vlog ",
-            "channel": "Sydney May Crouch",
-            "thumbnail": "https://i.ytimg.com/vi/Kkt3ZtrgLkI/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=Kkt3ZtrgLkI",
-            "views": 25461,
-            "age_hours": 45.1
+            "views": 137981,
+            "age_hours": 186.9
           }
         ]
       }
     ],
-    "IN": [
-      {
-        "phrase": "indian",
-        "video_count": 5,
-        "momentum": 24.88,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "9sQ9IzvBZp4",
-            "title": "Ajnabee The Unknown - Indian Horror Game",
-            "channel": "Live Insaan",
-            "thumbnail": "https://i.ytimg.com/vi/9sQ9IzvBZp4/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=9sQ9IzvBZp4",
-            "views": 710046,
-            "age_hours": 18.0
-          },
-          {
-            "id": "kGrp0ak7a70",
-            "title": "Indian Bike Driving 3d 🔥 #shortsfeed #shortslive #shorts #live #gaming",
-            "channel": "Galax Gamer",
-            "thumbnail": "https://i.ytimg.com/vi/kGrp0ak7a70/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=kGrp0ak7a70",
-            "views": 549900,
-            "age_hours": 3.1
-          },
-          {
-            "id": "SNPN86edrJo",
-            "title": "Kaate wali chamach 😂🔥| Indian family #shorts #indian #chaman #relatable #chotabhai #bachpan #funny",
-            "channel": "We r Loser",
-            "thumbnail": "https://i.ytimg.com/vi/SNPN86edrJo/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=SNPN86edrJo",
-            "views": 7494247,
-            "age_hours": 159.6
-          }
-        ]
-      },
-      {
-        "phrase": "gta live",
-        "video_count": 3,
-        "momentum": 20.44,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "143E51NKfIg",
-            "title": "GTA 5 LIVE  #gta5 #gtav #gaming",
-            "channel": "PAJI IS LIVE",
-            "thumbnail": "https://i.ytimg.com/vi/143E51NKfIg/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=143E51NKfIg",
-            "views": 1004727,
-            "age_hours": 1.0
-          },
-          {
-            "id": "ZRjW4kU8hiQ",
-            "title": "🔴GTA 5 LIVE 🔥#gta5 #gtav #gaming",
-            "channel": "ADITYAISLIVE",
-            "thumbnail": "https://i.ytimg.com/vi/ZRjW4kU8hiQ/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=ZRjW4kU8hiQ",
-            "views": 450018,
-            "age_hours": 3.2
-          },
-          {
-            "id": "QXJ-uEwV1BU",
-            "title": "🔴GTA 5 LIVE - DON'T BLINK! SECRET MOD ACTIVATED🤯  #gta5 #gta5live #gaming",
-            "channel": "RapterJOD",
-            "thumbnail": "https://i.ytimg.com/vi/QXJ-uEwV1BU/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=QXJ-uEwV1BU",
-            "views": 1147965,
-            "age_hours": 9.5
-          }
-        ]
-      },
-      {
-        "phrase": "rakshabandhan",
-        "video_count": 4,
-        "momentum": 20.28,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "QM4t6wcGXIU",
-            "title": "Yeh Raksha Bandhan Badle Wala 🤣 #neetubisht #lakhneet #trending #viral #shorts #rakshabandhan",
-            "channel": "Neetu Bisht",
-            "thumbnail": "https://i.ytimg.com/vi/QM4t6wcGXIU/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=QM4t6wcGXIU",
-            "views": 2558153,
-            "age_hours": 26.0
-          },
-          {
-            "id": "lAOUIRScmw8",
-            "title": "Low Budget Rakshabandhan 😂 Part 2 #priyalkukreja #shorts",
-            "channel": "Priyal Kukreja",
-            "thumbnail": "https://i.ytimg.com/vi/lAOUIRScmw8/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=lAOUIRScmw8",
-            "views": 31335212,
-            "age_hours": 279.9
-          },
-          {
-            "id": "wQfGnmJHofk",
-            "title": "Kids v/s legend😂on rakshabandhan #funnyvideo #comedy #comedyshorts #funnyshorts",
-            "channel": "Ketan mehta",
-            "thumbnail": "https://i.ytimg.com/vi/wQfGnmJHofk/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=wQfGnmJHofk",
-            "views": 4635543,
-            "age_hours": 65.5
-          }
-        ]
-      },
-      {
-        "phrase": "minecraft",
-        "video_count": 4,
-        "momentum": 18.55,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "CN1JWY0fUbI",
-            "title": "I Trapped Every Scary Myth in Minecraft!",
-            "channel": "ProBoiz 95",
-            "thumbnail": "https://i.ytimg.com/vi/CN1JWY0fUbI/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=CN1JWY0fUbI",
-            "views": 3932662,
-            "age_hours": 87.6
-          },
-          {
-            "id": "T0zvQ8ASGLU",
-            "title": "Minecraft, Would You Rather Battle..",
-            "channel": "Carry Depie",
-            "thumbnail": "https://i.ytimg.com/vi/T0zvQ8ASGLU/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=T0zvQ8ASGLU",
-            "views": 1298110,
-            "age_hours": 41.8
-          },
-          {
-            "id": "qqhh8A6_axo",
-            "title": "Mutant Granny Entered Our House in Minecraft..",
-            "channel": "Karry Kraft",
-            "thumbnail": "https://i.ytimg.com/vi/qqhh8A6_axo/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=qqhh8A6_axo",
-            "views": 452844,
-            "age_hours": 20.4
-          }
-        ]
-      },
-      {
-        "phrase": "gta live gta5",
-        "video_count": 2,
-        "momentum": 16.9,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "143E51NKfIg",
-            "title": "GTA 5 LIVE  #gta5 #gtav #gaming",
-            "channel": "PAJI IS LIVE",
-            "thumbnail": "https://i.ytimg.com/vi/143E51NKfIg/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=143E51NKfIg",
-            "views": 1004727,
-            "age_hours": 1.0
-          },
-          {
-            "id": "ZRjW4kU8hiQ",
-            "title": "🔴GTA 5 LIVE 🔥#gta5 #gtav #gaming",
-            "channel": "ADITYAISLIVE",
-            "thumbnail": "https://i.ytimg.com/vi/ZRjW4kU8hiQ/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=ZRjW4kU8hiQ",
-            "views": 450018,
-            "age_hours": 3.2
-          }
-        ]
-      },
-      {
-        "phrase": "live gta5 gtav",
-        "video_count": 2,
-        "momentum": 16.9,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "143E51NKfIg",
-            "title": "GTA 5 LIVE  #gta5 #gtav #gaming",
-            "channel": "PAJI IS LIVE",
-            "thumbnail": "https://i.ytimg.com/vi/143E51NKfIg/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=143E51NKfIg",
-            "views": 1004727,
-            "age_hours": 1.0
-          },
-          {
-            "id": "ZRjW4kU8hiQ",
-            "title": "🔴GTA 5 LIVE 🔥#gta5 #gtav #gaming",
-            "channel": "ADITYAISLIVE",
-            "thumbnail": "https://i.ytimg.com/vi/ZRjW4kU8hiQ/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=ZRjW4kU8hiQ",
-            "views": 450018,
-            "age_hours": 3.2
-          }
-        ]
-      },
-      {
-        "phrase": "gta5 gtav gaming",
-        "video_count": 2,
-        "momentum": 16.9,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "143E51NKfIg",
-            "title": "GTA 5 LIVE  #gta5 #gtav #gaming",
-            "channel": "PAJI IS LIVE",
-            "thumbnail": "https://i.ytimg.com/vi/143E51NKfIg/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=143E51NKfIg",
-            "views": 1004727,
-            "age_hours": 1.0
-          },
-          {
-            "id": "ZRjW4kU8hiQ",
-            "title": "🔴GTA 5 LIVE 🔥#gta5 #gtav #gaming",
-            "channel": "ADITYAISLIVE",
-            "thumbnail": "https://i.ytimg.com/vi/ZRjW4kU8hiQ/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=ZRjW4kU8hiQ",
-            "views": 450018,
-            "age_hours": 3.2
-          }
-        ]
-      },
-      {
-        "phrase": "iphone",
-        "video_count": 4,
-        "momentum": 16.55,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "ueKmw6LFjxc",
-            "title": "Tech News 2233 || iPhone 18 series, vivo X500 Series, POCO X8 & Power, Indian Smartphone Brands.Etc.",
-            "channel": "Prasadtechintelugu",
-            "thumbnail": "https://i.ytimg.com/vi/ueKmw6LFjxc/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=ueKmw6LFjxc",
-            "views": 170353,
-            "age_hours": 16.4
-          },
-          {
-            "id": "xjmWZ1-H39M",
-            "title": "Apple iPhone Collection a kamikanuma?😳 iPhone 11 muthal iPhone 17 varai😍",
-            "channel": "Tech Satire",
-            "thumbnail": "https://i.ytimg.com/vi/xjmWZ1-H39M/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=xjmWZ1-H39M",
-            "views": 231332,
-            "age_hours": 89.6
-          },
-          {
-            "id": "RPDHaDbts8w",
-            "title": "😭iPhone-ஐ அலறவிட்ட Sony Xperia 1 VIII? 😱",
-            "channel": "Tamil Tech - MrTT",
-            "thumbnail": "https://i.ytimg.com/vi/RPDHaDbts8w/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=RPDHaDbts8w",
-            "views": 829278,
-            "age_hours": 236.0
-          }
-        ]
-      },
-      {
-        "phrase": "ball shorts youtubeshorts",
-        "video_count": 2,
-        "momentum": 16.5,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "iP2xwEDoeUk",
-            "title": "HAIR CLIP BALL 💇🏻📎⚾ #shorts #youtubeshorts #cricket #unboxing #ball #funny",
-            "channel": "Box Of Vengeance",
-            "thumbnail": "https://i.ytimg.com/vi/iP2xwEDoeUk/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=iP2xwEDoeUk",
-            "views": 5061018,
-            "age_hours": 50.0
-          },
-          {
-            "id": "1GebsCjUlCc",
-            "title": "BOOST MOON BALL 🧋🌕⚾ #shorts #youtubeshorts #cricket #unboxing #ball #funny",
-            "channel": "Box Of Vengeance",
-            "thumbnail": "https://i.ytimg.com/vi/1GebsCjUlCc/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=1GebsCjUlCc",
-            "views": 7907061,
-            "age_hours": 94.0
-          }
-        ]
-      },
-      {
-        "phrase": "shorts youtubeshorts cricket",
-        "video_count": 2,
-        "momentum": 16.5,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "iP2xwEDoeUk",
-            "title": "HAIR CLIP BALL 💇🏻📎⚾ #shorts #youtubeshorts #cricket #unboxing #ball #funny",
-            "channel": "Box Of Vengeance",
-            "thumbnail": "https://i.ytimg.com/vi/iP2xwEDoeUk/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=iP2xwEDoeUk",
-            "views": 5061018,
-            "age_hours": 50.0
-          },
-          {
-            "id": "1GebsCjUlCc",
-            "title": "BOOST MOON BALL 🧋🌕⚾ #shorts #youtubeshorts #cricket #unboxing #ball #funny",
-            "channel": "Box Of Vengeance",
-            "thumbnail": "https://i.ytimg.com/vi/1GebsCjUlCc/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=1GebsCjUlCc",
-            "views": 7907061,
-            "age_hours": 94.0
-          }
-        ]
-      },
-      {
-        "phrase": "youtubeshorts cricket unboxing",
-        "video_count": 2,
-        "momentum": 16.5,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "iP2xwEDoeUk",
-            "title": "HAIR CLIP BALL 💇🏻📎⚾ #shorts #youtubeshorts #cricket #unboxing #ball #funny",
-            "channel": "Box Of Vengeance",
-            "thumbnail": "https://i.ytimg.com/vi/iP2xwEDoeUk/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=iP2xwEDoeUk",
-            "views": 5061018,
-            "age_hours": 50.0
-          },
-          {
-            "id": "1GebsCjUlCc",
-            "title": "BOOST MOON BALL 🧋🌕⚾ #shorts #youtubeshorts #cricket #unboxing #ball #funny",
-            "channel": "Box Of Vengeance",
-            "thumbnail": "https://i.ytimg.com/vi/1GebsCjUlCc/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=1GebsCjUlCc",
-            "views": 7907061,
-            "age_hours": 94.0
-          }
-        ]
-      },
-      {
-        "phrase": "cricket unboxing ball",
-        "video_count": 2,
-        "momentum": 16.5,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "iP2xwEDoeUk",
-            "title": "HAIR CLIP BALL 💇🏻📎⚾ #shorts #youtubeshorts #cricket #unboxing #ball #funny",
-            "channel": "Box Of Vengeance",
-            "thumbnail": "https://i.ytimg.com/vi/iP2xwEDoeUk/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=iP2xwEDoeUk",
-            "views": 5061018,
-            "age_hours": 50.0
-          },
-          {
-            "id": "1GebsCjUlCc",
-            "title": "BOOST MOON BALL 🧋🌕⚾ #shorts #youtubeshorts #cricket #unboxing #ball #funny",
-            "channel": "Box Of Vengeance",
-            "thumbnail": "https://i.ytimg.com/vi/1GebsCjUlCc/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=1GebsCjUlCc",
-            "views": 7907061,
-            "age_hours": 94.0
-          }
-        ]
-      },
-      {
-        "phrase": "unboxing ball funny",
-        "video_count": 2,
-        "momentum": 16.5,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "iP2xwEDoeUk",
-            "title": "HAIR CLIP BALL 💇🏻📎⚾ #shorts #youtubeshorts #cricket #unboxing #ball #funny",
-            "channel": "Box Of Vengeance",
-            "thumbnail": "https://i.ytimg.com/vi/iP2xwEDoeUk/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=iP2xwEDoeUk",
-            "views": 5061018,
-            "age_hours": 50.0
-          },
-          {
-            "id": "1GebsCjUlCc",
-            "title": "BOOST MOON BALL 🧋🌕⚾ #shorts #youtubeshorts #cricket #unboxing #ball #funny",
-            "channel": "Box Of Vengeance",
-            "thumbnail": "https://i.ytimg.com/vi/1GebsCjUlCc/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=1GebsCjUlCc",
-            "views": 7907061,
-            "age_hours": 94.0
-          }
-        ]
-      },
-      {
-        "phrase": "real end twist",
-        "video_count": 2,
-        "momentum": 15.23,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "UgY3UJwV4Nk",
-            "title": "To🍓Jerry(Rithvi&Kavi)Real End Twist😂🎈 #shorts",
-            "channel": "KL BRO Biju Rithvik",
-            "thumbnail": "https://i.ytimg.com/vi/UgY3UJwV4Nk/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=UgY3UJwV4Nk",
-            "views": 5038722,
-            "age_hours": 69.8
-          },
-          {
-            "id": "RguAR4_Q6Wo",
-            "title": "Tom🍓Jerry,Real End Twist😄Must Watch #shorts",
-            "channel": "vlog 4u",
-            "thumbnail": "https://i.ytimg.com/vi/RguAR4_Q6Wo/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=RguAR4_Q6Wo",
-            "views": 4440224,
-            "age_hours": 69.3
-          }
-        ]
-      },
-      {
-        "phrase": "indian family shorts",
-        "video_count": 2,
-        "momentum": 14.32,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "SNPN86edrJo",
-            "title": "Kaate wali chamach 😂🔥| Indian family #shorts #indian #chaman #relatable #chotabhai #bachpan #funny",
-            "channel": "We r Loser",
-            "thumbnail": "https://i.ytimg.com/vi/SNPN86edrJo/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=SNPN86edrJo",
-            "views": 7494247,
-            "age_hours": 159.6
-          },
-          {
-            "id": "5Ts6CjmBHwE",
-            "title": "Jagiya ka new guitar🎸🔥| Indian family😂|| #shorts #indian #relatable #guitar #chotabhai #comedy",
-            "channel": "Jagiya the fun",
-            "thumbnail": "https://i.ytimg.com/vi/5Ts6CjmBHwE/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=5Ts6CjmBHwE",
-            "views": 3394553,
-            "age_hours": 61.3
-          }
-        ]
-      },
-      {
-        "phrase": "family shorts indian",
-        "video_count": 2,
-        "momentum": 14.32,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "SNPN86edrJo",
-            "title": "Kaate wali chamach 😂🔥| Indian family #shorts #indian #chaman #relatable #chotabhai #bachpan #funny",
-            "channel": "We r Loser",
-            "thumbnail": "https://i.ytimg.com/vi/SNPN86edrJo/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=SNPN86edrJo",
-            "views": 7494247,
-            "age_hours": 159.6
-          },
-          {
-            "id": "5Ts6CjmBHwE",
-            "title": "Jagiya ka new guitar🎸🔥| Indian family😂|| #shorts #indian #relatable #guitar #chotabhai #comedy",
-            "channel": "Jagiya the fun",
-            "thumbnail": "https://i.ytimg.com/vi/5Ts6CjmBHwE/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=5Ts6CjmBHwE",
-            "views": 3394553,
-            "age_hours": 61.3
-          }
-        ]
-      },
-      {
-        "phrase": "challenge shorts",
-        "video_count": 2,
-        "momentum": 13.05,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "A3LjuubxOEk",
-            "title": "Shanti vs Bhaiya! Electric cycle challenge #shorts",
-            "channel": "Shreemani Tripathi",
-            "thumbnail": "https://i.ytimg.com/vi/A3LjuubxOEk/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=A3LjuubxOEk",
-            "views": 7025214,
-            "age_hours": 70.7
-          },
-          {
-            "id": "oLJYXPJPd6k",
-            "title": "Blinkit Vs Instamart! Raincoat challenge #shorts",
-            "channel": "Shreemani Tripathi",
-            "thumbnail": "https://i.ytimg.com/vi/oLJYXPJPd6k/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=oLJYXPJPd6k",
-            "views": 20305743,
-            "age_hours": 239.7
-          }
-        ]
-      },
-      {
-        "phrase": "raksha bandhan",
-        "video_count": 2,
-        "momentum": 12.71,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "QM4t6wcGXIU",
-            "title": "Yeh Raksha Bandhan Badle Wala 🤣 #neetubisht #lakhneet #trending #viral #shorts #rakshabandhan",
-            "channel": "Neetu Bisht",
-            "thumbnail": "https://i.ytimg.com/vi/QM4t6wcGXIU/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=QM4t6wcGXIU",
-            "views": 2558153,
-            "age_hours": 26.0
-          },
-          {
-            "id": "_p4aPIy2M3w",
-            "title": "Raksha Bandhan 🥺😍 || #childhoodmemories #friends #relatable #rakshabandhan #dosti #rakhi",
-            "channel": "Prince Yuvraj Sen 09",
-            "thumbnail": "https://i.ytimg.com/vi/_p4aPIy2M3w/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=_p4aPIy2M3w",
-            "views": 4128184,
-            "age_hours": 73.9
-          }
-        ]
-      }
-    ],
-    "CA": [],
-    "DE": [
-      {
-        "phrase": "wer besseren burger",
-        "video_count": 2,
-        "momentum": 13.63,
-        "regions": [
-          "DE"
-        ],
-        "lang": "de",
-        "example_videos": [
-          {
-            "id": "IjcIJnRXDPg",
-            "title": "Wer hat den besseren Burger?🤔🍔 #selinaundharoon #comedy #couple #beziehung #food #burger #draft",
-            "channel": "Selina & Haroon",
-            "thumbnail": "https://i.ytimg.com/vi/IjcIJnRXDPg/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=IjcIJnRXDPg",
-            "views": 730380,
-            "age_hours": 36.7
-          },
-          {
-            "id": "bUjlQ8nOk44",
-            "title": "Unsere Burger Auktion 😂🍔 Wer hat den besseren Burger? #games #challenge #draft #burger #couple",
-            "channel": "Vika & Beban ",
-            "thumbnail": "https://i.ytimg.com/vi/bUjlQ8nOk44/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=bUjlQ8nOk44",
-            "views": 799771,
-            "age_hours": 60.1
-          }
-        ]
-      },
-      {
-        "phrase": "minecraft helden",
-        "video_count": 2,
-        "momentum": 11.1,
-        "regions": [
-          "DE"
-        ],
-        "lang": "de",
-        "example_videos": [
-          {
-            "id": "ceVFGtOqtpk",
-            "title": "ich SCHENKE iCRIMAX GEHEIMES OP ITEM😱(MINECRAFT HELDEN 3)",
-            "channel": "TriDan",
-            "thumbnail": "https://i.ytimg.com/vi/ceVFGtOqtpk/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=ceVFGtOqtpk",
-            "views": 79551,
-            "age_hours": 19.5
-          },
-          {
-            "id": "Gch89dRfXkg",
-            "title": "Ich KILLE den VERRÄTER in Minecraft Helden 3!",
-            "channel": "iCrimax",
-            "thumbnail": "https://i.ytimg.com/vi/Gch89dRfXkg/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=Gch89dRfXkg",
-            "views": 175954,
-            "age_hours": 19.5
-          }
-        ]
-      },
-      {
-        "phrase": "trailer german deutsch",
-        "video_count": 2,
-        "momentum": 8.09,
-        "regions": [
-          "DE"
-        ],
-        "lang": "de",
-        "example_videos": [
-          {
-            "id": "QOAdTQm_dSM",
-            "title": "JIM QUEEN Trailer German Deutsch (2026)",
-            "channel": "KinoCheck",
-            "thumbnail": "https://i.ytimg.com/vi/QOAdTQm_dSM/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=QOAdTQm_dSM",
-            "views": 4971,
-            "age_hours": 18.3
-          },
-          {
-            "id": "j6EMPpPrbhQ",
-            "title": "R.L. STINE'S PUMPKINHEAD Trailer German Deutsch (2026)",
-            "channel": "KinoCheck Heimkino",
-            "thumbnail": "https://i.ytimg.com/vi/j6EMPpPrbhQ/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=j6EMPpPrbhQ",
-            "views": 4623,
-            "age_hours": 22.4
-          }
-        ]
-      }
-    ],
-    "ALL": [
-      {
-        "phrase": "indian",
-        "video_count": 5,
-        "momentum": 24.88,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "9sQ9IzvBZp4",
-            "title": "Ajnabee The Unknown - Indian Horror Game",
-            "channel": "Live Insaan",
-            "thumbnail": "https://i.ytimg.com/vi/9sQ9IzvBZp4/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=9sQ9IzvBZp4",
-            "views": 710046,
-            "age_hours": 18.0
-          },
-          {
-            "id": "kGrp0ak7a70",
-            "title": "Indian Bike Driving 3d 🔥 #shortsfeed #shortslive #shorts #live #gaming",
-            "channel": "Galax Gamer",
-            "thumbnail": "https://i.ytimg.com/vi/kGrp0ak7a70/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=kGrp0ak7a70",
-            "views": 549900,
-            "age_hours": 3.1
-          },
-          {
-            "id": "SNPN86edrJo",
-            "title": "Kaate wali chamach 😂🔥| Indian family #shorts #indian #chaman #relatable #chotabhai #bachpan #funny",
-            "channel": "We r Loser",
-            "thumbnail": "https://i.ytimg.com/vi/SNPN86edrJo/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=SNPN86edrJo",
-            "views": 7494247,
-            "age_hours": 159.6
-          }
-        ]
-      },
-      {
-        "phrase": "gta live",
-        "video_count": 3,
-        "momentum": 20.44,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "143E51NKfIg",
-            "title": "GTA 5 LIVE  #gta5 #gtav #gaming",
-            "channel": "PAJI IS LIVE",
-            "thumbnail": "https://i.ytimg.com/vi/143E51NKfIg/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=143E51NKfIg",
-            "views": 1004727,
-            "age_hours": 1.0
-          },
-          {
-            "id": "ZRjW4kU8hiQ",
-            "title": "🔴GTA 5 LIVE 🔥#gta5 #gtav #gaming",
-            "channel": "ADITYAISLIVE",
-            "thumbnail": "https://i.ytimg.com/vi/ZRjW4kU8hiQ/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=ZRjW4kU8hiQ",
-            "views": 450018,
-            "age_hours": 3.2
-          },
-          {
-            "id": "QXJ-uEwV1BU",
-            "title": "🔴GTA 5 LIVE - DON'T BLINK! SECRET MOD ACTIVATED🤯  #gta5 #gta5live #gaming",
-            "channel": "RapterJOD",
-            "thumbnail": "https://i.ytimg.com/vi/QXJ-uEwV1BU/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=QXJ-uEwV1BU",
-            "views": 1147965,
-            "age_hours": 9.5
-          }
-        ]
-      },
-      {
-        "phrase": "rakshabandhan",
-        "video_count": 4,
-        "momentum": 20.28,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "QM4t6wcGXIU",
-            "title": "Yeh Raksha Bandhan Badle Wala 🤣 #neetubisht #lakhneet #trending #viral #shorts #rakshabandhan",
-            "channel": "Neetu Bisht",
-            "thumbnail": "https://i.ytimg.com/vi/QM4t6wcGXIU/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=QM4t6wcGXIU",
-            "views": 2558153,
-            "age_hours": 26.0
-          },
-          {
-            "id": "lAOUIRScmw8",
-            "title": "Low Budget Rakshabandhan 😂 Part 2 #priyalkukreja #shorts",
-            "channel": "Priyal Kukreja",
-            "thumbnail": "https://i.ytimg.com/vi/lAOUIRScmw8/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=lAOUIRScmw8",
-            "views": 31335212,
-            "age_hours": 279.9
-          },
-          {
-            "id": "wQfGnmJHofk",
-            "title": "Kids v/s legend😂on rakshabandhan #funnyvideo #comedy #comedyshorts #funnyshorts",
-            "channel": "Ketan mehta",
-            "thumbnail": "https://i.ytimg.com/vi/wQfGnmJHofk/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=wQfGnmJHofk",
-            "views": 4635543,
-            "age_hours": 65.5
-          }
-        ]
-      },
-      {
-        "phrase": "humor",
-        "video_count": 4,
-        "momentum": 18.93,
-        "regions": [
-          "BR"
-        ],
-        "lang": "pt",
-        "example_videos": [
-          {
-            "id": "IzqN9G1HgJ8",
-            "title": "Acho que ela não entendeu🤣#mindset #motivação #inspiração #felicidade #viral #divertido #humor",
-            "channel": "Marco Morastoni ",
-            "thumbnail": "https://i.ytimg.com/vi/IzqN9G1HgJ8/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=IzqN9G1HgJ8",
-            "views": 1203368,
-            "age_hours": 16.2
-          },
-          {
-            "id": "O2T1RYNQCWk",
-            "title": "Eita esse peixe é diferente... #humor #comedia #trollagens #casal #memes",
-            "channel": "Casal Chupa Cabra",
-            "thumbnail": "https://i.ytimg.com/vi/O2T1RYNQCWk/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=O2T1RYNQCWk",
-            "views": 3021964,
-            "age_hours": 107.9
-          },
-          {
-            "id": "JiTOZsgiV6g",
-            "title": "Encontro de gigantes 🦒😂#edit #humor #memes #fyp #animals",
-            "channel": "Tereza edições",
-            "thumbnail": "https://i.ytimg.com/vi/JiTOZsgiV6g/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=JiTOZsgiV6g",
-            "views": 1221268,
-            "age_hours": 56.5
-          }
-        ]
-      },
-      {
-        "phrase": "minecraft",
-        "video_count": 4,
-        "momentum": 18.55,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "CN1JWY0fUbI",
-            "title": "I Trapped Every Scary Myth in Minecraft!",
-            "channel": "ProBoiz 95",
-            "thumbnail": "https://i.ytimg.com/vi/CN1JWY0fUbI/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=CN1JWY0fUbI",
-            "views": 3932662,
-            "age_hours": 87.6
-          },
-          {
-            "id": "T0zvQ8ASGLU",
-            "title": "Minecraft, Would You Rather Battle..",
-            "channel": "Carry Depie",
-            "thumbnail": "https://i.ytimg.com/vi/T0zvQ8ASGLU/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=T0zvQ8ASGLU",
-            "views": 1298110,
-            "age_hours": 41.8
-          },
-          {
-            "id": "qqhh8A6_axo",
-            "title": "Mutant Granny Entered Our House in Minecraft..",
-            "channel": "Karry Kraft",
-            "thumbnail": "https://i.ytimg.com/vi/qqhh8A6_axo/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=qqhh8A6_axo",
-            "views": 452844,
-            "age_hours": 20.4
-          }
-        ]
-      },
-      {
-        "phrase": "gta live gta5",
-        "video_count": 2,
-        "momentum": 16.9,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "143E51NKfIg",
-            "title": "GTA 5 LIVE  #gta5 #gtav #gaming",
-            "channel": "PAJI IS LIVE",
-            "thumbnail": "https://i.ytimg.com/vi/143E51NKfIg/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=143E51NKfIg",
-            "views": 1004727,
-            "age_hours": 1.0
-          },
-          {
-            "id": "ZRjW4kU8hiQ",
-            "title": "🔴GTA 5 LIVE 🔥#gta5 #gtav #gaming",
-            "channel": "ADITYAISLIVE",
-            "thumbnail": "https://i.ytimg.com/vi/ZRjW4kU8hiQ/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=ZRjW4kU8hiQ",
-            "views": 450018,
-            "age_hours": 3.2
-          }
-        ]
-      },
-      {
-        "phrase": "live gta5 gtav",
-        "video_count": 2,
-        "momentum": 16.9,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "143E51NKfIg",
-            "title": "GTA 5 LIVE  #gta5 #gtav #gaming",
-            "channel": "PAJI IS LIVE",
-            "thumbnail": "https://i.ytimg.com/vi/143E51NKfIg/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=143E51NKfIg",
-            "views": 1004727,
-            "age_hours": 1.0
-          },
-          {
-            "id": "ZRjW4kU8hiQ",
-            "title": "🔴GTA 5 LIVE 🔥#gta5 #gtav #gaming",
-            "channel": "ADITYAISLIVE",
-            "thumbnail": "https://i.ytimg.com/vi/ZRjW4kU8hiQ/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=ZRjW4kU8hiQ",
-            "views": 450018,
-            "age_hours": 3.2
-          }
-        ]
-      },
-      {
-        "phrase": "gta5 gtav gaming",
-        "video_count": 2,
-        "momentum": 16.9,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "143E51NKfIg",
-            "title": "GTA 5 LIVE  #gta5 #gtav #gaming",
-            "channel": "PAJI IS LIVE",
-            "thumbnail": "https://i.ytimg.com/vi/143E51NKfIg/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=143E51NKfIg",
-            "views": 1004727,
-            "age_hours": 1.0
-          },
-          {
-            "id": "ZRjW4kU8hiQ",
-            "title": "🔴GTA 5 LIVE 🔥#gta5 #gtav #gaming",
-            "channel": "ADITYAISLIVE",
-            "thumbnail": "https://i.ytimg.com/vi/ZRjW4kU8hiQ/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=ZRjW4kU8hiQ",
-            "views": 450018,
-            "age_hours": 3.2
-          }
-        ]
-      },
-      {
-        "phrase": "iphone",
-        "video_count": 4,
-        "momentum": 16.55,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "ueKmw6LFjxc",
-            "title": "Tech News 2233 || iPhone 18 series, vivo X500 Series, POCO X8 & Power, Indian Smartphone Brands.Etc.",
-            "channel": "Prasadtechintelugu",
-            "thumbnail": "https://i.ytimg.com/vi/ueKmw6LFjxc/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=ueKmw6LFjxc",
-            "views": 170353,
-            "age_hours": 16.4
-          },
-          {
-            "id": "xjmWZ1-H39M",
-            "title": "Apple iPhone Collection a kamikanuma?😳 iPhone 11 muthal iPhone 17 varai😍",
-            "channel": "Tech Satire",
-            "thumbnail": "https://i.ytimg.com/vi/xjmWZ1-H39M/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=xjmWZ1-H39M",
-            "views": 231332,
-            "age_hours": 89.6
-          },
-          {
-            "id": "RPDHaDbts8w",
-            "title": "😭iPhone-ஐ அலறவிட்ட Sony Xperia 1 VIII? 😱",
-            "channel": "Tamil Tech - MrTT",
-            "thumbnail": "https://i.ytimg.com/vi/RPDHaDbts8w/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=RPDHaDbts8w",
-            "views": 829278,
-            "age_hours": 236.0
-          }
-        ]
-      },
-      {
-        "phrase": "ball shorts youtubeshorts",
-        "video_count": 2,
-        "momentum": 16.5,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "iP2xwEDoeUk",
-            "title": "HAIR CLIP BALL 💇🏻📎⚾ #shorts #youtubeshorts #cricket #unboxing #ball #funny",
-            "channel": "Box Of Vengeance",
-            "thumbnail": "https://i.ytimg.com/vi/iP2xwEDoeUk/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=iP2xwEDoeUk",
-            "views": 5061018,
-            "age_hours": 50.0
-          },
-          {
-            "id": "1GebsCjUlCc",
-            "title": "BOOST MOON BALL 🧋🌕⚾ #shorts #youtubeshorts #cricket #unboxing #ball #funny",
-            "channel": "Box Of Vengeance",
-            "thumbnail": "https://i.ytimg.com/vi/1GebsCjUlCc/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=1GebsCjUlCc",
-            "views": 7907061,
-            "age_hours": 94.0
-          }
-        ]
-      },
-      {
-        "phrase": "shorts youtubeshorts cricket",
-        "video_count": 2,
-        "momentum": 16.5,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "iP2xwEDoeUk",
-            "title": "HAIR CLIP BALL 💇🏻📎⚾ #shorts #youtubeshorts #cricket #unboxing #ball #funny",
-            "channel": "Box Of Vengeance",
-            "thumbnail": "https://i.ytimg.com/vi/iP2xwEDoeUk/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=iP2xwEDoeUk",
-            "views": 5061018,
-            "age_hours": 50.0
-          },
-          {
-            "id": "1GebsCjUlCc",
-            "title": "BOOST MOON BALL 🧋🌕⚾ #shorts #youtubeshorts #cricket #unboxing #ball #funny",
-            "channel": "Box Of Vengeance",
-            "thumbnail": "https://i.ytimg.com/vi/1GebsCjUlCc/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=1GebsCjUlCc",
-            "views": 7907061,
-            "age_hours": 94.0
-          }
-        ]
-      },
-      {
-        "phrase": "youtubeshorts cricket unboxing",
-        "video_count": 2,
-        "momentum": 16.5,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "iP2xwEDoeUk",
-            "title": "HAIR CLIP BALL 💇🏻📎⚾ #shorts #youtubeshorts #cricket #unboxing #ball #funny",
-            "channel": "Box Of Vengeance",
-            "thumbnail": "https://i.ytimg.com/vi/iP2xwEDoeUk/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=iP2xwEDoeUk",
-            "views": 5061018,
-            "age_hours": 50.0
-          },
-          {
-            "id": "1GebsCjUlCc",
-            "title": "BOOST MOON BALL 🧋🌕⚾ #shorts #youtubeshorts #cricket #unboxing #ball #funny",
-            "channel": "Box Of Vengeance",
-            "thumbnail": "https://i.ytimg.com/vi/1GebsCjUlCc/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=1GebsCjUlCc",
-            "views": 7907061,
-            "age_hours": 94.0
-          }
-        ]
-      },
-      {
-        "phrase": "cricket unboxing ball",
-        "video_count": 2,
-        "momentum": 16.5,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "iP2xwEDoeUk",
-            "title": "HAIR CLIP BALL 💇🏻📎⚾ #shorts #youtubeshorts #cricket #unboxing #ball #funny",
-            "channel": "Box Of Vengeance",
-            "thumbnail": "https://i.ytimg.com/vi/iP2xwEDoeUk/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=iP2xwEDoeUk",
-            "views": 5061018,
-            "age_hours": 50.0
-          },
-          {
-            "id": "1GebsCjUlCc",
-            "title": "BOOST MOON BALL 🧋🌕⚾ #shorts #youtubeshorts #cricket #unboxing #ball #funny",
-            "channel": "Box Of Vengeance",
-            "thumbnail": "https://i.ytimg.com/vi/1GebsCjUlCc/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=1GebsCjUlCc",
-            "views": 7907061,
-            "age_hours": 94.0
-          }
-        ]
-      },
-      {
-        "phrase": "unboxing ball funny",
-        "video_count": 2,
-        "momentum": 16.5,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "iP2xwEDoeUk",
-            "title": "HAIR CLIP BALL 💇🏻📎⚾ #shorts #youtubeshorts #cricket #unboxing #ball #funny",
-            "channel": "Box Of Vengeance",
-            "thumbnail": "https://i.ytimg.com/vi/iP2xwEDoeUk/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=iP2xwEDoeUk",
-            "views": 5061018,
-            "age_hours": 50.0
-          },
-          {
-            "id": "1GebsCjUlCc",
-            "title": "BOOST MOON BALL 🧋🌕⚾ #shorts #youtubeshorts #cricket #unboxing #ball #funny",
-            "channel": "Box Of Vengeance",
-            "thumbnail": "https://i.ytimg.com/vi/1GebsCjUlCc/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=1GebsCjUlCc",
-            "views": 7907061,
-            "age_hours": 94.0
-          }
-        ]
-      },
-      {
-        "phrase": "real end twist",
-        "video_count": 2,
-        "momentum": 15.23,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "UgY3UJwV4Nk",
-            "title": "To🍓Jerry(Rithvi&Kavi)Real End Twist😂🎈 #shorts",
-            "channel": "KL BRO Biju Rithvik",
-            "thumbnail": "https://i.ytimg.com/vi/UgY3UJwV4Nk/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=UgY3UJwV4Nk",
-            "views": 5038722,
-            "age_hours": 69.8
-          },
-          {
-            "id": "RguAR4_Q6Wo",
-            "title": "Tom🍓Jerry,Real End Twist😄Must Watch #shorts",
-            "channel": "vlog 4u",
-            "thumbnail": "https://i.ytimg.com/vi/RguAR4_Q6Wo/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=RguAR4_Q6Wo",
-            "views": 4440224,
-            "age_hours": 69.3
-          }
-        ]
-      },
-      {
-        "phrase": "indian family shorts",
-        "video_count": 2,
-        "momentum": 14.32,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "SNPN86edrJo",
-            "title": "Kaate wali chamach 😂🔥| Indian family #shorts #indian #chaman #relatable #chotabhai #bachpan #funny",
-            "channel": "We r Loser",
-            "thumbnail": "https://i.ytimg.com/vi/SNPN86edrJo/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=SNPN86edrJo",
-            "views": 7494247,
-            "age_hours": 159.6
-          },
-          {
-            "id": "5Ts6CjmBHwE",
-            "title": "Jagiya ka new guitar🎸🔥| Indian family😂|| #shorts #indian #relatable #guitar #chotabhai #comedy",
-            "channel": "Jagiya the fun",
-            "thumbnail": "https://i.ytimg.com/vi/5Ts6CjmBHwE/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=5Ts6CjmBHwE",
-            "views": 3394553,
-            "age_hours": 61.3
-          }
-        ]
-      },
-      {
-        "phrase": "family shorts indian",
-        "video_count": 2,
-        "momentum": 14.32,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "SNPN86edrJo",
-            "title": "Kaate wali chamach 😂🔥| Indian family #shorts #indian #chaman #relatable #chotabhai #bachpan #funny",
-            "channel": "We r Loser",
-            "thumbnail": "https://i.ytimg.com/vi/SNPN86edrJo/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=SNPN86edrJo",
-            "views": 7494247,
-            "age_hours": 159.6
-          },
-          {
-            "id": "5Ts6CjmBHwE",
-            "title": "Jagiya ka new guitar🎸🔥| Indian family😂|| #shorts #indian #relatable #guitar #chotabhai #comedy",
-            "channel": "Jagiya the fun",
-            "thumbnail": "https://i.ytimg.com/vi/5Ts6CjmBHwE/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=5Ts6CjmBHwE",
-            "views": 3394553,
-            "age_hours": 61.3
-          }
-        ]
-      },
+    "BR": [
       {
         "phrase": "alemã reage ao",
         "video_count": 2,
-        "momentum": 13.79,
+        "momentum": 13.71,
         "regions": [
           "BR"
         ],
@@ -2419,8 +1058,8 @@
             "channel": "Alemã",
             "thumbnail": "https://i.ytimg.com/vi/xBwOX-8j-tU/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=xBwOX-8j-tU",
-            "views": 2059082,
-            "age_hours": 78.5
+            "views": 2068483,
+            "age_hours": 84.5
           },
           {
             "id": "n3nnPx11URo",
@@ -2428,8 +1067,1330 @@
             "channel": "Alemã",
             "thumbnail": "https://i.ytimg.com/vi/n3nnPx11URo/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=n3nnPx11URo",
-            "views": 2827706,
-            "age_hours": 128.5
+            "views": 2854048,
+            "age_hours": 134.5
+          }
+        ]
+      },
+      {
+        "phrase": "nesse jogo roblox",
+        "video_count": 2,
+        "momentum": 12.83,
+        "regions": [
+          "BR"
+        ],
+        "lang": "pt",
+        "example_videos": [
+          {
+            "id": "YXRdDKNKtrk",
+            "title": "A MISSÃO É LEVAR O OVO DA MÃE NESSE JOGO DO ROBLOX",
+            "channel": "Amy Scarletona",
+            "thumbnail": "https://i.ytimg.com/vi/YXRdDKNKtrk/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=YXRdDKNKtrk",
+            "views": 148387,
+            "age_hours": 13.5
+          },
+          {
+            "id": "F10TEV6mGHk",
+            "title": "O DESAFIO ERA FICAR EM SILÊNCIO NESSE JOGO DO ROBLOX, MAS DEU ERRADO!",
+            "channel": "PIZÃO",
+            "thumbnail": "https://i.ytimg.com/vi/F10TEV6mGHk/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=F10TEV6mGHk",
+            "views": 101092,
+            "age_hours": 15.9
+          }
+        ]
+      },
+      {
+        "phrase": "deu ruim",
+        "video_count": 2,
+        "momentum": 10.59,
+        "regions": [
+          "BR"
+        ],
+        "lang": "pt",
+        "example_videos": [
+          {
+            "id": "jvlpT-zf1_g",
+            "title": "ADIVINHANDO AS FALAS DO VOID *deu ruim",
+            "channel": "Katlenof",
+            "thumbnail": "https://i.ytimg.com/vi/jvlpT-zf1_g/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=jvlpT-zf1_g",
+            "views": 2681470,
+            "age_hours": 68.7
+          },
+          {
+            "id": "DsN1CYMojYI",
+            "title": "Deu ruim essa pegadinha Parte 2 #pegadinha #errado #motovlog",
+            "channel": "Edu Vieira ",
+            "thumbnail": "https://i.ytimg.com/vi/DsN1CYMojYI/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=DsN1CYMojYI",
+            "views": 98494,
+            "age_hours": 96.1
+          }
+        ]
+      }
+    ],
+    "IN": [
+      {
+        "phrase": "gta live",
+        "video_count": 4,
+        "momentum": 24.85,
+        "regions": [
+          "IN"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "143E51NKfIg",
+            "title": "GTA 5 LIVE  #gta5 #gtav #gaming",
+            "channel": "PAJI IS LIVE",
+            "thumbnail": "https://i.ytimg.com/vi/143E51NKfIg/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=143E51NKfIg",
+            "views": 1419268,
+            "age_hours": 6.2
+          },
+          {
+            "id": "QXJ-uEwV1BU",
+            "title": "🔴GTA 5 LIVE - DON'T BLINK! SECRET MOD ACTIVATED🤯  #gta5 #gta5live #gaming",
+            "channel": "RapterJOD",
+            "thumbnail": "https://i.ytimg.com/vi/QXJ-uEwV1BU/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=QXJ-uEwV1BU",
+            "views": 1148161,
+            "age_hours": 15.4
+          },
+          {
+            "id": "4b8pMjev9TQ",
+            "title": "GTA 5 LIVE | MRRAJAPLAY #gtalive #gtaonline #gta5 #gtav #gaming",
+            "channel": "MR RAJA PLAYZONE",
+            "thumbnail": "https://i.ytimg.com/vi/4b8pMjev9TQ/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=4b8pMjev9TQ",
+            "views": 3014895,
+            "age_hours": 40.7
+          }
+        ]
+      },
+      {
+        "phrase": "gta5 gtav gaming",
+        "video_count": 3,
+        "momentum": 22.51,
+        "regions": [
+          "IN"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "143E51NKfIg",
+            "title": "GTA 5 LIVE  #gta5 #gtav #gaming",
+            "channel": "PAJI IS LIVE",
+            "thumbnail": "https://i.ytimg.com/vi/143E51NKfIg/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=143E51NKfIg",
+            "views": 1419268,
+            "age_hours": 6.2
+          },
+          {
+            "id": "4b8pMjev9TQ",
+            "title": "GTA 5 LIVE | MRRAJAPLAY #gtalive #gtaonline #gta5 #gtav #gaming",
+            "channel": "MR RAJA PLAYZONE",
+            "thumbnail": "https://i.ytimg.com/vi/4b8pMjev9TQ/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=4b8pMjev9TQ",
+            "views": 3014895,
+            "age_hours": 40.7
+          },
+          {
+            "id": "ZRjW4kU8hiQ",
+            "title": "🔴GTA 5 LIVE 🔥#gta5 #gtav #gaming",
+            "channel": "ADITYAISLIVE",
+            "thumbnail": "https://i.ytimg.com/vi/ZRjW4kU8hiQ/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=ZRjW4kU8hiQ",
+            "views": 450076,
+            "age_hours": 9.2
+          }
+        ]
+      },
+      {
+        "phrase": "rakshabandhan",
+        "video_count": 4,
+        "momentum": 20.33,
+        "regions": [
+          "IN"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "QM4t6wcGXIU",
+            "title": "Yeh Raksha Bandhan Badle Wala 🤣 #neetubisht #lakhneet #trending #viral #shorts #rakshabandhan",
+            "channel": "Neetu Bisht",
+            "thumbnail": "https://i.ytimg.com/vi/QM4t6wcGXIU/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=QM4t6wcGXIU",
+            "views": 3164943,
+            "age_hours": 32.0
+          },
+          {
+            "id": "lAOUIRScmw8",
+            "title": "Low Budget Rakshabandhan 😂 Part 2 #priyalkukreja #shorts",
+            "channel": "Priyal Kukreja",
+            "thumbnail": "https://i.ytimg.com/vi/lAOUIRScmw8/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=lAOUIRScmw8",
+            "views": 31368512,
+            "age_hours": 285.9
+          },
+          {
+            "id": "_p4aPIy2M3w",
+            "title": "Raksha Bandhan 🥺😍 || #childhoodmemories #friends #relatable #rakshabandhan #dosti #rakhi",
+            "channel": "Prince Yuvraj Sen 09",
+            "thumbnail": "https://i.ytimg.com/vi/_p4aPIy2M3w/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=_p4aPIy2M3w",
+            "views": 5010134,
+            "age_hours": 79.9
+          }
+        ]
+      },
+      {
+        "phrase": "gta5",
+        "video_count": 4,
+        "momentum": 19.88,
+        "regions": [
+          "IN"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "143E51NKfIg",
+            "title": "GTA 5 LIVE  #gta5 #gtav #gaming",
+            "channel": "PAJI IS LIVE",
+            "thumbnail": "https://i.ytimg.com/vi/143E51NKfIg/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=143E51NKfIg",
+            "views": 1419268,
+            "age_hours": 6.2
+          },
+          {
+            "id": "QXJ-uEwV1BU",
+            "title": "🔴GTA 5 LIVE - DON'T BLINK! SECRET MOD ACTIVATED🤯  #gta5 #gta5live #gaming",
+            "channel": "RapterJOD",
+            "thumbnail": "https://i.ytimg.com/vi/QXJ-uEwV1BU/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=QXJ-uEwV1BU",
+            "views": 1148161,
+            "age_hours": 15.4
+          },
+          {
+            "id": "4b8pMjev9TQ",
+            "title": "GTA 5 LIVE | MRRAJAPLAY #gtalive #gtaonline #gta5 #gtav #gaming",
+            "channel": "MR RAJA PLAYZONE",
+            "thumbnail": "https://i.ytimg.com/vi/4b8pMjev9TQ/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=4b8pMjev9TQ",
+            "views": 3014895,
+            "age_hours": 40.7
+          }
+        ]
+      },
+      {
+        "phrase": "indian",
+        "video_count": 4,
+        "momentum": 19.48,
+        "regions": [
+          "IN"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "9sQ9IzvBZp4",
+            "title": "Ajnabee The Unknown - Indian Horror Game",
+            "channel": "Live Insaan",
+            "thumbnail": "https://i.ytimg.com/vi/9sQ9IzvBZp4/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=9sQ9IzvBZp4",
+            "views": 1177940,
+            "age_hours": 24.0
+          },
+          {
+            "id": "fjdL9HXNsaw",
+            "title": "Papa ka belt collection 😂🔥| Indian family #shorts #indian #chaman #relatable #chotabhai #bachpan",
+            "channel": "We r Loser",
+            "thumbnail": "https://i.ytimg.com/vi/fjdL9HXNsaw/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=fjdL9HXNsaw",
+            "views": 4874807,
+            "age_hours": 69.6
+          },
+          {
+            "id": "5Ts6CjmBHwE",
+            "title": "Jagiya ka new guitar🎸🔥| Indian family😂|| #shorts #indian #relatable #guitar #chotabhai #comedy",
+            "channel": "Jagiya the fun",
+            "thumbnail": "https://i.ytimg.com/vi/5Ts6CjmBHwE/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=5Ts6CjmBHwE",
+            "views": 3519599,
+            "age_hours": 67.3
+          }
+        ]
+      },
+      {
+        "phrase": "minecraft",
+        "video_count": 4,
+        "momentum": 18.44,
+        "regions": [
+          "IN"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "CN1JWY0fUbI",
+            "title": "I Trapped Every Scary Myth in Minecraft!",
+            "channel": "ProBoiz 95",
+            "thumbnail": "https://i.ytimg.com/vi/CN1JWY0fUbI/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=CN1JWY0fUbI",
+            "views": 4107405,
+            "age_hours": 93.6
+          },
+          {
+            "id": "T0zvQ8ASGLU",
+            "title": "Minecraft, Would You Rather Battle..",
+            "channel": "Carry Depie",
+            "thumbnail": "https://i.ytimg.com/vi/T0zvQ8ASGLU/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=T0zvQ8ASGLU",
+            "views": 1396489,
+            "age_hours": 47.7
+          },
+          {
+            "id": "qqhh8A6_axo",
+            "title": "Mutant Granny Entered Our House in Minecraft..",
+            "channel": "Karry Kraft",
+            "thumbnail": "https://i.ytimg.com/vi/qqhh8A6_axo/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=qqhh8A6_axo",
+            "views": 548861,
+            "age_hours": 26.4
+          }
+        ]
+      },
+      {
+        "phrase": "ball shorts youtubeshorts",
+        "video_count": 2,
+        "momentum": 16.44,
+        "regions": [
+          "IN"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "iP2xwEDoeUk",
+            "title": "HAIR CLIP BALL 💇🏻📎⚾ #shorts #youtubeshorts #cricket #unboxing #ball #funny",
+            "channel": "Box Of Vengeance",
+            "thumbnail": "https://i.ytimg.com/vi/iP2xwEDoeUk/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=iP2xwEDoeUk",
+            "views": 5373361,
+            "age_hours": 56.0
+          },
+          {
+            "id": "1GebsCjUlCc",
+            "title": "BOOST MOON BALL 🧋🌕⚾ #shorts #youtubeshorts #cricket #unboxing #ball #funny",
+            "channel": "Box Of Vengeance",
+            "thumbnail": "https://i.ytimg.com/vi/1GebsCjUlCc/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=1GebsCjUlCc",
+            "views": 8297016,
+            "age_hours": 99.9
+          }
+        ]
+      },
+      {
+        "phrase": "shorts youtubeshorts cricket",
+        "video_count": 2,
+        "momentum": 16.44,
+        "regions": [
+          "IN"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "iP2xwEDoeUk",
+            "title": "HAIR CLIP BALL 💇🏻📎⚾ #shorts #youtubeshorts #cricket #unboxing #ball #funny",
+            "channel": "Box Of Vengeance",
+            "thumbnail": "https://i.ytimg.com/vi/iP2xwEDoeUk/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=iP2xwEDoeUk",
+            "views": 5373361,
+            "age_hours": 56.0
+          },
+          {
+            "id": "1GebsCjUlCc",
+            "title": "BOOST MOON BALL 🧋🌕⚾ #shorts #youtubeshorts #cricket #unboxing #ball #funny",
+            "channel": "Box Of Vengeance",
+            "thumbnail": "https://i.ytimg.com/vi/1GebsCjUlCc/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=1GebsCjUlCc",
+            "views": 8297016,
+            "age_hours": 99.9
+          }
+        ]
+      },
+      {
+        "phrase": "youtubeshorts cricket unboxing",
+        "video_count": 2,
+        "momentum": 16.44,
+        "regions": [
+          "IN"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "iP2xwEDoeUk",
+            "title": "HAIR CLIP BALL 💇🏻📎⚾ #shorts #youtubeshorts #cricket #unboxing #ball #funny",
+            "channel": "Box Of Vengeance",
+            "thumbnail": "https://i.ytimg.com/vi/iP2xwEDoeUk/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=iP2xwEDoeUk",
+            "views": 5373361,
+            "age_hours": 56.0
+          },
+          {
+            "id": "1GebsCjUlCc",
+            "title": "BOOST MOON BALL 🧋🌕⚾ #shorts #youtubeshorts #cricket #unboxing #ball #funny",
+            "channel": "Box Of Vengeance",
+            "thumbnail": "https://i.ytimg.com/vi/1GebsCjUlCc/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=1GebsCjUlCc",
+            "views": 8297016,
+            "age_hours": 99.9
+          }
+        ]
+      },
+      {
+        "phrase": "cricket unboxing ball",
+        "video_count": 2,
+        "momentum": 16.44,
+        "regions": [
+          "IN"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "iP2xwEDoeUk",
+            "title": "HAIR CLIP BALL 💇🏻📎⚾ #shorts #youtubeshorts #cricket #unboxing #ball #funny",
+            "channel": "Box Of Vengeance",
+            "thumbnail": "https://i.ytimg.com/vi/iP2xwEDoeUk/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=iP2xwEDoeUk",
+            "views": 5373361,
+            "age_hours": 56.0
+          },
+          {
+            "id": "1GebsCjUlCc",
+            "title": "BOOST MOON BALL 🧋🌕⚾ #shorts #youtubeshorts #cricket #unboxing #ball #funny",
+            "channel": "Box Of Vengeance",
+            "thumbnail": "https://i.ytimg.com/vi/1GebsCjUlCc/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=1GebsCjUlCc",
+            "views": 8297016,
+            "age_hours": 99.9
+          }
+        ]
+      },
+      {
+        "phrase": "unboxing ball funny",
+        "video_count": 2,
+        "momentum": 16.44,
+        "regions": [
+          "IN"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "iP2xwEDoeUk",
+            "title": "HAIR CLIP BALL 💇🏻📎⚾ #shorts #youtubeshorts #cricket #unboxing #ball #funny",
+            "channel": "Box Of Vengeance",
+            "thumbnail": "https://i.ytimg.com/vi/iP2xwEDoeUk/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=iP2xwEDoeUk",
+            "views": 5373361,
+            "age_hours": 56.0
+          },
+          {
+            "id": "1GebsCjUlCc",
+            "title": "BOOST MOON BALL 🧋🌕⚾ #shorts #youtubeshorts #cricket #unboxing #ball #funny",
+            "channel": "Box Of Vengeance",
+            "thumbnail": "https://i.ytimg.com/vi/1GebsCjUlCc/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=1GebsCjUlCc",
+            "views": 8297016,
+            "age_hours": 99.9
+          }
+        ]
+      },
+      {
+        "phrase": "iphone",
+        "video_count": 4,
+        "momentum": 16.35,
+        "regions": [
+          "IN"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "ueKmw6LFjxc",
+            "title": "Tech News 2233 || iPhone 18 series, vivo X500 Series, POCO X8 & Power, Indian Smartphone Brands.Etc.",
+            "channel": "Prasadtechintelugu",
+            "thumbnail": "https://i.ytimg.com/vi/ueKmw6LFjxc/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=ueKmw6LFjxc",
+            "views": 204518,
+            "age_hours": 22.4
+          },
+          {
+            "id": "xjmWZ1-H39M",
+            "title": "Apple iPhone Collection a kamikanuma?😳 iPhone 11 muthal iPhone 17 varai😍",
+            "channel": "Tech Satire",
+            "thumbnail": "https://i.ytimg.com/vi/xjmWZ1-H39M/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=xjmWZ1-H39M",
+            "views": 236366,
+            "age_hours": 95.6
+          },
+          {
+            "id": "RPDHaDbts8w",
+            "title": "😭iPhone-ஐ அலறவிட்ட Sony Xperia 1 VIII? 😱",
+            "channel": "Tamil Tech - MrTT",
+            "thumbnail": "https://i.ytimg.com/vi/RPDHaDbts8w/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=RPDHaDbts8w",
+            "views": 835081,
+            "age_hours": 242.0
+          }
+        ]
+      },
+      {
+        "phrase": "real end twist",
+        "video_count": 2,
+        "momentum": 15.23,
+        "regions": [
+          "IN"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "UgY3UJwV4Nk",
+            "title": "To🍓Jerry(Rithvi&Kavi)Real End Twist😂🎈 #shorts",
+            "channel": "KL BRO Biju Rithvik",
+            "thumbnail": "https://i.ytimg.com/vi/UgY3UJwV4Nk/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=UgY3UJwV4Nk",
+            "views": 5487318,
+            "age_hours": 75.8
+          },
+          {
+            "id": "RguAR4_Q6Wo",
+            "title": "Tom🍓Jerry,Real End Twist😄Must Watch #shorts",
+            "channel": "vlog 4u",
+            "thumbnail": "https://i.ytimg.com/vi/RguAR4_Q6Wo/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=RguAR4_Q6Wo",
+            "views": 4859831,
+            "age_hours": 75.3
+          }
+        ]
+      },
+      {
+        "phrase": "gta live gta5",
+        "video_count": 2,
+        "momentum": 15.2,
+        "regions": [
+          "IN"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "143E51NKfIg",
+            "title": "GTA 5 LIVE  #gta5 #gtav #gaming",
+            "channel": "PAJI IS LIVE",
+            "thumbnail": "https://i.ytimg.com/vi/143E51NKfIg/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=143E51NKfIg",
+            "views": 1419268,
+            "age_hours": 6.2
+          },
+          {
+            "id": "ZRjW4kU8hiQ",
+            "title": "🔴GTA 5 LIVE 🔥#gta5 #gtav #gaming",
+            "channel": "ADITYAISLIVE",
+            "thumbnail": "https://i.ytimg.com/vi/ZRjW4kU8hiQ/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=ZRjW4kU8hiQ",
+            "views": 450076,
+            "age_hours": 9.2
+          }
+        ]
+      },
+      {
+        "phrase": "live gta5 gtav",
+        "video_count": 2,
+        "momentum": 15.2,
+        "regions": [
+          "IN"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "143E51NKfIg",
+            "title": "GTA 5 LIVE  #gta5 #gtav #gaming",
+            "channel": "PAJI IS LIVE",
+            "thumbnail": "https://i.ytimg.com/vi/143E51NKfIg/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=143E51NKfIg",
+            "views": 1419268,
+            "age_hours": 6.2
+          },
+          {
+            "id": "ZRjW4kU8hiQ",
+            "title": "🔴GTA 5 LIVE 🔥#gta5 #gtav #gaming",
+            "channel": "ADITYAISLIVE",
+            "thumbnail": "https://i.ytimg.com/vi/ZRjW4kU8hiQ/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=ZRjW4kU8hiQ",
+            "views": 450076,
+            "age_hours": 9.2
+          }
+        ]
+      },
+      {
+        "phrase": "indian family shorts",
+        "video_count": 2,
+        "momentum": 14.54,
+        "regions": [
+          "IN"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "fjdL9HXNsaw",
+            "title": "Papa ka belt collection 😂🔥| Indian family #shorts #indian #chaman #relatable #chotabhai #bachpan",
+            "channel": "We r Loser",
+            "thumbnail": "https://i.ytimg.com/vi/fjdL9HXNsaw/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=fjdL9HXNsaw",
+            "views": 4874807,
+            "age_hours": 69.6
+          },
+          {
+            "id": "5Ts6CjmBHwE",
+            "title": "Jagiya ka new guitar🎸🔥| Indian family😂|| #shorts #indian #relatable #guitar #chotabhai #comedy",
+            "channel": "Jagiya the fun",
+            "thumbnail": "https://i.ytimg.com/vi/5Ts6CjmBHwE/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=5Ts6CjmBHwE",
+            "views": 3519599,
+            "age_hours": 67.3
+          }
+        ]
+      },
+      {
+        "phrase": "family shorts indian",
+        "video_count": 2,
+        "momentum": 14.54,
+        "regions": [
+          "IN"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "fjdL9HXNsaw",
+            "title": "Papa ka belt collection 😂🔥| Indian family #shorts #indian #chaman #relatable #chotabhai #bachpan",
+            "channel": "We r Loser",
+            "thumbnail": "https://i.ytimg.com/vi/fjdL9HXNsaw/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=fjdL9HXNsaw",
+            "views": 4874807,
+            "age_hours": 69.6
+          },
+          {
+            "id": "5Ts6CjmBHwE",
+            "title": "Jagiya ka new guitar🎸🔥| Indian family😂|| #shorts #indian #relatable #guitar #chotabhai #comedy",
+            "channel": "Jagiya the fun",
+            "thumbnail": "https://i.ytimg.com/vi/5Ts6CjmBHwE/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=5Ts6CjmBHwE",
+            "views": 3519599,
+            "age_hours": 67.3
+          }
+        ]
+      },
+      {
+        "phrase": "challenge shorts",
+        "video_count": 2,
+        "momentum": 13.02,
+        "regions": [
+          "IN"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "A3LjuubxOEk",
+            "title": "Shanti vs Bhaiya! Electric cycle challenge #shorts",
+            "channel": "Shreemani Tripathi",
+            "thumbnail": "https://i.ytimg.com/vi/A3LjuubxOEk/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=A3LjuubxOEk",
+            "views": 7330815,
+            "age_hours": 76.7
+          },
+          {
+            "id": "oLJYXPJPd6k",
+            "title": "Blinkit Vs Instamart! Raincoat challenge #shorts",
+            "channel": "Shreemani Tripathi",
+            "thumbnail": "https://i.ytimg.com/vi/oLJYXPJPd6k/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=oLJYXPJPd6k",
+            "views": 20525042,
+            "age_hours": 245.7
+          }
+        ]
+      }
+    ],
+    "CA": [],
+    "DE": [
+      {
+        "phrase": "wer besseren burger",
+        "video_count": 2,
+        "momentum": 13.54,
+        "regions": [
+          "DE"
+        ],
+        "lang": "de",
+        "example_videos": [
+          {
+            "id": "IjcIJnRXDPg",
+            "title": "Wer hat den besseren Burger?🤔🍔 #selinaundharoon #comedy #couple #beziehung #food #burger #draft",
+            "channel": "Selina & Haroon",
+            "thumbnail": "https://i.ytimg.com/vi/IjcIJnRXDPg/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=IjcIJnRXDPg",
+            "views": 794389,
+            "age_hours": 42.7
+          },
+          {
+            "id": "bUjlQ8nOk44",
+            "title": "Unsere Burger Auktion 😂🍔 Wer hat den besseren Burger? #games #challenge #draft #burger #couple",
+            "channel": "Vika & Beban ",
+            "thumbnail": "https://i.ytimg.com/vi/bUjlQ8nOk44/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=bUjlQ8nOk44",
+            "views": 813277,
+            "age_hours": 66.1
+          }
+        ]
+      },
+      {
+        "phrase": "minecraft helden",
+        "video_count": 2,
+        "momentum": 10.8,
+        "regions": [
+          "DE"
+        ],
+        "lang": "de",
+        "example_videos": [
+          {
+            "id": "ceVFGtOqtpk",
+            "title": "ich SCHENKE iCRIMAX GEHEIMES OP ITEM😱(MINECRAFT HELDEN 3)",
+            "channel": "TriDan",
+            "thumbnail": "https://i.ytimg.com/vi/ceVFGtOqtpk/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=ceVFGtOqtpk",
+            "views": 87349,
+            "age_hours": 25.5
+          },
+          {
+            "id": "Gch89dRfXkg",
+            "title": "Ich KILLE den VERRÄTER in Minecraft Helden 3!",
+            "channel": "iCrimax",
+            "thumbnail": "https://i.ytimg.com/vi/Gch89dRfXkg/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=Gch89dRfXkg",
+            "views": 191324,
+            "age_hours": 25.5
+          }
+        ]
+      },
+      {
+        "phrase": "trailer german deutsch",
+        "video_count": 2,
+        "momentum": 7.36,
+        "regions": [
+          "DE"
+        ],
+        "lang": "de",
+        "example_videos": [
+          {
+            "id": "j6EMPpPrbhQ",
+            "title": "R.L. STINE'S PUMPKINHEAD Trailer German Deutsch (2026)",
+            "channel": "KinoCheck Heimkino",
+            "thumbnail": "https://i.ytimg.com/vi/j6EMPpPrbhQ/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=j6EMPpPrbhQ",
+            "views": 6968,
+            "age_hours": 28.4
+          },
+          {
+            "id": "tr34HeW_6s0",
+            "title": "Zwei Menschen die ein Geheimnis teilen! - ONE NIGHT ONLY Clip & Trailer German Deutsch (2026)",
+            "channel": "KinoCheck",
+            "thumbnail": "https://i.ytimg.com/vi/tr34HeW_6s0/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=tr34HeW_6s0",
+            "views": 4177,
+            "age_hours": 26.2
+          }
+        ]
+      }
+    ],
+    "ALL": [
+      {
+        "phrase": "gta live",
+        "video_count": 4,
+        "momentum": 24.85,
+        "regions": [
+          "IN"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "143E51NKfIg",
+            "title": "GTA 5 LIVE  #gta5 #gtav #gaming",
+            "channel": "PAJI IS LIVE",
+            "thumbnail": "https://i.ytimg.com/vi/143E51NKfIg/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=143E51NKfIg",
+            "views": 1419268,
+            "age_hours": 6.2
+          },
+          {
+            "id": "QXJ-uEwV1BU",
+            "title": "🔴GTA 5 LIVE - DON'T BLINK! SECRET MOD ACTIVATED🤯  #gta5 #gta5live #gaming",
+            "channel": "RapterJOD",
+            "thumbnail": "https://i.ytimg.com/vi/QXJ-uEwV1BU/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=QXJ-uEwV1BU",
+            "views": 1148161,
+            "age_hours": 15.4
+          },
+          {
+            "id": "4b8pMjev9TQ",
+            "title": "GTA 5 LIVE | MRRAJAPLAY #gtalive #gtaonline #gta5 #gtav #gaming",
+            "channel": "MR RAJA PLAYZONE",
+            "thumbnail": "https://i.ytimg.com/vi/4b8pMjev9TQ/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=4b8pMjev9TQ",
+            "views": 3014895,
+            "age_hours": 40.7
+          }
+        ]
+      },
+      {
+        "phrase": "gta5 gtav gaming",
+        "video_count": 3,
+        "momentum": 22.51,
+        "regions": [
+          "IN"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "143E51NKfIg",
+            "title": "GTA 5 LIVE  #gta5 #gtav #gaming",
+            "channel": "PAJI IS LIVE",
+            "thumbnail": "https://i.ytimg.com/vi/143E51NKfIg/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=143E51NKfIg",
+            "views": 1419268,
+            "age_hours": 6.2
+          },
+          {
+            "id": "4b8pMjev9TQ",
+            "title": "GTA 5 LIVE | MRRAJAPLAY #gtalive #gtaonline #gta5 #gtav #gaming",
+            "channel": "MR RAJA PLAYZONE",
+            "thumbnail": "https://i.ytimg.com/vi/4b8pMjev9TQ/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=4b8pMjev9TQ",
+            "views": 3014895,
+            "age_hours": 40.7
+          },
+          {
+            "id": "ZRjW4kU8hiQ",
+            "title": "🔴GTA 5 LIVE 🔥#gta5 #gtav #gaming",
+            "channel": "ADITYAISLIVE",
+            "thumbnail": "https://i.ytimg.com/vi/ZRjW4kU8hiQ/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=ZRjW4kU8hiQ",
+            "views": 450076,
+            "age_hours": 9.2
+          }
+        ]
+      },
+      {
+        "phrase": "rakshabandhan",
+        "video_count": 4,
+        "momentum": 20.33,
+        "regions": [
+          "IN"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "QM4t6wcGXIU",
+            "title": "Yeh Raksha Bandhan Badle Wala 🤣 #neetubisht #lakhneet #trending #viral #shorts #rakshabandhan",
+            "channel": "Neetu Bisht",
+            "thumbnail": "https://i.ytimg.com/vi/QM4t6wcGXIU/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=QM4t6wcGXIU",
+            "views": 3164943,
+            "age_hours": 32.0
+          },
+          {
+            "id": "lAOUIRScmw8",
+            "title": "Low Budget Rakshabandhan 😂 Part 2 #priyalkukreja #shorts",
+            "channel": "Priyal Kukreja",
+            "thumbnail": "https://i.ytimg.com/vi/lAOUIRScmw8/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=lAOUIRScmw8",
+            "views": 31368512,
+            "age_hours": 285.9
+          },
+          {
+            "id": "_p4aPIy2M3w",
+            "title": "Raksha Bandhan 🥺😍 || #childhoodmemories #friends #relatable #rakshabandhan #dosti #rakhi",
+            "channel": "Prince Yuvraj Sen 09",
+            "thumbnail": "https://i.ytimg.com/vi/_p4aPIy2M3w/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=_p4aPIy2M3w",
+            "views": 5010134,
+            "age_hours": 79.9
+          }
+        ]
+      },
+      {
+        "phrase": "gta5",
+        "video_count": 4,
+        "momentum": 19.88,
+        "regions": [
+          "IN"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "143E51NKfIg",
+            "title": "GTA 5 LIVE  #gta5 #gtav #gaming",
+            "channel": "PAJI IS LIVE",
+            "thumbnail": "https://i.ytimg.com/vi/143E51NKfIg/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=143E51NKfIg",
+            "views": 1419268,
+            "age_hours": 6.2
+          },
+          {
+            "id": "QXJ-uEwV1BU",
+            "title": "🔴GTA 5 LIVE - DON'T BLINK! SECRET MOD ACTIVATED🤯  #gta5 #gta5live #gaming",
+            "channel": "RapterJOD",
+            "thumbnail": "https://i.ytimg.com/vi/QXJ-uEwV1BU/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=QXJ-uEwV1BU",
+            "views": 1148161,
+            "age_hours": 15.4
+          },
+          {
+            "id": "4b8pMjev9TQ",
+            "title": "GTA 5 LIVE | MRRAJAPLAY #gtalive #gtaonline #gta5 #gtav #gaming",
+            "channel": "MR RAJA PLAYZONE",
+            "thumbnail": "https://i.ytimg.com/vi/4b8pMjev9TQ/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=4b8pMjev9TQ",
+            "views": 3014895,
+            "age_hours": 40.7
+          }
+        ]
+      },
+      {
+        "phrase": "indian",
+        "video_count": 4,
+        "momentum": 19.48,
+        "regions": [
+          "IN"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "9sQ9IzvBZp4",
+            "title": "Ajnabee The Unknown - Indian Horror Game",
+            "channel": "Live Insaan",
+            "thumbnail": "https://i.ytimg.com/vi/9sQ9IzvBZp4/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=9sQ9IzvBZp4",
+            "views": 1177940,
+            "age_hours": 24.0
+          },
+          {
+            "id": "fjdL9HXNsaw",
+            "title": "Papa ka belt collection 😂🔥| Indian family #shorts #indian #chaman #relatable #chotabhai #bachpan",
+            "channel": "We r Loser",
+            "thumbnail": "https://i.ytimg.com/vi/fjdL9HXNsaw/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=fjdL9HXNsaw",
+            "views": 4874807,
+            "age_hours": 69.6
+          },
+          {
+            "id": "5Ts6CjmBHwE",
+            "title": "Jagiya ka new guitar🎸🔥| Indian family😂|| #shorts #indian #relatable #guitar #chotabhai #comedy",
+            "channel": "Jagiya the fun",
+            "thumbnail": "https://i.ytimg.com/vi/5Ts6CjmBHwE/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=5Ts6CjmBHwE",
+            "views": 3519599,
+            "age_hours": 67.3
+          }
+        ]
+      },
+      {
+        "phrase": "minecraft",
+        "video_count": 4,
+        "momentum": 18.44,
+        "regions": [
+          "IN"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "CN1JWY0fUbI",
+            "title": "I Trapped Every Scary Myth in Minecraft!",
+            "channel": "ProBoiz 95",
+            "thumbnail": "https://i.ytimg.com/vi/CN1JWY0fUbI/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=CN1JWY0fUbI",
+            "views": 4107405,
+            "age_hours": 93.6
+          },
+          {
+            "id": "T0zvQ8ASGLU",
+            "title": "Minecraft, Would You Rather Battle..",
+            "channel": "Carry Depie",
+            "thumbnail": "https://i.ytimg.com/vi/T0zvQ8ASGLU/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=T0zvQ8ASGLU",
+            "views": 1396489,
+            "age_hours": 47.7
+          },
+          {
+            "id": "qqhh8A6_axo",
+            "title": "Mutant Granny Entered Our House in Minecraft..",
+            "channel": "Karry Kraft",
+            "thumbnail": "https://i.ytimg.com/vi/qqhh8A6_axo/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=qqhh8A6_axo",
+            "views": 548861,
+            "age_hours": 26.4
+          }
+        ]
+      },
+      {
+        "phrase": "ball shorts youtubeshorts",
+        "video_count": 2,
+        "momentum": 16.44,
+        "regions": [
+          "IN"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "iP2xwEDoeUk",
+            "title": "HAIR CLIP BALL 💇🏻📎⚾ #shorts #youtubeshorts #cricket #unboxing #ball #funny",
+            "channel": "Box Of Vengeance",
+            "thumbnail": "https://i.ytimg.com/vi/iP2xwEDoeUk/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=iP2xwEDoeUk",
+            "views": 5373361,
+            "age_hours": 56.0
+          },
+          {
+            "id": "1GebsCjUlCc",
+            "title": "BOOST MOON BALL 🧋🌕⚾ #shorts #youtubeshorts #cricket #unboxing #ball #funny",
+            "channel": "Box Of Vengeance",
+            "thumbnail": "https://i.ytimg.com/vi/1GebsCjUlCc/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=1GebsCjUlCc",
+            "views": 8297016,
+            "age_hours": 99.9
+          }
+        ]
+      },
+      {
+        "phrase": "shorts youtubeshorts cricket",
+        "video_count": 2,
+        "momentum": 16.44,
+        "regions": [
+          "IN"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "iP2xwEDoeUk",
+            "title": "HAIR CLIP BALL 💇🏻📎⚾ #shorts #youtubeshorts #cricket #unboxing #ball #funny",
+            "channel": "Box Of Vengeance",
+            "thumbnail": "https://i.ytimg.com/vi/iP2xwEDoeUk/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=iP2xwEDoeUk",
+            "views": 5373361,
+            "age_hours": 56.0
+          },
+          {
+            "id": "1GebsCjUlCc",
+            "title": "BOOST MOON BALL 🧋🌕⚾ #shorts #youtubeshorts #cricket #unboxing #ball #funny",
+            "channel": "Box Of Vengeance",
+            "thumbnail": "https://i.ytimg.com/vi/1GebsCjUlCc/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=1GebsCjUlCc",
+            "views": 8297016,
+            "age_hours": 99.9
+          }
+        ]
+      },
+      {
+        "phrase": "youtubeshorts cricket unboxing",
+        "video_count": 2,
+        "momentum": 16.44,
+        "regions": [
+          "IN"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "iP2xwEDoeUk",
+            "title": "HAIR CLIP BALL 💇🏻📎⚾ #shorts #youtubeshorts #cricket #unboxing #ball #funny",
+            "channel": "Box Of Vengeance",
+            "thumbnail": "https://i.ytimg.com/vi/iP2xwEDoeUk/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=iP2xwEDoeUk",
+            "views": 5373361,
+            "age_hours": 56.0
+          },
+          {
+            "id": "1GebsCjUlCc",
+            "title": "BOOST MOON BALL 🧋🌕⚾ #shorts #youtubeshorts #cricket #unboxing #ball #funny",
+            "channel": "Box Of Vengeance",
+            "thumbnail": "https://i.ytimg.com/vi/1GebsCjUlCc/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=1GebsCjUlCc",
+            "views": 8297016,
+            "age_hours": 99.9
+          }
+        ]
+      },
+      {
+        "phrase": "cricket unboxing ball",
+        "video_count": 2,
+        "momentum": 16.44,
+        "regions": [
+          "IN"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "iP2xwEDoeUk",
+            "title": "HAIR CLIP BALL 💇🏻📎⚾ #shorts #youtubeshorts #cricket #unboxing #ball #funny",
+            "channel": "Box Of Vengeance",
+            "thumbnail": "https://i.ytimg.com/vi/iP2xwEDoeUk/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=iP2xwEDoeUk",
+            "views": 5373361,
+            "age_hours": 56.0
+          },
+          {
+            "id": "1GebsCjUlCc",
+            "title": "BOOST MOON BALL 🧋🌕⚾ #shorts #youtubeshorts #cricket #unboxing #ball #funny",
+            "channel": "Box Of Vengeance",
+            "thumbnail": "https://i.ytimg.com/vi/1GebsCjUlCc/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=1GebsCjUlCc",
+            "views": 8297016,
+            "age_hours": 99.9
+          }
+        ]
+      },
+      {
+        "phrase": "unboxing ball funny",
+        "video_count": 2,
+        "momentum": 16.44,
+        "regions": [
+          "IN"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "iP2xwEDoeUk",
+            "title": "HAIR CLIP BALL 💇🏻📎⚾ #shorts #youtubeshorts #cricket #unboxing #ball #funny",
+            "channel": "Box Of Vengeance",
+            "thumbnail": "https://i.ytimg.com/vi/iP2xwEDoeUk/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=iP2xwEDoeUk",
+            "views": 5373361,
+            "age_hours": 56.0
+          },
+          {
+            "id": "1GebsCjUlCc",
+            "title": "BOOST MOON BALL 🧋🌕⚾ #shorts #youtubeshorts #cricket #unboxing #ball #funny",
+            "channel": "Box Of Vengeance",
+            "thumbnail": "https://i.ytimg.com/vi/1GebsCjUlCc/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=1GebsCjUlCc",
+            "views": 8297016,
+            "age_hours": 99.9
+          }
+        ]
+      },
+      {
+        "phrase": "iphone",
+        "video_count": 4,
+        "momentum": 16.35,
+        "regions": [
+          "IN"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "ueKmw6LFjxc",
+            "title": "Tech News 2233 || iPhone 18 series, vivo X500 Series, POCO X8 & Power, Indian Smartphone Brands.Etc.",
+            "channel": "Prasadtechintelugu",
+            "thumbnail": "https://i.ytimg.com/vi/ueKmw6LFjxc/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=ueKmw6LFjxc",
+            "views": 204518,
+            "age_hours": 22.4
+          },
+          {
+            "id": "xjmWZ1-H39M",
+            "title": "Apple iPhone Collection a kamikanuma?😳 iPhone 11 muthal iPhone 17 varai😍",
+            "channel": "Tech Satire",
+            "thumbnail": "https://i.ytimg.com/vi/xjmWZ1-H39M/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=xjmWZ1-H39M",
+            "views": 236366,
+            "age_hours": 95.6
+          },
+          {
+            "id": "RPDHaDbts8w",
+            "title": "😭iPhone-ஐ அலறவிட்ட Sony Xperia 1 VIII? 😱",
+            "channel": "Tamil Tech - MrTT",
+            "thumbnail": "https://i.ytimg.com/vi/RPDHaDbts8w/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=RPDHaDbts8w",
+            "views": 835081,
+            "age_hours": 242.0
+          }
+        ]
+      },
+      {
+        "phrase": "real end twist",
+        "video_count": 2,
+        "momentum": 15.23,
+        "regions": [
+          "IN"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "UgY3UJwV4Nk",
+            "title": "To🍓Jerry(Rithvi&Kavi)Real End Twist😂🎈 #shorts",
+            "channel": "KL BRO Biju Rithvik",
+            "thumbnail": "https://i.ytimg.com/vi/UgY3UJwV4Nk/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=UgY3UJwV4Nk",
+            "views": 5487318,
+            "age_hours": 75.8
+          },
+          {
+            "id": "RguAR4_Q6Wo",
+            "title": "Tom🍓Jerry,Real End Twist😄Must Watch #shorts",
+            "channel": "vlog 4u",
+            "thumbnail": "https://i.ytimg.com/vi/RguAR4_Q6Wo/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=RguAR4_Q6Wo",
+            "views": 4859831,
+            "age_hours": 75.3
+          }
+        ]
+      },
+      {
+        "phrase": "gta live gta5",
+        "video_count": 2,
+        "momentum": 15.2,
+        "regions": [
+          "IN"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "143E51NKfIg",
+            "title": "GTA 5 LIVE  #gta5 #gtav #gaming",
+            "channel": "PAJI IS LIVE",
+            "thumbnail": "https://i.ytimg.com/vi/143E51NKfIg/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=143E51NKfIg",
+            "views": 1419268,
+            "age_hours": 6.2
+          },
+          {
+            "id": "ZRjW4kU8hiQ",
+            "title": "🔴GTA 5 LIVE 🔥#gta5 #gtav #gaming",
+            "channel": "ADITYAISLIVE",
+            "thumbnail": "https://i.ytimg.com/vi/ZRjW4kU8hiQ/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=ZRjW4kU8hiQ",
+            "views": 450076,
+            "age_hours": 9.2
+          }
+        ]
+      },
+      {
+        "phrase": "live gta5 gtav",
+        "video_count": 2,
+        "momentum": 15.2,
+        "regions": [
+          "IN"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "143E51NKfIg",
+            "title": "GTA 5 LIVE  #gta5 #gtav #gaming",
+            "channel": "PAJI IS LIVE",
+            "thumbnail": "https://i.ytimg.com/vi/143E51NKfIg/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=143E51NKfIg",
+            "views": 1419268,
+            "age_hours": 6.2
+          },
+          {
+            "id": "ZRjW4kU8hiQ",
+            "title": "🔴GTA 5 LIVE 🔥#gta5 #gtav #gaming",
+            "channel": "ADITYAISLIVE",
+            "thumbnail": "https://i.ytimg.com/vi/ZRjW4kU8hiQ/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=ZRjW4kU8hiQ",
+            "views": 450076,
+            "age_hours": 9.2
+          }
+        ]
+      },
+      {
+        "phrase": "indian family shorts",
+        "video_count": 2,
+        "momentum": 14.54,
+        "regions": [
+          "IN"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "fjdL9HXNsaw",
+            "title": "Papa ka belt collection 😂🔥| Indian family #shorts #indian #chaman #relatable #chotabhai #bachpan",
+            "channel": "We r Loser",
+            "thumbnail": "https://i.ytimg.com/vi/fjdL9HXNsaw/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=fjdL9HXNsaw",
+            "views": 4874807,
+            "age_hours": 69.6
+          },
+          {
+            "id": "5Ts6CjmBHwE",
+            "title": "Jagiya ka new guitar🎸🔥| Indian family😂|| #shorts #indian #relatable #guitar #chotabhai #comedy",
+            "channel": "Jagiya the fun",
+            "thumbnail": "https://i.ytimg.com/vi/5Ts6CjmBHwE/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=5Ts6CjmBHwE",
+            "views": 3519599,
+            "age_hours": 67.3
+          }
+        ]
+      },
+      {
+        "phrase": "family shorts indian",
+        "video_count": 2,
+        "momentum": 14.54,
+        "regions": [
+          "IN"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "fjdL9HXNsaw",
+            "title": "Papa ka belt collection 😂🔥| Indian family #shorts #indian #chaman #relatable #chotabhai #bachpan",
+            "channel": "We r Loser",
+            "thumbnail": "https://i.ytimg.com/vi/fjdL9HXNsaw/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=fjdL9HXNsaw",
+            "views": 4874807,
+            "age_hours": 69.6
+          },
+          {
+            "id": "5Ts6CjmBHwE",
+            "title": "Jagiya ka new guitar🎸🔥| Indian family😂|| #shorts #indian #relatable #guitar #chotabhai #comedy",
+            "channel": "Jagiya the fun",
+            "thumbnail": "https://i.ytimg.com/vi/5Ts6CjmBHwE/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=5Ts6CjmBHwE",
+            "views": 3519599,
+            "age_hours": 67.3
+          }
+        ]
+      },
+      {
+        "phrase": "alemã reage ao",
+        "video_count": 2,
+        "momentum": 13.71,
+        "regions": [
+          "BR"
+        ],
+        "lang": "pt",
+        "example_videos": [
+          {
+            "id": "xBwOX-8j-tU",
+            "title": "Alemã reage ao Spider Slack - Errei a privada",
+            "channel": "Alemã",
+            "thumbnail": "https://i.ytimg.com/vi/xBwOX-8j-tU/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=xBwOX-8j-tU",
+            "views": 2068483,
+            "age_hours": 84.5
+          },
+          {
+            "id": "n3nnPx11URo",
+            "title": "Alemã reage ao Paulinho99 - Como é a sua mochila 😂",
+            "channel": "Alemã",
+            "thumbnail": "https://i.ytimg.com/vi/n3nnPx11URo/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=n3nnPx11URo",
+            "views": 2854048,
+            "age_hours": 134.5
           }
         ]
       }
@@ -2437,110 +2398,91 @@
   },
   "trending_searches": [
     {
-      "phrase": "how to tie a tie",
-      "prefix": "how to",
+      "phrase": "why do birds suddenly appear",
+      "prefix": "why do",
       "rank": 1,
-      "first_seen_at": "2026-08-25T06:27:59.933405+00:00",
+      "first_seen_at": "2026-08-25T12:27:41.733704+00:00",
       "is_new": true
     },
     {
-      "phrase": "how do i say goodbye dean lewis",
-      "prefix": "how do",
-      "rank": 1,
-      "first_seen_at": "2026-08-25T06:27:59.933405+00:00",
-      "is_new": true
-    },
-    {
-      "phrase": "how does it feel d'angelo",
-      "prefix": "how does",
-      "rank": 1,
-      "first_seen_at": "2026-08-25T06:27:59.933405+00:00",
-      "is_new": true
-    },
-    {
-      "phrase": "why is it spicy",
-      "prefix": "why is",
-      "rank": 1,
-      "first_seen_at": "2026-08-25T06:27:59.933405+00:00",
-      "is_new": true
-    },
-    {
-      "phrase": "what is this diddy blud doing on the calculator",
-      "prefix": "what is",
-      "rank": 1,
-      "first_seen_at": "2026-08-25T06:27:59.933405+00:00",
-      "is_new": true
-    },
-    {
-      "phrase": "what are you listening to chris stapleton",
-      "prefix": "what are",
-      "rank": 1,
-      "first_seen_at": "2026-08-25T06:27:59.933405+00:00",
-      "is_new": true
-    },
-    {
-      "phrase": "what happened to virgil",
-      "prefix": "what happened",
-      "rank": 1,
-      "first_seen_at": "2026-08-25T06:27:59.933405+00:00",
-      "is_new": true
-    },
-    {
-      "phrase": "worst way riley green",
-      "prefix": "worst",
-      "rank": 1,
-      "first_seen_at": "2026-08-25T06:27:59.933405+00:00",
-      "is_new": true
-    },
-    {
-      "phrase": "how does it feel",
-      "prefix": "how does",
-      "rank": 2,
-      "first_seen_at": "2026-08-25T06:27:59.933405+00:00",
-      "is_new": true
-    },
-    {
-      "phrase": "why is my bus driver playing mitski",
-      "prefix": "why is",
-      "rank": 2,
-      "first_seen_at": "2026-08-25T06:27:59.933405+00:00",
-      "is_new": true
-    },
-    {
-      "phrase": "why does it hurt to love you",
+      "phrase": "why does he call you darling",
       "prefix": "why does",
-      "rank": 2,
-      "first_seen_at": "2026-08-25T06:27:59.933405+00:00",
+      "rank": 1,
+      "first_seen_at": "2026-08-25T12:27:41.733704+00:00",
       "is_new": true
     },
     {
-      "phrase": "what are those",
-      "prefix": "what are",
+      "phrase": "best build 2k26",
+      "prefix": "best",
+      "rank": 1,
+      "first_seen_at": "2026-08-25T12:27:41.733704+00:00",
+      "is_new": true
+    },
+    {
+      "phrase": "topper guild",
+      "prefix": "top",
+      "rank": 1,
+      "first_seen_at": "2026-08-25T12:27:41.733704+00:00",
+      "is_new": true
+    },
+    {
+      "phrase": "is it a crime mariah the scientist",
+      "prefix": "is it",
+      "rank": 1,
+      "first_seen_at": "2026-08-25T12:27:41.733704+00:00",
+      "is_new": true
+    },
+    {
+      "phrase": "should i stay or should i go",
+      "prefix": "should i",
+      "rank": 1,
+      "first_seen_at": "2026-08-25T12:27:41.733704+00:00",
+      "is_new": true
+    },
+    {
+      "phrase": "can you stand the rain new edition",
+      "prefix": "can you",
+      "rank": 1,
+      "first_seen_at": "2026-08-25T12:27:41.733704+00:00",
+      "is_new": true
+    },
+    {
+      "phrase": "how to draw",
+      "prefix": "how to",
       "rank": 2,
-      "first_seen_at": "2026-08-25T06:27:59.933405+00:00",
+      "first_seen_at": "2026-08-25T12:27:41.733704+00:00",
+      "is_new": true
+    },
+    {
+      "phrase": "why don't we fall in love",
+      "prefix": "why do",
+      "rank": 2,
+      "first_seen_at": "2026-08-25T12:27:41.733704+00:00",
+      "is_new": true
+    },
+    {
+      "phrase": "what is love",
+      "prefix": "what is",
+      "rank": 2,
+      "first_seen_at": "2026-08-25T12:27:41.733704+00:00",
+      "is_new": true
+    },
+    {
+      "phrase": "what happened to lankybox",
+      "prefix": "what happened",
+      "rank": 2,
+      "first_seen_at": "2026-08-25T12:27:41.733704+00:00",
+      "is_new": true
+    },
+    {
+      "phrase": "besties",
+      "prefix": "best",
+      "rank": 2,
+      "first_seen_at": "2026-08-25T12:27:41.733704+00:00",
       "is_new": true
     }
   ],
   "breakout_videos": [
-    {
-      "id": "hpqKHn0yS7I",
-      "title": "Robin • Summeretto Character Trailer: \"Chasing the Wind\" | Honkai: Star Rail",
-      "channel": "Honkai: Star Rail",
-      "channel_id": "UC2PeMPA8PAOp-bynLoCeMLA",
-      "thumbnail": "https://i.ytimg.com/vi/hpqKHn0yS7I/mqdefault.jpg",
-      "published_at": "2026-08-25T04:00:39Z",
-      "category_id": "20",
-      "views": 55086,
-      "likes": 13681,
-      "comments": 651,
-      "age_hours": 2.5,
-      "views_per_hour": 22442,
-      "momentum": 7.027,
-      "url": "https://www.youtube.com/watch?v=hpqKHn0yS7I",
-      "region": "BR",
-      "category": "Gaming",
-      "_detected_lang": "en"
-    },
     {
       "id": "_9jaJtmraXA",
       "title": "Taylor Swift Performance - The Icon Sessions at the Grammy Museum",
@@ -2549,12 +2491,12 @@
       "thumbnail": "https://i.ytimg.com/vi/_9jaJtmraXA/mqdefault.jpg",
       "published_at": "2026-08-24T23:02:12Z",
       "category_id": "10",
-      "views": 1048710,
-      "likes": 122217,
-      "comments": 10207,
-      "age_hours": 7.4,
-      "views_per_hour": 141204,
-      "momentum": 6.851,
+      "views": 1482109,
+      "likes": 153875,
+      "comments": 11787,
+      "age_hours": 13.4,
+      "views_per_hour": 110425,
+      "momentum": 6.491,
       "url": "https://www.youtube.com/watch?v=_9jaJtmraXA",
       "region": "US",
       "category": "Other",
@@ -2568,16 +2510,54 @@
       "thumbnail": "https://i.ytimg.com/vi/thHxtnJf9HA/mqdefault.jpg",
       "published_at": "2026-08-23T02:00:00Z",
       "category_id": "10",
-      "views": 1782648,
-      "likes": 320425,
-      "comments": 15987,
-      "age_hours": 52.5,
-      "views_per_hour": 33978,
-      "momentum": 6.567,
+      "views": 1853356,
+      "likes": 325932,
+      "comments": 16138,
+      "age_hours": 58.5,
+      "views_per_hour": 31703,
+      "momentum": 6.476,
       "url": "https://www.youtube.com/watch?v=thHxtnJf9HA",
       "region": "AU",
       "category": "Other",
       "_detected_lang": "en"
+    },
+    {
+      "id": "Bm5S7ZKk6K8",
+      "title": "Haiwaan - Official Trailer | Akshay Kumar, Saif Ali Khan, Boman, Shriya, Saiyami | Priyadarshan",
+      "channel": "Zee Music Company",
+      "channel_id": "UCFFbwnve3yF62-tVXkTyHqg",
+      "thumbnail": "https://i.ytimg.com/vi/Bm5S7ZKk6K8/mqdefault.jpg",
+      "published_at": "2026-08-25T07:00:04Z",
+      "category_id": "24",
+      "views": 1045161,
+      "likes": 72614,
+      "comments": 5370,
+      "age_hours": 5.5,
+      "views_per_hour": 191503,
+      "momentum": 6.288,
+      "url": "https://www.youtube.com/watch?v=Bm5S7ZKk6K8",
+      "region": "GB",
+      "category": "Entertainment",
+      "_detected_lang": "en"
+    },
+    {
+      "id": "2hcctbjZjio",
+      "title": "Assustei Ela Com Esse TRUQUE de Magica🪄 #shorts",
+      "channel": "Lucan Pevidor",
+      "channel_id": "UCuz_0MPcY5O0vsIfFPKFpGg",
+      "thumbnail": "https://i.ytimg.com/vi/2hcctbjZjio/mqdefault.jpg",
+      "published_at": "2026-08-22T19:40:40Z",
+      "category_id": "24",
+      "views": 22640242,
+      "likes": 1294889,
+      "comments": 3704,
+      "age_hours": 64.8,
+      "views_per_hour": 349480,
+      "momentum": 6.187,
+      "url": "https://www.youtube.com/watch?v=2hcctbjZjio",
+      "region": "BR",
+      "category": "Entertainment",
+      "_detected_lang": "pt"
     },
     {
       "id": "NI0rodDL-U8",
@@ -2587,52 +2567,33 @@
       "thumbnail": "https://i.ytimg.com/vi/NI0rodDL-U8/mqdefault.jpg",
       "published_at": "2026-08-24T16:00:35Z",
       "category_id": "10",
-      "views": 402279,
-      "likes": 66329,
-      "comments": 4879,
-      "age_hours": 14.5,
-      "views_per_hour": 27831,
-      "momentum": 6.449,
+      "views": 481363,
+      "likes": 72264,
+      "comments": 5136,
+      "age_hours": 20.4,
+      "views_per_hour": 23540,
+      "momentum": 6.151,
       "url": "https://www.youtube.com/watch?v=NI0rodDL-U8",
       "region": "GB",
       "category": "Other",
       "_detected_lang": "en"
     },
     {
-      "id": "BjFX1eugZ-Y",
-      "title": "NCT 127 엔시티 127 'Blingy' MV",
-      "channel": "SMTOWN",
-      "channel_id": "UCEf_Bc-KVd7onSeifS3py9g",
-      "thumbnail": "https://i.ytimg.com/vi/BjFX1eugZ-Y/mqdefault.jpg",
-      "published_at": "2026-08-24T09:00:01Z",
-      "category_id": "10",
-      "views": 1120235,
-      "likes": 136493,
-      "comments": 11364,
-      "age_hours": 21.5,
-      "views_per_hour": 52193,
-      "momentum": 6.346,
-      "url": "https://www.youtube.com/watch?v=BjFX1eugZ-Y",
-      "region": "US",
-      "category": "Other",
-      "_detected_lang": "en"
-    },
-    {
-      "id": "46h0LvDHgIs",
-      "title": "TUIDE (튜이드) ‘SUN KISS’ Official MV",
-      "channel": "HYBE LABELS",
-      "channel_id": "UC3IZKseVpdzPSBaWxBxundA",
-      "thumbnail": "https://i.ytimg.com/vi/46h0LvDHgIs/mqdefault.jpg",
-      "published_at": "2026-08-24T08:58:06Z",
-      "category_id": "10",
-      "views": 1389393,
-      "likes": 141855,
-      "comments": 12371,
-      "age_hours": 21.5,
-      "views_per_hour": 64637,
-      "momentum": 6.221,
-      "url": "https://www.youtube.com/watch?v=46h0LvDHgIs",
-      "region": "US",
+      "id": "1wLNzcrGrVw",
+      "title": "Gunmaaster G9 Teaser | Emraan, Genelia, Aparshakti | Aditya Datt | Himesh R | Deepak M | 27 Nov 2026",
+      "channel": "Soham Rockstar Entertainment",
+      "channel_id": "UC_Qan_w2z9EVG-NS0f2g6XQ",
+      "thumbnail": "https://i.ytimg.com/vi/1wLNzcrGrVw/mqdefault.jpg",
+      "published_at": "2026-08-25T05:41:06Z",
+      "category_id": "1",
+      "views": 782495,
+      "likes": 52187,
+      "comments": 6081,
+      "age_hours": 6.8,
+      "views_per_hour": 115504,
+      "momentum": 6.131,
+      "url": "https://www.youtube.com/watch?v=1wLNzcrGrVw",
+      "region": "IN",
       "category": "Other",
       "_detected_lang": "en"
     },
@@ -2644,16 +2605,54 @@
       "thumbnail": "https://i.ytimg.com/vi/ULpFeZ_LGgQ/mqdefault.jpg",
       "published_at": "2026-08-24T00:00:40Z",
       "category_id": "24",
-      "views": 3428802,
-      "likes": 380246,
-      "comments": 2849,
-      "age_hours": 30.5,
-      "views_per_hour": 112588,
-      "momentum": 6.214,
+      "views": 3461338,
+      "likes": 384331,
+      "comments": 2876,
+      "age_hours": 36.4,
+      "views_per_hour": 94963,
+      "momentum": 6.124,
       "url": "https://www.youtube.com/watch?v=ULpFeZ_LGgQ",
       "region": "BR",
       "category": "Entertainment",
       "_detected_lang": "pt"
+    },
+    {
+      "id": "46h0LvDHgIs",
+      "title": "TUIDE (튜이드) ‘SUN KISS’ Official MV",
+      "channel": "HYBE LABELS",
+      "channel_id": "UC3IZKseVpdzPSBaWxBxundA",
+      "thumbnail": "https://i.ytimg.com/vi/46h0LvDHgIs/mqdefault.jpg",
+      "published_at": "2026-08-24T08:58:06Z",
+      "category_id": "10",
+      "views": 1601729,
+      "likes": 151508,
+      "comments": 12986,
+      "age_hours": 27.5,
+      "views_per_hour": 58266,
+      "momentum": 6.053,
+      "url": "https://www.youtube.com/watch?v=46h0LvDHgIs",
+      "region": "US",
+      "category": "Other",
+      "_detected_lang": "en"
+    },
+    {
+      "id": "GQoQkeMdvQM",
+      "title": "Flock values their privacy. Oh well.",
+      "channel": "Benn Jordan",
+      "channel_id": "UCshObcm-nLhbu8MY50EZ5Ng",
+      "thumbnail": "https://i.ytimg.com/vi/GQoQkeMdvQM/mqdefault.jpg",
+      "published_at": "2026-08-21T05:43:30Z",
+      "category_id": "28",
+      "views": 1281646,
+      "likes": 239983,
+      "comments": 12656,
+      "age_hours": 102.7,
+      "views_per_hour": 12475,
+      "momentum": 6.035,
+      "url": "https://www.youtube.com/watch?v=GQoQkeMdvQM",
+      "region": "US",
+      "category": "Science & Tech",
+      "_detected_lang": "en"
     },
     {
       "id": "jR3rWCBeO6M",
@@ -2663,15 +2662,34 @@
       "thumbnail": "https://i.ytimg.com/vi/jR3rWCBeO6M/mqdefault.jpg",
       "published_at": "2026-08-24T15:06:36Z",
       "category_id": "10",
-      "views": 2116143,
-      "likes": 185148,
-      "comments": 6402,
-      "age_hours": 15.4,
-      "views_per_hour": 137824,
-      "momentum": 6.194,
+      "views": 2973716,
+      "likes": 214088,
+      "comments": 7191,
+      "age_hours": 21.3,
+      "views_per_hour": 139292,
+      "momentum": 6.009,
       "url": "https://www.youtube.com/watch?v=jR3rWCBeO6M",
       "region": "GB",
       "category": "Other",
+      "_detected_lang": "en"
+    },
+    {
+      "id": "hpqKHn0yS7I",
+      "title": "Robin • Summeretto Character Trailer: \"Chasing the Wind\" | Honkai: Star Rail",
+      "channel": "Honkai: Star Rail",
+      "channel_id": "UC2PeMPA8PAOp-bynLoCeMLA",
+      "thumbnail": "https://i.ytimg.com/vi/hpqKHn0yS7I/mqdefault.jpg",
+      "published_at": "2026-08-25T04:00:39Z",
+      "category_id": "20",
+      "views": 162720,
+      "likes": 27138,
+      "comments": 977,
+      "age_hours": 8.4,
+      "views_per_hour": 19262,
+      "momentum": 5.971,
+      "url": "https://www.youtube.com/watch?v=hpqKHn0yS7I",
+      "region": "US",
+      "category": "Gaming",
       "_detected_lang": "en"
     },
     {
@@ -2682,53 +2700,15 @@
       "thumbnail": "https://i.ytimg.com/vi/R-4cvbrDbv8/mqdefault.jpg",
       "published_at": "2026-08-24T01:15:21Z",
       "category_id": "10",
-      "views": 883143,
-      "likes": 90537,
-      "comments": 13402,
-      "age_hours": 29.2,
-      "views_per_hour": 30235,
-      "momentum": 6.079,
+      "views": 1021209,
+      "likes": 94610,
+      "comments": 13857,
+      "age_hours": 35.2,
+      "views_per_hour": 29008,
+      "momentum": 5.895,
       "url": "https://www.youtube.com/watch?v=R-4cvbrDbv8",
       "region": "IN",
       "category": "Other",
-      "_detected_lang": "en"
-    },
-    {
-      "id": "143E51NKfIg",
-      "title": "GTA 5 LIVE  #gta5 #gtav #gaming",
-      "channel": "PAJI IS LIVE",
-      "channel_id": "UCDFCpzs71ziH52_FcL2eTNA",
-      "thumbnail": "https://i.ytimg.com/vi/143E51NKfIg/mqdefault.jpg",
-      "published_at": "2026-08-25T06:12:59Z",
-      "category_id": "20",
-      "views": 1004727,
-      "likes": 5241,
-      "comments": 0,
-      "age_hours": 1.0,
-      "views_per_hour": 1004727,
-      "momentum": 6.065,
-      "url": "https://www.youtube.com/watch?v=143E51NKfIg",
-      "region": "IN",
-      "category": "Gaming",
-      "_detected_lang": "en"
-    },
-    {
-      "id": "e4-Xhgm8qCw",
-      "title": "LEGO Official Trailer Recreation | Avengers: Doomsday | In Theaters December 18",
-      "channel": "Marvel Entertainment",
-      "channel_id": "UCvC4D8onUfXzvjTOM-dBfEA",
-      "thumbnail": "https://i.ytimg.com/vi/e4-Xhgm8qCw/mqdefault.jpg",
-      "published_at": "2026-08-24T16:00:21Z",
-      "category_id": "24",
-      "views": 2094238,
-      "likes": 127011,
-      "comments": 7270,
-      "age_hours": 14.5,
-      "views_per_hour": 144852,
-      "momentum": 5.966,
-      "url": "https://www.youtube.com/watch?v=e4-Xhgm8qCw",
-      "region": "US",
-      "category": "Entertainment",
       "_detected_lang": "en"
     },
     {
@@ -2739,15 +2719,53 @@
       "thumbnail": "https://i.ytimg.com/vi/oW-f6RYSwBI/mqdefault.jpg",
       "published_at": "2026-08-19T15:00:08Z",
       "category_id": "22",
-      "views": 33401055,
-      "likes": 1414381,
-      "comments": 9732,
-      "age_hours": 135.5,
-      "views_per_hour": 246572,
-      "momentum": 5.864,
+      "views": 34157321,
+      "likes": 1447631,
+      "comments": 9898,
+      "age_hours": 141.5,
+      "views_per_hour": 241469,
+      "momentum": 5.855,
       "url": "https://www.youtube.com/watch?v=oW-f6RYSwBI",
       "region": "US",
       "category": "People & Blogs",
+      "_detected_lang": "en"
+    },
+    {
+      "id": "e4-Xhgm8qCw",
+      "title": "LEGO Official Trailer Recreation | Avengers: Doomsday | In Theaters December 18",
+      "channel": "Marvel Entertainment",
+      "channel_id": "UCvC4D8onUfXzvjTOM-dBfEA",
+      "thumbnail": "https://i.ytimg.com/vi/e4-Xhgm8qCw/mqdefault.jpg",
+      "published_at": "2026-08-24T16:00:21Z",
+      "category_id": "24",
+      "views": 2629062,
+      "likes": 139532,
+      "comments": 7553,
+      "age_hours": 20.5,
+      "views_per_hour": 128544,
+      "momentum": 5.798,
+      "url": "https://www.youtube.com/watch?v=e4-Xhgm8qCw",
+      "region": "US",
+      "category": "Entertainment",
+      "_detected_lang": "en"
+    },
+    {
+      "id": "RMvxQsVcGFo",
+      "title": "How To Make A Stone Walkway 🤔",
+      "channel": "Zack D. Films",
+      "channel_id": "UCvz84_Q0BbvZThy75mbd-Dg",
+      "thumbnail": "https://i.ytimg.com/vi/RMvxQsVcGFo/mqdefault.jpg",
+      "published_at": "2026-08-23T20:00:06Z",
+      "category_id": "19",
+      "views": 4553301,
+      "likes": 320925,
+      "comments": 3137,
+      "age_hours": 40.5,
+      "views_per_hour": 112547,
+      "momentum": 5.798,
+      "url": "https://www.youtube.com/watch?v=RMvxQsVcGFo",
+      "region": "US",
+      "category": "Other",
       "_detected_lang": "en"
     },
     {
@@ -2758,12 +2776,12 @@
       "thumbnail": "https://i.ytimg.com/vi/PHAcOZ7E-pM/mqdefault.jpg",
       "published_at": "2026-08-23T17:00:34Z",
       "category_id": "2",
-      "views": 5466674,
-      "likes": 309922,
-      "comments": 10781,
-      "age_hours": 37.5,
-      "views_per_hour": 145954,
-      "momentum": 5.852,
+      "views": 5685023,
+      "likes": 317337,
+      "comments": 10998,
+      "age_hours": 43.4,
+      "views_per_hour": 130842,
+      "momentum": 5.787,
       "url": "https://www.youtube.com/watch?v=PHAcOZ7E-pM",
       "region": "GB",
       "category": "Other",
@@ -2777,15 +2795,34 @@
       "thumbnail": "https://i.ytimg.com/vi/Ytm8WiQLNZA/mqdefault.jpg",
       "published_at": "2026-08-22T14:07:09Z",
       "category_id": "20",
-      "views": 4637043,
-      "likes": 265620,
-      "comments": 40111,
-      "age_hours": 64.3,
-      "views_per_hour": 72065,
-      "momentum": 5.834,
+      "views": 4735033,
+      "likes": 267411,
+      "comments": 40453,
+      "age_hours": 70.3,
+      "views_per_hour": 67316,
+      "momentum": 5.786,
       "url": "https://www.youtube.com/watch?v=Ytm8WiQLNZA",
       "region": "AU",
       "category": "Gaming",
+      "_detected_lang": "en"
+    },
+    {
+      "id": "BjFX1eugZ-Y",
+      "title": "NCT 127 엔시티 127 'Blingy' MV",
+      "channel": "SMTOWN",
+      "channel_id": "UCEf_Bc-KVd7onSeifS3py9g",
+      "thumbnail": "https://i.ytimg.com/vi/BjFX1eugZ-Y/mqdefault.jpg",
+      "published_at": "2026-08-24T09:00:01Z",
+      "category_id": "10",
+      "views": 2456043,
+      "likes": 144218,
+      "comments": 12169,
+      "age_hours": 27.5,
+      "views_per_hour": 89447,
+      "momentum": 5.778,
+      "url": "https://www.youtube.com/watch?v=BjFX1eugZ-Y",
+      "region": "US",
+      "category": "Other",
       "_detected_lang": "en"
     },
     {
@@ -2796,14 +2833,33 @@
       "thumbnail": "https://i.ytimg.com/vi/2X-Lc35kpB8/mqdefault.jpg",
       "published_at": "2026-08-24T03:40:46Z",
       "category_id": "22",
-      "views": 6607623,
-      "likes": 227557,
-      "comments": 3150,
-      "age_hours": 26.8,
-      "views_per_hour": 246697,
-      "momentum": 5.789,
+      "views": 7396329,
+      "likes": 260487,
+      "comments": 3472,
+      "age_hours": 32.8,
+      "views_per_hour": 225641,
+      "momentum": 5.756,
       "url": "https://www.youtube.com/watch?v=2X-Lc35kpB8",
       "region": "US",
+      "category": "People & Blogs",
+      "_detected_lang": "en"
+    },
+    {
+      "id": "WNUjyPtfOdg",
+      "title": "When Kindness Goes Both Ways.#crow #crown #bird #birds #kindness #kind #rescue #help",
+      "channel": "Windypaws",
+      "channel_id": "UC1cmnJ357ruMdrqpQa2Yg-Q",
+      "thumbnail": "https://i.ytimg.com/vi/WNUjyPtfOdg/mqdefault.jpg",
+      "published_at": "2026-08-20T01:58:38Z",
+      "category_id": "22",
+      "views": 9654937,
+      "likes": 829254,
+      "comments": 5306,
+      "age_hours": 130.5,
+      "views_per_hour": 73994,
+      "momentum": 5.732,
+      "url": "https://www.youtube.com/watch?v=WNUjyPtfOdg",
+      "region": "CA",
       "category": "People & Blogs",
       "_detected_lang": "en"
     },
@@ -2815,110 +2871,15 @@
       "thumbnail": "https://i.ytimg.com/vi/S3X8hUM1lko/mqdefault.jpg",
       "published_at": "2026-08-24T02:30:15Z",
       "category_id": "22",
-      "views": 5551900,
-      "likes": 223974,
-      "comments": 6015,
-      "age_hours": 28.0,
-      "views_per_hour": 198560,
-      "momentum": 5.783,
+      "views": 6024885,
+      "likes": 235189,
+      "comments": 6248,
+      "age_hours": 34.0,
+      "views_per_hour": 177434,
+      "momentum": 5.713,
       "url": "https://www.youtube.com/watch?v=S3X8hUM1lko",
       "region": "IN",
       "category": "People & Blogs",
-      "_detected_lang": "en"
-    },
-    {
-      "id": "BmRX2g6-iQI",
-      "title": "Radhimaa (From \"Think Indie\")",
-      "channel": "Sai Abhyankkar - Topic",
-      "channel_id": "UCJPuVnth4cFX-2QJ6HxciaA",
-      "thumbnail": "https://i.ytimg.com/vi/BmRX2g6-iQI/mqdefault.jpg",
-      "published_at": "2026-08-24T10:29:41Z",
-      "category_id": "10",
-      "views": 1285723,
-      "likes": 101102,
-      "comments": 4919,
-      "age_hours": 20.0,
-      "views_per_hour": 64382,
-      "momentum": 5.749,
-      "url": "https://www.youtube.com/watch?v=BmRX2g6-iQI",
-      "region": "IN",
-      "category": "Other",
-      "_detected_lang": "en"
-    },
-    {
-      "id": "WNUjyPtfOdg",
-      "title": "When Kindness Goes Both Ways.#crow #crown #bird #birds #kindness #kind #rescue #help",
-      "channel": "Windypaws",
-      "channel_id": "UC1cmnJ357ruMdrqpQa2Yg-Q",
-      "thumbnail": "https://i.ytimg.com/vi/WNUjyPtfOdg/mqdefault.jpg",
-      "published_at": "2026-08-20T01:58:38Z",
-      "category_id": "22",
-      "views": 9411332,
-      "likes": 810437,
-      "comments": 5202,
-      "age_hours": 124.5,
-      "views_per_hour": 75601,
-      "momentum": 5.746,
-      "url": "https://www.youtube.com/watch?v=WNUjyPtfOdg",
-      "region": "CA",
-      "category": "People & Blogs",
-      "_detected_lang": "en"
-    },
-    {
-      "id": "VHWo9MWgric",
-      "title": "#dialogue",
-      "channel": "skel3",
-      "channel_id": "UC8rsCZVWMe7jt3tHJ4qY-dA",
-      "thumbnail": "https://i.ytimg.com/vi/VHWo9MWgric/mqdefault.jpg",
-      "published_at": "2026-08-24T23:07:19Z",
-      "category_id": "20",
-      "views": 1104609,
-      "likes": 51609,
-      "comments": 951,
-      "age_hours": 7.3,
-      "views_per_hour": 150455,
-      "momentum": 5.706,
-      "url": "https://www.youtube.com/watch?v=VHWo9MWgric",
-      "region": "US",
-      "category": "Gaming",
-      "_detected_lang": "en"
-    },
-    {
-      "id": "NvX2UjsCTE8",
-      "title": "1 Second vs 1 Hour Pizza",
-      "channel": "Nick DiGiovanni",
-      "channel_id": "UCMyOj6fhvKFMjxUCp3b_3gA",
-      "thumbnail": "https://i.ytimg.com/vi/NvX2UjsCTE8/mqdefault.jpg",
-      "published_at": "2026-08-23T16:00:03Z",
-      "category_id": "22",
-      "views": 6503421,
-      "likes": 270823,
-      "comments": 2622,
-      "age_hours": 38.5,
-      "views_per_hour": 169080,
-      "momentum": 5.685,
-      "url": "https://www.youtube.com/watch?v=NvX2UjsCTE8",
-      "region": "CA",
-      "category": "People & Blogs",
-      "_detected_lang": "en"
-    },
-    {
-      "id": "0YAcT8GSqPE",
-      "title": "In a World of Karens....Be an Alan🙏🥀",
-      "channel": "Glipz",
-      "channel_id": "UCaqeTDzt1vEt430zzdRQjKQ",
-      "thumbnail": "https://i.ytimg.com/vi/0YAcT8GSqPE/mqdefault.jpg",
-      "published_at": "2026-08-21T21:00:31Z",
-      "category_id": "23",
-      "views": 4068631,
-      "likes": 386891,
-      "comments": 7994,
-      "age_hours": 81.5,
-      "views_per_hour": 49949,
-      "momentum": 5.684,
-      "url": "https://www.youtube.com/watch?v=0YAcT8GSqPE",
-      "region": "GB",
-      "category": "Comedy",
       "_detected_lang": "en"
     },
     {
@@ -2929,53 +2890,53 @@
       "thumbnail": "https://i.ytimg.com/vi/r01zeFtwHoA/mqdefault.jpg",
       "published_at": "2026-08-21T09:02:30Z",
       "category_id": "1",
-      "views": 9462363,
-      "likes": 612589,
-      "comments": 4523,
-      "age_hours": 93.4,
-      "views_per_hour": 101286,
-      "momentum": 5.678,
+      "views": 10032626,
+      "likes": 643946,
+      "comments": 4746,
+      "age_hours": 99.4,
+      "views_per_hour": 100915,
+      "momentum": 5.67,
       "url": "https://www.youtube.com/watch?v=r01zeFtwHoA",
       "region": "US",
       "category": "Other",
       "_detected_lang": "en"
     },
     {
-      "id": "iP2xwEDoeUk",
-      "title": "HAIR CLIP BALL 💇🏻📎⚾ #shorts #youtubeshorts #cricket #unboxing #ball #funny",
-      "channel": "Box Of Vengeance",
-      "channel_id": "UCLGHEUaREx_FtNrqfJ8gXIA",
-      "thumbnail": "https://i.ytimg.com/vi/iP2xwEDoeUk/mqdefault.jpg",
-      "published_at": "2026-08-23T04:30:13Z",
-      "category_id": "22",
-      "views": 5061018,
-      "likes": 305621,
-      "comments": 3304,
-      "age_hours": 50.0,
-      "views_per_hour": 101298,
-      "momentum": 5.643,
-      "url": "https://www.youtube.com/watch?v=iP2xwEDoeUk",
-      "region": "IN",
-      "category": "People & Blogs",
+      "id": "0YAcT8GSqPE",
+      "title": "In a World of Karens....Be an Alan🙏🥀",
+      "channel": "Glipz",
+      "channel_id": "UCaqeTDzt1vEt430zzdRQjKQ",
+      "thumbnail": "https://i.ytimg.com/vi/0YAcT8GSqPE/mqdefault.jpg",
+      "published_at": "2026-08-21T21:00:31Z",
+      "category_id": "23",
+      "views": 4188645,
+      "likes": 396487,
+      "comments": 8171,
+      "age_hours": 87.5,
+      "views_per_hour": 47897,
+      "momentum": 5.658,
+      "url": "https://www.youtube.com/watch?v=0YAcT8GSqPE",
+      "region": "GB",
+      "category": "Comedy",
       "_detected_lang": "en"
     },
     {
-      "id": "s6IgR7oLsTk",
-      "title": "I shouldn't be allowed to play this game...",
-      "channel": "SMii7Y",
-      "channel_id": "UCzXwjTI6c6mVn6oui_p6oiw",
-      "thumbnail": "https://i.ytimg.com/vi/s6IgR7oLsTk/mqdefault.jpg",
-      "published_at": "2026-08-24T19:13:10Z",
-      "category_id": "20",
-      "views": 681278,
-      "likes": 48750,
-      "comments": 2061,
-      "age_hours": 11.2,
-      "views_per_hour": 60590,
-      "momentum": 5.612,
-      "url": "https://www.youtube.com/watch?v=s6IgR7oLsTk",
-      "region": "US",
-      "category": "Gaming",
+      "id": "NvX2UjsCTE8",
+      "title": "1 Second vs 1 Hour Pizza",
+      "channel": "Nick DiGiovanni",
+      "channel_id": "UCMyOj6fhvKFMjxUCp3b_3gA",
+      "thumbnail": "https://i.ytimg.com/vi/NvX2UjsCTE8/mqdefault.jpg",
+      "published_at": "2026-08-23T16:00:03Z",
+      "category_id": "22",
+      "views": 7025239,
+      "likes": 291387,
+      "comments": 2730,
+      "age_hours": 44.5,
+      "views_per_hour": 158018,
+      "momentum": 5.65,
+      "url": "https://www.youtube.com/watch?v=NvX2UjsCTE8",
+      "region": "CA",
+      "category": "People & Blogs",
       "_detected_lang": "en"
     }
   ]
