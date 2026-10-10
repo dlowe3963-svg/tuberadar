@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T16:36:19.886076+00:00",
+  "generated_at": "2026-10-10T20:53:21.057516+00:00",
   "regions": [
     "US",
     "GB",
@@ -40,22 +40,74 @@
     }
   ],
   "stats": {
-    "total_videos": 443,
+    "total_videos": 440,
     "total_topics": 18,
-    "total_themes": 7,
+    "total_themes": 8,
     "total_searches": 12,
     "by_category": {
-      "People & Blogs": 133,
+      "People & Blogs": 131,
+      "Gaming": 86,
       "Other": 61,
-      "Entertainment": 104,
-      "Gaming": 91,
+      "Entertainment": 106,
       "Comedy": 22,
       "Science & Tech": 23,
       "Education": 4,
-      "Howto & Style": 5
+      "Howto & Style": 7
     }
   },
   "emerging_themes": [
+    {
+      "phrase": "indian family shorts",
+      "video_count": 30,
+      "channel_count": 29,
+      "total_channels_seen": 29,
+      "uploads_per_hour": 2.42,
+      "window_hours": 12,
+      "example_videos": [
+        {
+          "id": "Q8apv3RfV8I",
+          "title": "Kids with diwali lights| Indian family #shorts #indian #chaman #diwali #chotabhai #relatable",
+          "channel": "Deepu funny vilogs ",
+          "channel_id": "UCzYy4ExnB75nhWLK6lMS50Q",
+          "subscribers": 2450,
+          "thumbnail": "https://i.ytimg.com/vi/Q8apv3RfV8I/mqdefault.jpg",
+          "published_at": "2026-10-10T17:53:34Z",
+          "url": "https://www.youtube.com/watch?v=Q8apv3RfV8I"
+        },
+        {
+          "id": "XBmd1Vln94s",
+          "title": "Navratri vibes 🤩😍🥰🫶😍 #husbandwife #navratri #comedy #indian #viral #shorts",
+          "channel": "Mohita Hemant Modi",
+          "channel_id": "UCbKBlRc51gjFZQ_EGqwn4zw",
+          "subscribers": 14100,
+          "thumbnail": "https://i.ytimg.com/vi/XBmd1Vln94s/mqdefault.jpg",
+          "published_at": "2026-10-10T17:49:00Z",
+          "url": "https://www.youtube.com/watch?v=XBmd1Vln94s"
+        },
+        {
+          "id": "hC75zjbEJro",
+          "title": "Perfume wala bhoot 😂🔥| indian family #shorts #indian #relatable #comedy",
+          "channel": "comedy k hero",
+          "channel_id": "UCpP_l_qkZbKzujF6-2ogm6g",
+          "subscribers": 108000,
+          "thumbnail": "https://i.ytimg.com/vi/hC75zjbEJro/mqdefault.jpg",
+          "published_at": "2026-10-10T17:30:17Z",
+          "url": "https://www.youtube.com/watch?v=hC75zjbEJro"
+        },
+        {
+          "id": "7irMSNcVjrc",
+          "title": "Bachpan ki straw 😂🔥 | Indian family #shorts #indian #chotabhai #relatable #bachpan",
+          "channel": "We r simple",
+          "channel_id": "UCgPY2Yp78SBShb-Y4BeqBMg",
+          "subscribers": 17100,
+          "thumbnail": "https://i.ytimg.com/vi/7irMSNcVjrc/mqdefault.jpg",
+          "published_at": "2026-10-10T16:59:42Z",
+          "url": "https://www.youtube.com/watch?v=7irMSNcVjrc"
+        }
+      ],
+      "first_detected_at": "2026-10-09T22:00:46.608004+00:00",
+      "last_seen_at": "2026-10-10T20:53:21.057516+00:00"
+    },
     {
       "phrase": "family shorts indian",
       "video_count": 30,
@@ -65,51 +117,51 @@
       "window_hours": 12,
       "example_videos": [
         {
-          "id": "0EG1RdrQZ2Y",
-          "title": "Electric Man Aur Tillu❤️‍🔥🥰 Indian family #funnycomedy #indian #shorts #viralshorts",
-          "channel": "green screen shorts",
-          "channel_id": "UCiMuCLsOWWGFQQojFw-f8sw",
-          "subscribers": 4940,
-          "thumbnail": "https://i.ytimg.com/vi/0EG1RdrQZ2Y/mqdefault.jpg",
-          "published_at": "2026-10-10T16:10:27Z",
-          "url": "https://www.youtube.com/watch?v=0EG1RdrQZ2Y"
+          "id": "6Z_Syoswvow",
+          "title": "mummy ko chot lag Gayi 😱🤣#india family #shorts #comedy #youtube #cats #cat",
+          "channel": "Rakesh comedian official ",
+          "channel_id": "UCMYprxZS32imKVbVnnuzbOQ",
+          "subscribers": 30100,
+          "thumbnail": "https://i.ytimg.com/vi/6Z_Syoswvow/mqdefault.jpg",
+          "published_at": "2026-10-10T19:54:53Z",
+          "url": "https://www.youtube.com/watch?v=6Z_Syoswvow"
         },
         {
-          "id": "8nnhxCDNyT4",
-          "title": "Kanjoos papa aur Adil😂🔥|indian family😂|| #comedy #relatable #entertainment #indian #shorts",
-          "channel": "ADDY1M",
-          "channel_id": "UCDzN-vnige511odZegFhqWg",
-          "subscribers": 11000,
-          "thumbnail": "https://i.ytimg.com/vi/8nnhxCDNyT4/mqdefault.jpg",
-          "published_at": "2026-10-10T16:02:14Z",
-          "url": "https://www.youtube.com/watch?v=8nnhxCDNyT4"
+          "id": "Q8apv3RfV8I",
+          "title": "Kids with diwali lights| Indian family #shorts #indian #chaman #diwali #chotabhai #relatable",
+          "channel": "Deepu funny vilogs ",
+          "channel_id": "UCzYy4ExnB75nhWLK6lMS50Q",
+          "subscribers": 2450,
+          "thumbnail": "https://i.ytimg.com/vi/Q8apv3RfV8I/mqdefault.jpg",
+          "published_at": "2026-10-10T17:53:34Z",
+          "url": "https://www.youtube.com/watch?v=Q8apv3RfV8I"
         },
         {
-          "id": "Aj8luHmf8JY",
-          "title": "Dost ke liye cake 😂🔥 indian family #shorts #indian #chaman #relatable #chotabhai #bachpan #dosti",
-          "channel": "MEER JAII ",
-          "channel_id": "UCjl0ON0DBg4PZdtIcJt952A",
-          "subscribers": 179000,
-          "thumbnail": "https://i.ytimg.com/vi/Aj8luHmf8JY/mqdefault.jpg",
-          "published_at": "2026-10-10T15:37:37Z",
-          "url": "https://www.youtube.com/watch?v=Aj8luHmf8JY"
+          "id": "XBmd1Vln94s",
+          "title": "Navratri vibes 🤩😍🥰🫶😍 #husbandwife #navratri #comedy #indian #viral #shorts",
+          "channel": "Mohita Hemant Modi",
+          "channel_id": "UCbKBlRc51gjFZQ_EGqwn4zw",
+          "subscribers": 14100,
+          "thumbnail": "https://i.ytimg.com/vi/XBmd1Vln94s/mqdefault.jpg",
+          "published_at": "2026-10-10T17:49:00Z",
+          "url": "https://www.youtube.com/watch?v=XBmd1Vln94s"
         },
         {
-          "id": "om4KsEKbTYs",
-          "title": "Dussehra scam during childhood 😂🔥| Indian family #shorts #indian #chotabhai #dussehra #bachpan",
-          "channel": "Piyush Modanwal",
-          "channel_id": "UC3wHEUGFVU0GY5XOJw5ETEA",
-          "subscribers": 464000,
-          "thumbnail": "https://i.ytimg.com/vi/om4KsEKbTYs/mqdefault.jpg",
-          "published_at": "2026-10-10T15:37:31Z",
-          "url": "https://www.youtube.com/watch?v=om4KsEKbTYs"
+          "id": "XhivUaPe4aA",
+          "title": "Notice..... ✉️ #audience #shorts #viral #support #subscribe #family #india",
+          "channel": "LEONYT",
+          "channel_id": "UCX-EmwFE-4jYVlQ27rk2wrg",
+          "subscribers": 247,
+          "thumbnail": "https://i.ytimg.com/vi/XhivUaPe4aA/mqdefault.jpg",
+          "published_at": "2026-10-10T17:31:59Z",
+          "url": "https://www.youtube.com/watch?v=XhivUaPe4aA"
         }
       ],
       "first_detected_at": "2026-10-10T03:23:17.560692+00:00",
-      "last_seen_at": "2026-10-10T16:36:19.886076+00:00"
+      "last_seen_at": "2026-10-10T20:53:21.057516+00:00"
     },
     {
-      "phrase": "indian family shorts",
+      "phrase": "semi finals",
       "video_count": 30,
       "channel_count": 28,
       "total_channels_seen": 28,
@@ -117,14 +169,138 @@
       "window_hours": 12,
       "example_videos": [
         {
-          "id": "8nnhxCDNyT4",
-          "title": "Kanjoos papa aur Adil😂🔥|indian family😂|| #comedy #relatable #entertainment #indian #shorts",
-          "channel": "ADDY1M",
-          "channel_id": "UCDzN-vnige511odZegFhqWg",
-          "subscribers": 11000,
-          "thumbnail": "https://i.ytimg.com/vi/8nnhxCDNyT4/mqdefault.jpg",
-          "published_at": "2026-10-10T16:02:14Z",
-          "url": "https://www.youtube.com/watch?v=8nnhxCDNyT4"
+          "id": "1P1t91l8v3U",
+          "title": "BMSD 2026 WATCH PARTY 🥳 | Semi-Finals | Day 3 #BGMILIVE",
+          "channel": "TAG×ANIL YT",
+          "channel_id": "UC0MkD8E8owmH0bYi24TV8rA",
+          "subscribers": 322,
+          "thumbnail": "https://i.ytimg.com/vi/1P1t91l8v3U/mqdefault.jpg",
+          "published_at": "2026-10-10T20:38:30Z",
+          "url": "https://www.youtube.com/watch?v=1P1t91l8v3U"
+        },
+        {
+          "id": "92vexkWYNwA",
+          "title": "MAYAVI IS LIVE | BMSD 2026 SEMI FINALS | WHO WILL QUALIFY ?",
+          "channel": "Mayavi unFLTERd",
+          "channel_id": "UCZtT-QlvRINJCeCUHMHUxHQ",
+          "subscribers": 89400,
+          "thumbnail": "https://i.ytimg.com/vi/92vexkWYNwA/mqdefault.jpg",
+          "published_at": "2026-10-10T20:33:36Z",
+          "url": "https://www.youtube.com/watch?v=92vexkWYNwA"
+        },
+        {
+          "id": "LTnVXNU1lgM",
+          "title": "REACTION: Craobh Chiarain GAA Club manager Alan McCrabbe chats with DubsTV after Semi-Final win",
+          "channel": "Dublin GAA",
+          "channel_id": "UCDiHW7BEeMBbOHQx4fhdAcA",
+          "subscribers": 17200,
+          "thumbnail": "https://i.ytimg.com/vi/LTnVXNU1lgM/mqdefault.jpg",
+          "published_at": "2026-10-10T20:21:19Z",
+          "url": "https://www.youtube.com/watch?v=LTnVXNU1lgM"
+        },
+        {
+          "id": "10tfUO9e-Bw",
+          "title": "UCL Semi Finals El Classico - Barcelona 🆚 Real Madrid 5:5",
+          "channel": "ILijA  NapLa ",
+          "channel_id": "UCmPZYf61okIrwhf6XCgoPDQ",
+          "subscribers": 334,
+          "thumbnail": "https://i.ytimg.com/vi/10tfUO9e-Bw/mqdefault.jpg",
+          "published_at": "2026-10-10T20:02:05Z",
+          "url": "https://www.youtube.com/watch?v=10tfUO9e-Bw"
+        }
+      ],
+      "first_detected_at": "2026-10-08T22:39:32.193052+00:00",
+      "last_seen_at": "2026-10-10T20:53:21.057516+00:00"
+    },
+    {
+      "phrase": "shorts indian chaman",
+      "video_count": 29,
+      "channel_count": 26,
+      "total_channels_seen": 27,
+      "uploads_per_hour": 2.17,
+      "window_hours": 12,
+      "example_videos": [
+        {
+          "id": "Q8apv3RfV8I",
+          "title": "Kids with diwali lights| Indian family #shorts #indian #chaman #diwali #chotabhai #relatable",
+          "channel": "Deepu funny vilogs ",
+          "channel_id": "UCzYy4ExnB75nhWLK6lMS50Q",
+          "subscribers": 2450,
+          "thumbnail": "https://i.ytimg.com/vi/Q8apv3RfV8I/mqdefault.jpg",
+          "published_at": "2026-10-10T17:53:34Z",
+          "url": "https://www.youtube.com/watch?v=Q8apv3RfV8I"
+        },
+        {
+          "id": "aDhUpIGWeMk",
+          "title": "#bigda#doglovers#shorts#indian spitz#viralshorts #trendingshorts #aasthachaman",
+          "channel": "aastha chaman ",
+          "channel_id": "UC0CrXcz1UW7yxUSUIiJCZXQ",
+          "subscribers": 36,
+          "thumbnail": "https://i.ytimg.com/vi/aDhUpIGWeMk/mqdefault.jpg",
+          "published_at": "2026-10-10T17:45:23Z",
+          "url": "https://www.youtube.com/watch?v=aDhUpIGWeMk"
+        },
+        {
+          "id": "znO8POi26U0",
+          "title": "Gadi me song selection 😂🔥 | indianfamily #shorts #indian #chaman #relatable #chotabhai #bachpan",
+          "channel": "Insar Fun Factory",
+          "channel_id": "UCBCS5xVnwx4fjLdC5RHstvw",
+          "subscribers": 53600,
+          "thumbnail": "https://i.ytimg.com/vi/znO8POi26U0/mqdefault.jpg",
+          "published_at": "2026-10-10T17:12:01Z",
+          "url": "https://www.youtube.com/watch?v=znO8POi26U0"
+        },
+        {
+          "id": "XFp5gr90grQ",
+          "title": "#anpad#doglovers#shorts#indian spitz#viralshorts #trendingshorts #theaasthachaman",
+          "channel": "aastha chaman ",
+          "channel_id": "UC0CrXcz1UW7yxUSUIiJCZXQ",
+          "subscribers": 36,
+          "thumbnail": "https://i.ytimg.com/vi/XFp5gr90grQ/mqdefault.jpg",
+          "published_at": "2026-10-10T17:04:14Z",
+          "url": "https://www.youtube.com/watch?v=XFp5gr90grQ"
+        }
+      ],
+      "first_detected_at": "2026-10-10T20:53:21.057516+00:00",
+      "last_seen_at": "2026-10-10T20:53:21.057516+00:00"
+    },
+    {
+      "phrase": "indian chaman relatable",
+      "video_count": 29,
+      "channel_count": 26,
+      "total_channels_seen": 27,
+      "uploads_per_hour": 2.17,
+      "window_hours": 12,
+      "example_videos": [
+        {
+          "id": "Q8apv3RfV8I",
+          "title": "Kids with diwali lights| Indian family #shorts #indian #chaman #diwali #chotabhai #relatable",
+          "channel": "Deepu funny vilogs ",
+          "channel_id": "UCzYy4ExnB75nhWLK6lMS50Q",
+          "subscribers": 2450,
+          "thumbnail": "https://i.ytimg.com/vi/Q8apv3RfV8I/mqdefault.jpg",
+          "published_at": "2026-10-10T17:53:34Z",
+          "url": "https://www.youtube.com/watch?v=Q8apv3RfV8I"
+        },
+        {
+          "id": "znO8POi26U0",
+          "title": "Gadi me song selection 😂🔥 | indianfamily #shorts #indian #chaman #relatable #chotabhai #bachpan",
+          "channel": "Insar Fun Factory",
+          "channel_id": "UCBCS5xVnwx4fjLdC5RHstvw",
+          "subscribers": 53600,
+          "thumbnail": "https://i.ytimg.com/vi/znO8POi26U0/mqdefault.jpg",
+          "published_at": "2026-10-10T17:12:01Z",
+          "url": "https://www.youtube.com/watch?v=znO8POi26U0"
+        },
+        {
+          "id": "4wmbW51_Wrk",
+          "title": "Sardi ki aag 😂🔥| indian family #shorts​ #indian​ #relatable​ #chaman​ #winter​ #chotabhai​",
+          "channel": "Nilesh Kandara",
+          "channel_id": "UC8p9oq6AOqYTE7MNzVvxDJg",
+          "subscribers": 51400,
+          "thumbnail": "https://i.ytimg.com/vi/4wmbW51_Wrk/mqdefault.jpg",
+          "published_at": "2026-10-10T16:30:30Z",
+          "url": "https://www.youtube.com/watch?v=4wmbW51_Wrk"
         },
         {
           "id": "Aj8luHmf8JY",
@@ -135,449 +311,173 @@
           "thumbnail": "https://i.ytimg.com/vi/Aj8luHmf8JY/mqdefault.jpg",
           "published_at": "2026-10-10T15:37:37Z",
           "url": "https://www.youtube.com/watch?v=Aj8luHmf8JY"
-        },
-        {
-          "id": "om4KsEKbTYs",
-          "title": "Dussehra scam during childhood 😂🔥| Indian family #shorts #indian #chotabhai #dussehra #bachpan",
-          "channel": "Piyush Modanwal",
-          "channel_id": "UC3wHEUGFVU0GY5XOJw5ETEA",
-          "subscribers": 464000,
-          "thumbnail": "https://i.ytimg.com/vi/om4KsEKbTYs/mqdefault.jpg",
-          "published_at": "2026-10-10T15:37:31Z",
-          "url": "https://www.youtube.com/watch?v=om4KsEKbTYs"
-        },
-        {
-          "id": "IuG8utgToGY",
-          "title": "Bache aur unka lalach 😂🔥| Indian family #shorts #indian #chaman #chotabhai #relatable #bachpan",
-          "channel": "Vishal Singh",
-          "channel_id": "UC66PsT4MLQxl1xZwhGv_TLw",
-          "subscribers": 15100,
-          "thumbnail": "https://i.ytimg.com/vi/IuG8utgToGY/mqdefault.jpg",
-          "published_at": "2026-10-10T15:32:00Z",
-          "url": "https://www.youtube.com/watch?v=IuG8utgToGY"
         }
       ],
-      "first_detected_at": "2026-10-09T22:00:46.608004+00:00",
-      "last_seen_at": "2026-10-10T16:36:19.886076+00:00"
+      "first_detected_at": "2026-10-10T20:53:21.057516+00:00",
+      "last_seen_at": "2026-10-10T20:53:21.057516+00:00"
     },
     {
-      "phrase": "semi finals",
+      "phrase": "relatable chotabhai bachpan",
       "video_count": 29,
-      "channel_count": 28,
-      "total_channels_seen": 29,
-      "uploads_per_hour": 2.33,
+      "channel_count": 26,
+      "total_channels_seen": 27,
+      "uploads_per_hour": 2.17,
       "window_hours": 12,
       "example_videos": [
         {
-          "id": "I1S0gnxTZmQ",
-          "title": "Battle Sim Game Tournament - Semi Finals 1",
-          "channel": "BigTesseract",
-          "channel_id": "UCxojnz14jj0D3XdIWsK9yOg",
-          "subscribers": 2,
-          "thumbnail": "https://i.ytimg.com/vi/I1S0gnxTZmQ/mqdefault.jpg",
-          "published_at": "2026-10-10T16:30:23Z",
-          "url": "https://www.youtube.com/watch?v=I1S0gnxTZmQ"
+          "id": "yj9WlRZ8vs0",
+          "title": "Chote bhai ka experimentX 🤣🚨| Indian family #shorts #indian #chaman #relatable #chotabhai #bachpan",
+          "channel": "A.S comedy03",
+          "channel_id": "UC5YNvKXYuQ6WSV-l8MRg5rw",
+          "subscribers": 4190,
+          "thumbnail": "https://i.ytimg.com/vi/yj9WlRZ8vs0/mqdefault.jpg",
+          "published_at": "2026-10-10T17:32:25Z",
+          "url": "https://www.youtube.com/watch?v=yj9WlRZ8vs0"
         },
         {
-          "id": "-NFACcNvxJs",
-          "title": "#3 Kentucky Wildcats @ #2 Oregon Ducks | UCFA CFP Semi FInals LIVE on YSC",
-          "channel": "Yeets Sports Center",
-          "channel_id": "UCwyR9luL8t3M9z1oQF-gOmQ",
-          "subscribers": 85,
-          "thumbnail": "https://i.ytimg.com/vi/-NFACcNvxJs/mqdefault.jpg",
-          "published_at": "2026-10-10T16:13:59Z",
-          "url": "https://www.youtube.com/watch?v=-NFACcNvxJs"
+          "id": "znO8POi26U0",
+          "title": "Gadi me song selection 😂🔥 | indianfamily #shorts #indian #chaman #relatable #chotabhai #bachpan",
+          "channel": "Insar Fun Factory",
+          "channel_id": "UCBCS5xVnwx4fjLdC5RHstvw",
+          "subscribers": 53600,
+          "thumbnail": "https://i.ytimg.com/vi/znO8POi26U0/mqdefault.jpg",
+          "published_at": "2026-10-10T17:12:01Z",
+          "url": "https://www.youtube.com/watch?v=znO8POi26U0"
         },
         {
-          "id": "Q9EPSEgNfIQ",
-          "title": "Manta Boxing🥊 🦐 Semi Finals",
-          "channel": "Thelemicstorytelling",
-          "channel_id": "UCx16LYLWDRbvtk11C5Wa5Fg",
-          "subscribers": 4,
-          "thumbnail": "https://i.ytimg.com/vi/Q9EPSEgNfIQ/mqdefault.jpg",
-          "published_at": "2026-10-10T16:00:35Z",
-          "url": "https://www.youtube.com/watch?v=Q9EPSEgNfIQ"
+          "id": "7irMSNcVjrc",
+          "title": "Bachpan ki straw 😂🔥 | Indian family #shorts #indian #chotabhai #relatable #bachpan",
+          "channel": "We r simple",
+          "channel_id": "UCgPY2Yp78SBShb-Y4BeqBMg",
+          "subscribers": 17100,
+          "thumbnail": "https://i.ytimg.com/vi/7irMSNcVjrc/mqdefault.jpg",
+          "published_at": "2026-10-10T16:59:42Z",
+          "url": "https://www.youtube.com/watch?v=7irMSNcVjrc"
         },
         {
-          "id": "LZahdcXQiLA",
-          "title": "85 Pk - Tony Corona Memorial Semi-Finals - Kadeem &amp; Sergio vs Edwin &amp; Moe - Filmed By YGN 8.29.2026",
-          "channel": "Victor Daniel",
-          "channel_id": "UCQEqv4kDRC_Cjn1ymeuQwqg",
-          "subscribers": 3590,
-          "thumbnail": "https://i.ytimg.com/vi/LZahdcXQiLA/mqdefault.jpg",
-          "published_at": "2026-10-10T16:00:26Z",
-          "url": "https://www.youtube.com/watch?v=LZahdcXQiLA"
+          "id": "Aj8luHmf8JY",
+          "title": "Dost ke liye cake 😂🔥 indian family #shorts #indian #chaman #relatable #chotabhai #bachpan #dosti",
+          "channel": "MEER JAII ",
+          "channel_id": "UCjl0ON0DBg4PZdtIcJt952A",
+          "subscribers": 179000,
+          "thumbnail": "https://i.ytimg.com/vi/Aj8luHmf8JY/mqdefault.jpg",
+          "published_at": "2026-10-10T15:37:37Z",
+          "url": "https://www.youtube.com/watch?v=Aj8luHmf8JY"
         }
       ],
-      "first_detected_at": "2026-10-08T22:39:32.193052+00:00",
-      "last_seen_at": "2026-10-10T16:36:19.886076+00:00"
+      "first_detected_at": "2026-10-10T20:53:21.057516+00:00",
+      "last_seen_at": "2026-10-10T20:53:21.057516+00:00"
     },
     {
       "phrase": "bmsd semi finals",
       "video_count": 27,
-      "channel_count": 23,
-      "total_channels_seen": 25,
-      "uploads_per_hour": 1.92,
+      "channel_count": 25,
+      "total_channels_seen": 27,
+      "uploads_per_hour": 2.08,
       "window_hours": 12,
       "example_videos": [
         {
-          "id": "8YtyLv-WuiU",
-          "title": " TAG ने BMSD Semi Final में enemy squad को कर दिया पूरी तरह OUT! 😱💀",
-          "channel": "TAGonTOP shorts ",
-          "channel_id": "UCRZrAFwjYuaehcOpykOFAdA",
-          "subscribers": 137,
-          "thumbnail": "https://i.ytimg.com/vi/8YtyLv-WuiU/mqdefault.jpg",
-          "published_at": "2026-10-10T16:32:13Z",
-          "url": "https://www.youtube.com/watch?v=8YtyLv-WuiU"
+          "id": "1P1t91l8v3U",
+          "title": "BMSD 2026 WATCH PARTY 🥳 | Semi-Finals | Day 3 #BGMILIVE",
+          "channel": "TAG×ANIL YT",
+          "channel_id": "UC0MkD8E8owmH0bYi24TV8rA",
+          "subscribers": 322,
+          "thumbnail": "https://i.ytimg.com/vi/1P1t91l8v3U/mqdefault.jpg",
+          "published_at": "2026-10-10T20:38:30Z",
+          "url": "https://www.youtube.com/watch?v=1P1t91l8v3U"
         },
         {
-          "id": "zWRyteuItGc",
-          "title": "🔥 Final Circle Fight Between TAG, GDR &amp; OG! | BMSD 2026 Semi-Finals Day 3 | Group BC",
+          "id": "92vexkWYNwA",
+          "title": "MAYAVI IS LIVE | BMSD 2026 SEMI FINALS | WHO WILL QUALIFY ?",
+          "channel": "Mayavi unFLTERd",
+          "channel_id": "UCZtT-QlvRINJCeCUHMHUxHQ",
+          "subscribers": 89400,
+          "thumbnail": "https://i.ytimg.com/vi/92vexkWYNwA/mqdefault.jpg",
+          "published_at": "2026-10-10T20:33:36Z",
+          "url": "https://www.youtube.com/watch?v=92vexkWYNwA"
+        },
+        {
+          "id": "WZJRCUPKmJI",
+          "title": "Outrage vs Soul 🔥 What a Rondo Fight! | BMSD",
+          "channel": "Lozy Gaming ",
+          "channel_id": "UC1cpHUOSDuJ3vYzVtkOSmMQ",
+          "subscribers": 9180,
+          "thumbnail": "https://i.ytimg.com/vi/WZJRCUPKmJI/mqdefault.jpg",
+          "published_at": "2026-10-10T19:31:19Z",
+          "url": "https://www.youtube.com/watch?v=WZJRCUPKmJI"
+        },
+        {
+          "id": "dVdstbVi7Qg",
+          "title": "🔥 BMSD 2026 Semi-Final Day 3 🔥 आज के धमाकेदार Highlights of tag | BGMI Esports Update",
           "channel": "Esports gaming with Neha",
           "channel_id": "UCQZH45crP40eIad3C8DEb4Q",
           "subscribers": 464,
-          "thumbnail": "https://i.ytimg.com/vi/zWRyteuItGc/mqdefault.jpg",
-          "published_at": "2026-10-10T16:27:53Z",
-          "url": "https://www.youtube.com/watch?v=zWRyteuItGc"
-        },
-        {
-          "id": "BXIYx9VrIhU",
-          "title": "WHO WILL BE IN TOP 8 TOMMOROW🤨?? BMSD 2026 SEMIFINAL #bgmi",
-          "channel": "Allme Gaming ",
-          "channel_id": "UCqZaHzM8PhyJJb-FSNAKUew",
-          "subscribers": 140,
-          "thumbnail": "https://i.ytimg.com/vi/BXIYx9VrIhU/mqdefault.jpg",
-          "published_at": "2026-10-10T16:07:17Z",
-          "url": "https://www.youtube.com/watch?v=BXIYx9VrIhU"
-        },
-        {
-          "id": "XpM9jDqbbkQ",
-          "title": "BMSD 2026 Semifinal Full Highlights 🔥 SOUL Comeback, OG Struggle &amp; Vasista Player Clutch 😱 | BGMI",
-          "channel": "MISHRAZONE GAMING",
-          "channel_id": "UCg5k8KNq1iJJf1mz1BCc2Gg",
-          "subscribers": 2400,
-          "thumbnail": "https://i.ytimg.com/vi/XpM9jDqbbkQ/mqdefault_live.jpg",
-          "published_at": "2026-10-10T16:02:11Z",
-          "url": "https://www.youtube.com/watch?v=XpM9jDqbbkQ"
+          "thumbnail": "https://i.ytimg.com/vi/dVdstbVi7Qg/mqdefault.jpg",
+          "published_at": "2026-10-10T19:17:48Z",
+          "url": "https://www.youtube.com/watch?v=dVdstbVi7Qg"
         }
       ],
       "first_detected_at": "2026-10-09T22:00:46.608004+00:00",
-      "last_seen_at": "2026-10-10T16:36:19.886076+00:00"
+      "last_seen_at": "2026-10-10T20:53:21.057516+00:00"
     },
     {
-      "phrase": "semi finals bgmilive",
-      "video_count": 25,
-      "channel_count": 22,
+      "phrase": "chaman relatable chotabhai",
+      "video_count": 29,
+      "channel_count": 24,
       "total_channels_seen": 25,
-      "uploads_per_hour": 1.83,
+      "uploads_per_hour": 2.0,
       "window_hours": 12,
       "example_videos": [
         {
-          "id": "czfho7U4riU",
-          "title": "BMSD SEMI FINALS DAY -3😱|| Kon jeetega #bgmi  #bgmilive  #streamer #gaming #bmsd #jonathan",
-          "channel": "Stranger is live bgmi ",
-          "channel_id": "UCb-RpiZif3nPk1VVzgjiWwA",
-          "subscribers": 618,
-          "thumbnail": "https://i.ytimg.com/vi/czfho7U4riU/mqdefault.jpg",
-          "published_at": "2026-10-10T15:16:37Z",
-          "url": "https://www.youtube.com/watch?v=czfho7U4riU"
+          "id": "Q8apv3RfV8I",
+          "title": "Kids with diwali lights| Indian family #shorts #indian #chaman #diwali #chotabhai #relatable",
+          "channel": "Deepu funny vilogs ",
+          "channel_id": "UCzYy4ExnB75nhWLK6lMS50Q",
+          "subscribers": 2450,
+          "thumbnail": "https://i.ytimg.com/vi/Q8apv3RfV8I/mqdefault.jpg",
+          "published_at": "2026-10-10T17:53:34Z",
+          "url": "https://www.youtube.com/watch?v=Q8apv3RfV8I"
         },
         {
-          "id": "XFCAllftvfs",
-          "title": "BMSD WATCHPARTY | SEMI-FINALS DAY 3 | BGMI LIVE",
-          "channel": "king maxx yt",
-          "channel_id": "UC7Yic9xGbMBKXGeDAcDz0-w",
-          "subscribers": 1080,
-          "thumbnail": "https://i.ytimg.com/vi/XFCAllftvfs/mqdefault.jpg",
-          "published_at": "2026-10-10T14:49:54Z",
-          "url": "https://www.youtube.com/watch?v=XFCAllftvfs"
+          "id": "znO8POi26U0",
+          "title": "Gadi me song selection 😂🔥 | indianfamily #shorts #indian #chaman #relatable #chotabhai #bachpan",
+          "channel": "Insar Fun Factory",
+          "channel_id": "UCBCS5xVnwx4fjLdC5RHstvw",
+          "subscribers": 53600,
+          "thumbnail": "https://i.ytimg.com/vi/znO8POi26U0/mqdefault.jpg",
+          "published_at": "2026-10-10T17:12:01Z",
+          "url": "https://www.youtube.com/watch?v=znO8POi26U0"
         },
         {
-          "id": "jlo90hBs15I",
-          "title": "BMSD SEMI FINALS DAY -3😱 REVIEW || Kon jeetega #bgmi  #bgmilive  #streamer #gaming #bmsd #jonathan",
-          "channel": "Stranger is live bgmi ",
-          "channel_id": "UCb-RpiZif3nPk1VVzgjiWwA",
-          "subscribers": 618,
-          "thumbnail": "https://i.ytimg.com/vi/jlo90hBs15I/mqdefault_live.jpg",
-          "published_at": "2026-10-10T14:34:21Z",
-          "url": "https://www.youtube.com/watch?v=jlo90hBs15I"
+          "id": "4wmbW51_Wrk",
+          "title": "Sardi ki aag 😂🔥| indian family #shorts​ #indian​ #relatable​ #chaman​ #winter​ #chotabhai​",
+          "channel": "Nilesh Kandara",
+          "channel_id": "UC8p9oq6AOqYTE7MNzVvxDJg",
+          "subscribers": 51400,
+          "thumbnail": "https://i.ytimg.com/vi/4wmbW51_Wrk/mqdefault.jpg",
+          "published_at": "2026-10-10T16:30:30Z",
+          "url": "https://www.youtube.com/watch?v=4wmbW51_Wrk"
         },
         {
-          "id": "8GOuXgXIZA0",
-          "title": "[HINDI] BMSD 2026 | Semi-Finals | Day 3 [#BGMILIVE] DSROCK LIVE",
-          "channel": "DSROCK LIVE",
-          "channel_id": "UCTnqPunbH6T68h7AUaGhwkg",
-          "subscribers": 363000,
-          "thumbnail": "https://i.ytimg.com/vi/8GOuXgXIZA0/mqdefault_live.jpg",
-          "published_at": "2026-10-10T13:40:36Z",
-          "url": "https://www.youtube.com/watch?v=8GOuXgXIZA0"
+          "id": "Aj8luHmf8JY",
+          "title": "Dost ke liye cake 😂🔥 indian family #shorts #indian #chaman #relatable #chotabhai #bachpan #dosti",
+          "channel": "MEER JAII ",
+          "channel_id": "UCjl0ON0DBg4PZdtIcJt952A",
+          "subscribers": 179000,
+          "thumbnail": "https://i.ytimg.com/vi/Aj8luHmf8JY/mqdefault.jpg",
+          "published_at": "2026-10-10T15:37:37Z",
+          "url": "https://www.youtube.com/watch?v=Aj8luHmf8JY"
         }
       ],
-      "first_detected_at": "2026-10-10T16:36:19.886076+00:00",
-      "last_seen_at": "2026-10-10T16:36:19.886076+00:00"
-    },
-    {
-      "phrase": "semi finals watchparty",
-      "video_count": 24,
-      "channel_count": 18,
-      "total_channels_seen": 20,
-      "uploads_per_hour": 1.5,
-      "window_hours": 12,
-      "example_videos": [
-        {
-          "id": "jHIHj7drj0k",
-          "title": "BMSD Semifinals Day 2 Highlights | Mizo Joining Esports? | Sid Refused to Apply for BMSD Watch Party",
-          "channel": "ACE eSports Insiders",
-          "channel_id": "UCfdl8PnsOogSUD1pDMZxVcg",
-          "subscribers": 554,
-          "thumbnail": "https://i.ytimg.com/vi/jHIHj7drj0k/mqdefault.jpg",
-          "published_at": "2026-10-10T15:50:35Z",
-          "url": "https://www.youtube.com/watch?v=jHIHj7drj0k"
-        },
-        {
-          "id": "9Knz0wrtVwg",
-          "title": "🔥 Your BMSD 2026 Semi-Finals Day 3 — TAG #1 Watch Party  for NoobOPLive is ready! 🏆🖤💛",
-          "channel": "NOOB OP",
-          "channel_id": "UC3hOHKA1gvbcAukzz5gfEbQ",
-          "subscribers": 3360,
-          "thumbnail": "https://i.ytimg.com/vi/9Knz0wrtVwg/mqdefault.jpg",
-          "published_at": "2026-10-10T15:02:37Z",
-          "url": "https://www.youtube.com/watch?v=9Knz0wrtVwg"
-        },
-        {
-          "id": "XFCAllftvfs",
-          "title": "BMSD WATCHPARTY | SEMI-FINALS DAY 3 | BGMI LIVE",
-          "channel": "king maxx yt",
-          "channel_id": "UC7Yic9xGbMBKXGeDAcDz0-w",
-          "subscribers": 1080,
-          "thumbnail": "https://i.ytimg.com/vi/XFCAllftvfs/mqdefault.jpg",
-          "published_at": "2026-10-10T14:49:54Z",
-          "url": "https://www.youtube.com/watch?v=XFCAllftvfs"
-        },
-        {
-          "id": "096trjCAYss",
-          "title": "🔥 Your BMSD 2026 Semi-Finals Day 3 — TAG #1 Watch Party  for NoobOPLive is ready! 🏆🖤💛",
-          "channel": "NOOB OP",
-          "channel_id": "UC3hOHKA1gvbcAukzz5gfEbQ",
-          "subscribers": 3360,
-          "thumbnail": "https://i.ytimg.com/vi/096trjCAYss/mqdefault_live.jpg",
-          "published_at": "2026-10-10T14:47:47Z",
-          "url": "https://www.youtube.com/watch?v=096trjCAYss"
-        }
-      ],
-      "first_detected_at": "2026-10-10T16:36:19.886076+00:00",
-      "last_seen_at": "2026-10-10T16:36:19.886076+00:00"
-    },
-    {
-      "phrase": "hindi bmsd semi",
-      "video_count": 21,
-      "channel_count": 16,
-      "total_channels_seen": 19,
-      "uploads_per_hour": 1.33,
-      "window_hours": 12,
-      "example_videos": [
-        {
-          "id": "czfho7U4riU",
-          "title": "BMSD SEMI FINALS DAY -3😱|| Kon jeetega #bgmi  #bgmilive  #streamer #gaming #bmsd #jonathan",
-          "channel": "Stranger is live bgmi ",
-          "channel_id": "UCb-RpiZif3nPk1VVzgjiWwA",
-          "subscribers": 618,
-          "thumbnail": "https://i.ytimg.com/vi/czfho7U4riU/mqdefault.jpg",
-          "published_at": "2026-10-10T15:16:37Z",
-          "url": "https://www.youtube.com/watch?v=czfho7U4riU"
-        },
-        {
-          "id": "jlo90hBs15I",
-          "title": "BMSD SEMI FINALS DAY -3😱 REVIEW || Kon jeetega #bgmi  #bgmilive  #streamer #gaming #bmsd #jonathan",
-          "channel": "Stranger is live bgmi ",
-          "channel_id": "UCb-RpiZif3nPk1VVzgjiWwA",
-          "subscribers": 618,
-          "thumbnail": "https://i.ytimg.com/vi/jlo90hBs15I/mqdefault_live.jpg",
-          "published_at": "2026-10-10T14:34:21Z",
-          "url": "https://www.youtube.com/watch?v=jlo90hBs15I"
-        },
-        {
-          "id": "8GOuXgXIZA0",
-          "title": "[HINDI] BMSD 2026 | Semi-Finals | Day 3 [#BGMILIVE] DSROCK LIVE",
-          "channel": "DSROCK LIVE",
-          "channel_id": "UCTnqPunbH6T68h7AUaGhwkg",
-          "subscribers": 363000,
-          "thumbnail": "https://i.ytimg.com/vi/8GOuXgXIZA0/mqdefault_live.jpg",
-          "published_at": "2026-10-10T13:40:36Z",
-          "url": "https://www.youtube.com/watch?v=8GOuXgXIZA0"
-        },
-        {
-          "id": "G_eMC9k-Frs",
-          "title": "[HINDI] BMSD 2026 | Semi-Finals |Day 3 @TAG❤️#BGMILIVE#Sobuj Gaming YT",
-          "channel": "Sobuj Gaming YT ",
-          "channel_id": "UCA32PRqYQt62w6aO6lx4wrQ",
-          "subscribers": 5480,
-          "thumbnail": "https://i.ytimg.com/vi/G_eMC9k-Frs/mqdefault.jpg",
-          "published_at": "2026-10-10T12:30:14Z",
-          "url": "https://www.youtube.com/watch?v=G_eMC9k-Frs"
-        }
-      ],
-      "first_detected_at": "2026-10-10T16:36:19.886076+00:00",
-      "last_seen_at": "2026-10-10T16:36:19.886076+00:00"
+      "first_detected_at": "2026-10-10T20:53:21.057516+00:00",
+      "last_seen_at": "2026-10-10T20:53:21.057516+00:00"
     }
   ],
   "topics": [
     {
-      "phrase": "semi finals",
-      "video_count": 5,
-      "momentum": 35.43,
-      "regions": [
-        "IN"
-      ],
-      "lang": "en",
-      "example_videos": [
-        {
-          "id": "2IluEt2hfvo",
-          "title": "[HINDI] BMSD 2026 | Semi-Finals | Day 3 #BGMILIVE",
-          "channel": "KRAFTON INDIA ESPORTS",
-          "thumbnail": "https://i.ytimg.com/vi/2IluEt2hfvo/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=2IluEt2hfvo",
-          "views": 3365206,
-          "age_hours": 3.4
-        },
-        {
-          "id": "xKqJ1xQDSAA",
-          "title": "BMSD 2026 | Semi-Finals | Day 3 - WATCHPARTY WITH SNAX",
-          "channel": "Snax Gaming",
-          "thumbnail": "https://i.ytimg.com/vi/xKqJ1xQDSAA/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=xKqJ1xQDSAA",
-          "views": 1593822,
-          "age_hours": 3.9
-        },
-        {
-          "id": "BKK9oUJaZ68",
-          "title": "BMSD WATCHPARTY | SEMI-FINALS DAY 3 | BGMI LIVE",
-          "channel": "LoLzZz Gaming",
-          "thumbnail": "https://i.ytimg.com/vi/BKK9oUJaZ68/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=BKK9oUJaZ68",
-          "views": 883387,
-          "age_hours": 5.0
-        }
-      ]
-    },
-    {
-      "phrase": "bmsd semi finals",
-      "video_count": 4,
-      "momentum": 33.95,
-      "regions": [
-        "IN"
-      ],
-      "lang": "en",
-      "example_videos": [
-        {
-          "id": "2IluEt2hfvo",
-          "title": "[HINDI] BMSD 2026 | Semi-Finals | Day 3 #BGMILIVE",
-          "channel": "KRAFTON INDIA ESPORTS",
-          "thumbnail": "https://i.ytimg.com/vi/2IluEt2hfvo/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=2IluEt2hfvo",
-          "views": 3365206,
-          "age_hours": 3.4
-        },
-        {
-          "id": "xKqJ1xQDSAA",
-          "title": "BMSD 2026 | Semi-Finals | Day 3 - WATCHPARTY WITH SNAX",
-          "channel": "Snax Gaming",
-          "thumbnail": "https://i.ytimg.com/vi/xKqJ1xQDSAA/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=xKqJ1xQDSAA",
-          "views": 1593822,
-          "age_hours": 3.9
-        },
-        {
-          "id": "ICfiTyAzdEA",
-          "title": "[HINDI] BMSD 2026 | Semi-Finals | Day 2 #BGMILIVE",
-          "channel": "KRAFTON INDIA ESPORTS",
-          "thumbnail": "https://i.ytimg.com/vi/ICfiTyAzdEA/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=ICfiTyAzdEA",
-          "views": 3868856,
-          "age_hours": 26.7
-        }
-      ]
-    },
-    {
-      "phrase": "bmsd",
-      "video_count": 5,
-      "momentum": 28.35,
-      "regions": [
-        "IN"
-      ],
-      "lang": "en",
-      "example_videos": [
-        {
-          "id": "2IluEt2hfvo",
-          "title": "[HINDI] BMSD 2026 | Semi-Finals | Day 3 #BGMILIVE",
-          "channel": "KRAFTON INDIA ESPORTS",
-          "thumbnail": "https://i.ytimg.com/vi/2IluEt2hfvo/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=2IluEt2hfvo",
-          "views": 3365206,
-          "age_hours": 3.4
-        },
-        {
-          "id": "xKqJ1xQDSAA",
-          "title": "BMSD 2026 | Semi-Finals | Day 3 - WATCHPARTY WITH SNAX",
-          "channel": "Snax Gaming",
-          "thumbnail": "https://i.ytimg.com/vi/xKqJ1xQDSAA/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=xKqJ1xQDSAA",
-          "views": 1593822,
-          "age_hours": 3.9
-        },
-        {
-          "id": "BKK9oUJaZ68",
-          "title": "BMSD WATCHPARTY | SEMI-FINALS DAY 3 | BGMI LIVE",
-          "channel": "LoLzZz Gaming",
-          "thumbnail": "https://i.ytimg.com/vi/BKK9oUJaZ68/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=BKK9oUJaZ68",
-          "views": 883387,
-          "age_hours": 5.0
-        }
-      ]
-    },
-    {
-      "phrase": "indian",
-      "video_count": 6,
-      "momentum": 27.94,
-      "regions": [
-        "IN"
-      ],
-      "lang": "en",
-      "example_videos": [
-        {
-          "id": "5jO0f49EJVk",
-          "title": "Dost ke liye cake 😂🔥| indian family #shorts #indian #chaman #relatable #chotabhai #bachpan #dosti",
-          "channel": "We r Loser",
-          "thumbnail": "https://i.ytimg.com/vi/5jO0f49EJVk/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=5jO0f49EJVk",
-          "views": 9054870,
-          "age_hours": 49.9
-        },
-        {
-          "id": "4qE75qslJkw",
-          "title": "Redbull man aur jagiya🐂🔥| Indian family😂|| #shorts #indian #jagiya #redbull #comedy",
-          "channel": "Jagiya the fun",
-          "thumbnail": "https://i.ytimg.com/vi/4qE75qslJkw/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=4qE75qslJkw",
-          "views": 15519024,
-          "age_hours": 144.0
-        },
-        {
-          "id": "p6-N7x8OKB8",
-          "title": "Bachpan ke pencil box 😂🔥| indian family #shorts #indian #chaman #relatable #chotabhai #bachpan",
-          "channel": "We r Loser",
-          "thumbnail": "https://i.ytimg.com/vi/p6-N7x8OKB8/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=p6-N7x8OKB8",
-          "views": 6084678,
-          "age_hours": 73.8
-        }
-      ]
-    },
-    {
       "phrase": "family",
-      "video_count": 5,
-      "momentum": 26.09,
+      "video_count": 6,
+      "momentum": 31.29,
       "regions": [
         "IN"
       ],
@@ -589,8 +489,8 @@
           "channel": "Rishan sriansh & Sree nayana",
           "thumbnail": "https://i.ytimg.com/vi/fVOleLZYAQo/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=fVOleLZYAQo",
-          "views": 47105644,
-          "age_hours": 154.6
+          "views": 48409826,
+          "age_hours": 158.9
         },
         {
           "id": "5jO0f49EJVk",
@@ -598,24 +498,100 @@
           "channel": "We r Loser",
           "thumbnail": "https://i.ytimg.com/vi/5jO0f49EJVk/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=5jO0f49EJVk",
-          "views": 9054870,
-          "age_hours": 49.9
+          "views": 9788340,
+          "age_hours": 54.2
         },
         {
-          "id": "vVoITvAys_U",
-          "title": "Family को Surprise करने के लिए Beta लाया ये Phones! 😱 #shorts",
-          "channel": "Tech Master",
-          "thumbnail": "https://i.ytimg.com/vi/vVoITvAys_U/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=vVoITvAys_U",
-          "views": 24773694,
-          "age_hours": 242.3
+          "id": "n25VXAwohaQ",
+          "title": "இவனின் அன்பை அளந்திடஎந்த மொழியும் போதாது🫂😍 #shorts #love #family",
+          "channel": "With Love Nagaraj Sangeetha",
+          "thumbnail": "https://i.ytimg.com/vi/n25VXAwohaQ/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=n25VXAwohaQ",
+          "views": 3365063,
+          "age_hours": 31.7
+        }
+      ]
+    },
+    {
+      "phrase": "minecraft",
+      "video_count": 6,
+      "momentum": 30.57,
+      "regions": [
+        "US"
+      ],
+      "lang": "en",
+      "example_videos": [
+        {
+          "id": "h8VE9_aHd94",
+          "title": "$10,000 Every Day You Survive In Minecraft",
+          "channel": "MrBeast Gaming",
+          "thumbnail": "https://i.ytimg.com/vi/h8VE9_aHd94/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=h8VE9_aHd94",
+          "views": 3889903,
+          "age_hours": 4.9
+        },
+        {
+          "id": "GF4RGA8daaE",
+          "title": "This Might Be The Scariest Minecraft Horror Mod…",
+          "channel": "CaseOh",
+          "thumbnail": "https://i.ytimg.com/vi/GF4RGA8daaE/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=GF4RGA8daaE",
+          "views": 1114753,
+          "age_hours": 22.9
+        },
+        {
+          "id": "NvoKphWCXXk",
+          "title": "I Survived 100 Days on ONE CHEST in Minecraft Hardcore",
+          "channel": "aCookieGod",
+          "thumbnail": "https://i.ytimg.com/vi/NvoKphWCXXk/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=NvoKphWCXXk",
+          "views": 297427,
+          "age_hours": 8.9
+        }
+      ]
+    },
+    {
+      "phrase": "indian",
+      "video_count": 6,
+      "momentum": 27.85,
+      "regions": [
+        "IN"
+      ],
+      "lang": "en",
+      "example_videos": [
+        {
+          "id": "5jO0f49EJVk",
+          "title": "Dost ke liye cake 😂🔥| indian family #shorts #indian #chaman #relatable #chotabhai #bachpan #dosti",
+          "channel": "We r Loser",
+          "thumbnail": "https://i.ytimg.com/vi/5jO0f49EJVk/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=5jO0f49EJVk",
+          "views": 9788340,
+          "age_hours": 54.2
+        },
+        {
+          "id": "4qE75qslJkw",
+          "title": "Redbull man aur jagiya🐂🔥| Indian family😂|| #shorts #indian #jagiya #redbull #comedy",
+          "channel": "Jagiya the fun",
+          "thumbnail": "https://i.ytimg.com/vi/4qE75qslJkw/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=4qE75qslJkw",
+          "views": 16051741,
+          "age_hours": 148.2
+        },
+        {
+          "id": "p6-N7x8OKB8",
+          "title": "Bachpan ke pencil box 😂🔥| indian family #shorts #indian #chaman #relatable #chotabhai #bachpan",
+          "channel": "We r Loser",
+          "thumbnail": "https://i.ytimg.com/vi/p6-N7x8OKB8/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=p6-N7x8OKB8",
+          "views": 6637440,
+          "age_hours": 78.0
         }
       ]
     },
     {
       "phrase": "indian family shorts",
       "video_count": 3,
-      "momentum": 23.04,
+      "momentum": 23.05,
       "regions": [
         "IN"
       ],
@@ -627,8 +603,8 @@
           "channel": "We r Loser",
           "thumbnail": "https://i.ytimg.com/vi/5jO0f49EJVk/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=5jO0f49EJVk",
-          "views": 9054870,
-          "age_hours": 49.9
+          "views": 9788340,
+          "age_hours": 54.2
         },
         {
           "id": "4qE75qslJkw",
@@ -636,8 +612,8 @@
           "channel": "Jagiya the fun",
           "thumbnail": "https://i.ytimg.com/vi/4qE75qslJkw/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=4qE75qslJkw",
-          "views": 15519024,
-          "age_hours": 144.0
+          "views": 16051741,
+          "age_hours": 148.2
         },
         {
           "id": "p6-N7x8OKB8",
@@ -645,15 +621,15 @@
           "channel": "We r Loser",
           "thumbnail": "https://i.ytimg.com/vi/p6-N7x8OKB8/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=p6-N7x8OKB8",
-          "views": 6084678,
-          "age_hours": 73.8
+          "views": 6637440,
+          "age_hours": 78.0
         }
       ]
     },
     {
       "phrase": "family shorts indian",
       "video_count": 3,
-      "momentum": 23.04,
+      "momentum": 23.05,
       "regions": [
         "IN"
       ],
@@ -665,8 +641,8 @@
           "channel": "We r Loser",
           "thumbnail": "https://i.ytimg.com/vi/5jO0f49EJVk/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=5jO0f49EJVk",
-          "views": 9054870,
-          "age_hours": 49.9
+          "views": 9788340,
+          "age_hours": 54.2
         },
         {
           "id": "4qE75qslJkw",
@@ -674,8 +650,8 @@
           "channel": "Jagiya the fun",
           "thumbnail": "https://i.ytimg.com/vi/4qE75qslJkw/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=4qE75qslJkw",
-          "views": 15519024,
-          "age_hours": 144.0
+          "views": 16051741,
+          "age_hours": 148.2
         },
         {
           "id": "p6-N7x8OKB8",
@@ -683,8 +659,8 @@
           "channel": "We r Loser",
           "thumbnail": "https://i.ytimg.com/vi/p6-N7x8OKB8/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=p6-N7x8OKB8",
-          "views": 6084678,
-          "age_hours": 73.8
+          "views": 6637440,
+          "age_hours": 78.0
         }
       ]
     },
@@ -703,8 +679,8 @@
           "channel": "Bratwursthaus",
           "thumbnail": "https://i.ytimg.com/vi/SGJWmSgMOIk/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=SGJWmSgMOIk",
-          "views": 4276400,
-          "age_hours": 168.7
+          "views": 4363798,
+          "age_hours": 173.0
         },
         {
           "id": "YcCF6-wmZg8",
@@ -712,8 +688,8 @@
           "channel": "TypischCalvin",
           "thumbnail": "https://i.ytimg.com/vi/YcCF6-wmZg8/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=YcCF6-wmZg8",
-          "views": 1437934,
-          "age_hours": 97.5
+          "views": 1488772,
+          "age_hours": 101.8
         },
         {
           "id": "BIQ_9EgYnIw",
@@ -721,28 +697,75 @@
           "channel": "Selina & Haroon",
           "thumbnail": "https://i.ytimg.com/vi/BIQ_9EgYnIw/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=BIQ_9EgYnIw",
-          "views": 1430632,
-          "age_hours": 94.8
+          "views": 1520997,
+          "age_hours": 99.0
         }
       ]
     },
     {
-      "phrase": "gta live",
+      "phrase": "semi finals",
       "video_count": 3,
-      "momentum": 20.55,
+      "momentum": 21.17,
       "regions": [
         "IN"
       ],
       "lang": "en",
       "example_videos": [
         {
+          "id": "2IluEt2hfvo",
+          "title": "[HINDI] BMSD 2026 | Semi-Finals | Day 3 #BGMILIVE",
+          "channel": "KRAFTON INDIA ESPORTS",
+          "thumbnail": "https://i.ytimg.com/vi/2IluEt2hfvo/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=2IluEt2hfvo",
+          "views": 3490415,
+          "age_hours": 7.7
+        },
+        {
+          "id": "xKqJ1xQDSAA",
+          "title": "BMSD 2026 | Semi-Finals | Day 3 - WATCHPARTY WITH SNAX",
+          "channel": "Snax Gaming",
+          "thumbnail": "https://i.ytimg.com/vi/xKqJ1xQDSAA/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=xKqJ1xQDSAA",
+          "views": 1629952,
+          "age_hours": 8.2
+        },
+        {
+          "id": "BKK9oUJaZ68",
+          "title": "BMSD WATCHPARTY | SEMI-FINALS DAY 3 | BGMI LIVE",
+          "channel": "LoLzZz Gaming",
+          "thumbnail": "https://i.ytimg.com/vi/BKK9oUJaZ68/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=BKK9oUJaZ68",
+          "views": 919719,
+          "age_hours": 9.3
+        }
+      ]
+    },
+    {
+      "phrase": "gta live",
+      "video_count": 3,
+      "momentum": 20.92,
+      "regions": [
+        "IN"
+      ],
+      "lang": "en",
+      "example_videos": [
+        {
+          "id": "Zije3SVgQrc",
+          "title": "GTA 5 LIVE 🔥 #gta5 #shortslive #gaming",
+          "channel": "BOSS GAMING",
+          "thumbnail": "https://i.ytimg.com/vi/Zije3SVgQrc/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=Zije3SVgQrc",
+          "views": 2261942,
+          "age_hours": 4.9
+        },
+        {
           "id": "6UFUiNd-Gyc",
           "title": "GTA 5 LIVE GAMEPLAY CHALLENGES",
           "channel": "Raajoo Gaming",
           "thumbnail": "https://i.ytimg.com/vi/6UFUiNd-Gyc/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=6UFUiNd-Gyc",
-          "views": 4509447,
-          "age_hours": 8.3
+          "views": 4509635,
+          "age_hours": 12.6
         },
         {
           "id": "eggzLStjqX4",
@@ -750,24 +773,15 @@
           "channel": "PAJI IS LIVE",
           "thumbnail": "https://i.ytimg.com/vi/eggzLStjqX4/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=eggzLStjqX4",
-          "views": 7891778,
-          "age_hours": 22.7
-        },
-        {
-          "id": "U_VxdBXC6ls",
-          "title": "GTA 5 LIVE 🔥 #gta5 #shortslive #gaming",
-          "channel": "BOSS GAMING",
-          "thumbnail": "https://i.ytimg.com/vi/U_VxdBXC6ls/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=U_VxdBXC6ls",
-          "views": 3073272,
-          "age_hours": 23.3
+          "views": 7891998,
+          "age_hours": 27.0
         }
       ]
     },
     {
       "phrase": "iphone",
       "video_count": 5,
-      "momentum": 20.28,
+      "momentum": 20.27,
       "regions": [
         "DE"
       ],
@@ -779,8 +793,8 @@
           "channel": "FabianMagic",
           "thumbnail": "https://i.ytimg.com/vi/ybSSBueep8M/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=ybSSBueep8M",
-          "views": 596115,
-          "age_hours": 33.6
+          "views": 707408,
+          "age_hours": 37.9
         },
         {
           "id": "BvdVQC2Ff7c",
@@ -788,8 +802,8 @@
           "channel": "Freddy",
           "thumbnail": "https://i.ytimg.com/vi/BvdVQC2Ff7c/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=BvdVQC2Ff7c",
-          "views": 1068584,
-          "age_hours": 75.6
+          "views": 1113899,
+          "age_hours": 79.9
         },
         {
           "id": "3d6HPLENFt4",
@@ -797,91 +811,15 @@
           "channel": "twenty4tim",
           "thumbnail": "https://i.ytimg.com/vi/3d6HPLENFt4/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=3d6HPLENFt4",
-          "views": 1297521,
-          "age_hours": 164.4
-        }
-      ]
-    },
-    {
-      "phrase": "vida",
-      "video_count": 4,
-      "momentum": 18.23,
-      "regions": [
-        "BR"
-      ],
-      "lang": "pt",
-      "example_videos": [
-        {
-          "id": "C4UviXb0ul0",
-          "title": "TERROR EM CASAS JAPONESES DA VIDA REAL!",
-          "channel": "Jazzghost",
-          "thumbnail": "https://i.ytimg.com/vi/C4UviXb0ul0/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=C4UviXb0ul0",
-          "views": 1270069,
-          "age_hours": 25.5
-        },
-        {
-          "id": "1UM1uYbSa34",
-          "title": "A vida da pessoa que usa óculos😂",
-          "channel": "Victor Pac",
-          "thumbnail": "https://i.ytimg.com/vi/1UM1uYbSa34/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=1UM1uYbSa34",
-          "views": 8181959,
-          "age_hours": 161.5
-        },
-        {
-          "id": "HtRwJkTY9_0",
-          "title": "Evoluí ao NÍVEL MÁXIMO na VIDA DE ÁGUIA!",
-          "channel": "ProbIems",
-          "thumbnail": "https://i.ytimg.com/vi/HtRwJkTY9_0/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=HtRwJkTY9_0",
-          "views": 344350,
-          "age_hours": 27.6
-        }
-      ]
-    },
-    {
-      "phrase": "tudo",
-      "video_count": 4,
-      "momentum": 18.16,
-      "regions": [
-        "BR"
-      ],
-      "lang": "pt",
-      "example_videos": [
-        {
-          "id": "QXmneRQmZOI",
-          "title": "Tudo Que Dá Pra Desenhar #shorts",
-          "channel": "Amandinha",
-          "thumbnail": "https://i.ytimg.com/vi/QXmneRQmZOI/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=QXmneRQmZOI",
-          "views": 4772812,
-          "age_hours": 69.6
-        },
-        {
-          "id": "U2-hZG0NmJo",
-          "title": "Nokia 300: diferente de tudo!#nokia #xiaomi ##apple #nokia300charge",
-          "channel": "Wesley Tech4",
-          "thumbnail": "https://i.ytimg.com/vi/U2-hZG0NmJo/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=U2-hZG0NmJo",
-          "views": 1267192,
-          "age_hours": 91.5
-        },
-        {
-          "id": "C7SN9RXh24s",
-          "title": "pular = MULTIPLICA TUDO",
-          "channel": "Mendrux",
-          "thumbnail": "https://i.ytimg.com/vi/C7SN9RXh24s/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=C7SN9RXh24s",
-          "views": 193018,
-          "age_hours": 18.3
+          "views": 1313993,
+          "age_hours": 168.7
         }
       ]
     },
     {
       "phrase": "celular",
       "video_count": 4,
-      "momentum": 17.75,
+      "momentum": 17.71,
       "regions": [
         "BR"
       ],
@@ -893,8 +831,8 @@
           "channel": "Giuliana Mafra",
           "thumbnail": "https://i.ytimg.com/vi/5Jt65A2L41g/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=5Jt65A2L41g",
-          "views": 7489646,
-          "age_hours": 113.6
+          "views": 7695290,
+          "age_hours": 117.9
         },
         {
           "id": "_XmtaRNNEy8",
@@ -902,8 +840,8 @@
           "channel": "Josvi",
           "thumbnail": "https://i.ytimg.com/vi/_XmtaRNNEy8/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=_XmtaRNNEy8",
-          "views": 488686,
-          "age_hours": 19.6
+          "views": 591675,
+          "age_hours": 23.9
         },
         {
           "id": "3xp5320op_k",
@@ -911,73 +849,15 @@
           "channel": "Pedro Ribeiro",
           "thumbnail": "https://i.ytimg.com/vi/3xp5320op_k/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=3xp5320op_k",
-          "views": 902801,
-          "age_hours": 145.2
+          "views": 908575,
+          "age_hours": 149.5
         }
       ]
     },
     {
-      "phrase": "hindi bmsd semi",
-      "video_count": 2,
-      "momentum": 17.3,
-      "regions": [
-        "IN"
-      ],
-      "lang": "en",
-      "example_videos": [
-        {
-          "id": "2IluEt2hfvo",
-          "title": "[HINDI] BMSD 2026 | Semi-Finals | Day 3 #BGMILIVE",
-          "channel": "KRAFTON INDIA ESPORTS",
-          "thumbnail": "https://i.ytimg.com/vi/2IluEt2hfvo/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=2IluEt2hfvo",
-          "views": 3365206,
-          "age_hours": 3.4
-        },
-        {
-          "id": "ICfiTyAzdEA",
-          "title": "[HINDI] BMSD 2026 | Semi-Finals | Day 2 #BGMILIVE",
-          "channel": "KRAFTON INDIA ESPORTS",
-          "thumbnail": "https://i.ytimg.com/vi/ICfiTyAzdEA/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=ICfiTyAzdEA",
-          "views": 3868856,
-          "age_hours": 26.7
-        }
-      ]
-    },
-    {
-      "phrase": "semi finals bgmilive",
-      "video_count": 2,
-      "momentum": 17.3,
-      "regions": [
-        "IN"
-      ],
-      "lang": "en",
-      "example_videos": [
-        {
-          "id": "2IluEt2hfvo",
-          "title": "[HINDI] BMSD 2026 | Semi-Finals | Day 3 #BGMILIVE",
-          "channel": "KRAFTON INDIA ESPORTS",
-          "thumbnail": "https://i.ytimg.com/vi/2IluEt2hfvo/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=2IluEt2hfvo",
-          "views": 3365206,
-          "age_hours": 3.4
-        },
-        {
-          "id": "ICfiTyAzdEA",
-          "title": "[HINDI] BMSD 2026 | Semi-Finals | Day 2 #BGMILIVE",
-          "channel": "KRAFTON INDIA ESPORTS",
-          "thumbnail": "https://i.ytimg.com/vi/ICfiTyAzdEA/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=ICfiTyAzdEA",
-          "views": 3868856,
-          "age_hours": 26.7
-        }
-      ]
-    },
-    {
-      "phrase": "viral",
+      "phrase": "funny",
       "video_count": 4,
-      "momentum": 16.93,
+      "momentum": 17.37,
       "regions": [
         "DE"
       ],
@@ -989,8 +869,17 @@
           "channel": "KevinWhoYT",
           "thumbnail": "https://i.ytimg.com/vi/b9gYcFL6XnA/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=b9gYcFL6XnA",
-          "views": 3016501,
-          "age_hours": 120.3
+          "views": 3116534,
+          "age_hours": 124.6
+        },
+        {
+          "id": "CEbO8EJnf1A",
+          "title": "Kein Kommentar😂 #shorts #funny #prank",
+          "channel": "StineundMarc",
+          "thumbnail": "https://i.ytimg.com/vi/CEbO8EJnf1A/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=CEbO8EJnf1A",
+          "views": 1378983,
+          "age_hours": 73.0
         },
         {
           "id": "BIQ_9EgYnIw",
@@ -998,8 +887,66 @@
           "channel": "Selina & Haroon",
           "thumbnail": "https://i.ytimg.com/vi/BIQ_9EgYnIw/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=BIQ_9EgYnIw",
-          "views": 1430632,
-          "age_hours": 94.8
+          "views": 1520997,
+          "age_hours": 99.0
+        }
+      ]
+    },
+    {
+      "phrase": "bmsd semi finals",
+      "video_count": 2,
+      "momentum": 17.26,
+      "regions": [
+        "IN"
+      ],
+      "lang": "en",
+      "example_videos": [
+        {
+          "id": "2IluEt2hfvo",
+          "title": "[HINDI] BMSD 2026 | Semi-Finals | Day 3 #BGMILIVE",
+          "channel": "KRAFTON INDIA ESPORTS",
+          "thumbnail": "https://i.ytimg.com/vi/2IluEt2hfvo/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=2IluEt2hfvo",
+          "views": 3490415,
+          "age_hours": 7.7
+        },
+        {
+          "id": "xKqJ1xQDSAA",
+          "title": "BMSD 2026 | Semi-Finals | Day 3 - WATCHPARTY WITH SNAX",
+          "channel": "Snax Gaming",
+          "thumbnail": "https://i.ytimg.com/vi/xKqJ1xQDSAA/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=xKqJ1xQDSAA",
+          "views": 1629952,
+          "age_hours": 8.2
+        }
+      ]
+    },
+    {
+      "phrase": "viral",
+      "video_count": 4,
+      "momentum": 16.95,
+      "regions": [
+        "DE"
+      ],
+      "lang": "de",
+      "example_videos": [
+        {
+          "id": "b9gYcFL6XnA",
+          "title": "Pov: Man hat noch Mini-Geschwister🥹🙌 #viral #fy #geschwister #pov #relatable #deutsch #funny",
+          "channel": "KevinWhoYT",
+          "thumbnail": "https://i.ytimg.com/vi/b9gYcFL6XnA/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=b9gYcFL6XnA",
+          "views": 3116534,
+          "age_hours": 124.6
+        },
+        {
+          "id": "BIQ_9EgYnIw",
+          "title": "Merkt euch den Trick Mädels 🤭 #comedy #selinaundharoon #couple #funny #beziehung #humor #viral",
+          "channel": "Selina & Haroon",
+          "thumbnail": "https://i.ytimg.com/vi/BIQ_9EgYnIw/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=BIQ_9EgYnIw",
+          "views": 1520997,
+          "age_hours": 99.0
         },
         {
           "id": "FZgyF9dsIRs",
@@ -1007,77 +954,417 @@
           "channel": "Haxxe7",
           "thumbnail": "https://i.ytimg.com/vi/FZgyF9dsIRs/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=FZgyF9dsIRs",
-          "views": 710005,
-          "age_hours": 74.5
+          "views": 782218,
+          "age_hours": 78.8
         }
       ]
     },
     {
-      "phrase": "semi finals watchparty",
+      "phrase": "gta live gta5",
       "video_count": 2,
-      "momentum": 16.65,
+      "momentum": 16.75,
       "regions": [
         "IN"
       ],
       "lang": "en",
       "example_videos": [
         {
-          "id": "xKqJ1xQDSAA",
-          "title": "BMSD 2026 | Semi-Finals | Day 3 - WATCHPARTY WITH SNAX",
-          "channel": "Snax Gaming",
-          "thumbnail": "https://i.ytimg.com/vi/xKqJ1xQDSAA/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=xKqJ1xQDSAA",
-          "views": 1593822,
-          "age_hours": 3.9
+          "id": "Zije3SVgQrc",
+          "title": "GTA 5 LIVE 🔥 #gta5 #shortslive #gaming",
+          "channel": "BOSS GAMING",
+          "thumbnail": "https://i.ytimg.com/vi/Zije3SVgQrc/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=Zije3SVgQrc",
+          "views": 2261942,
+          "age_hours": 4.9
         },
         {
-          "id": "2mi4s8rWjS8",
-          "title": "BMSD 2026 | Semi-Finals | Day 2 - WATCHPARTY WITH SNAX",
-          "channel": "Snax Gaming",
-          "thumbnail": "https://i.ytimg.com/vi/2mi4s8rWjS8/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=2mi4s8rWjS8",
-          "views": 1480316,
-          "age_hours": 27.8
+          "id": "eggzLStjqX4",
+          "title": "GTA 5 LIVE  #gta5 #gtav #gaming",
+          "channel": "PAJI IS LIVE",
+          "thumbnail": "https://i.ytimg.com/vi/eggzLStjqX4/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=eggzLStjqX4",
+          "views": 7891998,
+          "age_hours": 27.0
         }
       ]
     },
     {
-      "phrase": "finals watchparty snax",
+      "phrase": "shorts indian chaman",
       "video_count": 2,
-      "momentum": 16.65,
+      "momentum": 15.5,
       "regions": [
         "IN"
       ],
       "lang": "en",
       "example_videos": [
         {
-          "id": "xKqJ1xQDSAA",
-          "title": "BMSD 2026 | Semi-Finals | Day 3 - WATCHPARTY WITH SNAX",
-          "channel": "Snax Gaming",
-          "thumbnail": "https://i.ytimg.com/vi/xKqJ1xQDSAA/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=xKqJ1xQDSAA",
-          "views": 1593822,
-          "age_hours": 3.9
+          "id": "5jO0f49EJVk",
+          "title": "Dost ke liye cake 😂🔥| indian family #shorts #indian #chaman #relatable #chotabhai #bachpan #dosti",
+          "channel": "We r Loser",
+          "thumbnail": "https://i.ytimg.com/vi/5jO0f49EJVk/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=5jO0f49EJVk",
+          "views": 9788340,
+          "age_hours": 54.2
         },
         {
-          "id": "2mi4s8rWjS8",
-          "title": "BMSD 2026 | Semi-Finals | Day 2 - WATCHPARTY WITH SNAX",
-          "channel": "Snax Gaming",
-          "thumbnail": "https://i.ytimg.com/vi/2mi4s8rWjS8/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=2mi4s8rWjS8",
-          "views": 1480316,
-          "age_hours": 27.8
+          "id": "p6-N7x8OKB8",
+          "title": "Bachpan ke pencil box 😂🔥| indian family #shorts #indian #chaman #relatable #chotabhai #bachpan",
+          "channel": "We r Loser",
+          "thumbnail": "https://i.ytimg.com/vi/p6-N7x8OKB8/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=p6-N7x8OKB8",
+          "views": 6637440,
+          "age_hours": 78.0
+        }
+      ]
+    },
+    {
+      "phrase": "indian chaman relatable",
+      "video_count": 2,
+      "momentum": 15.5,
+      "regions": [
+        "IN"
+      ],
+      "lang": "en",
+      "example_videos": [
+        {
+          "id": "5jO0f49EJVk",
+          "title": "Dost ke liye cake 😂🔥| indian family #shorts #indian #chaman #relatable #chotabhai #bachpan #dosti",
+          "channel": "We r Loser",
+          "thumbnail": "https://i.ytimg.com/vi/5jO0f49EJVk/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=5jO0f49EJVk",
+          "views": 9788340,
+          "age_hours": 54.2
+        },
+        {
+          "id": "p6-N7x8OKB8",
+          "title": "Bachpan ke pencil box 😂🔥| indian family #shorts #indian #chaman #relatable #chotabhai #bachpan",
+          "channel": "We r Loser",
+          "thumbnail": "https://i.ytimg.com/vi/p6-N7x8OKB8/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=p6-N7x8OKB8",
+          "views": 6637440,
+          "age_hours": 78.0
+        }
+      ]
+    },
+    {
+      "phrase": "chaman relatable chotabhai",
+      "video_count": 2,
+      "momentum": 15.5,
+      "regions": [
+        "IN"
+      ],
+      "lang": "en",
+      "example_videos": [
+        {
+          "id": "5jO0f49EJVk",
+          "title": "Dost ke liye cake 😂🔥| indian family #shorts #indian #chaman #relatable #chotabhai #bachpan #dosti",
+          "channel": "We r Loser",
+          "thumbnail": "https://i.ytimg.com/vi/5jO0f49EJVk/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=5jO0f49EJVk",
+          "views": 9788340,
+          "age_hours": 54.2
+        },
+        {
+          "id": "p6-N7x8OKB8",
+          "title": "Bachpan ke pencil box 😂🔥| indian family #shorts #indian #chaman #relatable #chotabhai #bachpan",
+          "channel": "We r Loser",
+          "thumbnail": "https://i.ytimg.com/vi/p6-N7x8OKB8/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=p6-N7x8OKB8",
+          "views": 6637440,
+          "age_hours": 78.0
+        }
+      ]
+    },
+    {
+      "phrase": "relatable chotabhai bachpan",
+      "video_count": 2,
+      "momentum": 15.5,
+      "regions": [
+        "IN"
+      ],
+      "lang": "en",
+      "example_videos": [
+        {
+          "id": "5jO0f49EJVk",
+          "title": "Dost ke liye cake 😂🔥| indian family #shorts #indian #chaman #relatable #chotabhai #bachpan #dosti",
+          "channel": "We r Loser",
+          "thumbnail": "https://i.ytimg.com/vi/5jO0f49EJVk/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=5jO0f49EJVk",
+          "views": 9788340,
+          "age_hours": 54.2
+        },
+        {
+          "id": "p6-N7x8OKB8",
+          "title": "Bachpan ke pencil box 😂🔥| indian family #shorts #indian #chaman #relatable #chotabhai #bachpan",
+          "channel": "We r Loser",
+          "thumbnail": "https://i.ytimg.com/vi/p6-N7x8OKB8/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=p6-N7x8OKB8",
+          "views": 6637440,
+          "age_hours": 78.0
         }
       ]
     }
   ],
   "topics_by_region": {
-    "GB": [],
+    "GB": [
+      {
+        "phrase": "future stars",
+        "video_count": 2,
+        "momentum": 10.4,
+        "regions": [
+          "GB"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "lHmbGd28n0A",
+            "title": "100,000 FC Points Decide My Team! (Future Stars)",
+            "channel": "Danny Aarons",
+            "thumbnail": "https://i.ytimg.com/vi/lHmbGd28n0A/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=lHmbGd28n0A",
+            "views": 115789,
+            "age_hours": 9.9
+          },
+          {
+            "id": "qFgqhxJUBdw",
+            "title": "I Opened My Saved Packs For Future Stars! (OGRTG #22)",
+            "channel": "DannyAaronsRTG",
+            "thumbnail": "https://i.ytimg.com/vi/qFgqhxJUBdw/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=qFgqhxJUBdw",
+            "views": 35827,
+            "age_hours": 4.9
+          }
+        ]
+      }
+    ],
+    "BR": [
+      {
+        "phrase": "celular",
+        "video_count": 4,
+        "momentum": 17.71,
+        "regions": [
+          "BR"
+        ],
+        "lang": "pt",
+        "example_videos": [
+          {
+            "id": "5Jt65A2L41g",
+            "title": "Como saber se tem alguém MEXENDO NO SEU CELULAR",
+            "channel": "Giuliana Mafra",
+            "thumbnail": "https://i.ytimg.com/vi/5Jt65A2L41g/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=5Jt65A2L41g",
+            "views": 7695290,
+            "age_hours": 117.9
+          },
+          {
+            "id": "_XmtaRNNEy8",
+            "title": "não segure o celular assim",
+            "channel": "Josvi",
+            "thumbnail": "https://i.ytimg.com/vi/_XmtaRNNEy8/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=_XmtaRNNEy8",
+            "views": 591675,
+            "age_hours": 23.9
+          },
+          {
+            "id": "3xp5320op_k",
+            "title": "fiz um celular dobravel com bateria e tudo #shorts #short #ytshorts #apple #iphone #ios #viral #fyp",
+            "channel": "Pedro Ribeiro",
+            "thumbnail": "https://i.ytimg.com/vi/3xp5320op_k/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=3xp5320op_k",
+            "views": 908575,
+            "age_hours": 149.5
+          }
+        ]
+      },
+      {
+        "phrase": "shorts curiosidades",
+        "video_count": 2,
+        "momentum": 12.62,
+        "regions": [
+          "BR"
+        ],
+        "lang": "pt",
+        "example_videos": [
+          {
+            "id": "1STHqEO3JRA",
+            "title": "CRIARAM UM NOVO BICO PARA ESSE TUCANO 🖨️🐦 #shorts #curiosidades",
+            "channel": "Epic Shorts",
+            "thumbnail": "https://i.ytimg.com/vi/1STHqEO3JRA/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=1STHqEO3JRA",
+            "views": 5492590,
+            "age_hours": 99.6
+          },
+          {
+            "id": "zKSbGLZXQB4",
+            "title": "O homem com a maior mandíbula do mundo 💀#shorts #curiosidades",
+            "channel": "Quem é ?",
+            "thumbnail": "https://i.ytimg.com/vi/zKSbGLZXQB4/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=zKSbGLZXQB4",
+            "views": 7173539,
+            "age_hours": 174.5
+          }
+        ]
+      },
+      {
+        "phrase": "dá pra",
+        "video_count": 2,
+        "momentum": 12.09,
+        "regions": [
+          "BR"
+        ],
+        "lang": "pt",
+        "example_videos": [
+          {
+            "id": "QXmneRQmZOI",
+            "title": "Tudo Que Dá Pra Desenhar #shorts",
+            "channel": "Amandinha",
+            "thumbnail": "https://i.ytimg.com/vi/QXmneRQmZOI/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=QXmneRQmZOI",
+            "views": 5043471,
+            "age_hours": 73.9
+          },
+          {
+            "id": "njRBn4RnzF0",
+            "title": "Não dá pra trabalhar😂 #shorts",
+            "channel": "Jotage",
+            "thumbnail": "https://i.ytimg.com/vi/njRBn4RnzF0/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=njRBn4RnzF0",
+            "views": 4587053,
+            "age_hours": 143.2
+          }
+        ]
+      },
+      {
+        "phrase": "loud nrg",
+        "video_count": 2,
+        "momentum": 11.95,
+        "regions": [
+          "BR"
+        ],
+        "lang": "pt",
+        "example_videos": [
+          {
+            "id": "aBpaC0NVw-E",
+            "title": "LOUD x NRG | VIT x G2 | Champions Shanghai | Playoffs - Dia 14",
+            "channel": "VALORANT Esports BR",
+            "thumbnail": "https://i.ytimg.com/vi/aBpaC0NVw-E/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=aBpaC0NVw-E",
+            "views": 462464,
+            "age_hours": 6.6
+          },
+          {
+            "id": "RT2opPadLR8",
+            "title": "O MELHOR DO MUNDO!!! - LOUD x NRG | CHAMPIONS",
+            "channel": "Sacy",
+            "thumbnail": "https://i.ytimg.com/vi/RT2opPadLR8/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=RT2opPadLR8",
+            "views": 72810,
+            "age_hours": 8.8
+          }
+        ]
+      },
+      {
+        "phrase": "roube ovo",
+        "video_count": 2,
+        "momentum": 11.76,
+        "regions": [
+          "BR"
+        ],
+        "lang": "pt",
+        "example_videos": [
+          {
+            "id": "JckygDTc6GY",
+            "title": "CONSEGUI UM PET RARÍSSIMO NO ROUBE UM OVO!",
+            "channel": "Canal Clash War",
+            "thumbnail": "https://i.ytimg.com/vi/JckygDTc6GY/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=JckygDTc6GY",
+            "views": 409419,
+            "age_hours": 25.6
+          },
+          {
+            "id": "I1tD0yQeazg",
+            "title": "MONTE UM PET NO ROUBE UM OVO",
+            "channel": "Lucas Clash ON",
+            "thumbnail": "https://i.ytimg.com/vi/I1tD0yQeazg/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=I1tD0yQeazg",
+            "views": 90198,
+            "age_hours": 5.0
+          }
+        ]
+      },
+      {
+        "phrase": "melhores músicas",
+        "video_count": 2,
+        "momentum": 8.74,
+        "regions": [
+          "BR"
+        ],
+        "lang": "pt",
+        "example_videos": [
+          {
+            "id": "jNW6YL-Nuho",
+            "title": "Amado Batista - As melhores músicas para relembrar 💝 Sucessos de Amado Batista 💖🎧",
+            "channel": "Sertanejo Ritmo",
+            "thumbnail": "https://i.ytimg.com/vi/jNW6YL-Nuho/mqdefault_live.jpg",
+            "url": "https://www.youtube.com/watch?v=jNW6YL-Nuho",
+            "views": 75158,
+            "age_hours": 21.2
+          },
+          {
+            "id": "aTTNhgU8oLs",
+            "title": "Top Gospel,Louvores de Adoração 2026, As Melhores Músicas Gospel,Top 50 Músicas Gospel Mais Tocadas",
+            "channel": "Nova Hinos Evangélicos",
+            "thumbnail": "https://i.ytimg.com/vi/aTTNhgU8oLs/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=aTTNhgU8oLs",
+            "views": 21497,
+            "age_hours": 11.9
+          }
+        ]
+      }
+    ],
     "US": [
+      {
+        "phrase": "minecraft",
+        "video_count": 6,
+        "momentum": 30.57,
+        "regions": [
+          "US"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "h8VE9_aHd94",
+            "title": "$10,000 Every Day You Survive In Minecraft",
+            "channel": "MrBeast Gaming",
+            "thumbnail": "https://i.ytimg.com/vi/h8VE9_aHd94/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=h8VE9_aHd94",
+            "views": 3889903,
+            "age_hours": 4.9
+          },
+          {
+            "id": "GF4RGA8daaE",
+            "title": "This Might Be The Scariest Minecraft Horror Mod…",
+            "channel": "CaseOh",
+            "thumbnail": "https://i.ytimg.com/vi/GF4RGA8daaE/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=GF4RGA8daaE",
+            "views": 1114753,
+            "age_hours": 22.9
+          },
+          {
+            "id": "NvoKphWCXXk",
+            "title": "I Survived 100 Days on ONE CHEST in Minecraft Hardcore",
+            "channel": "aCookieGod",
+            "thumbnail": "https://i.ytimg.com/vi/NvoKphWCXXk/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=NvoKphWCXXk",
+            "views": 297427,
+            "age_hours": 8.9
+          }
+        ]
+      },
       {
         "phrase": "video oficial",
         "video_count": 2,
-        "momentum": 14.53,
+        "momentum": 14.3,
         "regions": [
           "US"
         ],
@@ -1089,8 +1376,8 @@
             "channel": "Anuel AA",
             "thumbnail": "https://i.ytimg.com/vi/3juuih0WdH8/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=3juuih0WdH8",
-            "views": 1916695,
-            "age_hours": 21.5
+            "views": 2273768,
+            "age_hours": 25.8
           },
           {
             "id": "VUIgT-E4IS0",
@@ -1098,15 +1385,15 @@
             "channel": "Bulin 47 Oficial",
             "thumbnail": "https://i.ytimg.com/vi/VUIgT-E4IS0/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=VUIgT-E4IS0",
-            "views": 2506492,
-            "age_hours": 48.6
+            "views": 2794693,
+            "age_hours": 52.9
           }
         ]
       },
       {
         "phrase": "entire movie",
         "video_count": 2,
-        "momentum": 13.26,
+        "momentum": 13.25,
         "regions": [
           "US"
         ],
@@ -1118,8 +1405,8 @@
             "channel": "The Panther Watches",
             "thumbnail": "https://i.ytimg.com/vi/5EQyPC2tY_U/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=5EQyPC2tY_U",
-            "views": 35473059,
-            "age_hours": 214.3
+            "views": 35549829,
+            "age_hours": 218.6
           },
           {
             "id": "uoOhyU0_Bg8",
@@ -1127,15 +1414,15 @@
             "channel": "John Memes",
             "thumbnail": "https://i.ytimg.com/vi/uoOhyU0_Bg8/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=uoOhyU0_Bg8",
-            "views": 11415708,
-            "age_hours": 108.8
+            "views": 11860811,
+            "age_hours": 113.1
           }
         ]
       },
       {
         "phrase": "iphone duo",
         "video_count": 2,
-        "momentum": 12.93,
+        "momentum": 12.98,
         "regions": [
           "US"
         ],
@@ -1147,8 +1434,8 @@
             "channel": "Nick Wilkins",
             "thumbnail": "https://i.ytimg.com/vi/HFoUe6__vYA/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=HFoUe6__vYA",
-            "views": 1387528,
-            "age_hours": 16.3
+            "views": 2250960,
+            "age_hours": 20.6
           },
           {
             "id": "_1R5FKG_MC0",
@@ -1156,37 +1443,8 @@
             "channel": "John Casterline",
             "thumbnail": "https://i.ytimg.com/vi/_1R5FKG_MC0/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=_1R5FKG_MC0",
-            "views": 6215572,
-            "age_hours": 184.0
-          }
-        ]
-      },
-      {
-        "phrase": "his sister",
-        "video_count": 2,
-        "momentum": 10.82,
-        "regions": [
-          "US"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "VuHeUvmnLcU",
-            "title": "CaseOh Attempts To Teach His Sister How To Drive",
-            "channel": "MoreCaseOh",
-            "thumbnail": "https://i.ytimg.com/vi/VuHeUvmnLcU/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=VuHeUvmnLcU",
-            "views": 457572,
-            "age_hours": 20.6
-          },
-          {
-            "id": "LAWpRid789Y",
-            "title": "He Was Not Happy His Girlfriend Rode With His Sister...",
-            "channel": "RideUnhinged ",
-            "thumbnail": "https://i.ytimg.com/vi/LAWpRid789Y/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=LAWpRid789Y",
-            "views": 801566,
-            "age_hours": 117.0
+            "views": 6228520,
+            "age_hours": 188.3
           }
         ]
       }
@@ -1207,8 +1465,8 @@
             "channel": "Bratwursthaus",
             "thumbnail": "https://i.ytimg.com/vi/SGJWmSgMOIk/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=SGJWmSgMOIk",
-            "views": 4276400,
-            "age_hours": 168.7
+            "views": 4363798,
+            "age_hours": 173.0
           },
           {
             "id": "YcCF6-wmZg8",
@@ -1216,8 +1474,8 @@
             "channel": "TypischCalvin",
             "thumbnail": "https://i.ytimg.com/vi/YcCF6-wmZg8/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=YcCF6-wmZg8",
-            "views": 1437934,
-            "age_hours": 97.5
+            "views": 1488772,
+            "age_hours": 101.8
           },
           {
             "id": "BIQ_9EgYnIw",
@@ -1225,15 +1483,15 @@
             "channel": "Selina & Haroon",
             "thumbnail": "https://i.ytimg.com/vi/BIQ_9EgYnIw/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=BIQ_9EgYnIw",
-            "views": 1430632,
-            "age_hours": 94.8
+            "views": 1520997,
+            "age_hours": 99.0
           }
         ]
       },
       {
         "phrase": "iphone",
         "video_count": 5,
-        "momentum": 20.28,
+        "momentum": 20.27,
         "regions": [
           "DE"
         ],
@@ -1245,8 +1503,8 @@
             "channel": "FabianMagic",
             "thumbnail": "https://i.ytimg.com/vi/ybSSBueep8M/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=ybSSBueep8M",
-            "views": 596115,
-            "age_hours": 33.6
+            "views": 707408,
+            "age_hours": 37.9
           },
           {
             "id": "BvdVQC2Ff7c",
@@ -1254,8 +1512,8 @@
             "channel": "Freddy",
             "thumbnail": "https://i.ytimg.com/vi/BvdVQC2Ff7c/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=BvdVQC2Ff7c",
-            "views": 1068584,
-            "age_hours": 75.6
+            "views": 1113899,
+            "age_hours": 79.9
           },
           {
             "id": "3d6HPLENFt4",
@@ -1263,15 +1521,15 @@
             "channel": "twenty4tim",
             "thumbnail": "https://i.ytimg.com/vi/3d6HPLENFt4/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=3d6HPLENFt4",
-            "views": 1297521,
-            "age_hours": 164.4
+            "views": 1313993,
+            "age_hours": 168.7
           }
         ]
       },
       {
-        "phrase": "viral",
+        "phrase": "funny",
         "video_count": 4,
-        "momentum": 16.93,
+        "momentum": 17.37,
         "regions": [
           "DE"
         ],
@@ -1283,8 +1541,17 @@
             "channel": "KevinWhoYT",
             "thumbnail": "https://i.ytimg.com/vi/b9gYcFL6XnA/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=b9gYcFL6XnA",
-            "views": 3016501,
-            "age_hours": 120.3
+            "views": 3116534,
+            "age_hours": 124.6
+          },
+          {
+            "id": "CEbO8EJnf1A",
+            "title": "Kein Kommentar😂 #shorts #funny #prank",
+            "channel": "StineundMarc",
+            "thumbnail": "https://i.ytimg.com/vi/CEbO8EJnf1A/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=CEbO8EJnf1A",
+            "views": 1378983,
+            "age_hours": 73.0
           },
           {
             "id": "BIQ_9EgYnIw",
@@ -1292,8 +1559,37 @@
             "channel": "Selina & Haroon",
             "thumbnail": "https://i.ytimg.com/vi/BIQ_9EgYnIw/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=BIQ_9EgYnIw",
-            "views": 1430632,
-            "age_hours": 94.8
+            "views": 1520997,
+            "age_hours": 99.0
+          }
+        ]
+      },
+      {
+        "phrase": "viral",
+        "video_count": 4,
+        "momentum": 16.95,
+        "regions": [
+          "DE"
+        ],
+        "lang": "de",
+        "example_videos": [
+          {
+            "id": "b9gYcFL6XnA",
+            "title": "Pov: Man hat noch Mini-Geschwister🥹🙌 #viral #fy #geschwister #pov #relatable #deutsch #funny",
+            "channel": "KevinWhoYT",
+            "thumbnail": "https://i.ytimg.com/vi/b9gYcFL6XnA/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=b9gYcFL6XnA",
+            "views": 3116534,
+            "age_hours": 124.6
+          },
+          {
+            "id": "BIQ_9EgYnIw",
+            "title": "Merkt euch den Trick Mädels 🤭 #comedy #selinaundharoon #couple #funny #beziehung #humor #viral",
+            "channel": "Selina & Haroon",
+            "thumbnail": "https://i.ytimg.com/vi/BIQ_9EgYnIw/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=BIQ_9EgYnIw",
+            "views": 1520997,
+            "age_hours": 99.0
           },
           {
             "id": "FZgyF9dsIRs",
@@ -1301,44 +1597,15 @@
             "channel": "Haxxe7",
             "thumbnail": "https://i.ytimg.com/vi/FZgyF9dsIRs/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=FZgyF9dsIRs",
-            "views": 710005,
-            "age_hours": 74.5
-          }
-        ]
-      },
-      {
-        "phrase": "eigener pokemon shop",
-        "video_count": 2,
-        "momentum": 12.76,
-        "regions": [
-          "DE"
-        ],
-        "lang": "de",
-        "example_videos": [
-          {
-            "id": "NwVRyGs42uA",
-            "title": "💸😨KARTEN sind vom GRADING zurück! - EIGENER Pokemon Shop läuft INSANE! - Folge 3",
-            "channel": "Trymacs",
-            "thumbnail": "https://i.ytimg.com/vi/NwVRyGs42uA/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=NwVRyGs42uA",
-            "views": 88161,
-            "age_hours": 6.9
-          },
-          {
-            "id": "G-cA0hw1YMw",
-            "title": "😍😱PACKS ZIEHER AUTOMATEN GEKAUFT! Eigener Pokemon SHOP mit ULTRA GRADINGS - Folge 2 | Trymacs",
-            "channel": "Trymacs",
-            "thumbnail": "https://i.ytimg.com/vi/G-cA0hw1YMw/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=G-cA0hw1YMw",
-            "views": 267723,
-            "age_hours": 29.6
+            "views": 782218,
+            "age_hours": 78.8
           }
         ]
       },
       {
         "phrase": "trailer german deutsch",
         "video_count": 2,
-        "momentum": 11.79,
+        "momentum": 11.63,
         "regions": [
           "DE"
         ],
@@ -1350,8 +1617,8 @@
             "channel": "KinoCheck",
             "thumbnail": "https://i.ytimg.com/vi/cqOxeF-5JQA/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=cqOxeF-5JQA",
-            "views": 166398,
-            "age_hours": 17.7
+            "views": 199944,
+            "age_hours": 21.9
           },
           {
             "id": "DDRYdT6iHpo",
@@ -1359,44 +1626,15 @@
             "channel": "Robert Hofmann",
             "thumbnail": "https://i.ytimg.com/vi/DDRYdT6iHpo/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=DDRYdT6iHpo",
-            "views": 31459,
-            "age_hours": 8.8
-          }
-        ]
-      },
-      {
-        "phrase": "minecraft helden",
-        "video_count": 2,
-        "momentum": 11.78,
-        "regions": [
-          "DE"
-        ],
-        "lang": "de",
-        "example_videos": [
-          {
-            "id": "RdGkgwDloN4",
-            "title": "Ich BANNE YAMI PERMANENT von MINECRAFT HELDEN 3!",
-            "channel": "AviveHD",
-            "thumbnail": "https://i.ytimg.com/vi/RdGkgwDloN4/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=RdGkgwDloN4",
-            "views": 88501,
-            "age_hours": 8.2
-          },
-          {
-            "id": "E9ZKhB9yqBA",
-            "title": "Meine ALLER LETZTE FOLGE MINECRAFT HELDEN 3.. (keine Herzen mehr)",
-            "channel": "Yami",
-            "thumbnail": "https://i.ytimg.com/vi/E9ZKhB9yqBA/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=E9ZKhB9yqBA",
-            "views": 43685,
-            "age_hours": 8.3
+            "views": 42052,
+            "age_hours": 13.1
           }
         ]
       },
       {
         "phrase": "vs letzte",
         "video_count": 2,
-        "momentum": 11.34,
+        "momentum": 11.29,
         "regions": [
           "DE"
         ],
@@ -1408,8 +1646,8 @@
             "channel": "Shordinator",
             "thumbnail": "https://i.ytimg.com/vi/FpajYb8NBYI/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=FpajYb8NBYI",
-            "views": 647033,
-            "age_hours": 28.6
+            "views": 685788,
+            "age_hours": 32.9
           },
           {
             "id": "NJKfD7fbnV8",
@@ -1417,15 +1655,15 @@
             "channel": "Shordinator",
             "thumbnail": "https://i.ytimg.com/vi/NJKfD7fbnV8/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=NJKfD7fbnV8",
-            "views": 1284290,
-            "age_hours": 77.6
+            "views": 1353670,
+            "age_hours": 81.9
           }
         ]
       },
       {
         "phrase": "offizielles musikvideo",
         "video_count": 2,
-        "momentum": 9.03,
+        "momentum": 9.08,
         "regions": [
           "DE"
         ],
@@ -1437,8 +1675,8 @@
             "channel": "ICH FIND SCHLAGER TOLL",
             "thumbnail": "https://i.ytimg.com/vi/eN8avVVelSc/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=eN8avVVelSc",
-            "views": 296213,
-            "age_hours": 25.6
+            "views": 379693,
+            "age_hours": 29.9
           },
           {
             "id": "wIJCmv9pOl8",
@@ -1446,169 +1684,17 @@
             "channel": "Melodie TV",
             "thumbnail": "https://i.ytimg.com/vi/wIJCmv9pOl8/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=wIJCmv9pOl8",
-            "views": 21510,
-            "age_hours": 23.6
+            "views": 27338,
+            "age_hours": 27.9
           }
         ]
       }
     ],
     "IN": [
       {
-        "phrase": "semi finals",
-        "video_count": 5,
-        "momentum": 35.43,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "2IluEt2hfvo",
-            "title": "[HINDI] BMSD 2026 | Semi-Finals | Day 3 #BGMILIVE",
-            "channel": "KRAFTON INDIA ESPORTS",
-            "thumbnail": "https://i.ytimg.com/vi/2IluEt2hfvo/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=2IluEt2hfvo",
-            "views": 3365206,
-            "age_hours": 3.4
-          },
-          {
-            "id": "xKqJ1xQDSAA",
-            "title": "BMSD 2026 | Semi-Finals | Day 3 - WATCHPARTY WITH SNAX",
-            "channel": "Snax Gaming",
-            "thumbnail": "https://i.ytimg.com/vi/xKqJ1xQDSAA/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=xKqJ1xQDSAA",
-            "views": 1593822,
-            "age_hours": 3.9
-          },
-          {
-            "id": "BKK9oUJaZ68",
-            "title": "BMSD WATCHPARTY | SEMI-FINALS DAY 3 | BGMI LIVE",
-            "channel": "LoLzZz Gaming",
-            "thumbnail": "https://i.ytimg.com/vi/BKK9oUJaZ68/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=BKK9oUJaZ68",
-            "views": 883387,
-            "age_hours": 5.0
-          }
-        ]
-      },
-      {
-        "phrase": "bmsd semi finals",
-        "video_count": 4,
-        "momentum": 33.95,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "2IluEt2hfvo",
-            "title": "[HINDI] BMSD 2026 | Semi-Finals | Day 3 #BGMILIVE",
-            "channel": "KRAFTON INDIA ESPORTS",
-            "thumbnail": "https://i.ytimg.com/vi/2IluEt2hfvo/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=2IluEt2hfvo",
-            "views": 3365206,
-            "age_hours": 3.4
-          },
-          {
-            "id": "xKqJ1xQDSAA",
-            "title": "BMSD 2026 | Semi-Finals | Day 3 - WATCHPARTY WITH SNAX",
-            "channel": "Snax Gaming",
-            "thumbnail": "https://i.ytimg.com/vi/xKqJ1xQDSAA/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=xKqJ1xQDSAA",
-            "views": 1593822,
-            "age_hours": 3.9
-          },
-          {
-            "id": "ICfiTyAzdEA",
-            "title": "[HINDI] BMSD 2026 | Semi-Finals | Day 2 #BGMILIVE",
-            "channel": "KRAFTON INDIA ESPORTS",
-            "thumbnail": "https://i.ytimg.com/vi/ICfiTyAzdEA/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=ICfiTyAzdEA",
-            "views": 3868856,
-            "age_hours": 26.7
-          }
-        ]
-      },
-      {
-        "phrase": "bmsd",
-        "video_count": 5,
-        "momentum": 28.35,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "2IluEt2hfvo",
-            "title": "[HINDI] BMSD 2026 | Semi-Finals | Day 3 #BGMILIVE",
-            "channel": "KRAFTON INDIA ESPORTS",
-            "thumbnail": "https://i.ytimg.com/vi/2IluEt2hfvo/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=2IluEt2hfvo",
-            "views": 3365206,
-            "age_hours": 3.4
-          },
-          {
-            "id": "xKqJ1xQDSAA",
-            "title": "BMSD 2026 | Semi-Finals | Day 3 - WATCHPARTY WITH SNAX",
-            "channel": "Snax Gaming",
-            "thumbnail": "https://i.ytimg.com/vi/xKqJ1xQDSAA/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=xKqJ1xQDSAA",
-            "views": 1593822,
-            "age_hours": 3.9
-          },
-          {
-            "id": "BKK9oUJaZ68",
-            "title": "BMSD WATCHPARTY | SEMI-FINALS DAY 3 | BGMI LIVE",
-            "channel": "LoLzZz Gaming",
-            "thumbnail": "https://i.ytimg.com/vi/BKK9oUJaZ68/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=BKK9oUJaZ68",
-            "views": 883387,
-            "age_hours": 5.0
-          }
-        ]
-      },
-      {
-        "phrase": "indian",
-        "video_count": 6,
-        "momentum": 27.94,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "5jO0f49EJVk",
-            "title": "Dost ke liye cake 😂🔥| indian family #shorts #indian #chaman #relatable #chotabhai #bachpan #dosti",
-            "channel": "We r Loser",
-            "thumbnail": "https://i.ytimg.com/vi/5jO0f49EJVk/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=5jO0f49EJVk",
-            "views": 9054870,
-            "age_hours": 49.9
-          },
-          {
-            "id": "4qE75qslJkw",
-            "title": "Redbull man aur jagiya🐂🔥| Indian family😂|| #shorts #indian #jagiya #redbull #comedy",
-            "channel": "Jagiya the fun",
-            "thumbnail": "https://i.ytimg.com/vi/4qE75qslJkw/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=4qE75qslJkw",
-            "views": 15519024,
-            "age_hours": 144.0
-          },
-          {
-            "id": "p6-N7x8OKB8",
-            "title": "Bachpan ke pencil box 😂🔥| indian family #shorts #indian #chaman #relatable #chotabhai #bachpan",
-            "channel": "We r Loser",
-            "thumbnail": "https://i.ytimg.com/vi/p6-N7x8OKB8/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=p6-N7x8OKB8",
-            "views": 6084678,
-            "age_hours": 73.8
-          }
-        ]
-      },
-      {
         "phrase": "family",
-        "video_count": 5,
-        "momentum": 26.09,
+        "video_count": 6,
+        "momentum": 31.29,
         "regions": [
           "IN"
         ],
@@ -1620,8 +1706,8 @@
             "channel": "Rishan sriansh & Sree nayana",
             "thumbnail": "https://i.ytimg.com/vi/fVOleLZYAQo/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=fVOleLZYAQo",
-            "views": 47105644,
-            "age_hours": 154.6
+            "views": 48409826,
+            "age_hours": 158.9
           },
           {
             "id": "5jO0f49EJVk",
@@ -1629,24 +1715,62 @@
             "channel": "We r Loser",
             "thumbnail": "https://i.ytimg.com/vi/5jO0f49EJVk/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=5jO0f49EJVk",
-            "views": 9054870,
-            "age_hours": 49.9
+            "views": 9788340,
+            "age_hours": 54.2
           },
           {
-            "id": "vVoITvAys_U",
-            "title": "Family को Surprise करने के लिए Beta लाया ये Phones! 😱 #shorts",
-            "channel": "Tech Master",
-            "thumbnail": "https://i.ytimg.com/vi/vVoITvAys_U/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=vVoITvAys_U",
-            "views": 24773694,
-            "age_hours": 242.3
+            "id": "n25VXAwohaQ",
+            "title": "இவனின் அன்பை அளந்திடஎந்த மொழியும் போதாது🫂😍 #shorts #love #family",
+            "channel": "With Love Nagaraj Sangeetha",
+            "thumbnail": "https://i.ytimg.com/vi/n25VXAwohaQ/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=n25VXAwohaQ",
+            "views": 3365063,
+            "age_hours": 31.7
+          }
+        ]
+      },
+      {
+        "phrase": "indian",
+        "video_count": 6,
+        "momentum": 27.85,
+        "regions": [
+          "IN"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "5jO0f49EJVk",
+            "title": "Dost ke liye cake 😂🔥| indian family #shorts #indian #chaman #relatable #chotabhai #bachpan #dosti",
+            "channel": "We r Loser",
+            "thumbnail": "https://i.ytimg.com/vi/5jO0f49EJVk/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=5jO0f49EJVk",
+            "views": 9788340,
+            "age_hours": 54.2
+          },
+          {
+            "id": "4qE75qslJkw",
+            "title": "Redbull man aur jagiya🐂🔥| Indian family😂|| #shorts #indian #jagiya #redbull #comedy",
+            "channel": "Jagiya the fun",
+            "thumbnail": "https://i.ytimg.com/vi/4qE75qslJkw/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=4qE75qslJkw",
+            "views": 16051741,
+            "age_hours": 148.2
+          },
+          {
+            "id": "p6-N7x8OKB8",
+            "title": "Bachpan ke pencil box 😂🔥| indian family #shorts #indian #chaman #relatable #chotabhai #bachpan",
+            "channel": "We r Loser",
+            "thumbnail": "https://i.ytimg.com/vi/p6-N7x8OKB8/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=p6-N7x8OKB8",
+            "views": 6637440,
+            "age_hours": 78.0
           }
         ]
       },
       {
         "phrase": "indian family shorts",
         "video_count": 3,
-        "momentum": 23.04,
+        "momentum": 23.05,
         "regions": [
           "IN"
         ],
@@ -1658,8 +1782,8 @@
             "channel": "We r Loser",
             "thumbnail": "https://i.ytimg.com/vi/5jO0f49EJVk/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=5jO0f49EJVk",
-            "views": 9054870,
-            "age_hours": 49.9
+            "views": 9788340,
+            "age_hours": 54.2
           },
           {
             "id": "4qE75qslJkw",
@@ -1667,8 +1791,8 @@
             "channel": "Jagiya the fun",
             "thumbnail": "https://i.ytimg.com/vi/4qE75qslJkw/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=4qE75qslJkw",
-            "views": 15519024,
-            "age_hours": 144.0
+            "views": 16051741,
+            "age_hours": 148.2
           },
           {
             "id": "p6-N7x8OKB8",
@@ -1676,15 +1800,15 @@
             "channel": "We r Loser",
             "thumbnail": "https://i.ytimg.com/vi/p6-N7x8OKB8/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=p6-N7x8OKB8",
-            "views": 6084678,
-            "age_hours": 73.8
+            "views": 6637440,
+            "age_hours": 78.0
           }
         ]
       },
       {
         "phrase": "family shorts indian",
         "video_count": 3,
-        "momentum": 23.04,
+        "momentum": 23.05,
         "regions": [
           "IN"
         ],
@@ -1696,8 +1820,8 @@
             "channel": "We r Loser",
             "thumbnail": "https://i.ytimg.com/vi/5jO0f49EJVk/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=5jO0f49EJVk",
-            "views": 9054870,
-            "age_hours": 49.9
+            "views": 9788340,
+            "age_hours": 54.2
           },
           {
             "id": "4qE75qslJkw",
@@ -1705,8 +1829,8 @@
             "channel": "Jagiya the fun",
             "thumbnail": "https://i.ytimg.com/vi/4qE75qslJkw/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=4qE75qslJkw",
-            "views": 15519024,
-            "age_hours": 144.0
+            "views": 16051741,
+            "age_hours": 148.2
           },
           {
             "id": "p6-N7x8OKB8",
@@ -1714,28 +1838,75 @@
             "channel": "We r Loser",
             "thumbnail": "https://i.ytimg.com/vi/p6-N7x8OKB8/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=p6-N7x8OKB8",
-            "views": 6084678,
-            "age_hours": 73.8
+            "views": 6637440,
+            "age_hours": 78.0
+          }
+        ]
+      },
+      {
+        "phrase": "semi finals",
+        "video_count": 3,
+        "momentum": 21.17,
+        "regions": [
+          "IN"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "2IluEt2hfvo",
+            "title": "[HINDI] BMSD 2026 | Semi-Finals | Day 3 #BGMILIVE",
+            "channel": "KRAFTON INDIA ESPORTS",
+            "thumbnail": "https://i.ytimg.com/vi/2IluEt2hfvo/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=2IluEt2hfvo",
+            "views": 3490415,
+            "age_hours": 7.7
+          },
+          {
+            "id": "xKqJ1xQDSAA",
+            "title": "BMSD 2026 | Semi-Finals | Day 3 - WATCHPARTY WITH SNAX",
+            "channel": "Snax Gaming",
+            "thumbnail": "https://i.ytimg.com/vi/xKqJ1xQDSAA/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=xKqJ1xQDSAA",
+            "views": 1629952,
+            "age_hours": 8.2
+          },
+          {
+            "id": "BKK9oUJaZ68",
+            "title": "BMSD WATCHPARTY | SEMI-FINALS DAY 3 | BGMI LIVE",
+            "channel": "LoLzZz Gaming",
+            "thumbnail": "https://i.ytimg.com/vi/BKK9oUJaZ68/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=BKK9oUJaZ68",
+            "views": 919719,
+            "age_hours": 9.3
           }
         ]
       },
       {
         "phrase": "gta live",
         "video_count": 3,
-        "momentum": 20.55,
+        "momentum": 20.92,
         "regions": [
           "IN"
         ],
         "lang": "en",
         "example_videos": [
+          {
+            "id": "Zije3SVgQrc",
+            "title": "GTA 5 LIVE 🔥 #gta5 #shortslive #gaming",
+            "channel": "BOSS GAMING",
+            "thumbnail": "https://i.ytimg.com/vi/Zije3SVgQrc/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=Zije3SVgQrc",
+            "views": 2261942,
+            "age_hours": 4.9
+          },
           {
             "id": "6UFUiNd-Gyc",
             "title": "GTA 5 LIVE GAMEPLAY CHALLENGES",
             "channel": "Raajoo Gaming",
             "thumbnail": "https://i.ytimg.com/vi/6UFUiNd-Gyc/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=6UFUiNd-Gyc",
-            "views": 4509447,
-            "age_hours": 8.3
+            "views": 4509635,
+            "age_hours": 12.6
           },
           {
             "id": "eggzLStjqX4",
@@ -1743,62 +1914,15 @@
             "channel": "PAJI IS LIVE",
             "thumbnail": "https://i.ytimg.com/vi/eggzLStjqX4/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=eggzLStjqX4",
-            "views": 7891778,
-            "age_hours": 22.7
-          },
-          {
-            "id": "U_VxdBXC6ls",
-            "title": "GTA 5 LIVE 🔥 #gta5 #shortslive #gaming",
-            "channel": "BOSS GAMING",
-            "thumbnail": "https://i.ytimg.com/vi/U_VxdBXC6ls/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=U_VxdBXC6ls",
-            "views": 3073272,
-            "age_hours": 23.3
+            "views": 7891998,
+            "age_hours": 27.0
           }
         ]
       },
       {
-        "phrase": "iphone",
-        "video_count": 4,
-        "momentum": 17.59,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "UI4Xat5hmOg",
-            "title": "Why 'Ultra Rich' THROW AWAY iPhone & Switch To Android? Apple vs Android Tech Battle #shorts",
-            "channel": "FactTechz",
-            "thumbnail": "https://i.ytimg.com/vi/UI4Xat5hmOg/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=UI4Xat5hmOg",
-            "views": 7079279,
-            "age_hours": 110.9
-          },
-          {
-            "id": "KU6QmaKSYgI",
-            "title": "SAVE 2000 Rupees ! Buy THIS Charger for iPhone #Shorts",
-            "channel": "TechBar",
-            "thumbnail": "https://i.ytimg.com/vi/KU6QmaKSYgI/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=KU6QmaKSYgI",
-            "views": 791189,
-            "age_hours": 61.1
-          },
-          {
-            "id": "IToG3lvd-rw",
-            "title": "Adei Apple😡 Ithu ena iPhone 18 Pro va Bug Phone a? Ore Problems a iruku😳 iOS 27 Bugs",
-            "channel": "Tech Satire",
-            "thumbnail": "https://i.ytimg.com/vi/IToG3lvd-rw/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=IToG3lvd-rw",
-            "views": 821721,
-            "age_hours": 172.2
-          }
-        ]
-      },
-      {
-        "phrase": "hindi bmsd semi",
+        "phrase": "bmsd semi finals",
         "video_count": 2,
-        "momentum": 17.3,
+        "momentum": 17.26,
         "regions": [
           "IN"
         ],
@@ -1810,140 +1934,53 @@
             "channel": "KRAFTON INDIA ESPORTS",
             "thumbnail": "https://i.ytimg.com/vi/2IluEt2hfvo/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=2IluEt2hfvo",
-            "views": 3365206,
-            "age_hours": 3.4
+            "views": 3490415,
+            "age_hours": 7.7
           },
-          {
-            "id": "ICfiTyAzdEA",
-            "title": "[HINDI] BMSD 2026 | Semi-Finals | Day 2 #BGMILIVE",
-            "channel": "KRAFTON INDIA ESPORTS",
-            "thumbnail": "https://i.ytimg.com/vi/ICfiTyAzdEA/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=ICfiTyAzdEA",
-            "views": 3868856,
-            "age_hours": 26.7
-          }
-        ]
-      },
-      {
-        "phrase": "semi finals bgmilive",
-        "video_count": 2,
-        "momentum": 17.3,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "2IluEt2hfvo",
-            "title": "[HINDI] BMSD 2026 | Semi-Finals | Day 3 #BGMILIVE",
-            "channel": "KRAFTON INDIA ESPORTS",
-            "thumbnail": "https://i.ytimg.com/vi/2IluEt2hfvo/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=2IluEt2hfvo",
-            "views": 3365206,
-            "age_hours": 3.4
-          },
-          {
-            "id": "ICfiTyAzdEA",
-            "title": "[HINDI] BMSD 2026 | Semi-Finals | Day 2 #BGMILIVE",
-            "channel": "KRAFTON INDIA ESPORTS",
-            "thumbnail": "https://i.ytimg.com/vi/ICfiTyAzdEA/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=ICfiTyAzdEA",
-            "views": 3868856,
-            "age_hours": 26.7
-          }
-        ]
-      },
-      {
-        "phrase": "semi finals watchparty",
-        "video_count": 2,
-        "momentum": 16.65,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
           {
             "id": "xKqJ1xQDSAA",
             "title": "BMSD 2026 | Semi-Finals | Day 3 - WATCHPARTY WITH SNAX",
             "channel": "Snax Gaming",
             "thumbnail": "https://i.ytimg.com/vi/xKqJ1xQDSAA/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=xKqJ1xQDSAA",
-            "views": 1593822,
-            "age_hours": 3.9
-          },
-          {
-            "id": "2mi4s8rWjS8",
-            "title": "BMSD 2026 | Semi-Finals | Day 2 - WATCHPARTY WITH SNAX",
-            "channel": "Snax Gaming",
-            "thumbnail": "https://i.ytimg.com/vi/2mi4s8rWjS8/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=2mi4s8rWjS8",
-            "views": 1480316,
-            "age_hours": 27.8
-          }
-        ]
-      },
-      {
-        "phrase": "finals watchparty snax",
-        "video_count": 2,
-        "momentum": 16.65,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "xKqJ1xQDSAA",
-            "title": "BMSD 2026 | Semi-Finals | Day 3 - WATCHPARTY WITH SNAX",
-            "channel": "Snax Gaming",
-            "thumbnail": "https://i.ytimg.com/vi/xKqJ1xQDSAA/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=xKqJ1xQDSAA",
-            "views": 1593822,
-            "age_hours": 3.9
-          },
-          {
-            "id": "2mi4s8rWjS8",
-            "title": "BMSD 2026 | Semi-Finals | Day 2 - WATCHPARTY WITH SNAX",
-            "channel": "Snax Gaming",
-            "thumbnail": "https://i.ytimg.com/vi/2mi4s8rWjS8/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=2mi4s8rWjS8",
-            "views": 1480316,
-            "age_hours": 27.8
+            "views": 1629952,
+            "age_hours": 8.2
           }
         ]
       },
       {
         "phrase": "gta live gta5",
         "video_count": 2,
-        "momentum": 16.04,
+        "momentum": 16.75,
         "regions": [
           "IN"
         ],
         "lang": "en",
         "example_videos": [
+          {
+            "id": "Zije3SVgQrc",
+            "title": "GTA 5 LIVE 🔥 #gta5 #shortslive #gaming",
+            "channel": "BOSS GAMING",
+            "thumbnail": "https://i.ytimg.com/vi/Zije3SVgQrc/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=Zije3SVgQrc",
+            "views": 2261942,
+            "age_hours": 4.9
+          },
           {
             "id": "eggzLStjqX4",
             "title": "GTA 5 LIVE  #gta5 #gtav #gaming",
             "channel": "PAJI IS LIVE",
             "thumbnail": "https://i.ytimg.com/vi/eggzLStjqX4/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=eggzLStjqX4",
-            "views": 7891778,
-            "age_hours": 22.7
-          },
-          {
-            "id": "U_VxdBXC6ls",
-            "title": "GTA 5 LIVE 🔥 #gta5 #shortslive #gaming",
-            "channel": "BOSS GAMING",
-            "thumbnail": "https://i.ytimg.com/vi/U_VxdBXC6ls/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=U_VxdBXC6ls",
-            "views": 3073272,
-            "age_hours": 23.3
+            "views": 7891998,
+            "age_hours": 27.0
           }
         ]
       },
       {
         "phrase": "shorts indian chaman",
         "video_count": 2,
-        "momentum": 15.49,
+        "momentum": 15.5,
         "regions": [
           "IN"
         ],
@@ -1955,8 +1992,8 @@
             "channel": "We r Loser",
             "thumbnail": "https://i.ytimg.com/vi/5jO0f49EJVk/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=5jO0f49EJVk",
-            "views": 9054870,
-            "age_hours": 49.9
+            "views": 9788340,
+            "age_hours": 54.2
           },
           {
             "id": "p6-N7x8OKB8",
@@ -1964,15 +2001,15 @@
             "channel": "We r Loser",
             "thumbnail": "https://i.ytimg.com/vi/p6-N7x8OKB8/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=p6-N7x8OKB8",
-            "views": 6084678,
-            "age_hours": 73.8
+            "views": 6637440,
+            "age_hours": 78.0
           }
         ]
       },
       {
         "phrase": "indian chaman relatable",
         "video_count": 2,
-        "momentum": 15.49,
+        "momentum": 15.5,
         "regions": [
           "IN"
         ],
@@ -1984,8 +2021,8 @@
             "channel": "We r Loser",
             "thumbnail": "https://i.ytimg.com/vi/5jO0f49EJVk/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=5jO0f49EJVk",
-            "views": 9054870,
-            "age_hours": 49.9
+            "views": 9788340,
+            "age_hours": 54.2
           },
           {
             "id": "p6-N7x8OKB8",
@@ -1993,15 +2030,15 @@
             "channel": "We r Loser",
             "thumbnail": "https://i.ytimg.com/vi/p6-N7x8OKB8/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=p6-N7x8OKB8",
-            "views": 6084678,
-            "age_hours": 73.8
+            "views": 6637440,
+            "age_hours": 78.0
           }
         ]
       },
       {
         "phrase": "chaman relatable chotabhai",
         "video_count": 2,
-        "momentum": 15.49,
+        "momentum": 15.5,
         "regions": [
           "IN"
         ],
@@ -2013,8 +2050,8 @@
             "channel": "We r Loser",
             "thumbnail": "https://i.ytimg.com/vi/5jO0f49EJVk/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=5jO0f49EJVk",
-            "views": 9054870,
-            "age_hours": 49.9
+            "views": 9788340,
+            "age_hours": 54.2
           },
           {
             "id": "p6-N7x8OKB8",
@@ -2022,15 +2059,15 @@
             "channel": "We r Loser",
             "thumbnail": "https://i.ytimg.com/vi/p6-N7x8OKB8/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=p6-N7x8OKB8",
-            "views": 6084678,
-            "age_hours": 73.8
+            "views": 6637440,
+            "age_hours": 78.0
           }
         ]
       },
       {
         "phrase": "relatable chotabhai bachpan",
         "video_count": 2,
-        "momentum": 15.49,
+        "momentum": 15.5,
         "regions": [
           "IN"
         ],
@@ -2042,8 +2079,8 @@
             "channel": "We r Loser",
             "thumbnail": "https://i.ytimg.com/vi/5jO0f49EJVk/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=5jO0f49EJVk",
-            "views": 9054870,
-            "age_hours": 49.9
+            "views": 9788340,
+            "age_hours": 54.2
           },
           {
             "id": "p6-N7x8OKB8",
@@ -2051,374 +2088,135 @@
             "channel": "We r Loser",
             "thumbnail": "https://i.ytimg.com/vi/p6-N7x8OKB8/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=p6-N7x8OKB8",
-            "views": 6084678,
-            "age_hours": 73.8
-          }
-        ]
-      }
-    ],
-    "CA": [],
-    "BR": [
-      {
-        "phrase": "vida",
-        "video_count": 4,
-        "momentum": 18.23,
-        "regions": [
-          "BR"
-        ],
-        "lang": "pt",
-        "example_videos": [
-          {
-            "id": "C4UviXb0ul0",
-            "title": "TERROR EM CASAS JAPONESES DA VIDA REAL!",
-            "channel": "Jazzghost",
-            "thumbnail": "https://i.ytimg.com/vi/C4UviXb0ul0/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=C4UviXb0ul0",
-            "views": 1270069,
-            "age_hours": 25.5
-          },
-          {
-            "id": "1UM1uYbSa34",
-            "title": "A vida da pessoa que usa óculos😂",
-            "channel": "Victor Pac",
-            "thumbnail": "https://i.ytimg.com/vi/1UM1uYbSa34/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=1UM1uYbSa34",
-            "views": 8181959,
-            "age_hours": 161.5
-          },
-          {
-            "id": "HtRwJkTY9_0",
-            "title": "Evoluí ao NÍVEL MÁXIMO na VIDA DE ÁGUIA!",
-            "channel": "ProbIems",
-            "thumbnail": "https://i.ytimg.com/vi/HtRwJkTY9_0/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=HtRwJkTY9_0",
-            "views": 344350,
-            "age_hours": 27.6
+            "views": 6637440,
+            "age_hours": 78.0
           }
         ]
       },
       {
-        "phrase": "tudo",
-        "video_count": 4,
-        "momentum": 18.16,
-        "regions": [
-          "BR"
-        ],
-        "lang": "pt",
-        "example_videos": [
-          {
-            "id": "QXmneRQmZOI",
-            "title": "Tudo Que Dá Pra Desenhar #shorts",
-            "channel": "Amandinha",
-            "thumbnail": "https://i.ytimg.com/vi/QXmneRQmZOI/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=QXmneRQmZOI",
-            "views": 4772812,
-            "age_hours": 69.6
-          },
-          {
-            "id": "U2-hZG0NmJo",
-            "title": "Nokia 300: diferente de tudo!#nokia #xiaomi ##apple #nokia300charge",
-            "channel": "Wesley Tech4",
-            "thumbnail": "https://i.ytimg.com/vi/U2-hZG0NmJo/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=U2-hZG0NmJo",
-            "views": 1267192,
-            "age_hours": 91.5
-          },
-          {
-            "id": "C7SN9RXh24s",
-            "title": "pular = MULTIPLICA TUDO",
-            "channel": "Mendrux",
-            "thumbnail": "https://i.ytimg.com/vi/C7SN9RXh24s/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=C7SN9RXh24s",
-            "views": 193018,
-            "age_hours": 18.3
-          }
-        ]
-      },
-      {
-        "phrase": "celular",
-        "video_count": 4,
-        "momentum": 17.75,
-        "regions": [
-          "BR"
-        ],
-        "lang": "pt",
-        "example_videos": [
-          {
-            "id": "5Jt65A2L41g",
-            "title": "Como saber se tem alguém MEXENDO NO SEU CELULAR",
-            "channel": "Giuliana Mafra",
-            "thumbnail": "https://i.ytimg.com/vi/5Jt65A2L41g/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=5Jt65A2L41g",
-            "views": 7489646,
-            "age_hours": 113.6
-          },
-          {
-            "id": "_XmtaRNNEy8",
-            "title": "não segure o celular assim",
-            "channel": "Josvi",
-            "thumbnail": "https://i.ytimg.com/vi/_XmtaRNNEy8/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=_XmtaRNNEy8",
-            "views": 488686,
-            "age_hours": 19.6
-          },
-          {
-            "id": "3xp5320op_k",
-            "title": "fiz um celular dobravel com bateria e tudo #shorts #short #ytshorts #apple #iphone #ios #viral #fyp",
-            "channel": "Pedro Ribeiro",
-            "thumbnail": "https://i.ytimg.com/vi/3xp5320op_k/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=3xp5320op_k",
-            "views": 902801,
-            "age_hours": 145.2
-          }
-        ]
-      },
-      {
-        "phrase": "shorts curiosidades",
+        "phrase": "fun comedy",
         "video_count": 2,
-        "momentum": 12.62,
+        "momentum": 12.68,
         "regions": [
-          "BR"
+          "IN"
         ],
-        "lang": "pt",
+        "lang": "en",
         "example_videos": [
           {
-            "id": "1STHqEO3JRA",
-            "title": "CRIARAM UM NOVO BICO PARA ESSE TUCANO 🖨️🐦 #shorts #curiosidades",
-            "channel": "Epic Shorts",
-            "thumbnail": "https://i.ytimg.com/vi/1STHqEO3JRA/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=1STHqEO3JRA",
-            "views": 5185101,
-            "age_hours": 95.4
+            "id": "7QmUGqWHKHE",
+            "title": "Kudi Kudiyai kedukkum😅Kandippa Twist Irukku🤣Just For Fun😅🤣 #comedy #trending #tamil #comedy",
+            "channel": "Auto Kaaran ",
+            "thumbnail": "https://i.ytimg.com/vi/7QmUGqWHKHE/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=7QmUGqWHKHE",
+            "views": 2970789,
+            "age_hours": 57.1
           },
           {
-            "id": "zKSbGLZXQB4",
-            "title": "O homem com a maior mandíbula do mundo 💀#shorts #curiosidades",
-            "channel": "Quem é ?",
-            "thumbnail": "https://i.ytimg.com/vi/zKSbGLZXQB4/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=zKSbGLZXQB4",
-            "views": 7100475,
-            "age_hours": 170.2
+            "id": "Fhx0TUWY5hk",
+            "title": "இதுக்கு பருத்தி முட்டை குடோன்லயே இருந்திருக்கலாம்😜🤣 #shorts #fun #comedy",
+            "channel": "With Love Nagaraj Sangeetha",
+            "thumbnail": "https://i.ytimg.com/vi/Fhx0TUWY5hk/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=Fhx0TUWY5hk",
+            "views": 11228466,
+            "age_hours": 173.7
           }
         ]
       },
       {
-        "phrase": "ao vivo",
+        "phrase": "wait end",
         "video_count": 2,
-        "momentum": 12.22,
+        "momentum": 12.48,
         "regions": [
-          "BR"
+          "IN"
         ],
-        "lang": "pt",
+        "lang": "en",
         "example_videos": [
           {
-            "id": "MBIuCjTEgNI",
-            "title": "Felipe Araújo - Desgramou | De Ponta a Ponta em Barretos (Ao Vivo)",
-            "channel": "Felipe Araújo",
-            "thumbnail": "https://i.ytimg.com/vi/MBIuCjTEgNI/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=MBIuCjTEgNI",
-            "views": 1687626,
-            "age_hours": 25.6
+            "id": "2zjVtsxIY_o",
+            "title": "Wait for the end 😱 #shorts #youtubeshorts",
+            "channel": "Maneesh Vishnu",
+            "thumbnail": "https://i.ytimg.com/vi/2zjVtsxIY_o/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=2zjVtsxIY_o",
+            "views": 16163726,
+            "age_hours": 132.2
           },
           {
-            "id": "7qcq8wAX9pU",
-            "title": "Felipe & Rodrigo -  Pós (Ao Vivo) #NoSentimento",
-            "channel": "Felipe e Rodrigo",
-            "thumbnail": "https://i.ytimg.com/vi/7qcq8wAX9pU/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=7qcq8wAX9pU",
-            "views": 1851158,
-            "age_hours": 40.6
+            "id": "klCBU4fg1Ws",
+            "title": "😎🔥Wait for end😁😍எப்படி இருக்கு guys😂🔥#aswincharu #yazhyuga #trending #youtube #shorts #adada",
+            "channel": "Aswincharu_Official",
+            "thumbnail": "https://i.ytimg.com/vi/klCBU4fg1Ws/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=klCBU4fg1Ws",
+            "views": 3297570,
+            "age_hours": 80.1
           }
         ]
       },
       {
-        "phrase": "dá pra",
+        "phrase": "amazon great indian",
         "video_count": 2,
-        "momentum": 12.1,
+        "momentum": 12.47,
         "regions": [
-          "BR"
+          "IN"
         ],
-        "lang": "pt",
+        "lang": "en",
         "example_videos": [
           {
-            "id": "QXmneRQmZOI",
-            "title": "Tudo Que Dá Pra Desenhar #shorts",
-            "channel": "Amandinha",
-            "thumbnail": "https://i.ytimg.com/vi/QXmneRQmZOI/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=QXmneRQmZOI",
-            "views": 4772812,
-            "age_hours": 69.6
+            "id": "zZ8dupGrPZA",
+            "title": "Best Smartphones to Buy in Amazon Great Indian Festival & Flipkart Big Billion Days 2026 |10K-₹1Lakh",
+            "channel": "Prasadtechintelugu",
+            "thumbnail": "https://i.ytimg.com/vi/zZ8dupGrPZA/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=zZ8dupGrPZA",
+            "views": 1566630,
+            "age_hours": 80.7
           },
           {
-            "id": "njRBn4RnzF0",
-            "title": "Não dá pra trabalhar😂 #shorts",
-            "channel": "Jotage",
-            "thumbnail": "https://i.ytimg.com/vi/njRBn4RnzF0/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=njRBn4RnzF0",
-            "views": 4436222,
-            "age_hours": 139.0
+            "id": "Cnec9uNAl0U",
+            "title": "அடேங்கப்பா.. இவ்வளவு நீளமா! 📏-  FEDUS 1.5M Extension Cord Wire Amazon Great indian Festival",
+            "channel": "Loud Oli Tech",
+            "thumbnail": "https://i.ytimg.com/vi/Cnec9uNAl0U/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=Cnec9uNAl0U",
+            "views": 1356234,
+            "age_hours": 275.5
+          }
+        ]
+      },
+      {
+        "phrase": "great indian festival",
+        "video_count": 2,
+        "momentum": 12.47,
+        "regions": [
+          "IN"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "zZ8dupGrPZA",
+            "title": "Best Smartphones to Buy in Amazon Great Indian Festival & Flipkart Big Billion Days 2026 |10K-₹1Lakh",
+            "channel": "Prasadtechintelugu",
+            "thumbnail": "https://i.ytimg.com/vi/zZ8dupGrPZA/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=zZ8dupGrPZA",
+            "views": 1566630,
+            "age_hours": 80.7
+          },
+          {
+            "id": "Cnec9uNAl0U",
+            "title": "அடேங்கப்பா.. இவ்வளவு நீளமா! 📏-  FEDUS 1.5M Extension Cord Wire Amazon Great indian Festival",
+            "channel": "Loud Oli Tech",
+            "thumbnail": "https://i.ytimg.com/vi/Cnec9uNAl0U/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=Cnec9uNAl0U",
+            "views": 1356234,
+            "age_hours": 275.5
           }
         ]
       }
     ],
     "AU": [],
+    "CA": [],
     "ALL": [
       {
-        "phrase": "semi finals",
-        "video_count": 5,
-        "momentum": 35.43,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "2IluEt2hfvo",
-            "title": "[HINDI] BMSD 2026 | Semi-Finals | Day 3 #BGMILIVE",
-            "channel": "KRAFTON INDIA ESPORTS",
-            "thumbnail": "https://i.ytimg.com/vi/2IluEt2hfvo/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=2IluEt2hfvo",
-            "views": 3365206,
-            "age_hours": 3.4
-          },
-          {
-            "id": "xKqJ1xQDSAA",
-            "title": "BMSD 2026 | Semi-Finals | Day 3 - WATCHPARTY WITH SNAX",
-            "channel": "Snax Gaming",
-            "thumbnail": "https://i.ytimg.com/vi/xKqJ1xQDSAA/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=xKqJ1xQDSAA",
-            "views": 1593822,
-            "age_hours": 3.9
-          },
-          {
-            "id": "BKK9oUJaZ68",
-            "title": "BMSD WATCHPARTY | SEMI-FINALS DAY 3 | BGMI LIVE",
-            "channel": "LoLzZz Gaming",
-            "thumbnail": "https://i.ytimg.com/vi/BKK9oUJaZ68/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=BKK9oUJaZ68",
-            "views": 883387,
-            "age_hours": 5.0
-          }
-        ]
-      },
-      {
-        "phrase": "bmsd semi finals",
-        "video_count": 4,
-        "momentum": 33.95,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "2IluEt2hfvo",
-            "title": "[HINDI] BMSD 2026 | Semi-Finals | Day 3 #BGMILIVE",
-            "channel": "KRAFTON INDIA ESPORTS",
-            "thumbnail": "https://i.ytimg.com/vi/2IluEt2hfvo/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=2IluEt2hfvo",
-            "views": 3365206,
-            "age_hours": 3.4
-          },
-          {
-            "id": "xKqJ1xQDSAA",
-            "title": "BMSD 2026 | Semi-Finals | Day 3 - WATCHPARTY WITH SNAX",
-            "channel": "Snax Gaming",
-            "thumbnail": "https://i.ytimg.com/vi/xKqJ1xQDSAA/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=xKqJ1xQDSAA",
-            "views": 1593822,
-            "age_hours": 3.9
-          },
-          {
-            "id": "ICfiTyAzdEA",
-            "title": "[HINDI] BMSD 2026 | Semi-Finals | Day 2 #BGMILIVE",
-            "channel": "KRAFTON INDIA ESPORTS",
-            "thumbnail": "https://i.ytimg.com/vi/ICfiTyAzdEA/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=ICfiTyAzdEA",
-            "views": 3868856,
-            "age_hours": 26.7
-          }
-        ]
-      },
-      {
-        "phrase": "bmsd",
-        "video_count": 5,
-        "momentum": 28.35,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "2IluEt2hfvo",
-            "title": "[HINDI] BMSD 2026 | Semi-Finals | Day 3 #BGMILIVE",
-            "channel": "KRAFTON INDIA ESPORTS",
-            "thumbnail": "https://i.ytimg.com/vi/2IluEt2hfvo/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=2IluEt2hfvo",
-            "views": 3365206,
-            "age_hours": 3.4
-          },
-          {
-            "id": "xKqJ1xQDSAA",
-            "title": "BMSD 2026 | Semi-Finals | Day 3 - WATCHPARTY WITH SNAX",
-            "channel": "Snax Gaming",
-            "thumbnail": "https://i.ytimg.com/vi/xKqJ1xQDSAA/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=xKqJ1xQDSAA",
-            "views": 1593822,
-            "age_hours": 3.9
-          },
-          {
-            "id": "BKK9oUJaZ68",
-            "title": "BMSD WATCHPARTY | SEMI-FINALS DAY 3 | BGMI LIVE",
-            "channel": "LoLzZz Gaming",
-            "thumbnail": "https://i.ytimg.com/vi/BKK9oUJaZ68/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=BKK9oUJaZ68",
-            "views": 883387,
-            "age_hours": 5.0
-          }
-        ]
-      },
-      {
-        "phrase": "indian",
-        "video_count": 6,
-        "momentum": 27.94,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "5jO0f49EJVk",
-            "title": "Dost ke liye cake 😂🔥| indian family #shorts #indian #chaman #relatable #chotabhai #bachpan #dosti",
-            "channel": "We r Loser",
-            "thumbnail": "https://i.ytimg.com/vi/5jO0f49EJVk/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=5jO0f49EJVk",
-            "views": 9054870,
-            "age_hours": 49.9
-          },
-          {
-            "id": "4qE75qslJkw",
-            "title": "Redbull man aur jagiya🐂🔥| Indian family😂|| #shorts #indian #jagiya #redbull #comedy",
-            "channel": "Jagiya the fun",
-            "thumbnail": "https://i.ytimg.com/vi/4qE75qslJkw/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=4qE75qslJkw",
-            "views": 15519024,
-            "age_hours": 144.0
-          },
-          {
-            "id": "p6-N7x8OKB8",
-            "title": "Bachpan ke pencil box 😂🔥| indian family #shorts #indian #chaman #relatable #chotabhai #bachpan",
-            "channel": "We r Loser",
-            "thumbnail": "https://i.ytimg.com/vi/p6-N7x8OKB8/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=p6-N7x8OKB8",
-            "views": 6084678,
-            "age_hours": 73.8
-          }
-        ]
-      },
-      {
         "phrase": "family",
-        "video_count": 5,
-        "momentum": 26.09,
+        "video_count": 6,
+        "momentum": 31.29,
         "regions": [
           "IN"
         ],
@@ -2430,8 +2228,8 @@
             "channel": "Rishan sriansh & Sree nayana",
             "thumbnail": "https://i.ytimg.com/vi/fVOleLZYAQo/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=fVOleLZYAQo",
-            "views": 47105644,
-            "age_hours": 154.6
+            "views": 48409826,
+            "age_hours": 158.9
           },
           {
             "id": "5jO0f49EJVk",
@@ -2439,24 +2237,100 @@
             "channel": "We r Loser",
             "thumbnail": "https://i.ytimg.com/vi/5jO0f49EJVk/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=5jO0f49EJVk",
-            "views": 9054870,
-            "age_hours": 49.9
+            "views": 9788340,
+            "age_hours": 54.2
           },
           {
-            "id": "vVoITvAys_U",
-            "title": "Family को Surprise करने के लिए Beta लाया ये Phones! 😱 #shorts",
-            "channel": "Tech Master",
-            "thumbnail": "https://i.ytimg.com/vi/vVoITvAys_U/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=vVoITvAys_U",
-            "views": 24773694,
-            "age_hours": 242.3
+            "id": "n25VXAwohaQ",
+            "title": "இவனின் அன்பை அளந்திடஎந்த மொழியும் போதாது🫂😍 #shorts #love #family",
+            "channel": "With Love Nagaraj Sangeetha",
+            "thumbnail": "https://i.ytimg.com/vi/n25VXAwohaQ/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=n25VXAwohaQ",
+            "views": 3365063,
+            "age_hours": 31.7
+          }
+        ]
+      },
+      {
+        "phrase": "minecraft",
+        "video_count": 6,
+        "momentum": 30.57,
+        "regions": [
+          "US"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "h8VE9_aHd94",
+            "title": "$10,000 Every Day You Survive In Minecraft",
+            "channel": "MrBeast Gaming",
+            "thumbnail": "https://i.ytimg.com/vi/h8VE9_aHd94/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=h8VE9_aHd94",
+            "views": 3889903,
+            "age_hours": 4.9
+          },
+          {
+            "id": "GF4RGA8daaE",
+            "title": "This Might Be The Scariest Minecraft Horror Mod…",
+            "channel": "CaseOh",
+            "thumbnail": "https://i.ytimg.com/vi/GF4RGA8daaE/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=GF4RGA8daaE",
+            "views": 1114753,
+            "age_hours": 22.9
+          },
+          {
+            "id": "NvoKphWCXXk",
+            "title": "I Survived 100 Days on ONE CHEST in Minecraft Hardcore",
+            "channel": "aCookieGod",
+            "thumbnail": "https://i.ytimg.com/vi/NvoKphWCXXk/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=NvoKphWCXXk",
+            "views": 297427,
+            "age_hours": 8.9
+          }
+        ]
+      },
+      {
+        "phrase": "indian",
+        "video_count": 6,
+        "momentum": 27.85,
+        "regions": [
+          "IN"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "5jO0f49EJVk",
+            "title": "Dost ke liye cake 😂🔥| indian family #shorts #indian #chaman #relatable #chotabhai #bachpan #dosti",
+            "channel": "We r Loser",
+            "thumbnail": "https://i.ytimg.com/vi/5jO0f49EJVk/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=5jO0f49EJVk",
+            "views": 9788340,
+            "age_hours": 54.2
+          },
+          {
+            "id": "4qE75qslJkw",
+            "title": "Redbull man aur jagiya🐂🔥| Indian family😂|| #shorts #indian #jagiya #redbull #comedy",
+            "channel": "Jagiya the fun",
+            "thumbnail": "https://i.ytimg.com/vi/4qE75qslJkw/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=4qE75qslJkw",
+            "views": 16051741,
+            "age_hours": 148.2
+          },
+          {
+            "id": "p6-N7x8OKB8",
+            "title": "Bachpan ke pencil box 😂🔥| indian family #shorts #indian #chaman #relatable #chotabhai #bachpan",
+            "channel": "We r Loser",
+            "thumbnail": "https://i.ytimg.com/vi/p6-N7x8OKB8/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=p6-N7x8OKB8",
+            "views": 6637440,
+            "age_hours": 78.0
           }
         ]
       },
       {
         "phrase": "indian family shorts",
         "video_count": 3,
-        "momentum": 23.04,
+        "momentum": 23.05,
         "regions": [
           "IN"
         ],
@@ -2468,8 +2342,8 @@
             "channel": "We r Loser",
             "thumbnail": "https://i.ytimg.com/vi/5jO0f49EJVk/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=5jO0f49EJVk",
-            "views": 9054870,
-            "age_hours": 49.9
+            "views": 9788340,
+            "age_hours": 54.2
           },
           {
             "id": "4qE75qslJkw",
@@ -2477,8 +2351,8 @@
             "channel": "Jagiya the fun",
             "thumbnail": "https://i.ytimg.com/vi/4qE75qslJkw/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=4qE75qslJkw",
-            "views": 15519024,
-            "age_hours": 144.0
+            "views": 16051741,
+            "age_hours": 148.2
           },
           {
             "id": "p6-N7x8OKB8",
@@ -2486,15 +2360,15 @@
             "channel": "We r Loser",
             "thumbnail": "https://i.ytimg.com/vi/p6-N7x8OKB8/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=p6-N7x8OKB8",
-            "views": 6084678,
-            "age_hours": 73.8
+            "views": 6637440,
+            "age_hours": 78.0
           }
         ]
       },
       {
         "phrase": "family shorts indian",
         "video_count": 3,
-        "momentum": 23.04,
+        "momentum": 23.05,
         "regions": [
           "IN"
         ],
@@ -2506,8 +2380,8 @@
             "channel": "We r Loser",
             "thumbnail": "https://i.ytimg.com/vi/5jO0f49EJVk/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=5jO0f49EJVk",
-            "views": 9054870,
-            "age_hours": 49.9
+            "views": 9788340,
+            "age_hours": 54.2
           },
           {
             "id": "4qE75qslJkw",
@@ -2515,8 +2389,8 @@
             "channel": "Jagiya the fun",
             "thumbnail": "https://i.ytimg.com/vi/4qE75qslJkw/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=4qE75qslJkw",
-            "views": 15519024,
-            "age_hours": 144.0
+            "views": 16051741,
+            "age_hours": 148.2
           },
           {
             "id": "p6-N7x8OKB8",
@@ -2524,8 +2398,8 @@
             "channel": "We r Loser",
             "thumbnail": "https://i.ytimg.com/vi/p6-N7x8OKB8/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=p6-N7x8OKB8",
-            "views": 6084678,
-            "age_hours": 73.8
+            "views": 6637440,
+            "age_hours": 78.0
           }
         ]
       },
@@ -2544,8 +2418,8 @@
             "channel": "Bratwursthaus",
             "thumbnail": "https://i.ytimg.com/vi/SGJWmSgMOIk/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=SGJWmSgMOIk",
-            "views": 4276400,
-            "age_hours": 168.7
+            "views": 4363798,
+            "age_hours": 173.0
           },
           {
             "id": "YcCF6-wmZg8",
@@ -2553,8 +2427,8 @@
             "channel": "TypischCalvin",
             "thumbnail": "https://i.ytimg.com/vi/YcCF6-wmZg8/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=YcCF6-wmZg8",
-            "views": 1437934,
-            "age_hours": 97.5
+            "views": 1488772,
+            "age_hours": 101.8
           },
           {
             "id": "BIQ_9EgYnIw",
@@ -2562,28 +2436,75 @@
             "channel": "Selina & Haroon",
             "thumbnail": "https://i.ytimg.com/vi/BIQ_9EgYnIw/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=BIQ_9EgYnIw",
-            "views": 1430632,
-            "age_hours": 94.8
+            "views": 1520997,
+            "age_hours": 99.0
           }
         ]
       },
       {
-        "phrase": "gta live",
+        "phrase": "semi finals",
         "video_count": 3,
-        "momentum": 20.55,
+        "momentum": 21.17,
         "regions": [
           "IN"
         ],
         "lang": "en",
         "example_videos": [
           {
+            "id": "2IluEt2hfvo",
+            "title": "[HINDI] BMSD 2026 | Semi-Finals | Day 3 #BGMILIVE",
+            "channel": "KRAFTON INDIA ESPORTS",
+            "thumbnail": "https://i.ytimg.com/vi/2IluEt2hfvo/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=2IluEt2hfvo",
+            "views": 3490415,
+            "age_hours": 7.7
+          },
+          {
+            "id": "xKqJ1xQDSAA",
+            "title": "BMSD 2026 | Semi-Finals | Day 3 - WATCHPARTY WITH SNAX",
+            "channel": "Snax Gaming",
+            "thumbnail": "https://i.ytimg.com/vi/xKqJ1xQDSAA/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=xKqJ1xQDSAA",
+            "views": 1629952,
+            "age_hours": 8.2
+          },
+          {
+            "id": "BKK9oUJaZ68",
+            "title": "BMSD WATCHPARTY | SEMI-FINALS DAY 3 | BGMI LIVE",
+            "channel": "LoLzZz Gaming",
+            "thumbnail": "https://i.ytimg.com/vi/BKK9oUJaZ68/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=BKK9oUJaZ68",
+            "views": 919719,
+            "age_hours": 9.3
+          }
+        ]
+      },
+      {
+        "phrase": "gta live",
+        "video_count": 3,
+        "momentum": 20.92,
+        "regions": [
+          "IN"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "Zije3SVgQrc",
+            "title": "GTA 5 LIVE 🔥 #gta5 #shortslive #gaming",
+            "channel": "BOSS GAMING",
+            "thumbnail": "https://i.ytimg.com/vi/Zije3SVgQrc/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=Zije3SVgQrc",
+            "views": 2261942,
+            "age_hours": 4.9
+          },
+          {
             "id": "6UFUiNd-Gyc",
             "title": "GTA 5 LIVE GAMEPLAY CHALLENGES",
             "channel": "Raajoo Gaming",
             "thumbnail": "https://i.ytimg.com/vi/6UFUiNd-Gyc/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=6UFUiNd-Gyc",
-            "views": 4509447,
-            "age_hours": 8.3
+            "views": 4509635,
+            "age_hours": 12.6
           },
           {
             "id": "eggzLStjqX4",
@@ -2591,24 +2512,15 @@
             "channel": "PAJI IS LIVE",
             "thumbnail": "https://i.ytimg.com/vi/eggzLStjqX4/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=eggzLStjqX4",
-            "views": 7891778,
-            "age_hours": 22.7
-          },
-          {
-            "id": "U_VxdBXC6ls",
-            "title": "GTA 5 LIVE 🔥 #gta5 #shortslive #gaming",
-            "channel": "BOSS GAMING",
-            "thumbnail": "https://i.ytimg.com/vi/U_VxdBXC6ls/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=U_VxdBXC6ls",
-            "views": 3073272,
-            "age_hours": 23.3
+            "views": 7891998,
+            "age_hours": 27.0
           }
         ]
       },
       {
         "phrase": "iphone",
         "video_count": 5,
-        "momentum": 20.28,
+        "momentum": 20.27,
         "regions": [
           "DE"
         ],
@@ -2620,8 +2532,8 @@
             "channel": "FabianMagic",
             "thumbnail": "https://i.ytimg.com/vi/ybSSBueep8M/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=ybSSBueep8M",
-            "views": 596115,
-            "age_hours": 33.6
+            "views": 707408,
+            "age_hours": 37.9
           },
           {
             "id": "BvdVQC2Ff7c",
@@ -2629,8 +2541,8 @@
             "channel": "Freddy",
             "thumbnail": "https://i.ytimg.com/vi/BvdVQC2Ff7c/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=BvdVQC2Ff7c",
-            "views": 1068584,
-            "age_hours": 75.6
+            "views": 1113899,
+            "age_hours": 79.9
           },
           {
             "id": "3d6HPLENFt4",
@@ -2638,91 +2550,15 @@
             "channel": "twenty4tim",
             "thumbnail": "https://i.ytimg.com/vi/3d6HPLENFt4/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=3d6HPLENFt4",
-            "views": 1297521,
-            "age_hours": 164.4
-          }
-        ]
-      },
-      {
-        "phrase": "vida",
-        "video_count": 4,
-        "momentum": 18.23,
-        "regions": [
-          "BR"
-        ],
-        "lang": "pt",
-        "example_videos": [
-          {
-            "id": "C4UviXb0ul0",
-            "title": "TERROR EM CASAS JAPONESES DA VIDA REAL!",
-            "channel": "Jazzghost",
-            "thumbnail": "https://i.ytimg.com/vi/C4UviXb0ul0/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=C4UviXb0ul0",
-            "views": 1270069,
-            "age_hours": 25.5
-          },
-          {
-            "id": "1UM1uYbSa34",
-            "title": "A vida da pessoa que usa óculos😂",
-            "channel": "Victor Pac",
-            "thumbnail": "https://i.ytimg.com/vi/1UM1uYbSa34/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=1UM1uYbSa34",
-            "views": 8181959,
-            "age_hours": 161.5
-          },
-          {
-            "id": "HtRwJkTY9_0",
-            "title": "Evoluí ao NÍVEL MÁXIMO na VIDA DE ÁGUIA!",
-            "channel": "ProbIems",
-            "thumbnail": "https://i.ytimg.com/vi/HtRwJkTY9_0/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=HtRwJkTY9_0",
-            "views": 344350,
-            "age_hours": 27.6
-          }
-        ]
-      },
-      {
-        "phrase": "tudo",
-        "video_count": 4,
-        "momentum": 18.16,
-        "regions": [
-          "BR"
-        ],
-        "lang": "pt",
-        "example_videos": [
-          {
-            "id": "QXmneRQmZOI",
-            "title": "Tudo Que Dá Pra Desenhar #shorts",
-            "channel": "Amandinha",
-            "thumbnail": "https://i.ytimg.com/vi/QXmneRQmZOI/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=QXmneRQmZOI",
-            "views": 4772812,
-            "age_hours": 69.6
-          },
-          {
-            "id": "U2-hZG0NmJo",
-            "title": "Nokia 300: diferente de tudo!#nokia #xiaomi ##apple #nokia300charge",
-            "channel": "Wesley Tech4",
-            "thumbnail": "https://i.ytimg.com/vi/U2-hZG0NmJo/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=U2-hZG0NmJo",
-            "views": 1267192,
-            "age_hours": 91.5
-          },
-          {
-            "id": "C7SN9RXh24s",
-            "title": "pular = MULTIPLICA TUDO",
-            "channel": "Mendrux",
-            "thumbnail": "https://i.ytimg.com/vi/C7SN9RXh24s/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=C7SN9RXh24s",
-            "views": 193018,
-            "age_hours": 18.3
+            "views": 1313993,
+            "age_hours": 168.7
           }
         ]
       },
       {
         "phrase": "celular",
         "video_count": 4,
-        "momentum": 17.75,
+        "momentum": 17.71,
         "regions": [
           "BR"
         ],
@@ -2734,8 +2570,8 @@
             "channel": "Giuliana Mafra",
             "thumbnail": "https://i.ytimg.com/vi/5Jt65A2L41g/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=5Jt65A2L41g",
-            "views": 7489646,
-            "age_hours": 113.6
+            "views": 7695290,
+            "age_hours": 117.9
           },
           {
             "id": "_XmtaRNNEy8",
@@ -2743,8 +2579,8 @@
             "channel": "Josvi",
             "thumbnail": "https://i.ytimg.com/vi/_XmtaRNNEy8/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=_XmtaRNNEy8",
-            "views": 488686,
-            "age_hours": 19.6
+            "views": 591675,
+            "age_hours": 23.9
           },
           {
             "id": "3xp5320op_k",
@@ -2752,73 +2588,15 @@
             "channel": "Pedro Ribeiro",
             "thumbnail": "https://i.ytimg.com/vi/3xp5320op_k/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=3xp5320op_k",
-            "views": 902801,
-            "age_hours": 145.2
+            "views": 908575,
+            "age_hours": 149.5
           }
         ]
       },
       {
-        "phrase": "hindi bmsd semi",
-        "video_count": 2,
-        "momentum": 17.3,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "2IluEt2hfvo",
-            "title": "[HINDI] BMSD 2026 | Semi-Finals | Day 3 #BGMILIVE",
-            "channel": "KRAFTON INDIA ESPORTS",
-            "thumbnail": "https://i.ytimg.com/vi/2IluEt2hfvo/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=2IluEt2hfvo",
-            "views": 3365206,
-            "age_hours": 3.4
-          },
-          {
-            "id": "ICfiTyAzdEA",
-            "title": "[HINDI] BMSD 2026 | Semi-Finals | Day 2 #BGMILIVE",
-            "channel": "KRAFTON INDIA ESPORTS",
-            "thumbnail": "https://i.ytimg.com/vi/ICfiTyAzdEA/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=ICfiTyAzdEA",
-            "views": 3868856,
-            "age_hours": 26.7
-          }
-        ]
-      },
-      {
-        "phrase": "semi finals bgmilive",
-        "video_count": 2,
-        "momentum": 17.3,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "2IluEt2hfvo",
-            "title": "[HINDI] BMSD 2026 | Semi-Finals | Day 3 #BGMILIVE",
-            "channel": "KRAFTON INDIA ESPORTS",
-            "thumbnail": "https://i.ytimg.com/vi/2IluEt2hfvo/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=2IluEt2hfvo",
-            "views": 3365206,
-            "age_hours": 3.4
-          },
-          {
-            "id": "ICfiTyAzdEA",
-            "title": "[HINDI] BMSD 2026 | Semi-Finals | Day 2 #BGMILIVE",
-            "channel": "KRAFTON INDIA ESPORTS",
-            "thumbnail": "https://i.ytimg.com/vi/ICfiTyAzdEA/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=ICfiTyAzdEA",
-            "views": 3868856,
-            "age_hours": 26.7
-          }
-        ]
-      },
-      {
-        "phrase": "viral",
+        "phrase": "funny",
         "video_count": 4,
-        "momentum": 16.93,
+        "momentum": 17.37,
         "regions": [
           "DE"
         ],
@@ -2830,8 +2608,17 @@
             "channel": "KevinWhoYT",
             "thumbnail": "https://i.ytimg.com/vi/b9gYcFL6XnA/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=b9gYcFL6XnA",
-            "views": 3016501,
-            "age_hours": 120.3
+            "views": 3116534,
+            "age_hours": 124.6
+          },
+          {
+            "id": "CEbO8EJnf1A",
+            "title": "Kein Kommentar😂 #shorts #funny #prank",
+            "channel": "StineundMarc",
+            "thumbnail": "https://i.ytimg.com/vi/CEbO8EJnf1A/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=CEbO8EJnf1A",
+            "views": 1378983,
+            "age_hours": 73.0
           },
           {
             "id": "BIQ_9EgYnIw",
@@ -2839,8 +2626,66 @@
             "channel": "Selina & Haroon",
             "thumbnail": "https://i.ytimg.com/vi/BIQ_9EgYnIw/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=BIQ_9EgYnIw",
-            "views": 1430632,
-            "age_hours": 94.8
+            "views": 1520997,
+            "age_hours": 99.0
+          }
+        ]
+      },
+      {
+        "phrase": "bmsd semi finals",
+        "video_count": 2,
+        "momentum": 17.26,
+        "regions": [
+          "IN"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "2IluEt2hfvo",
+            "title": "[HINDI] BMSD 2026 | Semi-Finals | Day 3 #BGMILIVE",
+            "channel": "KRAFTON INDIA ESPORTS",
+            "thumbnail": "https://i.ytimg.com/vi/2IluEt2hfvo/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=2IluEt2hfvo",
+            "views": 3490415,
+            "age_hours": 7.7
+          },
+          {
+            "id": "xKqJ1xQDSAA",
+            "title": "BMSD 2026 | Semi-Finals | Day 3 - WATCHPARTY WITH SNAX",
+            "channel": "Snax Gaming",
+            "thumbnail": "https://i.ytimg.com/vi/xKqJ1xQDSAA/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=xKqJ1xQDSAA",
+            "views": 1629952,
+            "age_hours": 8.2
+          }
+        ]
+      },
+      {
+        "phrase": "viral",
+        "video_count": 4,
+        "momentum": 16.95,
+        "regions": [
+          "DE"
+        ],
+        "lang": "de",
+        "example_videos": [
+          {
+            "id": "b9gYcFL6XnA",
+            "title": "Pov: Man hat noch Mini-Geschwister🥹🙌 #viral #fy #geschwister #pov #relatable #deutsch #funny",
+            "channel": "KevinWhoYT",
+            "thumbnail": "https://i.ytimg.com/vi/b9gYcFL6XnA/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=b9gYcFL6XnA",
+            "views": 3116534,
+            "age_hours": 124.6
+          },
+          {
+            "id": "BIQ_9EgYnIw",
+            "title": "Merkt euch den Trick Mädels 🤭 #comedy #selinaundharoon #couple #funny #beziehung #humor #viral",
+            "channel": "Selina & Haroon",
+            "thumbnail": "https://i.ytimg.com/vi/BIQ_9EgYnIw/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=BIQ_9EgYnIw",
+            "views": 1520997,
+            "age_hours": 99.0
           },
           {
             "id": "FZgyF9dsIRs",
@@ -2848,66 +2693,153 @@
             "channel": "Haxxe7",
             "thumbnail": "https://i.ytimg.com/vi/FZgyF9dsIRs/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=FZgyF9dsIRs",
-            "views": 710005,
-            "age_hours": 74.5
+            "views": 782218,
+            "age_hours": 78.8
           }
         ]
       },
       {
-        "phrase": "semi finals watchparty",
+        "phrase": "gta live gta5",
         "video_count": 2,
-        "momentum": 16.65,
+        "momentum": 16.75,
         "regions": [
           "IN"
         ],
         "lang": "en",
         "example_videos": [
           {
-            "id": "xKqJ1xQDSAA",
-            "title": "BMSD 2026 | Semi-Finals | Day 3 - WATCHPARTY WITH SNAX",
-            "channel": "Snax Gaming",
-            "thumbnail": "https://i.ytimg.com/vi/xKqJ1xQDSAA/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=xKqJ1xQDSAA",
-            "views": 1593822,
-            "age_hours": 3.9
+            "id": "Zije3SVgQrc",
+            "title": "GTA 5 LIVE 🔥 #gta5 #shortslive #gaming",
+            "channel": "BOSS GAMING",
+            "thumbnail": "https://i.ytimg.com/vi/Zije3SVgQrc/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=Zije3SVgQrc",
+            "views": 2261942,
+            "age_hours": 4.9
           },
           {
-            "id": "2mi4s8rWjS8",
-            "title": "BMSD 2026 | Semi-Finals | Day 2 - WATCHPARTY WITH SNAX",
-            "channel": "Snax Gaming",
-            "thumbnail": "https://i.ytimg.com/vi/2mi4s8rWjS8/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=2mi4s8rWjS8",
-            "views": 1480316,
-            "age_hours": 27.8
+            "id": "eggzLStjqX4",
+            "title": "GTA 5 LIVE  #gta5 #gtav #gaming",
+            "channel": "PAJI IS LIVE",
+            "thumbnail": "https://i.ytimg.com/vi/eggzLStjqX4/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=eggzLStjqX4",
+            "views": 7891998,
+            "age_hours": 27.0
           }
         ]
       },
       {
-        "phrase": "finals watchparty snax",
+        "phrase": "shorts indian chaman",
         "video_count": 2,
-        "momentum": 16.65,
+        "momentum": 15.5,
         "regions": [
           "IN"
         ],
         "lang": "en",
         "example_videos": [
           {
-            "id": "xKqJ1xQDSAA",
-            "title": "BMSD 2026 | Semi-Finals | Day 3 - WATCHPARTY WITH SNAX",
-            "channel": "Snax Gaming",
-            "thumbnail": "https://i.ytimg.com/vi/xKqJ1xQDSAA/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=xKqJ1xQDSAA",
-            "views": 1593822,
-            "age_hours": 3.9
+            "id": "5jO0f49EJVk",
+            "title": "Dost ke liye cake 😂🔥| indian family #shorts #indian #chaman #relatable #chotabhai #bachpan #dosti",
+            "channel": "We r Loser",
+            "thumbnail": "https://i.ytimg.com/vi/5jO0f49EJVk/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=5jO0f49EJVk",
+            "views": 9788340,
+            "age_hours": 54.2
           },
           {
-            "id": "2mi4s8rWjS8",
-            "title": "BMSD 2026 | Semi-Finals | Day 2 - WATCHPARTY WITH SNAX",
-            "channel": "Snax Gaming",
-            "thumbnail": "https://i.ytimg.com/vi/2mi4s8rWjS8/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=2mi4s8rWjS8",
-            "views": 1480316,
-            "age_hours": 27.8
+            "id": "p6-N7x8OKB8",
+            "title": "Bachpan ke pencil box 😂🔥| indian family #shorts #indian #chaman #relatable #chotabhai #bachpan",
+            "channel": "We r Loser",
+            "thumbnail": "https://i.ytimg.com/vi/p6-N7x8OKB8/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=p6-N7x8OKB8",
+            "views": 6637440,
+            "age_hours": 78.0
+          }
+        ]
+      },
+      {
+        "phrase": "indian chaman relatable",
+        "video_count": 2,
+        "momentum": 15.5,
+        "regions": [
+          "IN"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "5jO0f49EJVk",
+            "title": "Dost ke liye cake 😂🔥| indian family #shorts #indian #chaman #relatable #chotabhai #bachpan #dosti",
+            "channel": "We r Loser",
+            "thumbnail": "https://i.ytimg.com/vi/5jO0f49EJVk/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=5jO0f49EJVk",
+            "views": 9788340,
+            "age_hours": 54.2
+          },
+          {
+            "id": "p6-N7x8OKB8",
+            "title": "Bachpan ke pencil box 😂🔥| indian family #shorts #indian #chaman #relatable #chotabhai #bachpan",
+            "channel": "We r Loser",
+            "thumbnail": "https://i.ytimg.com/vi/p6-N7x8OKB8/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=p6-N7x8OKB8",
+            "views": 6637440,
+            "age_hours": 78.0
+          }
+        ]
+      },
+      {
+        "phrase": "chaman relatable chotabhai",
+        "video_count": 2,
+        "momentum": 15.5,
+        "regions": [
+          "IN"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "5jO0f49EJVk",
+            "title": "Dost ke liye cake 😂🔥| indian family #shorts #indian #chaman #relatable #chotabhai #bachpan #dosti",
+            "channel": "We r Loser",
+            "thumbnail": "https://i.ytimg.com/vi/5jO0f49EJVk/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=5jO0f49EJVk",
+            "views": 9788340,
+            "age_hours": 54.2
+          },
+          {
+            "id": "p6-N7x8OKB8",
+            "title": "Bachpan ke pencil box 😂🔥| indian family #shorts #indian #chaman #relatable #chotabhai #bachpan",
+            "channel": "We r Loser",
+            "thumbnail": "https://i.ytimg.com/vi/p6-N7x8OKB8/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=p6-N7x8OKB8",
+            "views": 6637440,
+            "age_hours": 78.0
+          }
+        ]
+      },
+      {
+        "phrase": "relatable chotabhai bachpan",
+        "video_count": 2,
+        "momentum": 15.5,
+        "regions": [
+          "IN"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "5jO0f49EJVk",
+            "title": "Dost ke liye cake 😂🔥| indian family #shorts #indian #chaman #relatable #chotabhai #bachpan #dosti",
+            "channel": "We r Loser",
+            "thumbnail": "https://i.ytimg.com/vi/5jO0f49EJVk/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=5jO0f49EJVk",
+            "views": 9788340,
+            "age_hours": 54.2
+          },
+          {
+            "id": "p6-N7x8OKB8",
+            "title": "Bachpan ke pencil box 😂🔥| indian family #shorts #indian #chaman #relatable #chotabhai #bachpan",
+            "channel": "We r Loser",
+            "thumbnail": "https://i.ytimg.com/vi/p6-N7x8OKB8/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=p6-N7x8OKB8",
+            "views": 6637440,
+            "age_hours": 78.0
           }
         ]
       }
@@ -2915,87 +2847,87 @@
   },
   "trending_searches": [
     {
-      "phrase": "why do birds suddenly appear",
-      "prefix": "why do",
+      "phrase": "how to tie a tie",
+      "prefix": "how to",
       "rank": 1,
-      "first_seen_at": "2026-10-10T16:36:19.888606+00:00",
+      "first_seen_at": "2026-10-10T20:53:21.061108+00:00",
       "is_new": true
     },
     {
-      "phrase": "why does he call you darling",
-      "prefix": "why does",
+      "phrase": "how do i say goodbye dean lewis",
+      "prefix": "how do",
       "rank": 1,
-      "first_seen_at": "2026-10-10T16:36:19.888606+00:00",
+      "first_seen_at": "2026-10-10T20:53:21.061108+00:00",
       "is_new": true
     },
     {
-      "phrase": "what happened to virgil",
-      "prefix": "what happened",
+      "phrase": "how does it feel d'angelo",
+      "prefix": "how does",
       "rank": 1,
-      "first_seen_at": "2026-10-10T16:36:19.888606+00:00",
+      "first_seen_at": "2026-10-10T20:53:21.061108+00:00",
       "is_new": true
     },
     {
-      "phrase": "topoppgen",
+      "phrase": "why is it spicy",
+      "prefix": "why is",
+      "rank": 1,
+      "first_seen_at": "2026-10-10T20:53:21.061108+00:00",
+      "is_new": true
+    },
+    {
+      "phrase": "what is this diddy blud doing on the calculator",
+      "prefix": "what is",
+      "rank": 1,
+      "first_seen_at": "2026-10-10T20:53:21.061108+00:00",
+      "is_new": true
+    },
+    {
+      "phrase": "what are you listening to chris stapleton",
+      "prefix": "what are",
+      "rank": 1,
+      "first_seen_at": "2026-10-10T20:53:21.061108+00:00",
+      "is_new": true
+    },
+    {
+      "phrase": "worst way riley green",
+      "prefix": "worst",
+      "rank": 1,
+      "first_seen_at": "2026-10-10T20:53:21.061108+00:00",
+      "is_new": true
+    },
+    {
+      "phrase": "topper guild",
       "prefix": "top",
       "rank": 1,
-      "first_seen_at": "2026-10-10T16:36:19.888606+00:00",
+      "first_seen_at": "2026-10-10T20:53:21.061108+00:00",
       "is_new": true
     },
     {
-      "phrase": "is it a crime mariah the scientist",
-      "prefix": "is it",
-      "rank": 1,
-      "first_seen_at": "2026-10-10T16:36:19.888606+00:00",
-      "is_new": true
-    },
-    {
-      "phrase": "should i stay or should i go",
-      "prefix": "should i",
-      "rank": 1,
-      "first_seen_at": "2026-10-10T16:36:19.888606+00:00",
-      "is_new": true
-    },
-    {
-      "phrase": "can you stand the rain new edition",
-      "prefix": "can you",
-      "rank": 1,
-      "first_seen_at": "2026-10-10T16:36:19.888606+00:00",
-      "is_new": true
-    },
-    {
-      "phrase": "how to draw",
-      "prefix": "how to",
+      "phrase": "how does it feel",
+      "prefix": "how does",
       "rank": 2,
-      "first_seen_at": "2026-10-10T16:36:19.888606+00:00",
+      "first_seen_at": "2026-10-10T20:53:21.061108+00:00",
       "is_new": true
     },
     {
-      "phrase": "why is my bus driver playing mitski",
-      "prefix": "why is",
+      "phrase": "what is love",
+      "prefix": "what is",
       "rank": 2,
-      "first_seen_at": "2026-10-10T16:36:19.888606+00:00",
+      "first_seen_at": "2026-10-10T20:53:21.061108+00:00",
       "is_new": true
     },
     {
-      "phrase": "why don't we fall in love",
-      "prefix": "why do",
+      "phrase": "what are those",
+      "prefix": "what are",
       "rank": 2,
-      "first_seen_at": "2026-10-10T16:36:19.888606+00:00",
+      "first_seen_at": "2026-10-10T20:53:21.061108+00:00",
       "is_new": true
     },
     {
-      "phrase": "why does it hurt so bad whitney houston",
-      "prefix": "why does",
+      "phrase": "what happened to that boy",
+      "prefix": "what happened",
       "rank": 2,
-      "first_seen_at": "2026-10-10T16:36:19.888606+00:00",
-      "is_new": true
-    },
-    {
-      "phrase": "besties",
-      "prefix": "best",
-      "rank": 2,
-      "first_seen_at": "2026-10-10T16:36:19.888606+00:00",
+      "first_seen_at": "2026-10-10T20:53:21.061108+00:00",
       "is_new": true
     }
   ],
@@ -3008,15 +2940,34 @@
       "thumbnail": "https://i.ytimg.com/vi/RnH6GJ6_lus/mqdefault.jpg",
       "published_at": "2026-10-07T18:25:53Z",
       "category_id": "22",
-      "views": 12273791,
-      "likes": 450540,
-      "comments": 2025767,
-      "age_hours": 70.2,
-      "views_per_hour": 174914,
-      "momentum": 14.281,
+      "views": 12670286,
+      "likes": 458576,
+      "comments": 2066679,
+      "age_hours": 74.5,
+      "views_per_hour": 170173,
+      "momentum": 14.142,
       "url": "https://www.youtube.com/watch?v=RnH6GJ6_lus",
       "region": "GB",
       "category": "People & Blogs",
+      "_detected_lang": "en"
+    },
+    {
+      "id": "fFCXAf81kFs",
+      "title": "الرجل العنكبوت انقاذ باتمان Spider-Man Rescue batman vs iron man vs venom funny Game GTA 5 superhero",
+      "channel": "GTA Addiction",
+      "channel_id": "UCZYZPH_mKpRtFdA7_Pa4IwA",
+      "thumbnail": "https://i.ytimg.com/vi/fFCXAf81kFs/mqdefault.jpg",
+      "published_at": "2026-10-10T14:14:53Z",
+      "category_id": "20",
+      "views": 433562,
+      "likes": 101719,
+      "comments": 708,
+      "age_hours": 6.6,
+      "views_per_hour": 65295,
+      "momentum": 7.153,
+      "url": "https://www.youtube.com/watch?v=fFCXAf81kFs",
+      "region": "BR",
+      "category": "Gaming",
       "_detected_lang": "en"
     },
     {
@@ -3027,15 +2978,53 @@
       "thumbnail": "https://i.ytimg.com/vi/C9OmyNRyz4E/mqdefault.jpg",
       "published_at": "2026-10-10T03:47:32Z",
       "category_id": "10",
-      "views": 8411832,
-      "likes": 483420,
-      "comments": 75832,
-      "age_hours": 12.8,
-      "views_per_hour": 656699,
-      "momentum": 7.01,
+      "views": 10055769,
+      "likes": 525384,
+      "comments": 80441,
+      "age_hours": 17.1,
+      "views_per_hour": 588249,
+      "momentum": 6.834,
       "url": "https://www.youtube.com/watch?v=C9OmyNRyz4E",
       "region": "GB",
       "category": "Other",
+      "_detected_lang": "en"
+    },
+    {
+      "id": "w8RjTkM8-rU",
+      "title": "Something Is Still Here…",
+      "channel": "Twixxel",
+      "channel_id": "UCKuOjGoZyVmvBPlCbCzTi2w",
+      "thumbnail": "https://i.ytimg.com/vi/w8RjTkM8-rU/mqdefault.jpg",
+      "published_at": "2026-10-10T14:00:07Z",
+      "category_id": "20",
+      "views": 522627,
+      "likes": 49787,
+      "comments": 9466,
+      "age_hours": 6.9,
+      "views_per_hour": 75915,
+      "momentum": 6.694,
+      "url": "https://www.youtube.com/watch?v=w8RjTkM8-rU",
+      "region": "US",
+      "category": "Gaming",
+      "_detected_lang": "en"
+    },
+    {
+      "id": "h8VE9_aHd94",
+      "title": "$10,000 Every Day You Survive In Minecraft",
+      "channel": "MrBeast Gaming",
+      "channel_id": "UCIPPMRA040LQr5QPyJEbmXA",
+      "thumbnail": "https://i.ytimg.com/vi/h8VE9_aHd94/mqdefault.jpg",
+      "published_at": "2026-10-10T16:00:02Z",
+      "category_id": "20",
+      "views": 3889903,
+      "likes": 138795,
+      "comments": 7220,
+      "age_hours": 4.9,
+      "views_per_hour": 796175,
+      "momentum": 6.432,
+      "url": "https://www.youtube.com/watch?v=h8VE9_aHd94",
+      "region": "US",
+      "category": "Gaming",
       "_detected_lang": "en"
     },
     {
@@ -3046,34 +3035,15 @@
       "thumbnail": "https://i.ytimg.com/vi/plN7JMbadRg/mqdefault.jpg",
       "published_at": "2026-10-03T16:00:01Z",
       "category_id": "24",
-      "views": 216447685,
-      "likes": 3634552,
-      "comments": 134680,
-      "age_hours": 168.6,
-      "views_per_hour": 1283786,
-      "momentum": 6.352,
+      "views": 219781471,
+      "likes": 3658882,
+      "comments": 135550,
+      "age_hours": 172.9,
+      "views_per_hour": 1271249,
+      "momentum": 6.345,
       "url": "https://www.youtube.com/watch?v=plN7JMbadRg",
       "region": "US",
       "category": "Entertainment",
-      "_detected_lang": "en"
-    },
-    {
-      "id": "3juuih0WdH8",
-      "title": "Anuel AA - Vuelve (Video Oficial)",
-      "channel": "Anuel AA",
-      "channel_id": "UCRI7hheejBbWS6etTNwMT0g",
-      "thumbnail": "https://i.ytimg.com/vi/3juuih0WdH8/mqdefault.jpg",
-      "published_at": "2026-10-09T19:04:30Z",
-      "category_id": "10",
-      "views": 1916695,
-      "likes": 198752,
-      "comments": 11769,
-      "age_hours": 21.5,
-      "views_per_hour": 89041,
-      "momentum": 6.28,
-      "url": "https://www.youtube.com/watch?v=3juuih0WdH8",
-      "region": "US",
-      "category": "Other",
       "_detected_lang": "en"
     },
     {
@@ -3084,34 +3054,34 @@
       "thumbnail": "https://i.ytimg.com/vi/0rW7Fbm4S7g/mqdefault.jpg",
       "published_at": "2026-10-08T21:00:09Z",
       "category_id": "10",
-      "views": 10804355,
-      "likes": 452585,
-      "comments": 70167,
-      "age_hours": 43.6,
-      "views_per_hour": 247801,
-      "momentum": 6.196,
+      "views": 11951001,
+      "likes": 465116,
+      "comments": 72168,
+      "age_hours": 47.9,
+      "views_per_hour": 249576,
+      "momentum": 6.143,
       "url": "https://www.youtube.com/watch?v=0rW7Fbm4S7g",
       "region": "DE",
       "category": "Other",
       "_detected_lang": "de"
     },
     {
-      "id": "2IluEt2hfvo",
-      "title": "[HINDI] BMSD 2026 | Semi-Finals | Day 3 #BGMILIVE",
-      "channel": "KRAFTON INDIA ESPORTS",
-      "channel_id": "UCugG6-k5QGbq_iDEPAnG4NQ",
-      "thumbnail": "https://i.ytimg.com/vi/2IluEt2hfvo/mqdefault.jpg",
-      "published_at": "2026-10-10T13:10:53Z",
-      "category_id": "20",
-      "views": 3365206,
-      "likes": 56044,
-      "comments": 106,
-      "age_hours": 3.4,
-      "views_per_hour": 983543,
-      "momentum": 6.194,
-      "url": "https://www.youtube.com/watch?v=2IluEt2hfvo",
-      "region": "IN",
-      "category": "Gaming",
+      "id": "3juuih0WdH8",
+      "title": "Anuel AA - Vuelve (Video Oficial)",
+      "channel": "Anuel AA",
+      "channel_id": "UCRI7hheejBbWS6etTNwMT0g",
+      "thumbnail": "https://i.ytimg.com/vi/3juuih0WdH8/mqdefault.jpg",
+      "published_at": "2026-10-09T19:04:30Z",
+      "category_id": "10",
+      "views": 2273768,
+      "likes": 210510,
+      "comments": 12210,
+      "age_hours": 25.8,
+      "views_per_hour": 88092,
+      "momentum": 6.126,
+      "url": "https://www.youtube.com/watch?v=3juuih0WdH8",
+      "region": "US",
+      "category": "Other",
       "_detected_lang": "en"
     },
     {
@@ -3122,53 +3092,15 @@
       "thumbnail": "https://i.ytimg.com/vi/N1VSv7-h5Xc/mqdefault.jpg",
       "published_at": "2026-10-09T14:30:31Z",
       "category_id": "19",
-      "views": 11982929,
-      "likes": 378616,
-      "comments": 3721,
-      "age_hours": 26.1,
-      "views_per_hour": 459236,
-      "momentum": 6.037,
+      "views": 13222695,
+      "likes": 397794,
+      "comments": 3874,
+      "age_hours": 30.4,
+      "views_per_hour": 435269,
+      "momentum": 5.995,
       "url": "https://www.youtube.com/watch?v=N1VSv7-h5Xc",
       "region": "GB",
       "category": "Other",
-      "_detected_lang": "en"
-    },
-    {
-      "id": "javQvZ0ADx0",
-      "title": "skibidi toilet 82",
-      "channel": "skibidi",
-      "channel_id": "UCsSsgPaZ2GSmO6il8Cb5iGA",
-      "thumbnail": "https://i.ytimg.com/vi/javQvZ0ADx0/mqdefault.jpg",
-      "published_at": "2026-10-09T14:00:08Z",
-      "category_id": "24",
-      "views": 4908120,
-      "likes": 215300,
-      "comments": 27989,
-      "age_hours": 26.6,
-      "views_per_hour": 184524,
-      "momentum": 6.028,
-      "url": "https://www.youtube.com/watch?v=javQvZ0ADx0",
-      "region": "US",
-      "category": "Entertainment",
-      "_detected_lang": "en"
-    },
-    {
-      "id": "xKqJ1xQDSAA",
-      "title": "BMSD 2026 | Semi-Finals | Day 3 - WATCHPARTY WITH SNAX",
-      "channel": "Snax Gaming",
-      "channel_id": "UCQfBN7Ut5TiZJAhMo_Rgfyw",
-      "thumbnail": "https://i.ytimg.com/vi/xKqJ1xQDSAA/mqdefault.jpg",
-      "published_at": "2026-10-10T12:41:12Z",
-      "category_id": "20",
-      "views": 1593822,
-      "likes": 55778,
-      "comments": 27,
-      "age_hours": 3.9,
-      "views_per_hour": 406978,
-      "momentum": 6.003,
-      "url": "https://www.youtube.com/watch?v=xKqJ1xQDSAA",
-      "region": "IN",
-      "category": "Gaming",
       "_detected_lang": "en"
     },
     {
@@ -3179,12 +3111,12 @@
       "thumbnail": "https://i.ytimg.com/vi/E147qAF-ze8/mqdefault.jpg",
       "published_at": "2026-10-08T21:30:15Z",
       "category_id": "19",
-      "views": 17621236,
-      "likes": 557526,
-      "comments": 4136,
-      "age_hours": 43.1,
-      "views_per_hour": 408873,
-      "momentum": 5.98,
+      "views": 18403157,
+      "likes": 571935,
+      "comments": 4217,
+      "age_hours": 47.4,
+      "views_per_hour": 388397,
+      "momentum": 5.949,
       "url": "https://www.youtube.com/watch?v=E147qAF-ze8",
       "region": "US",
       "category": "Other",
@@ -3198,15 +3130,34 @@
       "thumbnail": "https://i.ytimg.com/vi/7sfrN1S8iIY/mqdefault.jpg",
       "published_at": "2026-10-10T02:33:43Z",
       "category_id": "22",
-      "views": 7192696,
-      "likes": 99996,
-      "comments": 2098,
-      "age_hours": 14.0,
-      "views_per_hour": 512308,
-      "momentum": 5.885,
+      "views": 10224399,
+      "likes": 152605,
+      "comments": 3180,
+      "age_hours": 18.3,
+      "views_per_hour": 557963,
+      "momentum": 5.936,
       "url": "https://www.youtube.com/watch?v=7sfrN1S8iIY",
-      "region": "GB",
+      "region": "US",
       "category": "People & Blogs",
+      "_detected_lang": "en"
+    },
+    {
+      "id": "eswd_GlOQQw",
+      "title": "Hair Extension S•2 🔥Part 59🔥 @aiswaryafrancis17 @anjanachandrank @Jamshileo",
+      "channel": "Manjusha Martin",
+      "channel_id": "UCvbw_79QDxAc0CCHwXFdUBA",
+      "thumbnail": "https://i.ytimg.com/vi/eswd_GlOQQw/mqdefault.jpg",
+      "published_at": "2026-10-10T09:06:50Z",
+      "category_id": "24",
+      "views": 2832798,
+      "likes": 117529,
+      "comments": 3492,
+      "age_hours": 11.8,
+      "views_per_hour": 240602,
+      "momentum": 5.894,
+      "url": "https://www.youtube.com/watch?v=eswd_GlOQQw",
+      "region": "IN",
+      "category": "Entertainment",
       "_detected_lang": "en"
     },
     {
@@ -3217,16 +3168,54 @@
       "thumbnail": "https://i.ytimg.com/vi/bJkVNDRksDY/mqdefault.jpg",
       "published_at": "2026-10-03T15:58:16Z",
       "category_id": "22",
-      "views": 74907945,
-      "likes": 1488476,
-      "comments": 5635,
-      "age_hours": 168.6,
-      "views_per_hour": 444214,
-      "momentum": 5.876,
+      "views": 76088402,
+      "likes": 1503696,
+      "comments": 5853,
+      "age_hours": 172.9,
+      "views_per_hour": 440033,
+      "momentum": 5.871,
       "url": "https://www.youtube.com/watch?v=bJkVNDRksDY",
       "region": "US",
       "category": "People & Blogs",
       "_detected_lang": "en"
+    },
+    {
+      "id": "hW_XhFrB3rE",
+      "title": "Caixa invertida 😂😂🤣 @Junior_aplic  @Nadiane_aplic",
+      "channel": "Família Aplic",
+      "channel_id": "UCbb1_0buHh7x4xCEZkABsKg",
+      "thumbnail": "https://i.ytimg.com/vi/hW_XhFrB3rE/mqdefault.jpg",
+      "published_at": "2026-10-10T04:54:06Z",
+      "category_id": "24",
+      "views": 10219653,
+      "likes": 46657,
+      "comments": 50,
+      "age_hours": 16.0,
+      "views_per_hour": 639263,
+      "momentum": 5.859,
+      "url": "https://www.youtube.com/watch?v=hW_XhFrB3rE",
+      "region": "BR",
+      "category": "Entertainment",
+      "_detected_lang": "pt"
+    },
+    {
+      "id": "LR6bky57ufk",
+      "title": "JOGUEI DOORS PELA PRIMEIRA VEZ E ENTREI PRA HISTÓRIA!",
+      "channel": "Felipe Neto Joga",
+      "channel_id": "UCIzdh7oty8jCnXUj3eUj2WQ",
+      "thumbnail": "https://i.ytimg.com/vi/LR6bky57ufk/mqdefault.jpg",
+      "published_at": "2026-10-10T15:00:28Z",
+      "category_id": "24",
+      "views": 192103,
+      "likes": 20332,
+      "comments": 1649,
+      "age_hours": 5.9,
+      "views_per_hour": 32669,
+      "momentum": 5.857,
+      "url": "https://www.youtube.com/watch?v=LR6bky57ufk",
+      "region": "BR",
+      "category": "Entertainment",
+      "_detected_lang": "pt"
     },
     {
       "id": "b4CkPDDOWts",
@@ -3236,53 +3225,34 @@
       "thumbnail": "https://i.ytimg.com/vi/b4CkPDDOWts/mqdefault.jpg",
       "published_at": "2026-10-08T23:12:19Z",
       "category_id": "23",
-      "views": 16026735,
-      "likes": 376784,
-      "comments": 2051,
-      "age_hours": 41.4,
-      "views_per_hour": 387157,
-      "momentum": 5.858,
+      "views": 17522982,
+      "likes": 409072,
+      "comments": 2185,
+      "age_hours": 45.7,
+      "views_per_hour": 383593,
+      "momentum": 5.852,
       "url": "https://www.youtube.com/watch?v=b4CkPDDOWts",
       "region": "US",
       "category": "Comedy",
       "_detected_lang": "en"
     },
     {
-      "id": "dkBUeQOwjG8",
-      "title": "YouTuber से सीधा ढाबे पर! 😭#shorts",
-      "channel": "Tech Master",
-      "channel_id": "UCglXlpWjIi95auM3umWWLdw",
-      "thumbnail": "https://i.ytimg.com/vi/dkBUeQOwjG8/mqdefault.jpg",
-      "published_at": "2026-10-09T14:43:06Z",
-      "category_id": "28",
-      "views": 7401619,
-      "likes": 264612,
-      "comments": 580,
-      "age_hours": 25.9,
-      "views_per_hour": 285945,
-      "momentum": 5.851,
-      "url": "https://www.youtube.com/watch?v=dkBUeQOwjG8",
+      "id": "2IluEt2hfvo",
+      "title": "[HINDI] BMSD 2026 | Semi-Finals | Day 3 #BGMILIVE",
+      "channel": "KRAFTON INDIA ESPORTS",
+      "channel_id": "UCugG6-k5QGbq_iDEPAnG4NQ",
+      "thumbnail": "https://i.ytimg.com/vi/2IluEt2hfvo/mqdefault.jpg",
+      "published_at": "2026-10-10T13:10:53Z",
+      "category_id": "20",
+      "views": 3490415,
+      "likes": 56907,
+      "comments": 134,
+      "age_hours": 7.7,
+      "views_per_hour": 452942,
+      "momentum": 5.843,
+      "url": "https://www.youtube.com/watch?v=2IluEt2hfvo",
       "region": "IN",
-      "category": "Science & Tech",
-      "_detected_lang": "en"
-    },
-    {
-      "id": "UsB-F5-t_H0",
-      "title": "Hostel girls- Pasta challenge! #shorts",
-      "channel": "Shreemani Tripathi",
-      "channel_id": "UCcl4x-1l61b4mI3HnnmoxOg",
-      "thumbnail": "https://i.ytimg.com/vi/UsB-F5-t_H0/mqdefault.jpg",
-      "published_at": "2026-10-08T06:00:05Z",
-      "category_id": "24",
-      "views": 26298819,
-      "likes": 423402,
-      "comments": 993,
-      "age_hours": 58.6,
-      "views_per_hour": 448771,
-      "momentum": 5.836,
-      "url": "https://www.youtube.com/watch?v=UsB-F5-t_H0",
-      "region": "IN",
-      "category": "Entertainment",
+      "category": "Gaming",
       "_detected_lang": "en"
     },
     {
@@ -3293,53 +3263,91 @@
       "thumbnail": "https://i.ytimg.com/vi/Jw5TdfVYXwM/mqdefault.jpg",
       "published_at": "2026-10-08T07:27:12Z",
       "category_id": "17",
-      "views": 24735348,
-      "likes": 358063,
-      "comments": 2631,
-      "age_hours": 57.1,
-      "views_per_hour": 432815,
-      "momentum": 5.805,
+      "views": 27910737,
+      "likes": 388835,
+      "comments": 2750,
+      "age_hours": 61.4,
+      "views_per_hour": 454318,
+      "momentum": 5.821,
       "url": "https://www.youtube.com/watch?v=Jw5TdfVYXwM",
       "region": "IN",
       "category": "Other",
       "_detected_lang": "en"
     },
     {
-      "id": "6UFUiNd-Gyc",
-      "title": "GTA 5 LIVE GAMEPLAY CHALLENGES",
-      "channel": "Raajoo Gaming",
-      "channel_id": "UC5guTudGjVnsKjmzt40cb-w",
-      "thumbnail": "https://i.ytimg.com/vi/6UFUiNd-Gyc/mqdefault.jpg",
-      "published_at": "2026-10-10T08:15:57Z",
-      "category_id": "20",
-      "views": 4509447,
-      "likes": 6149,
-      "comments": 5,
-      "age_hours": 8.3,
-      "views_per_hour": 540891,
-      "momentum": 5.749,
-      "url": "https://www.youtube.com/watch?v=6UFUiNd-Gyc",
+      "id": "UsB-F5-t_H0",
+      "title": "Hostel girls- Pasta challenge! #shorts",
+      "channel": "Shreemani Tripathi",
+      "channel_id": "UCcl4x-1l61b4mI3HnnmoxOg",
+      "thumbnail": "https://i.ytimg.com/vi/UsB-F5-t_H0/mqdefault.jpg",
+      "published_at": "2026-10-08T06:00:05Z",
+      "category_id": "24",
+      "views": 27229949,
+      "likes": 428028,
+      "comments": 1022,
+      "age_hours": 62.9,
+      "views_per_hour": 433003,
+      "momentum": 5.816,
+      "url": "https://www.youtube.com/watch?v=UsB-F5-t_H0",
       "region": "IN",
-      "category": "Gaming",
+      "category": "Entertainment",
       "_detected_lang": "en"
     },
     {
-      "id": "BKK9oUJaZ68",
-      "title": "BMSD WATCHPARTY | SEMI-FINALS DAY 3 | BGMI LIVE",
-      "channel": "LoLzZz Gaming",
-      "channel_id": "UCI1vyXBgX3bruwvChLMNxjQ",
-      "thumbnail": "https://i.ytimg.com/vi/BKK9oUJaZ68/mqdefault.jpg",
-      "published_at": "2026-10-10T11:37:02Z",
-      "category_id": "20",
-      "views": 883387,
-      "likes": 39195,
-      "comments": 27,
-      "age_hours": 5.0,
-      "views_per_hour": 177185,
-      "momentum": 5.716,
-      "url": "https://www.youtube.com/watch?v=BKK9oUJaZ68",
+      "id": "dkBUeQOwjG8",
+      "title": "YouTuber से सीधा ढाबे पर! 😭#shorts",
+      "channel": "Tech Master",
+      "channel_id": "UCglXlpWjIi95auM3umWWLdw",
+      "thumbnail": "https://i.ytimg.com/vi/dkBUeQOwjG8/mqdefault.jpg",
+      "published_at": "2026-10-09T14:43:06Z",
+      "category_id": "28",
+      "views": 8363734,
+      "likes": 274108,
+      "comments": 598,
+      "age_hours": 30.2,
+      "views_per_hour": 277227,
+      "momentum": 5.803,
+      "url": "https://www.youtube.com/watch?v=dkBUeQOwjG8",
       "region": "IN",
+      "category": "Science & Tech",
+      "_detected_lang": "en"
+    },
+    {
+      "id": "zkGb4G6hfyg",
+      "title": "CONTINUE TRABALHANDO, NÃO IMPORTA O QUE ACONTECE, SÓ CONTINUE TRABALHANDO...",
+      "channel": "Jazzghost",
+      "channel_id": "UCIXguhHCl8eDTkXpEuiGPUA",
+      "thumbnail": "https://i.ytimg.com/vi/zkGb4G6hfyg/mqdefault.jpg",
+      "published_at": "2026-10-10T15:00:28Z",
+      "category_id": "20",
+      "views": 601530,
+      "likes": 37338,
+      "comments": 1919,
+      "age_hours": 5.9,
+      "views_per_hour": 102295,
+      "momentum": 5.792,
+      "url": "https://www.youtube.com/watch?v=zkGb4G6hfyg",
+      "region": "BR",
       "category": "Gaming",
+      "_detected_lang": "pt"
+    },
+    {
+      "id": "AQ020QwQGEo",
+      "title": "GTA 4’s Serial Killer Is Actually Terrifying",
+      "channel": "bizlychannel",
+      "channel_id": "UCMPGiQ8gwDXFYpwQhX6kK9A",
+      "thumbnail": "https://i.ytimg.com/vi/AQ020QwQGEo/mqdefault.jpg",
+      "published_at": "2026-10-10T16:02:58Z",
+      "category_id": "24",
+      "views": 215683,
+      "likes": 19142,
+      "comments": 1269,
+      "age_hours": 4.8,
+      "views_per_hour": 44591,
+      "momentum": 5.748,
+      "url": "https://www.youtube.com/watch?v=AQ020QwQGEo",
+      "region": "US",
+      "category": "Entertainment",
       "_detected_lang": "en"
     },
     {
@@ -3350,110 +3358,34 @@
       "thumbnail": "https://i.ytimg.com/vi/MSPVq-5sbCg/mqdefault.jpg",
       "published_at": "2026-10-04T19:00:18Z",
       "category_id": "19",
-      "views": 43946900,
-      "likes": 850039,
-      "comments": 6670,
-      "age_hours": 141.6,
-      "views_per_hour": 310368,
-      "momentum": 5.713,
+      "views": 45229215,
+      "likes": 864519,
+      "comments": 6750,
+      "age_hours": 145.9,
+      "views_per_hour": 310041,
+      "momentum": 5.71,
       "url": "https://www.youtube.com/watch?v=MSPVq-5sbCg",
       "region": "US",
       "category": "Other",
       "_detected_lang": "en"
     },
     {
-      "id": "mlFxxNsExJc",
-      "title": "Know My Name ft. True Damage (Official Music Video) | League of Legends Worlds 2026 Anthem",
-      "channel": "League of Legends",
-      "channel_id": "UC2t5bjwHdUX4vM2g8TRDq5g",
-      "thumbnail": "https://i.ytimg.com/vi/mlFxxNsExJc/mqdefault.jpg",
-      "published_at": "2026-10-09T00:55:10Z",
+      "id": "Zije3SVgQrc",
+      "title": "GTA 5 LIVE 🔥 #gta5 #shortslive #gaming",
+      "channel": "BOSS GAMING",
+      "channel_id": "UCx3u1O4-ZpWO5vUooXYt18w",
+      "thumbnail": "https://i.ytimg.com/vi/Zije3SVgQrc/mqdefault.jpg",
+      "published_at": "2026-10-10T16:00:08Z",
       "category_id": "20",
-      "views": 7249080,
-      "likes": 235355,
-      "comments": 14573,
-      "age_hours": 39.7,
-      "views_per_hour": 182677,
-      "momentum": 5.709,
-      "url": "https://www.youtube.com/watch?v=mlFxxNsExJc",
-      "region": "CA",
-      "category": "Gaming",
-      "_detected_lang": "en"
-    },
-    {
-      "id": "FntuPruxffE",
-      "title": "I bought 50 PCs to hand out to you guys…",
-      "channel": "CarterPCs",
-      "channel_id": "UCi7wDE2ZTiR5QYYrUY5WhtA",
-      "thumbnail": "https://i.ytimg.com/vi/FntuPruxffE/mqdefault.jpg",
-      "published_at": "2026-10-09T01:39:46Z",
-      "category_id": "22",
-      "views": 4564958,
-      "likes": 188089,
-      "comments": 17195,
-      "age_hours": 38.9,
-      "views_per_hour": 117235,
-      "momentum": 5.678,
-      "url": "https://www.youtube.com/watch?v=FntuPruxffE",
-      "region": "US",
-      "category": "People & Blogs",
-      "_detected_lang": "en"
-    },
-    {
-      "id": "19-rZD9zIN0",
-      "title": "O tipo de coisa que eu faço quando tou sem óculos😂",
-      "channel": "Victor Pac",
-      "channel_id": "UCUteKlvz5S0QiWQ2El0Y1qg",
-      "thumbnail": "https://i.ytimg.com/vi/19-rZD9zIN0/mqdefault.jpg",
-      "published_at": "2026-10-09T15:20:35Z",
-      "category_id": "22",
-      "views": 7582974,
-      "likes": 122511,
-      "comments": 496,
-      "age_hours": 25.3,
-      "views_per_hour": 300185,
-      "momentum": 5.658,
-      "url": "https://www.youtube.com/watch?v=19-rZD9zIN0",
-      "region": "BR",
-      "category": "People & Blogs",
-      "_detected_lang": "pt"
-    },
-    {
-      "id": "LdMNolWpp18",
-      "title": "Dulhe Ka Sehra | #AkshayKumar & #ShilpaShetty | Dhadkan | Ishtar Music",
-      "channel": "Rachana Pandey",
-      "channel_id": "UCMuEr4gJ7siy0uDFV-jlQbg",
-      "thumbnail": "https://i.ytimg.com/vi/LdMNolWpp18/mqdefault.jpg",
-      "published_at": "2026-10-10T05:13:56Z",
-      "category_id": "24",
-      "views": 3637859,
-      "likes": 39801,
-      "comments": 15,
-      "age_hours": 11.4,
-      "views_per_hour": 319928,
-      "momentum": 5.626,
-      "url": "https://www.youtube.com/watch?v=LdMNolWpp18",
+      "views": 2261942,
+      "likes": 3964,
+      "comments": 0,
+      "age_hours": 4.9,
+      "views_per_hour": 463008,
+      "momentum": 5.685,
+      "url": "https://www.youtube.com/watch?v=Zije3SVgQrc",
       "region": "IN",
-      "category": "Entertainment",
-      "_detected_lang": "en"
-    },
-    {
-      "id": "LsJlzH9ihIo",
-      "title": "First guy deserves an oscar 📹 by : Jasontheween",
-      "channel": "Videos that make your day better ",
-      "channel_id": "UCBp4nh-pgJCtO-bTzomzSqA",
-      "thumbnail": "https://i.ytimg.com/vi/LsJlzH9ihIo/mqdefault.jpg",
-      "published_at": "2026-10-02T07:00:27Z",
-      "category_id": "23",
-      "views": 50876143,
-      "likes": 1034490,
-      "comments": 953,
-      "age_hours": 201.6,
-      "views_per_hour": 252369,
-      "momentum": 5.623,
-      "url": "https://www.youtube.com/watch?v=LsJlzH9ihIo",
-      "region": "CA",
-      "category": "Comedy",
+      "category": "Gaming",
       "_detected_lang": "en"
     }
   ]
