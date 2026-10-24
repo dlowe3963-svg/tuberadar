@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T09:59:09.409198+00:00",
+  "generated_at": "2026-10-24T15:03:53.448200+00:00",
   "regions": [
     "US",
     "GB",
@@ -40,353 +40,414 @@
     }
   ],
   "stats": {
-    "total_videos": 424,
+    "total_videos": 429,
     "total_topics": 18,
-    "total_themes": 6,
+    "total_themes": 7,
     "total_searches": 12,
     "by_category": {
-      "Other": 54,
+      "Other": 52,
+      "Entertainment": 101,
+      "People & Blogs": 124,
       "Howto & Style": 14,
-      "Gaming": 83,
-      "People & Blogs": 126,
-      "Entertainment": 98,
-      "Comedy": 25,
-      "Science & Tech": 18,
+      "Gaming": 86,
+      "Comedy": 27,
+      "Science & Tech": 19,
       "Education": 6
     }
   },
   "emerging_themes": [
     {
-      "phrase": "doomsday official steve",
-      "video_count": 28,
-      "channel_count": 26,
-      "total_channels_seen": 28,
-      "uploads_per_hour": 2.17,
-      "window_hours": 12,
-      "example_videos": [
-        {
-          "id": "lHOl_u_I-R8",
-          "title": "AVENGERS DOOMSDAY  Official Teaser Trailer | Steve Rogers Returns &amp; Reunites With the Avengers",
-          "channel": "ZooPops",
-          "channel_id": "UCbV3O_oAM2tEPO09xCMwkSg",
-          "subscribers": 280,
-          "thumbnail": "https://i.ytimg.com/vi/lHOl_u_I-R8/mqdefault.jpg",
-          "published_at": "2026-10-24T09:31:46Z",
-          "url": "https://www.youtube.com/watch?v=lHOl_u_I-R8"
-        },
-        {
-          "id": "_kpmLmRpOvs",
-          "title": "😱 Iron Man बने Doctor Doom! Avengers: Doomsday में Steve Rogers की वापसी 🔥 | Marvel News",
-          "channel": "Jan Media TV",
-          "channel_id": "UC5goxbpLuI5JRsRw3jgTEiQ",
-          "subscribers": 58600,
-          "thumbnail": "https://i.ytimg.com/vi/_kpmLmRpOvs/mqdefault.jpg",
-          "published_at": "2026-10-24T09:27:28Z",
-          "url": "https://www.youtube.com/watch?v=_kpmLmRpOvs"
-        },
-        {
-          "id": "3O0njdAPRLI",
-          "title": "AVENGERS 5: DOOMSDAY Official &quot;Steve Rogers Meets New Avengers&quot; Teaser Trailer (2026)",
-          "channel": "Javinciii",
-          "channel_id": "UC2ZItrf-jCKltxFp3udSA5Q",
-          "subscribers": 901,
-          "thumbnail": "https://i.ytimg.com/vi/3O0njdAPRLI/mqdefault.jpg",
-          "published_at": "2026-10-24T09:15:18Z",
-          "url": "https://www.youtube.com/watch?v=3O0njdAPRLI"
-        },
-        {
-          "id": "vZVWPz8AtIc",
-          "title": "Thor Jealous of Steve 🤣 Avengers doomsday trailer",
-          "channel": "Apex Story Review",
-          "channel_id": "UCEuZL9wT75BS5tuV1aDqyCQ",
-          "subscribers": 6,
-          "thumbnail": "https://i.ytimg.com/vi/vZVWPz8AtIc/mqdefault.jpg",
-          "published_at": "2026-10-24T09:15:13Z",
-          "url": "https://www.youtube.com/watch?v=vZVWPz8AtIc"
-        }
-      ],
-      "first_detected_at": "2026-10-24T09:59:09.409198+00:00",
-      "last_seen_at": "2026-10-24T09:59:09.409198+00:00"
-    },
-    {
-      "phrase": "iphone duo",
-      "video_count": 27,
-      "channel_count": 26,
-      "total_channels_seen": 29,
-      "uploads_per_hour": 2.17,
-      "window_hours": 12,
-      "example_videos": [
-        {
-          "id": "80p2sH4Yc0M",
-          "title": "iPhone Duo Durability Test 💀 #iphone duo #applenewfoldeble #iphoneduodurabilitytest #techedits",
-          "channel": "TRACK TECHX",
-          "channel_id": "UCh70vMSMuyzrqBMciItlsgQ",
-          "subscribers": 40900,
-          "thumbnail": "https://i.ytimg.com/vi/80p2sH4Yc0M/mqdefault.jpg",
-          "published_at": "2026-10-24T09:30:00Z",
-          "url": "https://www.youtube.com/watch?v=80p2sH4Yc0M"
-        },
-        {
-          "id": "56lOVgdSN4A",
-          "title": "iPhone Duo уже в Айстор👏🏻 Ну как вам новинка?",
-          "channel": "Айстор - магазин Apple",
-          "channel_id": "UC84MFcMH6STGUnF_JPSEXmw",
-          "subscribers": 3180,
-          "thumbnail": "https://i.ytimg.com/vi/56lOVgdSN4A/mqdefault.jpg",
-          "published_at": "2026-10-24T09:20:19Z",
-          "url": "https://www.youtube.com/watch?v=56lOVgdSN4A"
-        },
-        {
-          "id": "T1k6yALGxOI",
-          "title": "JerryRigEverything розбив перший складаний смартфон Apple: iPhone Duo не витримав #diy #iphone",
-          "channel": "ProstoMob",
-          "channel_id": "UC5gLh6xS1EaxaMoZSAwbnaA",
-          "subscribers": 30700,
-          "thumbnail": "https://i.ytimg.com/vi/T1k6yALGxOI/mqdefault.jpg",
-          "published_at": "2026-10-24T09:17:36Z",
-          "url": "https://www.youtube.com/watch?v=T1k6yALGxOI"
-        },
-        {
-          "id": "ykTg5WEyH2U",
-          "title": "iPhone Duo เล่นเกมลื่นนะ.. แต่ขอบดำเนี่ย.. อีกนานไหมม #iphone #iphoneduo #apple",
-          "channel": "iaumreview",
-          "channel_id": "UCQskVJd_b-U2u1cRohOpoeg",
-          "subscribers": 771000,
-          "thumbnail": "https://i.ytimg.com/vi/ykTg5WEyH2U/mqdefault.jpg",
-          "published_at": "2026-10-24T09:09:18Z",
-          "url": "https://www.youtube.com/watch?v=ykTg5WEyH2U"
-        }
-      ],
-      "first_detected_at": "2026-10-21T16:18:59.322063+00:00",
-      "last_seen_at": "2026-10-24T09:59:09.409198+00:00"
-    },
-    {
       "phrase": "avengers doomsday official",
-      "video_count": 26,
-      "channel_count": 26,
+      "video_count": 30,
+      "channel_count": 30,
       "total_channels_seen": 30,
-      "uploads_per_hour": 2.17,
+      "uploads_per_hour": 2.5,
       "window_hours": 12,
       "example_videos": [
         {
-          "id": "gM6itcyJ0zo",
-          "title": "Spider-Man Stands Alone Against Doctor Doom in Avengers Doomsday! 😱",
-          "channel": "Filmi Updates",
-          "channel_id": "UClHsF1TpK3K7_FZDmw17Xfw",
-          "subscribers": 705,
-          "thumbnail": "https://i.ytimg.com/vi/gM6itcyJ0zo/mqdefault.jpg",
-          "published_at": "2026-10-24T09:40:35Z",
-          "url": "https://www.youtube.com/watch?v=gM6itcyJ0zo"
+          "id": "DF3jDcAAoYg",
+          "title": "Avengers  Doomsday |Official Trailer 3|  Special Look   In Theaters December 18 2160p",
+          "channel": "PSYCHO - 444",
+          "channel_id": "UCi5fXHKF4g0lUB1MGb2HPXw",
+          "subscribers": 769,
+          "thumbnail": "https://i.ytimg.com/vi/DF3jDcAAoYg/mqdefault.jpg",
+          "published_at": "2026-10-24T15:00:08Z",
+          "url": "https://www.youtube.com/watch?v=DF3jDcAAoYg"
         },
         {
-          "id": "lHOl_u_I-R8",
-          "title": "AVENGERS DOOMSDAY  Official Teaser Trailer | Steve Rogers Returns &amp; Reunites With the Avengers",
-          "channel": "ZooPops",
-          "channel_id": "UCbV3O_oAM2tEPO09xCMwkSg",
-          "subscribers": 280,
-          "thumbnail": "https://i.ytimg.com/vi/lHOl_u_I-R8/mqdefault.jpg",
-          "published_at": "2026-10-24T09:31:46Z",
-          "url": "https://www.youtube.com/watch?v=lHOl_u_I-R8"
+          "id": "8lNqYpZliR0",
+          "title": "Avengers Doomsday Promo Disappoints Fans 💔 Steve Rogers Avengers Tower-க்கு வந்தாரா? 🔥",
+          "channel": "CON HUB",
+          "channel_id": "UCaNH9spcI0FP07r-vxZBFKw",
+          "subscribers": 10900,
+          "thumbnail": "https://i.ytimg.com/vi/8lNqYpZliR0/mqdefault.jpg",
+          "published_at": "2026-10-24T14:42:20Z",
+          "url": "https://www.youtube.com/watch?v=8lNqYpZliR0"
         },
         {
-          "id": "OKZWg3Nl0qM",
-          "title": "🍟 Doomsday is coming #avengers #avengersdoomsday #google #trend #viral",
-          "channel": "Rainfries雨薯條",
-          "channel_id": "UCH14LZFptxhMmZvFGz_0baQ",
-          "subscribers": 4530,
-          "thumbnail": "https://i.ytimg.com/vi/OKZWg3Nl0qM/mqdefault.jpg",
-          "published_at": "2026-10-24T09:30:09Z",
-          "url": "https://www.youtube.com/watch?v=OKZWg3Nl0qM"
+          "id": "SGm4zPhDaD4",
+          "title": "eliminan el universo de...||Meme||Avengers: Doomsday||『𝓡𝓪𝓷𝓰𝓮𝓵』",
+          "channel": "『𝓡𝓪𝓷𝓰𝓮𝓵』",
+          "channel_id": "UC4zsuSDIc91HDtmKnMBqpWA",
+          "subscribers": 9,
+          "thumbnail": "https://i.ytimg.com/vi/SGm4zPhDaD4/mqdefault.jpg",
+          "published_at": "2026-10-24T14:36:17Z",
+          "url": "https://www.youtube.com/watch?v=SGm4zPhDaD4"
         },
         {
-          "id": "4VnBDSOoUnw",
-          "title": "Antman Roasted Captain America😭 | New Avengers: Doomsday preview",
-          "channel": "FilmyHead",
-          "channel_id": "UCsVfwC7dlIjEBRwvWfdJycg",
-          "subscribers": 19900,
-          "thumbnail": "https://i.ytimg.com/vi/4VnBDSOoUnw/mqdefault.jpg",
-          "published_at": "2026-10-24T09:17:05Z",
-          "url": "https://www.youtube.com/watch?v=4VnBDSOoUnw"
+          "id": "bVSKH27icpo",
+          "title": "OG Marvel Humour Is Back 🥀 - Avengers Doomsday | Bumble bee - Bambee #viral #mcu",
+          "channel": "Khamr Ranks'",
+          "channel_id": "UCn24JaMCKega8FzKl7EcMFQ",
+          "subscribers": 163,
+          "thumbnail": "https://i.ytimg.com/vi/bVSKH27icpo/mqdefault.jpg",
+          "published_at": "2026-10-24T14:30:29Z",
+          "url": "https://www.youtube.com/watch?v=bVSKH27icpo"
         }
       ],
       "first_detected_at": "2026-10-24T09:59:09.409198+00:00",
-      "last_seen_at": "2026-10-24T09:59:09.409198+00:00"
+      "last_seen_at": "2026-10-24T15:03:53.448200+00:00"
+    },
+    {
+      "phrase": "official steve rogers",
+      "video_count": 30,
+      "channel_count": 30,
+      "total_channels_seen": 30,
+      "uploads_per_hour": 2.5,
+      "window_hours": 12,
+      "example_videos": [
+        {
+          "id": "vynO-RfDAjY",
+          "title": "AVENGERS 5: DOOMSDAY Official “Steve Rogers Reunites With Avengers” Teaser Trailer (2026)",
+          "channel": "Kai Growth",
+          "channel_id": "UC-53qR_5n0yt9QMLypTgmTA",
+          "subscribers": 14,
+          "thumbnail": "https://i.ytimg.com/vi/vynO-RfDAjY/mqdefault.jpg",
+          "published_at": "2026-10-24T14:43:04Z",
+          "url": "https://www.youtube.com/watch?v=vynO-RfDAjY"
+        },
+        {
+          "id": "ltKF0poXqk0",
+          "title": "Marvel accidentally revealed a HUGE detail about Steve Rogers in the new ‘AVENGERS: DOOMSDAY’",
+          "channel": "Family - Comics ",
+          "channel_id": "UC0OAq46eaZTKd3gdtq7MTgw",
+          "subscribers": 398,
+          "thumbnail": "https://i.ytimg.com/vi/ltKF0poXqk0/mqdefault.jpg",
+          "published_at": "2026-10-24T14:42:06Z",
+          "url": "https://www.youtube.com/watch?v=ltKF0poXqk0"
+        },
+        {
+          "id": "r1G0dewAvBQ",
+          "title": "WHATS WRONG WITH STEVE ROGERS IN AVENGERS DOOMSDAY?",
+          "channel": "Big Screen Berkan",
+          "channel_id": "UC8-n_9llMe2S5YzQG8HPEFA",
+          "subscribers": 53000,
+          "thumbnail": "https://i.ytimg.com/vi/r1G0dewAvBQ/mqdefault.jpg",
+          "published_at": "2026-10-24T14:25:21Z",
+          "url": "https://www.youtube.com/watch?v=r1G0dewAvBQ"
+        },
+        {
+          "id": "ZoaQI_p4Yhg",
+          "title": "🔥 STEVE ROGERS AND REED RICHARDS IN ONE SCENE? confirmation.#CaptainAmerica #Avengers#DoctorDoom",
+          "channel": "Cinecom Canon",
+          "channel_id": "UCl0u-zAXfgiLNnNO8bPKBUQ",
+          "subscribers": 66,
+          "thumbnail": "https://i.ytimg.com/vi/ZoaQI_p4Yhg/mqdefault.jpg",
+          "published_at": "2026-10-24T14:19:11Z",
+          "url": "https://www.youtube.com/watch?v=ZoaQI_p4Yhg"
+        }
+      ],
+      "first_detected_at": "2026-10-24T15:03:53.448200+00:00",
+      "last_seen_at": "2026-10-24T15:03:53.448200+00:00"
     },
     {
       "phrase": "avengers doomsday",
-      "video_count": 26,
-      "channel_count": 25,
-      "total_channels_seen": 29,
-      "uploads_per_hour": 2.08,
+      "video_count": 29,
+      "channel_count": 29,
+      "total_channels_seen": 30,
+      "uploads_per_hour": 2.42,
       "window_hours": 12,
       "example_videos": [
         {
-          "id": "aKJYcoz5lKc",
-          "title": "¡EL NUEVO AVANCE DE AVENGERS: DOOMSDAY ES FANTÁSTICO!",
-          "channel": "Strip Marvel I Marvel, DC & Superhéroes",
-          "channel_id": "UCECLpDchXGkpxX_qXIkZ0PQ",
-          "subscribers": 823000,
-          "thumbnail": "https://i.ytimg.com/vi/aKJYcoz5lKc/mqdefault.jpg",
-          "published_at": "2026-10-24T09:38:57Z",
-          "url": "https://www.youtube.com/watch?v=aKJYcoz5lKc"
+          "id": "8lNqYpZliR0",
+          "title": "Avengers Doomsday Promo Disappoints Fans 💔 Steve Rogers Avengers Tower-க்கு வந்தாரா? 🔥",
+          "channel": "CON HUB",
+          "channel_id": "UCaNH9spcI0FP07r-vxZBFKw",
+          "subscribers": 10900,
+          "thumbnail": "https://i.ytimg.com/vi/8lNqYpZliR0/mqdefault.jpg",
+          "published_at": "2026-10-24T14:42:20Z",
+          "url": "https://www.youtube.com/watch?v=8lNqYpZliR0"
         },
         {
-          "id": "d-T-eAlmdng",
-          "title": "Happy Saturday And Is The Avengers Doomsday Toys Worth Reviewing!",
-          "channel": "Super Shocker Brett Messer",
-          "channel_id": "UC0IvoQgvSOeJMD38Ac4dFMg",
-          "subscribers": 1400,
-          "thumbnail": "https://i.ytimg.com/vi/d-T-eAlmdng/mqdefault.jpg",
-          "published_at": "2026-10-24T09:33:52Z",
-          "url": "https://www.youtube.com/watch?v=d-T-eAlmdng"
+          "id": "yZtvYCERBK4",
+          "title": "Complete list of movies &amp; series to watch before Avengers Doomsday 🟢",
+          "channel": "MalluFlix Official",
+          "channel_id": "UC9WjTVeK9_kELqdMwK7xPmA",
+          "subscribers": 248000,
+          "thumbnail": "https://i.ytimg.com/vi/yZtvYCERBK4/mqdefault.jpg",
+          "published_at": "2026-10-24T14:13:01Z",
+          "url": "https://www.youtube.com/watch?v=yZtvYCERBK4"
         },
         {
-          "id": "OKZWg3Nl0qM",
-          "title": "🍟 Doomsday is coming #avengers #avengersdoomsday #google #trend #viral",
-          "channel": "Rainfries雨薯條",
-          "channel_id": "UCH14LZFptxhMmZvFGz_0baQ",
-          "subscribers": 4530,
-          "thumbnail": "https://i.ytimg.com/vi/OKZWg3Nl0qM/mqdefault.jpg",
-          "published_at": "2026-10-24T09:30:09Z",
-          "url": "https://www.youtube.com/watch?v=OKZWg3Nl0qM"
+          "id": "7SRScqB0P28",
+          "title": "How Avengers Doomsday started",
+          "channel": "Daniel Posey",
+          "channel_id": "UCwy9cwlSSewfUITROxJASWw",
+          "subscribers": 43800,
+          "thumbnail": "https://i.ytimg.com/vi/7SRScqB0P28/mqdefault.jpg",
+          "published_at": "2026-10-24T14:09:02Z",
+          "url": "https://www.youtube.com/watch?v=7SRScqB0P28"
         },
         {
-          "id": "jaxKI5kz9KQ",
-          "title": "LEGO Doctor Doom Trailer | Avengers: Doomsday",
-          "channel": "The Lego Adventures",
-          "channel_id": "UCkw5xxMJw3zTl7MRzaFpN5w",
-          "subscribers": 201,
-          "thumbnail": "https://i.ytimg.com/vi/jaxKI5kz9KQ/mqdefault.jpg",
-          "published_at": "2026-10-24T09:26:20Z",
-          "url": "https://www.youtube.com/watch?v=jaxKI5kz9KQ"
+          "id": "_tyvi3nWkDY",
+          "title": "Avengers: Doomsday Opening scene! #doomsday #fantasticfour #doctordoom #avengers #marvel",
+          "channel": "Secret Wars Lab",
+          "channel_id": "UCe9BIZ48T1lGFx8Nmb4qOOw",
+          "subscribers": 2500,
+          "thumbnail": "https://i.ytimg.com/vi/_tyvi3nWkDY/mqdefault.jpg",
+          "published_at": "2026-10-24T14:00:35Z",
+          "url": "https://www.youtube.com/watch?v=_tyvi3nWkDY"
         }
       ],
       "first_detected_at": "2026-10-24T09:59:09.409198+00:00",
-      "last_seen_at": "2026-10-24T09:59:09.409198+00:00"
+      "last_seen_at": "2026-10-24T15:03:53.448200+00:00"
     },
     {
-      "phrase": "craft attack",
+      "phrase": "doomsday official steve",
       "video_count": 29,
+      "channel_count": 29,
+      "total_channels_seen": 30,
+      "uploads_per_hour": 2.42,
+      "window_hours": 12,
+      "example_videos": [
+        {
+          "id": "Zv5oNCKxNqM",
+          "title": "Avengers Doomsday New Mini Teaser Explained 🔥 Steve Rogers &amp; Doctor Doom! #marvel #thor #new #promo",
+          "channel": "IAMK97 ",
+          "channel_id": "UC3nvPHtI1CEB-4kdXAyTfGA",
+          "subscribers": 206,
+          "thumbnail": "https://i.ytimg.com/vi/Zv5oNCKxNqM/mqdefault.jpg",
+          "published_at": "2026-10-24T15:00:00Z",
+          "url": "https://www.youtube.com/watch?v=Zv5oNCKxNqM"
+        },
+        {
+          "id": "BBx_SXfFhpw",
+          "title": "Steve Rogers in Doomsday",
+          "channel": "DrDoomxStark",
+          "channel_id": "UC6lQh0d0QAUaLULaPKMRPZA",
+          "subscribers": 871,
+          "thumbnail": "https://i.ytimg.com/vi/BBx_SXfFhpw/mqdefault.jpg",
+          "published_at": "2026-10-24T14:47:20Z",
+          "url": "https://www.youtube.com/watch?v=BBx_SXfFhpw"
+        },
+        {
+          "id": "ScF9wLxVai8",
+          "title": "Avengers Doomsday New Footage EXPLAINED! Steve Is Back?",
+          "channel": "Vaibhav Explains Marvel",
+          "channel_id": "UCc9Y_Kg_cH1f_xukbx5rvrA",
+          "subscribers": 70,
+          "thumbnail": "https://i.ytimg.com/vi/ScF9wLxVai8/mqdefault.jpg",
+          "published_at": "2026-10-24T14:45:12Z",
+          "url": "https://www.youtube.com/watch?v=ScF9wLxVai8"
+        },
+        {
+          "id": "vynO-RfDAjY",
+          "title": "AVENGERS 5: DOOMSDAY Official “Steve Rogers Reunites With Avengers” Teaser Trailer (2026)",
+          "channel": "Kai Growth",
+          "channel_id": "UC-53qR_5n0yt9QMLypTgmTA",
+          "subscribers": 14,
+          "thumbnail": "https://i.ytimg.com/vi/vynO-RfDAjY/mqdefault.jpg",
+          "published_at": "2026-10-24T14:43:04Z",
+          "url": "https://www.youtube.com/watch?v=vynO-RfDAjY"
+        }
+      ],
+      "first_detected_at": "2026-10-24T09:59:09.409198+00:00",
+      "last_seen_at": "2026-10-24T15:03:53.448200+00:00"
+    },
+    {
+      "phrase": "avengers teaser trailer",
+      "video_count": 29,
+      "channel_count": 28,
+      "total_channels_seen": 29,
+      "uploads_per_hour": 2.33,
+      "window_hours": 12,
+      "example_videos": [
+        {
+          "id": "P-E0fh3v0Fg",
+          "title": "Nouveau teaser pour « AVENGERS: DOOMSDAY ».  Au cinéma le 18 décembre. #avengersdoomsday #shorts",
+          "channel": "Balaqui",
+          "channel_id": "UCiqNDum5pP21uk-IdZtc9Ww",
+          "subscribers": 1130,
+          "thumbnail": "https://i.ytimg.com/vi/P-E0fh3v0Fg/mqdefault.jpg",
+          "published_at": "2026-10-24T15:00:31Z",
+          "url": "https://www.youtube.com/watch?v=P-E0fh3v0Fg"
+        },
+        {
+          "id": "CbZWJ17crto",
+          "title": "Avengers Doomsday New MLB Teaser Review 🥲 || #mlb #avengers #doomsday #teaser",
+          "channel": "RP World ",
+          "channel_id": "UC-fWiHqUqRS7aDa9HZWnoVQ",
+          "subscribers": 1470,
+          "thumbnail": "https://i.ytimg.com/vi/CbZWJ17crto/mqdefault.jpg",
+          "published_at": "2026-10-24T14:56:08Z",
+          "url": "https://www.youtube.com/watch?v=CbZWJ17crto"
+        },
+        {
+          "id": "0tmu5eF0Dqw",
+          "title": "Avengers Doomsday New Trailer Explained in Hindi",
+          "channel": "Xplainer MuviBoy",
+          "channel_id": "UCw4kbd2cg1w40qk_gpretxA",
+          "subscribers": 5600,
+          "thumbnail": "https://i.ytimg.com/vi/0tmu5eF0Dqw/mqdefault.jpg",
+          "published_at": "2026-10-24T14:48:57Z",
+          "url": "https://www.youtube.com/watch?v=0tmu5eF0Dqw"
+        },
+        {
+          "id": "vynO-RfDAjY",
+          "title": "AVENGERS 5: DOOMSDAY Official “Steve Rogers Reunites With Avengers” Teaser Trailer (2026)",
+          "channel": "Kai Growth",
+          "channel_id": "UC-53qR_5n0yt9QMLypTgmTA",
+          "subscribers": 14,
+          "thumbnail": "https://i.ytimg.com/vi/vynO-RfDAjY/mqdefault.jpg",
+          "published_at": "2026-10-24T14:43:04Z",
+          "url": "https://www.youtube.com/watch?v=vynO-RfDAjY"
+        }
+      ],
+      "first_detected_at": "2026-10-24T15:03:53.448200+00:00",
+      "last_seen_at": "2026-10-24T15:03:53.448200+00:00"
+    },
+    {
+      "phrase": "iphone duo unboxing",
+      "video_count": 27,
+      "channel_count": 27,
+      "total_channels_seen": 30,
+      "uploads_per_hour": 2.25,
+      "window_hours": 12,
+      "example_videos": [
+        {
+          "id": "ZhFLbWJtKgo",
+          "title": "😱😍 iPhone Duo Unboxing! दो iPhone एक साथ 🔥🍎 ऐसा Premium Look देखा है कभी? 🤯 #Shorts",
+          "channel": "tech extras",
+          "channel_id": "UCsUNPRJRDheOFC8PDQMbOcg",
+          "subscribers": 74,
+          "thumbnail": "https://i.ytimg.com/vi/ZhFLbWJtKgo/mqdefault.jpg",
+          "published_at": "2026-10-24T15:00:22Z",
+          "url": "https://www.youtube.com/watch?v=ZhFLbWJtKgo"
+        },
+        {
+          "id": "SR1BImBKmco",
+          "title": "WAITING IN LINE FOR IPHONE DUO (Unboxing &amp; Setup)",
+          "channel": "CHANNEL RAMBLE",
+          "channel_id": "UC34SFOOp9QiG_h8IbJA0CUQ",
+          "subscribers": 117000,
+          "thumbnail": "https://i.ytimg.com/vi/SR1BImBKmco/mqdefault.jpg",
+          "published_at": "2026-10-24T14:48:51Z",
+          "url": "https://www.youtube.com/watch?v=SR1BImBKmco"
+        },
+        {
+          "id": "kta3NwAraZI",
+          "title": "Unboxing the NEW IPhone Duo! 😎",
+          "channel": "SamsonGG",
+          "channel_id": "UCUWNrLK2BSYPSpuLV4Rq7ww",
+          "subscribers": 301000,
+          "thumbnail": "https://i.ytimg.com/vi/kta3NwAraZI/mqdefault.jpg",
+          "published_at": "2026-10-24T14:36:35Z",
+          "url": "https://www.youtube.com/watch?v=kta3NwAraZI"
+        },
+        {
+          "id": "5UW30rlQvzo",
+          "title": "Unboxing iPhone duo #iphone #unboxing #duo ",
+          "channel": "ذبذبة ستور Thabthaba Store ",
+          "channel_id": "UCMd_w3gQNiBZEVeL_o61SUA",
+          "subscribers": 8010,
+          "thumbnail": "https://i.ytimg.com/vi/5UW30rlQvzo/mqdefault.jpg",
+          "published_at": "2026-10-24T14:32:23Z",
+          "url": "https://www.youtube.com/watch?v=5UW30rlQvzo"
+        }
+      ],
+      "first_detected_at": "2026-10-24T15:03:53.448200+00:00",
+      "last_seen_at": "2026-10-24T15:03:53.448200+00:00"
+    },
+    {
+      "phrase": "iphone duo",
+      "video_count": 24,
       "channel_count": 24,
-      "total_channels_seen": 25,
+      "total_channels_seen": 30,
       "uploads_per_hour": 2.0,
       "window_hours": 12,
       "example_videos": [
         {
-          "id": "nRed2zpOslM",
-          "title": "Craft Attack 14 Funny Moments @LetsHugoGaming #minecraft #gaming #craftattack14 #funny #kill #huhn",
-          "channel": "Zyrox",
-          "channel_id": "UCldgt_qsj66Zjsy3yn510hQ",
-          "subscribers": 964,
-          "thumbnail": "https://i.ytimg.com/vi/nRed2zpOslM/mqdefault.jpg",
-          "published_at": "2026-10-24T09:54:52Z",
-          "url": "https://www.youtube.com/watch?v=nRed2zpOslM"
+          "id": "fN53Ot3E2WA",
+          "title": "IPHONE DUO DURABILITY TEST 🤯 ZAONFACT",
+          "channel": "ZAONFACT",
+          "channel_id": "UCklz-OgBWGfLaOsVu7K7NZQ",
+          "subscribers": 299000,
+          "thumbnail": "https://i.ytimg.com/vi/fN53Ot3E2WA/mqdefault.jpg",
+          "published_at": "2026-10-24T14:30:14Z",
+          "url": "https://www.youtube.com/watch?v=fN53Ot3E2WA"
         },
         {
-          "id": "NbA71l6Nmbk",
-          "title": "72.000 STEIN PRO STUNDE! 🤯 NEUE XXL FARM 🔥 CRAFTATTACK 14",
-          "channel": "Heiko CastCrafter",
-          "channel_id": "UCbVcuRFrFof_fHjOzqkW-4w",
-          "subscribers": 164000,
-          "thumbnail": "https://i.ytimg.com/vi/NbA71l6Nmbk/mqdefault.jpg",
-          "published_at": "2026-10-24T09:52:03Z",
-          "url": "https://www.youtube.com/watch?v=NbA71l6Nmbk"
+          "id": "NRisxyUyZiM",
+          "title": "Подруга нареченої зайняла чергу ОПІВНОЧІ заради iPhone Duo | Подробиці",
+          "channel": "Подробиці",
+          "channel_id": "UC9SqppNMkijU0fCJRDDg9YA",
+          "subscribers": 618000,
+          "thumbnail": "https://i.ytimg.com/vi/NRisxyUyZiM/mqdefault.jpg",
+          "published_at": "2026-10-24T14:30:05Z",
+          "url": "https://www.youtube.com/watch?v=NRisxyUyZiM"
         },
         {
-          "id": "HpXxoGr0gc0",
-          "title": "„Ich liebe die Häuser und die Häuser lieben mich“ 🏠😂 #CraftAttack #CraftAttack14",
-          "channel": "SIMPLE STAGE | Streamer Clips",
-          "channel_id": "UCaxgb8VPRIN_M4qn7J2EdkA",
-          "subscribers": 6,
-          "thumbnail": "https://i.ytimg.com/vi/HpXxoGr0gc0/mqdefault.jpg",
-          "published_at": "2026-10-24T09:45:31Z",
-          "url": "https://www.youtube.com/watch?v=HpXxoGr0gc0"
+          "id": "oF8nri55QdQ",
+          "title": "iPhone Duo 開箱速試(ft.關生）$17,499 換 7.6 吋大芒，但呢 8 個代價你要知！vs 18 Pro Max 終極對比 #4K #karenly",
+          "channel": "Karenly",
+          "channel_id": "UCBwfrMS785JyWDUBRhOQkjw",
+          "subscribers": 150000,
+          "thumbnail": "https://i.ytimg.com/vi/oF8nri55QdQ/mqdefault.jpg",
+          "published_at": "2026-10-24T14:22:49Z",
+          "url": "https://www.youtube.com/watch?v=oF8nri55QdQ"
         },
         {
-          "id": "NSq9uWBVA-k",
-          "title": "Castcrafter liest ein Redstone-Gedicht: „Der Rotti kommt mit Hebel und Knopf“ | Craft Attack 14",
-          "channel": "CLIPGEWITTER",
-          "channel_id": "UCxf9meEkw75H4URdBNRWMoA",
-          "subscribers": 206,
-          "thumbnail": "https://i.ytimg.com/vi/NSq9uWBVA-k/mqdefault.jpg",
-          "published_at": "2026-10-24T09:45:30Z",
-          "url": "https://www.youtube.com/watch?v=NSq9uWBVA-k"
+          "id": "CZc7u9eERcw",
+          "title": "iPhone Duo değil Zenbook Duo 😍 #tanıtım",
+          "channel": "Samet Jankovic",
+          "channel_id": "UCleIGRDEVSJnaK7wY7dG-MQ",
+          "subscribers": 333000,
+          "thumbnail": "https://i.ytimg.com/vi/CZc7u9eERcw/mqdefault.jpg",
+          "published_at": "2026-10-24T14:20:14Z",
+          "url": "https://www.youtube.com/watch?v=CZc7u9eERcw"
         }
       ],
-      "first_detected_at": "2026-10-23T16:07:34.930001+00:00",
-      "last_seen_at": "2026-10-24T09:59:09.409198+00:00"
-    },
-    {
-      "phrase": "lifehack comedy funny",
-      "video_count": 9,
-      "channel_count": 9,
-      "total_channels_seen": 9,
-      "uploads_per_hour": 0.75,
-      "window_hours": 12,
-      "example_videos": [
-        {
-          "id": "j9SX4Sh0aMw",
-          "title": "main Soch Raha Hun filhal Tu  #shorts#youtubeshorts#cringe#lifehack#comedy#funny",
-          "channel": "Amar Singh official",
-          "channel_id": "UC68-fZYSPxLOcdFICbt_cuQ",
-          "subscribers": 81,
-          "thumbnail": "https://i.ytimg.com/vi/j9SX4Sh0aMw/mqdefault.jpg",
-          "published_at": "2026-10-24T08:52:05Z",
-          "url": "https://www.youtube.com/watch?v=j9SX4Sh0aMw"
-        },
-        {
-          "id": "WRtN9mWiKrM",
-          "title": "😂 How To Be Successful: The Ultimate Life Hack",
-          "channel": "pujan pudasaini",
-          "channel_id": "UC-QSADAjwxqjyiDtB3qIZnQ",
-          "subscribers": 21,
-          "thumbnail": "https://i.ytimg.com/vi/WRtN9mWiKrM/mqdefault.jpg",
-          "published_at": "2026-10-24T06:56:56Z",
-          "url": "https://www.youtube.com/watch?v=WRtN9mWiKrM"
-        },
-        {
-          "id": "5G2VjAq-9AY",
-          "title": "🥚 Attempting A Viral Egg Life Hack Gone Wrong",
-          "channel": "Funny_shorts",
-          "channel_id": "UCvy4AOe57549bMkjKjvvYVQ",
-          "subscribers": 1,
-          "thumbnail": "https://i.ytimg.com/vi/5G2VjAq-9AY/mqdefault.jpg",
-          "published_at": "2026-10-24T05:24:03Z",
-          "url": "https://www.youtube.com/watch?v=5G2VjAq-9AY"
-        },
-        {
-          "id": "YMa9LVFNdVc",
-          "title": "Simple survival hacks that really work #lifehacks #Survivalskills#shorts #viral #comedy #shortsfeed",
-          "channel": "Zxr Shiuli",
-          "channel_id": "UCrfCixsO2u9HTAIiYDl8QEg",
-          "subscribers": 5820,
-          "thumbnail": "https://i.ytimg.com/vi/YMa9LVFNdVc/mqdefault.jpg",
-          "published_at": "2026-10-24T05:01:03Z",
-          "url": "https://www.youtube.com/watch?v=YMa9LVFNdVc"
-        }
-      ],
-      "first_detected_at": "2026-10-24T09:59:09.409198+00:00",
-      "last_seen_at": "2026-10-24T09:59:09.409198+00:00"
+      "first_detected_at": "2026-10-21T16:18:59.322063+00:00",
+      "last_seen_at": "2026-10-24T15:03:53.448200+00:00"
     }
   ],
   "topics": [
     {
       "phrase": "iphone",
-      "video_count": 8,
-      "momentum": 42.27,
+      "video_count": 9,
+      "momentum": 48.28,
       "regions": [
         "US"
       ],
       "lang": "en",
       "example_videos": [
         {
+          "id": "5laDGy4INB0",
+          "title": "iPhone Duo Durability: Destroyed",
+          "channel": "JerryRigEverything",
+          "thumbnail": "https://i.ytimg.com/vi/5laDGy4INB0/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=5laDGy4INB0",
+          "views": 4422638,
+          "age_hours": 11.1
+        },
+        {
           "id": "YOAhjSK9Lbw",
           "title": "iPhone Duos are cracking 😬",
           "channel": "John Casterline",
           "thumbnail": "https://i.ytimg.com/vi/YOAhjSK9Lbw/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=YOAhjSK9Lbw",
-          "views": 1077502,
-          "age_hours": 9.5
+          "views": 1460979,
+          "age_hours": 14.6
         },
         {
           "id": "tW39aTQ-LEI",
@@ -394,8 +455,37 @@
           "channel": "CarterPCs",
           "thumbnail": "https://i.ytimg.com/vi/tW39aTQ-LEI/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=tW39aTQ-LEI",
-          "views": 6355790,
-          "age_hours": 30.3
+          "views": 7039755,
+          "age_hours": 35.4
+        }
+      ]
+    },
+    {
+      "phrase": "iphone duo",
+      "video_count": 7,
+      "momentum": 47.26,
+      "regions": [
+        "US"
+      ],
+      "lang": "en",
+      "example_videos": [
+        {
+          "id": "5laDGy4INB0",
+          "title": "iPhone Duo Durability: Destroyed",
+          "channel": "JerryRigEverything",
+          "thumbnail": "https://i.ytimg.com/vi/5laDGy4INB0/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=5laDGy4INB0",
+          "views": 4422638,
+          "age_hours": 11.1
+        },
+        {
+          "id": "tW39aTQ-LEI",
+          "title": "He peeled the nano-texture off his iPhone duo??",
+          "channel": "CarterPCs",
+          "thumbnail": "https://i.ytimg.com/vi/tW39aTQ-LEI/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=tW39aTQ-LEI",
+          "views": 7039755,
+          "age_hours": 35.4
         },
         {
           "id": "i3ZlSlnGWng",
@@ -403,91 +493,15 @@
           "channel": "Mrwhosetheboss",
           "thumbnail": "https://i.ytimg.com/vi/i3ZlSlnGWng/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=i3ZlSlnGWng",
-          "views": 8417594,
-          "age_hours": 69.9
-        }
-      ]
-    },
-    {
-      "phrase": "iphone duo",
-      "video_count": 7,
-      "momentum": 41.16,
-      "regions": [
-        "IN"
-      ],
-      "lang": "en",
-      "example_videos": [
-        {
-          "id": "9ZZi8KJ7MGo",
-          "title": "iPhone DUO Unboxing - My New Phone ! #shorts",
-          "channel": "TechBar",
-          "thumbnail": "https://i.ytimg.com/vi/9ZZi8KJ7MGo/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=9ZZi8KJ7MGo",
-          "views": 2571971,
-          "age_hours": 46.2
-        },
-        {
-          "id": "YuclQXJiZf8",
-          "title": "iPhone Duo has Serious Issues ❌",
-          "channel": "TechBurner Shorts",
-          "thumbnail": "https://i.ytimg.com/vi/YuclQXJiZf8/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=YuclQXJiZf8",
-          "views": 605628,
-          "age_hours": 17.0
-        },
-        {
-          "id": "bEGiQjlFPlw",
-          "title": "₹3,74,900 iPhone Duo Unboxing..",
-          "channel": "Manoj Saru",
-          "thumbnail": "https://i.ytimg.com/vi/bEGiQjlFPlw/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=bEGiQjlFPlw",
-          "views": 749616,
-          "age_hours": 44.6
-        }
-      ]
-    },
-    {
-      "phrase": "avengers doomsday",
-      "video_count": 4,
-      "momentum": 25.04,
-      "regions": [
-        "US"
-      ],
-      "lang": "en",
-      "example_videos": [
-        {
-          "id": "oLJFJSNFklU",
-          "title": "EXCLUSIVE PREVIEW ⚾ MLB Crosses Over Into Avengers: Doomsday 🤯",
-          "channel": "MLB",
-          "thumbnail": "https://i.ytimg.com/vi/oLJFJSNFklU/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=oLJFJSNFklU",
-          "views": 1236672,
-          "age_hours": 9.1
-        },
-        {
-          "id": "6H-_VHitfAA",
-          "title": "AVENGERS 5: DOOMSDAY Official “Steve Rogers Meets New Avengers” Teaser Trailer (2026)",
-          "channel": "KinoCheck.com",
-          "thumbnail": "https://i.ytimg.com/vi/6H-_VHitfAA/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=6H-_VHitfAA",
-          "views": 1181597,
-          "age_hours": 8.9
-        },
-        {
-          "id": "WWa7n1FBKeE",
-          "title": "AVENGERS DOOMSDAY TRAILER Breakdown and Easter Eggs",
-          "channel": "Emergency Awesome",
-          "thumbnail": "https://i.ytimg.com/vi/WWa7n1FBKeE/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=WWa7n1FBKeE",
-          "views": 180309,
-          "age_hours": 7.0
+          "views": 8746435,
+          "age_hours": 75.0
         }
       ]
     },
     {
       "phrase": "comedy",
-      "video_count": 5,
-      "momentum": 22.67,
+      "video_count": 6,
+      "momentum": 26.98,
       "regions": [
         "DE"
       ],
@@ -499,8 +513,8 @@
           "channel": "dergp",
           "thumbnail": "https://i.ytimg.com/vi/kRrDC0fFa2c/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=kRrDC0fFa2c",
-          "views": 1923853,
-          "age_hours": 69.0
+          "views": 2000919,
+          "age_hours": 74.1
         },
         {
           "id": "jgbBOBxNOOg",
@@ -508,8 +522,8 @@
           "channel": "Jenni ⭐️",
           "thumbnail": "https://i.ytimg.com/vi/jgbBOBxNOOg/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=jgbBOBxNOOg",
-          "views": 2552929,
-          "age_hours": 112.9
+          "views": 2630911,
+          "age_hours": 117.9
         },
         {
           "id": "MCHtBs_e8hw",
@@ -517,15 +531,53 @@
           "channel": "typischberkee",
           "thumbnail": "https://i.ytimg.com/vi/MCHtBs_e8hw/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=MCHtBs_e8hw",
-          "views": 1419502,
-          "age_hours": 65.2
+          "views": 1491059,
+          "age_hours": 70.3
+        }
+      ]
+    },
+    {
+      "phrase": "avengers doomsday",
+      "video_count": 4,
+      "momentum": 24.64,
+      "regions": [
+        "US"
+      ],
+      "lang": "en",
+      "example_videos": [
+        {
+          "id": "oLJFJSNFklU",
+          "title": "EXCLUSIVE PREVIEW ⚾ MLB Crosses Over Into Avengers: Doomsday 🤯",
+          "channel": "MLB",
+          "thumbnail": "https://i.ytimg.com/vi/oLJFJSNFklU/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=oLJFJSNFklU",
+          "views": 1689397,
+          "age_hours": 14.2
+        },
+        {
+          "id": "6H-_VHitfAA",
+          "title": "AVENGERS 5: DOOMSDAY Official “Steve Rogers Meets New Avengers” Teaser Trailer (2026)",
+          "channel": "KinoCheck.com",
+          "thumbnail": "https://i.ytimg.com/vi/6H-_VHitfAA/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=6H-_VHitfAA",
+          "views": 1809323,
+          "age_hours": 13.9
+        },
+        {
+          "id": "WWa7n1FBKeE",
+          "title": "AVENGERS DOOMSDAY TRAILER Breakdown and Easter Eggs",
+          "channel": "Emergency Awesome",
+          "thumbnail": "https://i.ytimg.com/vi/WWa7n1FBKeE/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=WWa7n1FBKeE",
+          "views": 297462,
+          "age_hours": 12.1
         }
       ]
     },
     {
       "phrase": "time",
       "video_count": 4,
-      "momentum": 19.62,
+      "momentum": 19.31,
       "regions": [
         "US"
       ],
@@ -537,8 +589,8 @@
           "channel": "Mob Entertainment",
           "thumbnail": "https://i.ytimg.com/vi/3uURd82kFd4/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=3uURd82kFd4",
-          "views": 1131822,
-          "age_hours": 8.6
+          "views": 1713428,
+          "age_hours": 13.7
         },
         {
           "id": "KjPmotVGXsA",
@@ -546,8 +598,8 @@
           "channel": "Mike Memes",
           "thumbnail": "https://i.ytimg.com/vi/KjPmotVGXsA/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=KjPmotVGXsA",
-          "views": 10208253,
-          "age_hours": 114.0
+          "views": 10240224,
+          "age_hours": 119.1
         },
         {
           "id": "1NLU4ySkgu4",
@@ -555,15 +607,15 @@
           "channel": "Sydney Everhart",
           "thumbnail": "https://i.ytimg.com/vi/1NLU4ySkgu4/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=1NLU4ySkgu4",
-          "views": 293158,
-          "age_hours": 65.4
+          "views": 294283,
+          "age_hours": 70.5
         }
       ]
     },
     {
       "phrase": "minecraft",
       "video_count": 4,
-      "momentum": 18.31,
+      "momentum": 18.26,
       "regions": [
         "IN"
       ],
@@ -575,8 +627,8 @@
           "channel": "Karry Kraft",
           "thumbnail": "https://i.ytimg.com/vi/r1EUU26jrTM/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=r1EUU26jrTM",
-          "views": 799777,
-          "age_hours": 19.8
+          "views": 1046639,
+          "age_hours": 24.9
         },
         {
           "id": "iRFxgun272Q",
@@ -584,8 +636,8 @@
           "channel": "Carry Depie",
           "thumbnail": "https://i.ytimg.com/vi/iRFxgun272Q/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=iRFxgun272Q",
-          "views": 1497417,
-          "age_hours": 45.6
+          "views": 1595911,
+          "age_hours": 50.7
         },
         {
           "id": "xxvzkQvsJyg",
@@ -593,285 +645,44 @@
           "channel": "Junkeyy",
           "thumbnail": "https://i.ytimg.com/vi/xxvzkQvsJyg/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=xxvzkQvsJyg",
-          "views": 1085418,
-          "age_hours": 43.7
+          "views": 1177528,
+          "age_hours": 48.8
         }
       ]
     },
     {
       "phrase": "gta live gta5",
       "video_count": 2,
-      "momentum": 18.17,
+      "momentum": 17.15,
       "regions": [
         "IN"
       ],
       "lang": "en",
       "example_videos": [
         {
-          "id": "UDG80MZZb2g",
-          "title": "GTA 5 LIVE 🔥 #gta5 #shortslive #gaming",
-          "channel": "BOSS GAMING",
-          "thumbnail": "https://i.ytimg.com/vi/UDG80MZZb2g/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=UDG80MZZb2g",
-          "views": 3930635,
-          "age_hours": 3.5
-        },
-        {
           "id": "FLELDkv8zWg",
           "title": "GTA 5 LIVE  #gta5 #gtav #gaming",
           "channel": "PAJI IS LIVE",
           "thumbnail": "https://i.ytimg.com/vi/FLELDkv8zWg/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=FLELDkv8zWg",
-          "views": 5653198,
-          "age_hours": 5.4
-        }
-      ]
-    },
-    {
-      "phrase": "craft attack",
-      "video_count": 3,
-      "momentum": 15.99,
-      "regions": [
-        "DE"
-      ],
-      "lang": "de",
-      "example_videos": [
-        {
-          "id": "nDTcIvreJ6Y",
-          "title": "🤯❌MEIN 1. TOD durch diesen NEUEN MOB in CRAFT ATTACK 14?! - KROKOS HOCHZEIT Eskaliert...",
-          "channel": "Trymacs",
-          "thumbnail": "https://i.ytimg.com/vi/nDTcIvreJ6Y/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=nDTcIvreJ6Y",
-          "views": 382886,
-          "age_hours": 23.7
+          "views": 5654065,
+          "age_hours": 10.5
         },
         {
-          "id": "gMo3yZLHPaI",
-          "title": "DIE XXL KÜNSTLER FOLGE (CRAFT ATTACK 14 #9)",
-          "channel": "Bastian",
-          "thumbnail": "https://i.ytimg.com/vi/gMo3yZLHPaI/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=gMo3yZLHPaI",
-          "views": 308903,
-          "age_hours": 41.8
-        },
-        {
-          "id": "-rBjdBIlXus",
-          "title": "Statement zu allen kritischen Themen (Veni Voting & mehr) - Minecraft Craft Attack 14 #14",
-          "channel": "SparkofPhoenix",
-          "thumbnail": "https://i.ytimg.com/vi/-rBjdBIlXus/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=-rBjdBIlXus",
-          "views": 134155,
-          "age_hours": 18.7
-        }
-      ]
-    },
-    {
-      "phrase": "youtubeshorts cringe lifehack",
-      "video_count": 2,
-      "momentum": 15.86,
-      "regions": [
-        "GB"
-      ],
-      "lang": "en",
-      "example_videos": [
-        {
-          "id": "lMr8Q6PbKiY",
-          "title": "He found the worst pool hack... #shorts #shortsfeed #youtubeshorts #cringe #lifehack #comedy #funny",
-          "channel": "LouisAyy",
-          "thumbnail": "https://i.ytimg.com/vi/lMr8Q6PbKiY/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=lMr8Q6PbKiY",
-          "views": 3407181,
-          "age_hours": 15.7
-        },
-        {
-          "id": "VOL7I99tXao",
-          "title": "She makes her kids reflective... #shorts #shortsfeed #youtubeshorts #cringe #lifehack #comedy #funny",
-          "channel": "LouisAyy",
-          "thumbnail": "https://i.ytimg.com/vi/VOL7I99tXao/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=VOL7I99tXao",
-          "views": 7639651,
-          "age_hours": 110.3
-        }
-      ]
-    },
-    {
-      "phrase": "cringe lifehack comedy",
-      "video_count": 2,
-      "momentum": 15.86,
-      "regions": [
-        "GB"
-      ],
-      "lang": "en",
-      "example_videos": [
-        {
-          "id": "lMr8Q6PbKiY",
-          "title": "He found the worst pool hack... #shorts #shortsfeed #youtubeshorts #cringe #lifehack #comedy #funny",
-          "channel": "LouisAyy",
-          "thumbnail": "https://i.ytimg.com/vi/lMr8Q6PbKiY/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=lMr8Q6PbKiY",
-          "views": 3407181,
-          "age_hours": 15.7
-        },
-        {
-          "id": "VOL7I99tXao",
-          "title": "She makes her kids reflective... #shorts #shortsfeed #youtubeshorts #cringe #lifehack #comedy #funny",
-          "channel": "LouisAyy",
-          "thumbnail": "https://i.ytimg.com/vi/VOL7I99tXao/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=VOL7I99tXao",
-          "views": 7639651,
-          "age_hours": 110.3
-        }
-      ]
-    },
-    {
-      "phrase": "lifehack comedy funny",
-      "video_count": 2,
-      "momentum": 15.86,
-      "regions": [
-        "GB"
-      ],
-      "lang": "en",
-      "example_videos": [
-        {
-          "id": "lMr8Q6PbKiY",
-          "title": "He found the worst pool hack... #shorts #shortsfeed #youtubeshorts #cringe #lifehack #comedy #funny",
-          "channel": "LouisAyy",
-          "thumbnail": "https://i.ytimg.com/vi/lMr8Q6PbKiY/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=lMr8Q6PbKiY",
-          "views": 3407181,
-          "age_hours": 15.7
-        },
-        {
-          "id": "VOL7I99tXao",
-          "title": "She makes her kids reflective... #shorts #shortsfeed #youtubeshorts #cringe #lifehack #comedy #funny",
-          "channel": "LouisAyy",
-          "thumbnail": "https://i.ytimg.com/vi/VOL7I99tXao/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=VOL7I99tXao",
-          "views": 7639651,
-          "age_hours": 110.3
-        }
-      ]
-    },
-    {
-      "phrase": "avengers doomsday official",
-      "video_count": 2,
-      "momentum": 14.88,
-      "regions": [
-        "US"
-      ],
-      "lang": "en",
-      "example_videos": [
-        {
-          "id": "6H-_VHitfAA",
-          "title": "AVENGERS 5: DOOMSDAY Official “Steve Rogers Meets New Avengers” Teaser Trailer (2026)",
-          "channel": "KinoCheck.com",
-          "thumbnail": "https://i.ytimg.com/vi/6H-_VHitfAA/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=6H-_VHitfAA",
-          "views": 1181597,
-          "age_hours": 8.9
-        },
-        {
-          "id": "Kyjq27ORERk",
-          "title": "AVENGERS: DOOMSDAY Official “Steve Rogers Reunites With Avengers” Teaser Trailer (2026)",
-          "channel": "FilmSelect",
-          "thumbnail": "https://i.ytimg.com/vi/Kyjq27ORERk/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=Kyjq27ORERk",
-          "views": 311576,
-          "age_hours": 8.9
-        }
-      ]
-    },
-    {
-      "phrase": "doomsday official steve",
-      "video_count": 2,
-      "momentum": 14.88,
-      "regions": [
-        "US"
-      ],
-      "lang": "en",
-      "example_videos": [
-        {
-          "id": "6H-_VHitfAA",
-          "title": "AVENGERS 5: DOOMSDAY Official “Steve Rogers Meets New Avengers” Teaser Trailer (2026)",
-          "channel": "KinoCheck.com",
-          "thumbnail": "https://i.ytimg.com/vi/6H-_VHitfAA/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=6H-_VHitfAA",
-          "views": 1181597,
-          "age_hours": 8.9
-        },
-        {
-          "id": "Kyjq27ORERk",
-          "title": "AVENGERS: DOOMSDAY Official “Steve Rogers Reunites With Avengers” Teaser Trailer (2026)",
-          "channel": "FilmSelect",
-          "thumbnail": "https://i.ytimg.com/vi/Kyjq27ORERk/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=Kyjq27ORERk",
-          "views": 311576,
-          "age_hours": 8.9
-        }
-      ]
-    },
-    {
-      "phrase": "official steve rogers",
-      "video_count": 2,
-      "momentum": 14.88,
-      "regions": [
-        "US"
-      ],
-      "lang": "en",
-      "example_videos": [
-        {
-          "id": "6H-_VHitfAA",
-          "title": "AVENGERS 5: DOOMSDAY Official “Steve Rogers Meets New Avengers” Teaser Trailer (2026)",
-          "channel": "KinoCheck.com",
-          "thumbnail": "https://i.ytimg.com/vi/6H-_VHitfAA/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=6H-_VHitfAA",
-          "views": 1181597,
-          "age_hours": 8.9
-        },
-        {
-          "id": "Kyjq27ORERk",
-          "title": "AVENGERS: DOOMSDAY Official “Steve Rogers Reunites With Avengers” Teaser Trailer (2026)",
-          "channel": "FilmSelect",
-          "thumbnail": "https://i.ytimg.com/vi/Kyjq27ORERk/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=Kyjq27ORERk",
-          "views": 311576,
-          "age_hours": 8.9
-        }
-      ]
-    },
-    {
-      "phrase": "avengers teaser trailer",
-      "video_count": 2,
-      "momentum": 14.88,
-      "regions": [
-        "US"
-      ],
-      "lang": "en",
-      "example_videos": [
-        {
-          "id": "6H-_VHitfAA",
-          "title": "AVENGERS 5: DOOMSDAY Official “Steve Rogers Meets New Avengers” Teaser Trailer (2026)",
-          "channel": "KinoCheck.com",
-          "thumbnail": "https://i.ytimg.com/vi/6H-_VHitfAA/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=6H-_VHitfAA",
-          "views": 1181597,
-          "age_hours": 8.9
-        },
-        {
-          "id": "Kyjq27ORERk",
-          "title": "AVENGERS: DOOMSDAY Official “Steve Rogers Reunites With Avengers” Teaser Trailer (2026)",
-          "channel": "FilmSelect",
-          "thumbnail": "https://i.ytimg.com/vi/Kyjq27ORERk/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=Kyjq27ORERk",
-          "views": 311576,
-          "age_hours": 8.9
+          "id": "UDG80MZZb2g",
+          "title": "GTA 5 LIVE 🔥 #gta5 #shortslive #gaming",
+          "channel": "BOSS GAMING",
+          "thumbnail": "https://i.ytimg.com/vi/UDG80MZZb2g/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=UDG80MZZb2g",
+          "views": 3931352,
+          "age_hours": 8.5
         }
       ]
     },
     {
       "phrase": "iphone duo unboxing",
       "video_count": 2,
-      "momentum": 14.78,
+      "momentum": 14.73,
       "regions": [
         "IN"
       ],
@@ -883,8 +694,8 @@
           "channel": "TechBar",
           "thumbnail": "https://i.ytimg.com/vi/9ZZi8KJ7MGo/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=9ZZi8KJ7MGo",
-          "views": 2571971,
-          "age_hours": 46.2
+          "views": 2642501,
+          "age_hours": 51.3
         },
         {
           "id": "bEGiQjlFPlw",
@@ -892,15 +703,131 @@
           "channel": "Manoj Saru",
           "thumbnail": "https://i.ytimg.com/vi/bEGiQjlFPlw/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=bEGiQjlFPlw",
-          "views": 749616,
-          "age_hours": 44.6
+          "views": 824449,
+          "age_hours": 49.7
+        }
+      ]
+    },
+    {
+      "phrase": "avengers doomsday official",
+      "video_count": 2,
+      "momentum": 14.61,
+      "regions": [
+        "US"
+      ],
+      "lang": "en",
+      "example_videos": [
+        {
+          "id": "6H-_VHitfAA",
+          "title": "AVENGERS 5: DOOMSDAY Official “Steve Rogers Meets New Avengers” Teaser Trailer (2026)",
+          "channel": "KinoCheck.com",
+          "thumbnail": "https://i.ytimg.com/vi/6H-_VHitfAA/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=6H-_VHitfAA",
+          "views": 1809323,
+          "age_hours": 13.9
+        },
+        {
+          "id": "Kyjq27ORERk",
+          "title": "AVENGERS: DOOMSDAY Official “Steve Rogers Reunites With Avengers” Teaser Trailer (2026)",
+          "channel": "FilmSelect",
+          "thumbnail": "https://i.ytimg.com/vi/Kyjq27ORERk/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=Kyjq27ORERk",
+          "views": 357375,
+          "age_hours": 14.0
+        }
+      ]
+    },
+    {
+      "phrase": "doomsday official steve",
+      "video_count": 2,
+      "momentum": 14.61,
+      "regions": [
+        "US"
+      ],
+      "lang": "en",
+      "example_videos": [
+        {
+          "id": "6H-_VHitfAA",
+          "title": "AVENGERS 5: DOOMSDAY Official “Steve Rogers Meets New Avengers” Teaser Trailer (2026)",
+          "channel": "KinoCheck.com",
+          "thumbnail": "https://i.ytimg.com/vi/6H-_VHitfAA/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=6H-_VHitfAA",
+          "views": 1809323,
+          "age_hours": 13.9
+        },
+        {
+          "id": "Kyjq27ORERk",
+          "title": "AVENGERS: DOOMSDAY Official “Steve Rogers Reunites With Avengers” Teaser Trailer (2026)",
+          "channel": "FilmSelect",
+          "thumbnail": "https://i.ytimg.com/vi/Kyjq27ORERk/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=Kyjq27ORERk",
+          "views": 357375,
+          "age_hours": 14.0
+        }
+      ]
+    },
+    {
+      "phrase": "official steve rogers",
+      "video_count": 2,
+      "momentum": 14.61,
+      "regions": [
+        "US"
+      ],
+      "lang": "en",
+      "example_videos": [
+        {
+          "id": "6H-_VHitfAA",
+          "title": "AVENGERS 5: DOOMSDAY Official “Steve Rogers Meets New Avengers” Teaser Trailer (2026)",
+          "channel": "KinoCheck.com",
+          "thumbnail": "https://i.ytimg.com/vi/6H-_VHitfAA/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=6H-_VHitfAA",
+          "views": 1809323,
+          "age_hours": 13.9
+        },
+        {
+          "id": "Kyjq27ORERk",
+          "title": "AVENGERS: DOOMSDAY Official “Steve Rogers Reunites With Avengers” Teaser Trailer (2026)",
+          "channel": "FilmSelect",
+          "thumbnail": "https://i.ytimg.com/vi/Kyjq27ORERk/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=Kyjq27ORERk",
+          "views": 357375,
+          "age_hours": 14.0
+        }
+      ]
+    },
+    {
+      "phrase": "avengers teaser trailer",
+      "video_count": 2,
+      "momentum": 14.61,
+      "regions": [
+        "US"
+      ],
+      "lang": "en",
+      "example_videos": [
+        {
+          "id": "6H-_VHitfAA",
+          "title": "AVENGERS 5: DOOMSDAY Official “Steve Rogers Meets New Avengers” Teaser Trailer (2026)",
+          "channel": "KinoCheck.com",
+          "thumbnail": "https://i.ytimg.com/vi/6H-_VHitfAA/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=6H-_VHitfAA",
+          "views": 1809323,
+          "age_hours": 13.9
+        },
+        {
+          "id": "Kyjq27ORERk",
+          "title": "AVENGERS: DOOMSDAY Official “Steve Rogers Reunites With Avengers” Teaser Trailer (2026)",
+          "channel": "FilmSelect",
+          "thumbnail": "https://i.ytimg.com/vi/Kyjq27ORERk/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=Kyjq27ORERk",
+          "views": 357375,
+          "age_hours": 14.0
         }
       ]
     },
     {
       "phrase": "instalei minecraft dentro",
       "video_count": 2,
-      "momentum": 13.84,
+      "momentum": 13.71,
       "regions": [
         "BR"
       ],
@@ -912,8 +839,8 @@
           "channel": "Jazzghost",
           "thumbnail": "https://i.ytimg.com/vi/g76WR5Ie4CM/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=g76WR5Ie4CM",
-          "views": 2558882,
-          "age_hours": 42.4
+          "views": 2627597,
+          "age_hours": 47.5
         },
         {
           "id": "S7NJOynf_VU",
@@ -921,15 +848,44 @@
           "channel": "LipaoGamer",
           "thumbnail": "https://i.ytimg.com/vi/S7NJOynf_VU/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=S7NJOynf_VU",
-          "views": 127950,
-          "age_hours": 16.5
+          "views": 153144,
+          "age_hours": 21.6
+        }
+      ]
+    },
+    {
+      "phrase": "3d professor",
+      "video_count": 2,
+      "momentum": 13.7,
+      "regions": [
+        "IN"
+      ],
+      "lang": "en",
+      "example_videos": [
+        {
+          "id": "-xdD1y6JAi4",
+          "title": "Tiger Shroff vs Lawrence Bishnoi (3D) by Professor of How",
+          "channel": "Professor Of How",
+          "thumbnail": "https://i.ytimg.com/vi/-xdD1y6JAi4/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=-xdD1y6JAi4",
+          "views": 21508525,
+          "age_hours": 118.9
+        },
+        {
+          "id": "bJVOo7caT6A",
+          "title": "💀Mukti Laabh Bhawan (3D) by Professor of How",
+          "channel": "Professor Of How",
+          "thumbnail": "https://i.ytimg.com/vi/bJVOo7caT6A/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=bJVOo7caT6A",
+          "views": 18280791,
+          "age_hours": 153.8
         }
       ]
     },
     {
       "phrase": "apple iphone duo",
       "video_count": 2,
-      "momentum": 13.75,
+      "momentum": 13.63,
       "regions": [
         "IN"
       ],
@@ -941,8 +897,8 @@
           "channel": "CallMeShazzam TECH",
           "thumbnail": "https://i.ytimg.com/vi/8kuHOHbZZyY/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=8kuHOHbZZyY",
-          "views": 488245,
-          "age_hours": 21.0
+          "views": 580627,
+          "age_hours": 26.1
         },
         {
           "id": "6YKst1orufw",
@@ -950,8 +906,95 @@
           "channel": "Tech Satire",
           "thumbnail": "https://i.ytimg.com/vi/6YKst1orufw/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=6YKst1orufw",
-          "views": 223620,
-          "age_hours": 19.8
+          "views": 270164,
+          "age_hours": 24.9
+        }
+      ]
+    },
+    {
+      "phrase": "bhojpuri song",
+      "video_count": 2,
+      "momentum": 13.44,
+      "regions": [
+        "IN"
+      ],
+      "lang": "en",
+      "example_videos": [
+        {
+          "id": "sO-tw97a_2g",
+          "title": "Video | फोटउवा लेके हाथ में | Khesari Lal Yadav | Ft. Dimpal Singh | Photauwa | Bhojpuri Song 2026",
+          "channel": "Annapurna Films",
+          "thumbnail": "https://i.ytimg.com/vi/sO-tw97a_2g/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=sO-tw97a_2g",
+          "views": 1731662,
+          "age_hours": 38.1
+        },
+        {
+          "id": "BSw_AiwvMBs",
+          "title": "#Video | कोरा में | #Pawan Singh | Kora Me |  #Queen Shalinee | #Khushi Kakkar | Bhojpuri New Song",
+          "channel": "Sur Music ",
+          "thumbnail": "https://i.ytimg.com/vi/BSw_AiwvMBs/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=BSw_AiwvMBs",
+          "views": 1290856,
+          "age_hours": 38.1
+        }
+      ]
+    },
+    {
+      "phrase": "gone wrong",
+      "video_count": 2,
+      "momentum": 11.87,
+      "regions": [
+        "IN"
+      ],
+      "lang": "en",
+      "example_videos": [
+        {
+          "id": "l3yZEEjYv7Y",
+          "title": "\"Number Ek\" Prank Gone Wrong on Girl YouTuber",
+          "channel": "SATVIK",
+          "thumbnail": "https://i.ytimg.com/vi/l3yZEEjYv7Y/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=l3yZEEjYv7Y",
+          "views": 550075,
+          "age_hours": 11.4
+        },
+        {
+          "id": "wS3rvxbkVUA",
+          "title": "iPhone Duo Drop Test Gone Wrong! 😶",
+          "channel": "Beebom",
+          "thumbnail": "https://i.ytimg.com/vi/wS3rvxbkVUA/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=wS3rvxbkVUA",
+          "views": 4060096,
+          "age_hours": 217.2
+        }
+      ]
+    },
+    {
+      "phrase": "todo mundo",
+      "video_count": 2,
+      "momentum": 11.65,
+      "regions": [
+        "BR"
+      ],
+      "lang": "pt",
+      "example_videos": [
+        {
+          "id": "ZVuMlxXlD8E",
+          "title": "A EMILLY VICK FEZ TATUAGEM DE TODO MUNDO #shorts",
+          "channel": "Emilly Tubera",
+          "thumbnail": "https://i.ytimg.com/vi/ZVuMlxXlD8E/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=ZVuMlxXlD8E",
+          "views": 2466619,
+          "age_hours": 41.2
+        },
+        {
+          "id": "cSrx2odmbwg",
+          "title": "Como tirar foto de pôr do sol como um profissional no iPhone! Todo mundo vai achar q vc usa DSLR",
+          "channel": "Jef Dicas Tech 📱Tecnologia ",
+          "thumbnail": "https://i.ytimg.com/vi/cSrx2odmbwg/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=cSrx2odmbwg",
+          "views": 1535203,
+          "age_hours": 119.4
         }
       ]
     }
@@ -960,21 +1003,30 @@
     "US": [
       {
         "phrase": "iphone",
-        "video_count": 8,
-        "momentum": 42.27,
+        "video_count": 9,
+        "momentum": 48.28,
         "regions": [
           "US"
         ],
         "lang": "en",
         "example_videos": [
+          {
+            "id": "5laDGy4INB0",
+            "title": "iPhone Duo Durability: Destroyed",
+            "channel": "JerryRigEverything",
+            "thumbnail": "https://i.ytimg.com/vi/5laDGy4INB0/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=5laDGy4INB0",
+            "views": 4422638,
+            "age_hours": 11.1
+          },
           {
             "id": "YOAhjSK9Lbw",
             "title": "iPhone Duos are cracking 😬",
             "channel": "John Casterline",
             "thumbnail": "https://i.ytimg.com/vi/YOAhjSK9Lbw/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=YOAhjSK9Lbw",
-            "views": 1077502,
-            "age_hours": 9.5
+            "views": 1460979,
+            "age_hours": 14.6
           },
           {
             "id": "tW39aTQ-LEI",
@@ -982,37 +1034,37 @@
             "channel": "CarterPCs",
             "thumbnail": "https://i.ytimg.com/vi/tW39aTQ-LEI/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=tW39aTQ-LEI",
-            "views": 6355790,
-            "age_hours": 30.3
-          },
-          {
-            "id": "i3ZlSlnGWng",
-            "title": "6 ways iPhone Duo beats Samsung",
-            "channel": "Mrwhosetheboss",
-            "thumbnail": "https://i.ytimg.com/vi/i3ZlSlnGWng/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=i3ZlSlnGWng",
-            "views": 8417594,
-            "age_hours": 69.9
+            "views": 7039755,
+            "age_hours": 35.4
           }
         ]
       },
       {
         "phrase": "iphone duo",
-        "video_count": 6,
-        "momentum": 39.65,
+        "video_count": 7,
+        "momentum": 47.26,
         "regions": [
           "US"
         ],
         "lang": "en",
         "example_videos": [
           {
+            "id": "5laDGy4INB0",
+            "title": "iPhone Duo Durability: Destroyed",
+            "channel": "JerryRigEverything",
+            "thumbnail": "https://i.ytimg.com/vi/5laDGy4INB0/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=5laDGy4INB0",
+            "views": 4422638,
+            "age_hours": 11.1
+          },
+          {
             "id": "tW39aTQ-LEI",
             "title": "He peeled the nano-texture off his iPhone duo??",
             "channel": "CarterPCs",
             "thumbnail": "https://i.ytimg.com/vi/tW39aTQ-LEI/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=tW39aTQ-LEI",
-            "views": 6355790,
-            "age_hours": 30.3
+            "views": 7039755,
+            "age_hours": 35.4
           },
           {
             "id": "i3ZlSlnGWng",
@@ -1020,24 +1072,15 @@
             "channel": "Mrwhosetheboss",
             "thumbnail": "https://i.ytimg.com/vi/i3ZlSlnGWng/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=i3ZlSlnGWng",
-            "views": 8417594,
-            "age_hours": 69.9
-          },
-          {
-            "id": "ESABTN4VtrA",
-            "title": "iPhone Duo Review: First Generation Fun!",
-            "channel": "Marques Brownlee",
-            "thumbnail": "https://i.ytimg.com/vi/ESABTN4VtrA/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=ESABTN4VtrA",
-            "views": 10577553,
-            "age_hours": 70.0
+            "views": 8746435,
+            "age_hours": 75.0
           }
         ]
       },
       {
         "phrase": "avengers doomsday",
         "video_count": 4,
-        "momentum": 25.04,
+        "momentum": 24.64,
         "regions": [
           "US"
         ],
@@ -1049,8 +1092,8 @@
             "channel": "MLB",
             "thumbnail": "https://i.ytimg.com/vi/oLJFJSNFklU/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=oLJFJSNFklU",
-            "views": 1236672,
-            "age_hours": 9.1
+            "views": 1689397,
+            "age_hours": 14.2
           },
           {
             "id": "6H-_VHitfAA",
@@ -1058,8 +1101,8 @@
             "channel": "KinoCheck.com",
             "thumbnail": "https://i.ytimg.com/vi/6H-_VHitfAA/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=6H-_VHitfAA",
-            "views": 1181597,
-            "age_hours": 8.9
+            "views": 1809323,
+            "age_hours": 13.9
           },
           {
             "id": "WWa7n1FBKeE",
@@ -1067,15 +1110,15 @@
             "channel": "Emergency Awesome",
             "thumbnail": "https://i.ytimg.com/vi/WWa7n1FBKeE/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=WWa7n1FBKeE",
-            "views": 180309,
-            "age_hours": 7.0
+            "views": 297462,
+            "age_hours": 12.1
           }
         ]
       },
       {
         "phrase": "time",
         "video_count": 4,
-        "momentum": 19.62,
+        "momentum": 19.31,
         "regions": [
           "US"
         ],
@@ -1087,8 +1130,8 @@
             "channel": "Mob Entertainment",
             "thumbnail": "https://i.ytimg.com/vi/3uURd82kFd4/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=3uURd82kFd4",
-            "views": 1131822,
-            "age_hours": 8.6
+            "views": 1713428,
+            "age_hours": 13.7
           },
           {
             "id": "KjPmotVGXsA",
@@ -1096,8 +1139,8 @@
             "channel": "Mike Memes",
             "thumbnail": "https://i.ytimg.com/vi/KjPmotVGXsA/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=KjPmotVGXsA",
-            "views": 10208253,
-            "age_hours": 114.0
+            "views": 10240224,
+            "age_hours": 119.1
           },
           {
             "id": "1NLU4ySkgu4",
@@ -1105,15 +1148,15 @@
             "channel": "Sydney Everhart",
             "thumbnail": "https://i.ytimg.com/vi/1NLU4ySkgu4/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=1NLU4ySkgu4",
-            "views": 293158,
-            "age_hours": 65.4
+            "views": 294283,
+            "age_hours": 70.5
           }
         ]
       },
       {
         "phrase": "avengers doomsday official",
         "video_count": 2,
-        "momentum": 14.88,
+        "momentum": 14.61,
         "regions": [
           "US"
         ],
@@ -1125,8 +1168,8 @@
             "channel": "KinoCheck.com",
             "thumbnail": "https://i.ytimg.com/vi/6H-_VHitfAA/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=6H-_VHitfAA",
-            "views": 1181597,
-            "age_hours": 8.9
+            "views": 1809323,
+            "age_hours": 13.9
           },
           {
             "id": "Kyjq27ORERk",
@@ -1134,15 +1177,15 @@
             "channel": "FilmSelect",
             "thumbnail": "https://i.ytimg.com/vi/Kyjq27ORERk/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=Kyjq27ORERk",
-            "views": 311576,
-            "age_hours": 8.9
+            "views": 357375,
+            "age_hours": 14.0
           }
         ]
       },
       {
         "phrase": "doomsday official steve",
         "video_count": 2,
-        "momentum": 14.88,
+        "momentum": 14.61,
         "regions": [
           "US"
         ],
@@ -1154,8 +1197,8 @@
             "channel": "KinoCheck.com",
             "thumbnail": "https://i.ytimg.com/vi/6H-_VHitfAA/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=6H-_VHitfAA",
-            "views": 1181597,
-            "age_hours": 8.9
+            "views": 1809323,
+            "age_hours": 13.9
           },
           {
             "id": "Kyjq27ORERk",
@@ -1163,15 +1206,15 @@
             "channel": "FilmSelect",
             "thumbnail": "https://i.ytimg.com/vi/Kyjq27ORERk/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=Kyjq27ORERk",
-            "views": 311576,
-            "age_hours": 8.9
+            "views": 357375,
+            "age_hours": 14.0
           }
         ]
       },
       {
         "phrase": "official steve rogers",
         "video_count": 2,
-        "momentum": 14.88,
+        "momentum": 14.61,
         "regions": [
           "US"
         ],
@@ -1183,8 +1226,8 @@
             "channel": "KinoCheck.com",
             "thumbnail": "https://i.ytimg.com/vi/6H-_VHitfAA/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=6H-_VHitfAA",
-            "views": 1181597,
-            "age_hours": 8.9
+            "views": 1809323,
+            "age_hours": 13.9
           },
           {
             "id": "Kyjq27ORERk",
@@ -1192,15 +1235,15 @@
             "channel": "FilmSelect",
             "thumbnail": "https://i.ytimg.com/vi/Kyjq27ORERk/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=Kyjq27ORERk",
-            "views": 311576,
-            "age_hours": 8.9
+            "views": 357375,
+            "age_hours": 14.0
           }
         ]
       },
       {
         "phrase": "avengers teaser trailer",
         "video_count": 2,
-        "momentum": 14.88,
+        "momentum": 14.61,
         "regions": [
           "US"
         ],
@@ -1212,8 +1255,8 @@
             "channel": "KinoCheck.com",
             "thumbnail": "https://i.ytimg.com/vi/6H-_VHitfAA/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=6H-_VHitfAA",
-            "views": 1181597,
-            "age_hours": 8.9
+            "views": 1809323,
+            "age_hours": 13.9
           },
           {
             "id": "Kyjq27ORERk",
@@ -1221,15 +1264,15 @@
             "channel": "FilmSelect",
             "thumbnail": "https://i.ytimg.com/vi/Kyjq27ORERk/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=Kyjq27ORERk",
-            "views": 311576,
-            "age_hours": 8.9
+            "views": 357375,
+            "age_hours": 14.0
           }
         ]
       },
       {
         "phrase": "worlds swiss",
         "video_count": 2,
-        "momentum": 11.47,
+        "momentum": 11.4,
         "regions": [
           "US"
         ],
@@ -1241,8 +1284,8 @@
             "channel": "Caedrel",
             "thumbnail": "https://i.ytimg.com/vi/yHlPICo8LZE/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=yHlPICo8LZE",
-            "views": 214021,
-            "age_hours": 8.1
+            "views": 346120,
+            "age_hours": 13.2
           },
           {
             "id": "uG9SCwcHA7k",
@@ -1250,15 +1293,15 @@
             "channel": "LoL Esports",
             "thumbnail": "https://i.ytimg.com/vi/uG9SCwcHA7k/mqdefault.jpg?v=6adbf3a4",
             "url": "https://www.youtube.com/watch?v=uG9SCwcHA7k",
-            "views": 2742147,
-            "age_hours": 89.4
+            "views": 2769996,
+            "age_hours": 94.5
           }
         ]
       },
       {
         "phrase": "i bought",
         "video_count": 2,
-        "momentum": 10.65,
+        "momentum": 10.55,
         "regions": [
           "US"
         ],
@@ -1270,8 +1313,8 @@
             "channel": "Nick Wilkins",
             "thumbnail": "https://i.ytimg.com/vi/jB_bkbGt8Ys/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=jB_bkbGt8Ys",
-            "views": 3924398,
-            "age_hours": 202.7
+            "views": 3934179,
+            "age_hours": 207.7
           },
           {
             "id": "zYFLNRczYMw",
@@ -1279,104 +1322,17 @@
             "channel": "AlishaMarieVlogs",
             "thumbnail": "https://i.ytimg.com/vi/zYFLNRczYMw/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=zYFLNRczYMw",
-            "views": 84228,
-            "age_hours": 18.2
+            "views": 94571,
+            "age_hours": 23.3
           }
         ]
       }
     ],
     "GB": [
       {
-        "phrase": "youtubeshorts cringe lifehack",
-        "video_count": 2,
-        "momentum": 15.86,
-        "regions": [
-          "GB"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "lMr8Q6PbKiY",
-            "title": "He found the worst pool hack... #shorts #shortsfeed #youtubeshorts #cringe #lifehack #comedy #funny",
-            "channel": "LouisAyy",
-            "thumbnail": "https://i.ytimg.com/vi/lMr8Q6PbKiY/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=lMr8Q6PbKiY",
-            "views": 3407181,
-            "age_hours": 15.7
-          },
-          {
-            "id": "VOL7I99tXao",
-            "title": "She makes her kids reflective... #shorts #shortsfeed #youtubeshorts #cringe #lifehack #comedy #funny",
-            "channel": "LouisAyy",
-            "thumbnail": "https://i.ytimg.com/vi/VOL7I99tXao/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=VOL7I99tXao",
-            "views": 7639651,
-            "age_hours": 110.3
-          }
-        ]
-      },
-      {
-        "phrase": "cringe lifehack comedy",
-        "video_count": 2,
-        "momentum": 15.86,
-        "regions": [
-          "GB"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "lMr8Q6PbKiY",
-            "title": "He found the worst pool hack... #shorts #shortsfeed #youtubeshorts #cringe #lifehack #comedy #funny",
-            "channel": "LouisAyy",
-            "thumbnail": "https://i.ytimg.com/vi/lMr8Q6PbKiY/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=lMr8Q6PbKiY",
-            "views": 3407181,
-            "age_hours": 15.7
-          },
-          {
-            "id": "VOL7I99tXao",
-            "title": "She makes her kids reflective... #shorts #shortsfeed #youtubeshorts #cringe #lifehack #comedy #funny",
-            "channel": "LouisAyy",
-            "thumbnail": "https://i.ytimg.com/vi/VOL7I99tXao/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=VOL7I99tXao",
-            "views": 7639651,
-            "age_hours": 110.3
-          }
-        ]
-      },
-      {
-        "phrase": "lifehack comedy funny",
-        "video_count": 2,
-        "momentum": 15.86,
-        "regions": [
-          "GB"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "lMr8Q6PbKiY",
-            "title": "He found the worst pool hack... #shorts #shortsfeed #youtubeshorts #cringe #lifehack #comedy #funny",
-            "channel": "LouisAyy",
-            "thumbnail": "https://i.ytimg.com/vi/lMr8Q6PbKiY/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=lMr8Q6PbKiY",
-            "views": 3407181,
-            "age_hours": 15.7
-          },
-          {
-            "id": "VOL7I99tXao",
-            "title": "She makes her kids reflective... #shorts #shortsfeed #youtubeshorts #cringe #lifehack #comedy #funny",
-            "channel": "LouisAyy",
-            "thumbnail": "https://i.ytimg.com/vi/VOL7I99tXao/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=VOL7I99tXao",
-            "views": 7639651,
-            "age_hours": 110.3
-          }
-        ]
-      },
-      {
         "phrase": "ultimate scream",
         "video_count": 2,
-        "momentum": 10.36,
+        "momentum": 10.25,
         "regions": [
           "GB"
         ],
@@ -1388,8 +1344,8 @@
             "channel": "AuzioMF",
             "thumbnail": "https://i.ytimg.com/vi/qk-LixDfJMk/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=qk-LixDfJMk",
-            "views": 165269,
-            "age_hours": 15.0
+            "views": 206159,
+            "age_hours": 20.1
           },
           {
             "id": "4wbxRJmCuds",
@@ -1397,48 +1353,56 @@
             "channel": "NickRTFM",
             "thumbnail": "https://i.ytimg.com/vi/4wbxRJmCuds/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=4wbxRJmCuds",
-            "views": 102250,
-            "age_hours": 11.2
+            "views": 140122,
+            "age_hours": 16.3
           }
         ]
       }
     ],
-    "AU": [
-      {
-        "phrase": "weekly vlog",
-        "video_count": 2,
-        "momentum": 6.99,
-        "regions": [
-          "AU"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "LKFmtA0vQD8",
-            "title": "weekly vlog 🥐 cinz in paris, flea market + london side quest and matcha tour lol 🍵",
-            "channel": "Jaz Hand",
-            "thumbnail": "https://i.ytimg.com/vi/LKFmtA0vQD8/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=LKFmtA0vQD8",
-            "views": 83040,
-            "age_hours": 145.0
-          },
-          {
-            "id": "wkPUAtEo5Io",
-            "title": "giving my house & myself a makeover (weekly vlog)",
-            "channel": "Sophie Jayne",
-            "thumbnail": "https://i.ytimg.com/vi/wkPUAtEo5Io/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=wkPUAtEo5Io",
-            "views": 59976,
-            "age_hours": 146.1
-          }
-        ]
-      }
-    ],
+    "CA": [],
     "DE": [
       {
+        "phrase": "comedy",
+        "video_count": 6,
+        "momentum": 26.98,
+        "regions": [
+          "DE"
+        ],
+        "lang": "de",
+        "example_videos": [
+          {
+            "id": "kRrDC0fFa2c",
+            "title": "Hässliche Schuhe noch noch noch länger 😅👞👞 #comedy #lustig #schuhe #outfit #fyp",
+            "channel": "dergp",
+            "thumbnail": "https://i.ytimg.com/vi/kRrDC0fFa2c/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=kRrDC0fFa2c",
+            "views": 2000919,
+            "age_hours": 74.1
+          },
+          {
+            "id": "jgbBOBxNOOg",
+            "title": "SCHWESTER HAT MEIN AUTO?!🤯🚨 #shortsdeutschland #comedy #kindheit #momente",
+            "channel": "Jenni ⭐️",
+            "thumbnail": "https://i.ytimg.com/vi/jgbBOBxNOOg/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=jgbBOBxNOOg",
+            "views": 2630911,
+            "age_hours": 117.9
+          },
+          {
+            "id": "MCHtBs_e8hw",
+            "title": "Es hat ihm geschmeckt😶‍🌫️? #comedy #comedyvideo #shorts",
+            "channel": "typischberkee",
+            "thumbnail": "https://i.ytimg.com/vi/MCHtBs_e8hw/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=MCHtBs_e8hw",
+            "views": 1491059,
+            "age_hours": 70.3
+          }
+        ]
+      },
+      {
         "phrase": "iphone duo",
-        "video_count": 5,
-        "momentum": 24.96,
+        "video_count": 4,
+        "momentum": 20.27,
         "regions": [
           "DE"
         ],
@@ -1450,8 +1414,8 @@
             "channel": "twenty4tim",
             "thumbnail": "https://i.ytimg.com/vi/3SDk1J1DAYo/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=3SDk1J1DAYo",
-            "views": 74471,
-            "age_hours": 16.5
+            "views": 116891,
+            "age_hours": 21.6
           },
           {
             "id": "1PUb5bGCjCo",
@@ -1459,93 +1423,46 @@
             "channel": "Alex",
             "thumbnail": "https://i.ytimg.com/vi/1PUb5bGCjCo/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=1PUb5bGCjCo",
-            "views": 417432,
-            "age_hours": 69.8
+            "views": 426012,
+            "age_hours": 74.9
           },
           {
-            "id": "tQv1UvmB7JA",
-            "title": "Ich teste das Iphone Duo",
-            "channel": "IamZuckerpuppe",
-            "thumbnail": "https://i.ytimg.com/vi/tQv1UvmB7JA/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=tQv1UvmB7JA",
-            "views": 92522,
-            "age_hours": 22.4
-          }
-        ]
-      },
-      {
-        "phrase": "comedy",
-        "video_count": 5,
-        "momentum": 22.67,
-        "regions": [
-          "DE"
-        ],
-        "lang": "de",
-        "example_videos": [
-          {
-            "id": "kRrDC0fFa2c",
-            "title": "Hässliche Schuhe noch noch noch länger 😅👞👞 #comedy #lustig #schuhe #outfit #fyp",
-            "channel": "dergp",
-            "thumbnail": "https://i.ytimg.com/vi/kRrDC0fFa2c/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=kRrDC0fFa2c",
-            "views": 1923853,
-            "age_hours": 69.0
-          },
-          {
-            "id": "jgbBOBxNOOg",
-            "title": "SCHWESTER HAT MEIN AUTO?!🤯🚨 #shortsdeutschland #comedy #kindheit #momente",
-            "channel": "Jenni ⭐️",
-            "thumbnail": "https://i.ytimg.com/vi/jgbBOBxNOOg/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=jgbBOBxNOOg",
-            "views": 2552929,
-            "age_hours": 112.9
-          },
-          {
-            "id": "MCHtBs_e8hw",
-            "title": "Es hat ihm geschmeckt😶‍🌫️? #comedy #comedyvideo #shorts",
-            "channel": "typischberkee",
-            "thumbnail": "https://i.ytimg.com/vi/MCHtBs_e8hw/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=MCHtBs_e8hw",
-            "views": 1419502,
-            "age_hours": 65.2
+            "id": "DC6_Bx7BoO4",
+            "title": "Meine ersten Tage mit dem iPhone Duo!",
+            "channel": "Felixba",
+            "thumbnail": "https://i.ytimg.com/vi/DC6_Bx7BoO4/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=DC6_Bx7BoO4",
+            "views": 306999,
+            "age_hours": 73.4
           }
         ]
       },
       {
         "phrase": "craft attack",
-        "video_count": 3,
-        "momentum": 15.99,
+        "video_count": 2,
+        "momentum": 10.89,
         "regions": [
           "DE"
         ],
         "lang": "de",
         "example_videos": [
           {
-            "id": "nDTcIvreJ6Y",
-            "title": "🤯❌MEIN 1. TOD durch diesen NEUEN MOB in CRAFT ATTACK 14?! - KROKOS HOCHZEIT Eskaliert...",
+            "id": "e1waSDo-5Gw",
+            "title": "😍😱NETHERITE BEACON STARTET? - Exorzismus bei ROTPILZ... | Craft Attack 14 mit Eli, Repaz & Co. #15",
             "channel": "Trymacs",
-            "thumbnail": "https://i.ytimg.com/vi/nDTcIvreJ6Y/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=nDTcIvreJ6Y",
-            "views": 382886,
-            "age_hours": 23.7
+            "thumbnail": "https://i.ytimg.com/vi/e1waSDo-5Gw/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=e1waSDo-5Gw",
+            "views": 217664,
+            "age_hours": 7.1
           },
           {
-            "id": "gMo3yZLHPaI",
-            "title": "DIE XXL KÜNSTLER FOLGE (CRAFT ATTACK 14 #9)",
-            "channel": "Bastian",
-            "thumbnail": "https://i.ytimg.com/vi/gMo3yZLHPaI/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=gMo3yZLHPaI",
-            "views": 308903,
-            "age_hours": 41.8
-          },
-          {
-            "id": "-rBjdBIlXus",
-            "title": "Statement zu allen kritischen Themen (Veni Voting & mehr) - Minecraft Craft Attack 14 #14",
-            "channel": "SparkofPhoenix",
-            "thumbnail": "https://i.ytimg.com/vi/-rBjdBIlXus/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=-rBjdBIlXus",
-            "views": 134155,
-            "age_hours": 18.7
+            "id": "-tuELgwoOpU",
+            "title": "🤯😱Die VOLLE HAUSBAU PSYCHOSE in CRAFT ATTACK 14 - Ich RASIERE alles im HÄUSERBAU XL - Folge 16",
+            "channel": "SecondTry",
+            "thumbnail": "https://i.ytimg.com/vi/-tuELgwoOpU/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=-tuELgwoOpU",
+            "views": 21272,
+            "age_hours": 4.8
           }
         ]
       }
@@ -1554,7 +1471,7 @@
       {
         "phrase": "iphone duo",
         "video_count": 7,
-        "momentum": 41.16,
+        "momentum": 41.0,
         "regions": [
           "IN"
         ],
@@ -1566,8 +1483,8 @@
             "channel": "TechBar",
             "thumbnail": "https://i.ytimg.com/vi/9ZZi8KJ7MGo/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=9ZZi8KJ7MGo",
-            "views": 2571971,
-            "age_hours": 46.2
+            "views": 2642501,
+            "age_hours": 51.3
           },
           {
             "id": "YuclQXJiZf8",
@@ -1575,8 +1492,8 @@
             "channel": "TechBurner Shorts",
             "thumbnail": "https://i.ytimg.com/vi/YuclQXJiZf8/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=YuclQXJiZf8",
-            "views": 605628,
-            "age_hours": 17.0
+            "views": 877417,
+            "age_hours": 22.1
           },
           {
             "id": "bEGiQjlFPlw",
@@ -1584,15 +1501,15 @@
             "channel": "Manoj Saru",
             "thumbnail": "https://i.ytimg.com/vi/bEGiQjlFPlw/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=bEGiQjlFPlw",
-            "views": 749616,
-            "age_hours": 44.6
+            "views": 824449,
+            "age_hours": 49.7
           }
         ]
       },
       {
         "phrase": "iphone",
         "video_count": 8,
-        "momentum": 38.29,
+        "momentum": 38.14,
         "regions": [
           "IN"
         ],
@@ -1604,8 +1521,8 @@
             "channel": "Tech Master",
             "thumbnail": "https://i.ytimg.com/vi/8ufgu-ljQk8/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=8ufgu-ljQk8",
-            "views": 13747258,
-            "age_hours": 91.7
+            "views": 14052460,
+            "age_hours": 96.8
           },
           {
             "id": "9ZZi8KJ7MGo",
@@ -1613,8 +1530,8 @@
             "channel": "TechBar",
             "thumbnail": "https://i.ytimg.com/vi/9ZZi8KJ7MGo/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=9ZZi8KJ7MGo",
-            "views": 2571971,
-            "age_hours": 46.2
+            "views": 2642501,
+            "age_hours": 51.3
           },
           {
             "id": "YuclQXJiZf8",
@@ -1622,15 +1539,15 @@
             "channel": "TechBurner Shorts",
             "thumbnail": "https://i.ytimg.com/vi/YuclQXJiZf8/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=YuclQXJiZf8",
-            "views": 605628,
-            "age_hours": 17.0
+            "views": 877417,
+            "age_hours": 22.1
           }
         ]
       },
       {
         "phrase": "minecraft",
         "video_count": 4,
-        "momentum": 18.31,
+        "momentum": 18.26,
         "regions": [
           "IN"
         ],
@@ -1642,8 +1559,8 @@
             "channel": "Karry Kraft",
             "thumbnail": "https://i.ytimg.com/vi/r1EUU26jrTM/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=r1EUU26jrTM",
-            "views": 799777,
-            "age_hours": 19.8
+            "views": 1046639,
+            "age_hours": 24.9
           },
           {
             "id": "iRFxgun272Q",
@@ -1651,8 +1568,8 @@
             "channel": "Carry Depie",
             "thumbnail": "https://i.ytimg.com/vi/iRFxgun272Q/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=iRFxgun272Q",
-            "views": 1497417,
-            "age_hours": 45.6
+            "views": 1595911,
+            "age_hours": 50.7
           },
           {
             "id": "xxvzkQvsJyg",
@@ -1660,44 +1577,44 @@
             "channel": "Junkeyy",
             "thumbnail": "https://i.ytimg.com/vi/xxvzkQvsJyg/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=xxvzkQvsJyg",
-            "views": 1085418,
-            "age_hours": 43.7
+            "views": 1177528,
+            "age_hours": 48.8
           }
         ]
       },
       {
         "phrase": "gta live gta5",
         "video_count": 2,
-        "momentum": 18.17,
+        "momentum": 17.15,
         "regions": [
           "IN"
         ],
         "lang": "en",
         "example_videos": [
           {
-            "id": "UDG80MZZb2g",
-            "title": "GTA 5 LIVE 🔥 #gta5 #shortslive #gaming",
-            "channel": "BOSS GAMING",
-            "thumbnail": "https://i.ytimg.com/vi/UDG80MZZb2g/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=UDG80MZZb2g",
-            "views": 3930635,
-            "age_hours": 3.5
-          },
-          {
             "id": "FLELDkv8zWg",
             "title": "GTA 5 LIVE  #gta5 #gtav #gaming",
             "channel": "PAJI IS LIVE",
             "thumbnail": "https://i.ytimg.com/vi/FLELDkv8zWg/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=FLELDkv8zWg",
-            "views": 5653198,
-            "age_hours": 5.4
+            "views": 5654065,
+            "age_hours": 10.5
+          },
+          {
+            "id": "UDG80MZZb2g",
+            "title": "GTA 5 LIVE 🔥 #gta5 #shortslive #gaming",
+            "channel": "BOSS GAMING",
+            "thumbnail": "https://i.ytimg.com/vi/UDG80MZZb2g/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=UDG80MZZb2g",
+            "views": 3931352,
+            "age_hours": 8.5
           }
         ]
       },
       {
         "phrase": "iphone duo unboxing",
         "video_count": 2,
-        "momentum": 14.78,
+        "momentum": 14.73,
         "regions": [
           "IN"
         ],
@@ -1709,8 +1626,8 @@
             "channel": "TechBar",
             "thumbnail": "https://i.ytimg.com/vi/9ZZi8KJ7MGo/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=9ZZi8KJ7MGo",
-            "views": 2571971,
-            "age_hours": 46.2
+            "views": 2642501,
+            "age_hours": 51.3
           },
           {
             "id": "bEGiQjlFPlw",
@@ -1718,44 +1635,15 @@
             "channel": "Manoj Saru",
             "thumbnail": "https://i.ytimg.com/vi/bEGiQjlFPlw/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=bEGiQjlFPlw",
-            "views": 749616,
-            "age_hours": 44.6
-          }
-        ]
-      },
-      {
-        "phrase": "apple iphone duo",
-        "video_count": 2,
-        "momentum": 13.75,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "8kuHOHbZZyY",
-            "title": "Apple iPhone Duo | Boring Unboxing & First Impression | Malayalam",
-            "channel": "CallMeShazzam TECH",
-            "thumbnail": "https://i.ytimg.com/vi/8kuHOHbZZyY/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=8kuHOHbZZyY",
-            "views": 488245,
-            "age_hours": 21.0
-          },
-          {
-            "id": "6YKst1orufw",
-            "title": "₹3.75 Lakhs ku iPhone a?😱 Apple iPhone Duo Retail Unit Unboxing🔥",
-            "channel": "Tech Satire",
-            "thumbnail": "https://i.ytimg.com/vi/6YKst1orufw/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=6YKst1orufw",
-            "views": 223620,
-            "age_hours": 19.8
+            "views": 824449,
+            "age_hours": 49.7
           }
         ]
       },
       {
         "phrase": "3d professor",
         "video_count": 2,
-        "momentum": 13.73,
+        "momentum": 13.7,
         "regions": [
           "IN"
         ],
@@ -1767,8 +1655,8 @@
             "channel": "Professor Of How",
             "thumbnail": "https://i.ytimg.com/vi/-xdD1y6JAi4/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=-xdD1y6JAi4",
-            "views": 21305614,
-            "age_hours": 113.8
+            "views": 21508525,
+            "age_hours": 118.9
           },
           {
             "id": "bJVOo7caT6A",
@@ -1776,788 +1664,15 @@
             "channel": "Professor Of How",
             "thumbnail": "https://i.ytimg.com/vi/bJVOo7caT6A/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=bJVOo7caT6A",
-            "views": 17999644,
-            "age_hours": 148.7
-          }
-        ]
-      },
-      {
-        "phrase": "bhojpuri song",
-        "video_count": 2,
-        "momentum": 13.62,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "sO-tw97a_2g",
-            "title": "Video | फोटउवा लेके हाथ में | Khesari Lal Yadav | Ft. Dimpal Singh | Photauwa | Bhojpuri Song 2026",
-            "channel": "Annapurna Films",
-            "thumbnail": "https://i.ytimg.com/vi/sO-tw97a_2g/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=sO-tw97a_2g",
-            "views": 1548433,
-            "age_hours": 33.0
-          },
-          {
-            "id": "BSw_AiwvMBs",
-            "title": "#Video | कोरा में | #Pawan Singh | Kora Me |  #Queen Shalinee | #Khushi Kakkar | Bhojpuri New Song",
-            "channel": "Sur Music ",
-            "thumbnail": "https://i.ytimg.com/vi/BSw_AiwvMBs/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=BSw_AiwvMBs",
-            "views": 1173632,
-            "age_hours": 33.0
-          }
-        ]
-      },
-      {
-        "phrase": "fauzi telugu",
-        "video_count": 2,
-        "momentum": 11.08,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "6Bj5j6N7cx4",
-            "title": "FAUZI - Telugu Trailer | Prabhas | Hanu Ravipudi | Mythri Movie Makers",
-            "channel": "Cinemads",
-            "thumbnail": "https://i.ytimg.com/vi/6Bj5j6N7cx4/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=6Bj5j6N7cx4",
-            "views": 517455,
-            "age_hours": 22.5
-          },
-          {
-            "id": "3yC0vJtPVzM",
-            "title": "File no.25 : Fauzi Telugu Teaser Reaction | Prabhas Birthday Fauzi Movie Glimpse | Prabhas Fauzi",
-            "channel": "Ra One For You",
-            "thumbnail": "https://i.ytimg.com/vi/3yC0vJtPVzM/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=3yC0vJtPVzM",
-            "views": 146075,
-            "age_hours": 16.9
-          }
-        ]
-      }
-    ],
-    "BR": [
-      {
-        "phrase": "iphone",
-        "video_count": 4,
-        "momentum": 16.11,
-        "regions": [
-          "BR"
-        ],
-        "lang": "pt",
-        "example_videos": [
-          {
-            "id": "cSrx2odmbwg",
-            "title": "Como tirar foto de pôr do sol como um profissional no iPhone! Todo mundo vai achar q vc usa DSLR",
-            "channel": "Jef Dicas Tech 📱Tecnologia ",
-            "thumbnail": "https://i.ytimg.com/vi/cSrx2odmbwg/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=cSrx2odmbwg",
-            "views": 1487732,
-            "age_hours": 114.3
-          },
-          {
-            "id": "O_PYMEqoA9I",
-            "title": "Esse fum@ foi dos grandes #iphone #iphone18 #reparo #fyp #reels #shorts",
-            "channel": "Wesley iRecovery",
-            "thumbnail": "https://i.ytimg.com/vi/O_PYMEqoA9I/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=O_PYMEqoA9I",
-            "views": 1135527,
-            "age_hours": 119.0
-          },
-          {
-            "id": "078gHZ84v08",
-            "title": "Transformando o iPhone 16 em iPhone 17! 📱",
-            "channel": "Vinicius Nunes",
-            "thumbnail": "https://i.ytimg.com/vi/078gHZ84v08/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=078gHZ84v08",
-            "views": 1254869,
-            "age_hours": 160.0
-          }
-        ]
-      },
-      {
-        "phrase": "instalei minecraft dentro",
-        "video_count": 2,
-        "momentum": 13.84,
-        "regions": [
-          "BR"
-        ],
-        "lang": "pt",
-        "example_videos": [
-          {
-            "id": "g76WR5Ie4CM",
-            "title": "INSTALEI O MINECRAFT DENTRO DO HELLO NEIGHBOUR!",
-            "channel": "Jazzghost",
-            "thumbnail": "https://i.ytimg.com/vi/g76WR5Ie4CM/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=g76WR5Ie4CM",
-            "views": 2558882,
-            "age_hours": 42.4
-          },
-          {
-            "id": "S7NJOynf_VU",
-            "title": "EU INSTALEI MINECRAFT dentro do GTA 5",
-            "channel": "LipaoGamer",
-            "thumbnail": "https://i.ytimg.com/vi/S7NJOynf_VU/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=S7NJOynf_VU",
-            "views": 127950,
-            "age_hours": 16.5
-          }
-        ]
-      },
-      {
-        "phrase": "todo mundo",
-        "video_count": 2,
-        "momentum": 11.72,
-        "regions": [
-          "BR"
-        ],
-        "lang": "pt",
-        "example_videos": [
-          {
-            "id": "ZVuMlxXlD8E",
-            "title": "A EMILLY VICK FEZ TATUAGEM DE TODO MUNDO #shorts",
-            "channel": "Emilly Tubera",
-            "thumbnail": "https://i.ytimg.com/vi/ZVuMlxXlD8E/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=ZVuMlxXlD8E",
-            "views": 2428694,
-            "age_hours": 36.1
-          },
-          {
-            "id": "cSrx2odmbwg",
-            "title": "Como tirar foto de pôr do sol como um profissional no iPhone! Todo mundo vai achar q vc usa DSLR",
-            "channel": "Jef Dicas Tech 📱Tecnologia ",
-            "thumbnail": "https://i.ytimg.com/vi/cSrx2odmbwg/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=cSrx2odmbwg",
-            "views": 1487732,
-            "age_hours": 114.3
-          }
-        ]
-      },
-      {
-        "phrase": "emilly vick",
-        "video_count": 2,
-        "momentum": 11.39,
-        "regions": [
-          "BR"
-        ],
-        "lang": "pt",
-        "example_videos": [
-          {
-            "id": "ZVuMlxXlD8E",
-            "title": "A EMILLY VICK FEZ TATUAGEM DE TODO MUNDO #shorts",
-            "channel": "Emilly Tubera",
-            "thumbnail": "https://i.ytimg.com/vi/ZVuMlxXlD8E/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=ZVuMlxXlD8E",
-            "views": 2428694,
-            "age_hours": 36.1
-          },
-          {
-            "id": "MriVZCQJPFU",
-            "title": "emilly Vick  #emillyvickof #emillyvickof #katlenof #void",
-            "channel": "Emilly Vick Central",
-            "thumbnail": "https://i.ytimg.com/vi/MriVZCQJPFU/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=MriVZCQJPFU",
-            "views": 201250,
-            "age_hours": 33.0
-          }
-        ]
-      },
-      {
-        "phrase": "roube ovo",
-        "video_count": 2,
-        "momentum": 10.91,
-        "regions": [
-          "BR"
-        ],
-        "lang": "pt",
-        "example_videos": [
-          {
-            "id": "kzPDDVol7VU",
-            "title": "FIZ A FUSÃO DE 100 MIL ROBUX NO ROUBE UM OVO! 😱",
-            "channel": "Canal Clash War",
-            "thumbnail": "https://i.ytimg.com/vi/kzPDDVol7VU/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=kzPDDVol7VU",
-            "views": 253006,
-            "age_hours": 14.7
-          },
-          {
-            "id": "ETHevqvw720",
-            "title": "COMECEI DO ZERO com LOJA DE PETS ADMIN nesse ROUBE UM OVO",
-            "channel": "Pabllym GO!",
-            "thumbnail": "https://i.ytimg.com/vi/ETHevqvw720/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=ETHevqvw720",
-            "views": 88610,
-            "age_hours": 20.3
-          }
-        ]
-      }
-    ],
-    "CA": [],
-    "ALL": [
-      {
-        "phrase": "iphone",
-        "video_count": 8,
-        "momentum": 42.27,
-        "regions": [
-          "US"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "YOAhjSK9Lbw",
-            "title": "iPhone Duos are cracking 😬",
-            "channel": "John Casterline",
-            "thumbnail": "https://i.ytimg.com/vi/YOAhjSK9Lbw/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=YOAhjSK9Lbw",
-            "views": 1077502,
-            "age_hours": 9.5
-          },
-          {
-            "id": "tW39aTQ-LEI",
-            "title": "He peeled the nano-texture off his iPhone duo??",
-            "channel": "CarterPCs",
-            "thumbnail": "https://i.ytimg.com/vi/tW39aTQ-LEI/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=tW39aTQ-LEI",
-            "views": 6355790,
-            "age_hours": 30.3
-          },
-          {
-            "id": "i3ZlSlnGWng",
-            "title": "6 ways iPhone Duo beats Samsung",
-            "channel": "Mrwhosetheboss",
-            "thumbnail": "https://i.ytimg.com/vi/i3ZlSlnGWng/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=i3ZlSlnGWng",
-            "views": 8417594,
-            "age_hours": 69.9
-          }
-        ]
-      },
-      {
-        "phrase": "iphone duo",
-        "video_count": 7,
-        "momentum": 41.16,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "9ZZi8KJ7MGo",
-            "title": "iPhone DUO Unboxing - My New Phone ! #shorts",
-            "channel": "TechBar",
-            "thumbnail": "https://i.ytimg.com/vi/9ZZi8KJ7MGo/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=9ZZi8KJ7MGo",
-            "views": 2571971,
-            "age_hours": 46.2
-          },
-          {
-            "id": "YuclQXJiZf8",
-            "title": "iPhone Duo has Serious Issues ❌",
-            "channel": "TechBurner Shorts",
-            "thumbnail": "https://i.ytimg.com/vi/YuclQXJiZf8/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=YuclQXJiZf8",
-            "views": 605628,
-            "age_hours": 17.0
-          },
-          {
-            "id": "bEGiQjlFPlw",
-            "title": "₹3,74,900 iPhone Duo Unboxing..",
-            "channel": "Manoj Saru",
-            "thumbnail": "https://i.ytimg.com/vi/bEGiQjlFPlw/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=bEGiQjlFPlw",
-            "views": 749616,
-            "age_hours": 44.6
-          }
-        ]
-      },
-      {
-        "phrase": "avengers doomsday",
-        "video_count": 4,
-        "momentum": 25.04,
-        "regions": [
-          "US"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "oLJFJSNFklU",
-            "title": "EXCLUSIVE PREVIEW ⚾ MLB Crosses Over Into Avengers: Doomsday 🤯",
-            "channel": "MLB",
-            "thumbnail": "https://i.ytimg.com/vi/oLJFJSNFklU/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=oLJFJSNFklU",
-            "views": 1236672,
-            "age_hours": 9.1
-          },
-          {
-            "id": "6H-_VHitfAA",
-            "title": "AVENGERS 5: DOOMSDAY Official “Steve Rogers Meets New Avengers” Teaser Trailer (2026)",
-            "channel": "KinoCheck.com",
-            "thumbnail": "https://i.ytimg.com/vi/6H-_VHitfAA/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=6H-_VHitfAA",
-            "views": 1181597,
-            "age_hours": 8.9
-          },
-          {
-            "id": "WWa7n1FBKeE",
-            "title": "AVENGERS DOOMSDAY TRAILER Breakdown and Easter Eggs",
-            "channel": "Emergency Awesome",
-            "thumbnail": "https://i.ytimg.com/vi/WWa7n1FBKeE/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=WWa7n1FBKeE",
-            "views": 180309,
-            "age_hours": 7.0
-          }
-        ]
-      },
-      {
-        "phrase": "comedy",
-        "video_count": 5,
-        "momentum": 22.67,
-        "regions": [
-          "DE"
-        ],
-        "lang": "de",
-        "example_videos": [
-          {
-            "id": "kRrDC0fFa2c",
-            "title": "Hässliche Schuhe noch noch noch länger 😅👞👞 #comedy #lustig #schuhe #outfit #fyp",
-            "channel": "dergp",
-            "thumbnail": "https://i.ytimg.com/vi/kRrDC0fFa2c/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=kRrDC0fFa2c",
-            "views": 1923853,
-            "age_hours": 69.0
-          },
-          {
-            "id": "jgbBOBxNOOg",
-            "title": "SCHWESTER HAT MEIN AUTO?!🤯🚨 #shortsdeutschland #comedy #kindheit #momente",
-            "channel": "Jenni ⭐️",
-            "thumbnail": "https://i.ytimg.com/vi/jgbBOBxNOOg/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=jgbBOBxNOOg",
-            "views": 2552929,
-            "age_hours": 112.9
-          },
-          {
-            "id": "MCHtBs_e8hw",
-            "title": "Es hat ihm geschmeckt😶‍🌫️? #comedy #comedyvideo #shorts",
-            "channel": "typischberkee",
-            "thumbnail": "https://i.ytimg.com/vi/MCHtBs_e8hw/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=MCHtBs_e8hw",
-            "views": 1419502,
-            "age_hours": 65.2
-          }
-        ]
-      },
-      {
-        "phrase": "time",
-        "video_count": 4,
-        "momentum": 19.62,
-        "regions": [
-          "US"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "3uURd82kFd4",
-            "title": "What's the time?",
-            "channel": "Mob Entertainment",
-            "thumbnail": "https://i.ytimg.com/vi/3uURd82kFd4/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=3uURd82kFd4",
-            "views": 1131822,
-            "age_hours": 8.6
-          },
-          {
-            "id": "KjPmotVGXsA",
-            "title": "The Funniest Looting Debate of All Time 🍞😭",
-            "channel": "Mike Memes",
-            "thumbnail": "https://i.ytimg.com/vi/KjPmotVGXsA/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=KjPmotVGXsA",
-            "views": 10208253,
-            "age_hours": 114.0
-          },
-          {
-            "id": "1NLU4ySkgu4",
-            "title": "COME WITH ME TO SEE THEM FOR THE 1ST TIME😳🍒💉✨ #comewithme #dayinmylife #dayinthelife #vlog #girls",
-            "channel": "Sydney Everhart",
-            "thumbnail": "https://i.ytimg.com/vi/1NLU4ySkgu4/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=1NLU4ySkgu4",
-            "views": 293158,
-            "age_hours": 65.4
-          }
-        ]
-      },
-      {
-        "phrase": "minecraft",
-        "video_count": 4,
-        "momentum": 18.31,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "r1EUU26jrTM",
-            "title": "We Found GIANT SCARY FOOTPRINTS in Minecraft…",
-            "channel": "Karry Kraft",
-            "thumbnail": "https://i.ytimg.com/vi/r1EUU26jrTM/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=r1EUU26jrTM",
-            "views": 799777,
-            "age_hours": 19.8
-          },
-          {
-            "id": "iRFxgun272Q",
-            "title": "Surviving in Deadly Pool for 24 Hours in Minecraft..",
-            "channel": "Carry Depie",
-            "thumbnail": "https://i.ytimg.com/vi/iRFxgun272Q/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=iRFxgun272Q",
-            "views": 1497417,
-            "age_hours": 45.6
-          },
-          {
-            "id": "xxvzkQvsJyg",
-            "title": "We Created BUNKER to Survive SCARY LUNAR MOON in Minecraft...",
-            "channel": "Junkeyy",
-            "thumbnail": "https://i.ytimg.com/vi/xxvzkQvsJyg/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=xxvzkQvsJyg",
-            "views": 1085418,
-            "age_hours": 43.7
-          }
-        ]
-      },
-      {
-        "phrase": "gta live gta5",
-        "video_count": 2,
-        "momentum": 18.17,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "UDG80MZZb2g",
-            "title": "GTA 5 LIVE 🔥 #gta5 #shortslive #gaming",
-            "channel": "BOSS GAMING",
-            "thumbnail": "https://i.ytimg.com/vi/UDG80MZZb2g/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=UDG80MZZb2g",
-            "views": 3930635,
-            "age_hours": 3.5
-          },
-          {
-            "id": "FLELDkv8zWg",
-            "title": "GTA 5 LIVE  #gta5 #gtav #gaming",
-            "channel": "PAJI IS LIVE",
-            "thumbnail": "https://i.ytimg.com/vi/FLELDkv8zWg/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=FLELDkv8zWg",
-            "views": 5653198,
-            "age_hours": 5.4
-          }
-        ]
-      },
-      {
-        "phrase": "craft attack",
-        "video_count": 3,
-        "momentum": 15.99,
-        "regions": [
-          "DE"
-        ],
-        "lang": "de",
-        "example_videos": [
-          {
-            "id": "nDTcIvreJ6Y",
-            "title": "🤯❌MEIN 1. TOD durch diesen NEUEN MOB in CRAFT ATTACK 14?! - KROKOS HOCHZEIT Eskaliert...",
-            "channel": "Trymacs",
-            "thumbnail": "https://i.ytimg.com/vi/nDTcIvreJ6Y/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=nDTcIvreJ6Y",
-            "views": 382886,
-            "age_hours": 23.7
-          },
-          {
-            "id": "gMo3yZLHPaI",
-            "title": "DIE XXL KÜNSTLER FOLGE (CRAFT ATTACK 14 #9)",
-            "channel": "Bastian",
-            "thumbnail": "https://i.ytimg.com/vi/gMo3yZLHPaI/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=gMo3yZLHPaI",
-            "views": 308903,
-            "age_hours": 41.8
-          },
-          {
-            "id": "-rBjdBIlXus",
-            "title": "Statement zu allen kritischen Themen (Veni Voting & mehr) - Minecraft Craft Attack 14 #14",
-            "channel": "SparkofPhoenix",
-            "thumbnail": "https://i.ytimg.com/vi/-rBjdBIlXus/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=-rBjdBIlXus",
-            "views": 134155,
-            "age_hours": 18.7
-          }
-        ]
-      },
-      {
-        "phrase": "youtubeshorts cringe lifehack",
-        "video_count": 2,
-        "momentum": 15.86,
-        "regions": [
-          "GB"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "lMr8Q6PbKiY",
-            "title": "He found the worst pool hack... #shorts #shortsfeed #youtubeshorts #cringe #lifehack #comedy #funny",
-            "channel": "LouisAyy",
-            "thumbnail": "https://i.ytimg.com/vi/lMr8Q6PbKiY/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=lMr8Q6PbKiY",
-            "views": 3407181,
-            "age_hours": 15.7
-          },
-          {
-            "id": "VOL7I99tXao",
-            "title": "She makes her kids reflective... #shorts #shortsfeed #youtubeshorts #cringe #lifehack #comedy #funny",
-            "channel": "LouisAyy",
-            "thumbnail": "https://i.ytimg.com/vi/VOL7I99tXao/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=VOL7I99tXao",
-            "views": 7639651,
-            "age_hours": 110.3
-          }
-        ]
-      },
-      {
-        "phrase": "cringe lifehack comedy",
-        "video_count": 2,
-        "momentum": 15.86,
-        "regions": [
-          "GB"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "lMr8Q6PbKiY",
-            "title": "He found the worst pool hack... #shorts #shortsfeed #youtubeshorts #cringe #lifehack #comedy #funny",
-            "channel": "LouisAyy",
-            "thumbnail": "https://i.ytimg.com/vi/lMr8Q6PbKiY/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=lMr8Q6PbKiY",
-            "views": 3407181,
-            "age_hours": 15.7
-          },
-          {
-            "id": "VOL7I99tXao",
-            "title": "She makes her kids reflective... #shorts #shortsfeed #youtubeshorts #cringe #lifehack #comedy #funny",
-            "channel": "LouisAyy",
-            "thumbnail": "https://i.ytimg.com/vi/VOL7I99tXao/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=VOL7I99tXao",
-            "views": 7639651,
-            "age_hours": 110.3
-          }
-        ]
-      },
-      {
-        "phrase": "lifehack comedy funny",
-        "video_count": 2,
-        "momentum": 15.86,
-        "regions": [
-          "GB"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "lMr8Q6PbKiY",
-            "title": "He found the worst pool hack... #shorts #shortsfeed #youtubeshorts #cringe #lifehack #comedy #funny",
-            "channel": "LouisAyy",
-            "thumbnail": "https://i.ytimg.com/vi/lMr8Q6PbKiY/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=lMr8Q6PbKiY",
-            "views": 3407181,
-            "age_hours": 15.7
-          },
-          {
-            "id": "VOL7I99tXao",
-            "title": "She makes her kids reflective... #shorts #shortsfeed #youtubeshorts #cringe #lifehack #comedy #funny",
-            "channel": "LouisAyy",
-            "thumbnail": "https://i.ytimg.com/vi/VOL7I99tXao/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=VOL7I99tXao",
-            "views": 7639651,
-            "age_hours": 110.3
-          }
-        ]
-      },
-      {
-        "phrase": "avengers doomsday official",
-        "video_count": 2,
-        "momentum": 14.88,
-        "regions": [
-          "US"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "6H-_VHitfAA",
-            "title": "AVENGERS 5: DOOMSDAY Official “Steve Rogers Meets New Avengers” Teaser Trailer (2026)",
-            "channel": "KinoCheck.com",
-            "thumbnail": "https://i.ytimg.com/vi/6H-_VHitfAA/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=6H-_VHitfAA",
-            "views": 1181597,
-            "age_hours": 8.9
-          },
-          {
-            "id": "Kyjq27ORERk",
-            "title": "AVENGERS: DOOMSDAY Official “Steve Rogers Reunites With Avengers” Teaser Trailer (2026)",
-            "channel": "FilmSelect",
-            "thumbnail": "https://i.ytimg.com/vi/Kyjq27ORERk/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=Kyjq27ORERk",
-            "views": 311576,
-            "age_hours": 8.9
-          }
-        ]
-      },
-      {
-        "phrase": "doomsday official steve",
-        "video_count": 2,
-        "momentum": 14.88,
-        "regions": [
-          "US"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "6H-_VHitfAA",
-            "title": "AVENGERS 5: DOOMSDAY Official “Steve Rogers Meets New Avengers” Teaser Trailer (2026)",
-            "channel": "KinoCheck.com",
-            "thumbnail": "https://i.ytimg.com/vi/6H-_VHitfAA/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=6H-_VHitfAA",
-            "views": 1181597,
-            "age_hours": 8.9
-          },
-          {
-            "id": "Kyjq27ORERk",
-            "title": "AVENGERS: DOOMSDAY Official “Steve Rogers Reunites With Avengers” Teaser Trailer (2026)",
-            "channel": "FilmSelect",
-            "thumbnail": "https://i.ytimg.com/vi/Kyjq27ORERk/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=Kyjq27ORERk",
-            "views": 311576,
-            "age_hours": 8.9
-          }
-        ]
-      },
-      {
-        "phrase": "official steve rogers",
-        "video_count": 2,
-        "momentum": 14.88,
-        "regions": [
-          "US"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "6H-_VHitfAA",
-            "title": "AVENGERS 5: DOOMSDAY Official “Steve Rogers Meets New Avengers” Teaser Trailer (2026)",
-            "channel": "KinoCheck.com",
-            "thumbnail": "https://i.ytimg.com/vi/6H-_VHitfAA/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=6H-_VHitfAA",
-            "views": 1181597,
-            "age_hours": 8.9
-          },
-          {
-            "id": "Kyjq27ORERk",
-            "title": "AVENGERS: DOOMSDAY Official “Steve Rogers Reunites With Avengers” Teaser Trailer (2026)",
-            "channel": "FilmSelect",
-            "thumbnail": "https://i.ytimg.com/vi/Kyjq27ORERk/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=Kyjq27ORERk",
-            "views": 311576,
-            "age_hours": 8.9
-          }
-        ]
-      },
-      {
-        "phrase": "avengers teaser trailer",
-        "video_count": 2,
-        "momentum": 14.88,
-        "regions": [
-          "US"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "6H-_VHitfAA",
-            "title": "AVENGERS 5: DOOMSDAY Official “Steve Rogers Meets New Avengers” Teaser Trailer (2026)",
-            "channel": "KinoCheck.com",
-            "thumbnail": "https://i.ytimg.com/vi/6H-_VHitfAA/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=6H-_VHitfAA",
-            "views": 1181597,
-            "age_hours": 8.9
-          },
-          {
-            "id": "Kyjq27ORERk",
-            "title": "AVENGERS: DOOMSDAY Official “Steve Rogers Reunites With Avengers” Teaser Trailer (2026)",
-            "channel": "FilmSelect",
-            "thumbnail": "https://i.ytimg.com/vi/Kyjq27ORERk/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=Kyjq27ORERk",
-            "views": 311576,
-            "age_hours": 8.9
-          }
-        ]
-      },
-      {
-        "phrase": "iphone duo unboxing",
-        "video_count": 2,
-        "momentum": 14.78,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "9ZZi8KJ7MGo",
-            "title": "iPhone DUO Unboxing - My New Phone ! #shorts",
-            "channel": "TechBar",
-            "thumbnail": "https://i.ytimg.com/vi/9ZZi8KJ7MGo/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=9ZZi8KJ7MGo",
-            "views": 2571971,
-            "age_hours": 46.2
-          },
-          {
-            "id": "bEGiQjlFPlw",
-            "title": "₹3,74,900 iPhone Duo Unboxing..",
-            "channel": "Manoj Saru",
-            "thumbnail": "https://i.ytimg.com/vi/bEGiQjlFPlw/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=bEGiQjlFPlw",
-            "views": 749616,
-            "age_hours": 44.6
-          }
-        ]
-      },
-      {
-        "phrase": "instalei minecraft dentro",
-        "video_count": 2,
-        "momentum": 13.84,
-        "regions": [
-          "BR"
-        ],
-        "lang": "pt",
-        "example_videos": [
-          {
-            "id": "g76WR5Ie4CM",
-            "title": "INSTALEI O MINECRAFT DENTRO DO HELLO NEIGHBOUR!",
-            "channel": "Jazzghost",
-            "thumbnail": "https://i.ytimg.com/vi/g76WR5Ie4CM/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=g76WR5Ie4CM",
-            "views": 2558882,
-            "age_hours": 42.4
-          },
-          {
-            "id": "S7NJOynf_VU",
-            "title": "EU INSTALEI MINECRAFT dentro do GTA 5",
-            "channel": "LipaoGamer",
-            "thumbnail": "https://i.ytimg.com/vi/S7NJOynf_VU/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=S7NJOynf_VU",
-            "views": 127950,
-            "age_hours": 16.5
+            "views": 18280791,
+            "age_hours": 153.8
           }
         ]
       },
       {
         "phrase": "apple iphone duo",
         "video_count": 2,
-        "momentum": 13.75,
+        "momentum": 13.63,
         "regions": [
           "IN"
         ],
@@ -2569,8 +1684,8 @@
             "channel": "CallMeShazzam TECH",
             "thumbnail": "https://i.ytimg.com/vi/8kuHOHbZZyY/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=8kuHOHbZZyY",
-            "views": 488245,
-            "age_hours": 21.0
+            "views": 580627,
+            "age_hours": 26.1
           },
           {
             "id": "6YKst1orufw",
@@ -2578,8 +1693,772 @@
             "channel": "Tech Satire",
             "thumbnail": "https://i.ytimg.com/vi/6YKst1orufw/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=6YKst1orufw",
-            "views": 223620,
-            "age_hours": 19.8
+            "views": 270164,
+            "age_hours": 24.9
+          }
+        ]
+      },
+      {
+        "phrase": "bhojpuri song",
+        "video_count": 2,
+        "momentum": 13.44,
+        "regions": [
+          "IN"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "sO-tw97a_2g",
+            "title": "Video | फोटउवा लेके हाथ में | Khesari Lal Yadav | Ft. Dimpal Singh | Photauwa | Bhojpuri Song 2026",
+            "channel": "Annapurna Films",
+            "thumbnail": "https://i.ytimg.com/vi/sO-tw97a_2g/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=sO-tw97a_2g",
+            "views": 1731662,
+            "age_hours": 38.1
+          },
+          {
+            "id": "BSw_AiwvMBs",
+            "title": "#Video | कोरा में | #Pawan Singh | Kora Me |  #Queen Shalinee | #Khushi Kakkar | Bhojpuri New Song",
+            "channel": "Sur Music ",
+            "thumbnail": "https://i.ytimg.com/vi/BSw_AiwvMBs/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=BSw_AiwvMBs",
+            "views": 1290856,
+            "age_hours": 38.1
+          }
+        ]
+      },
+      {
+        "phrase": "gone wrong",
+        "video_count": 2,
+        "momentum": 11.87,
+        "regions": [
+          "IN"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "l3yZEEjYv7Y",
+            "title": "\"Number Ek\" Prank Gone Wrong on Girl YouTuber",
+            "channel": "SATVIK",
+            "thumbnail": "https://i.ytimg.com/vi/l3yZEEjYv7Y/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=l3yZEEjYv7Y",
+            "views": 550075,
+            "age_hours": 11.4
+          },
+          {
+            "id": "wS3rvxbkVUA",
+            "title": "iPhone Duo Drop Test Gone Wrong! 😶",
+            "channel": "Beebom",
+            "thumbnail": "https://i.ytimg.com/vi/wS3rvxbkVUA/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=wS3rvxbkVUA",
+            "views": 4060096,
+            "age_hours": 217.2
+          }
+        ]
+      }
+    ],
+    "BR": [
+      {
+        "phrase": "iphone",
+        "video_count": 4,
+        "momentum": 16.08,
+        "regions": [
+          "BR"
+        ],
+        "lang": "pt",
+        "example_videos": [
+          {
+            "id": "cSrx2odmbwg",
+            "title": "Como tirar foto de pôr do sol como um profissional no iPhone! Todo mundo vai achar q vc usa DSLR",
+            "channel": "Jef Dicas Tech 📱Tecnologia ",
+            "thumbnail": "https://i.ytimg.com/vi/cSrx2odmbwg/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=cSrx2odmbwg",
+            "views": 1535203,
+            "age_hours": 119.4
+          },
+          {
+            "id": "O_PYMEqoA9I",
+            "title": "Esse fum@ foi dos grandes #iphone #iphone18 #reparo #fyp #reels #shorts",
+            "channel": "Wesley iRecovery",
+            "thumbnail": "https://i.ytimg.com/vi/O_PYMEqoA9I/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=O_PYMEqoA9I",
+            "views": 1158867,
+            "age_hours": 124.1
+          },
+          {
+            "id": "078gHZ84v08",
+            "title": "Transformando o iPhone 16 em iPhone 17! 📱",
+            "channel": "Vinicius Nunes",
+            "thumbnail": "https://i.ytimg.com/vi/078gHZ84v08/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=078gHZ84v08",
+            "views": 1269730,
+            "age_hours": 165.1
+          }
+        ]
+      },
+      {
+        "phrase": "instalei minecraft dentro",
+        "video_count": 2,
+        "momentum": 13.71,
+        "regions": [
+          "BR"
+        ],
+        "lang": "pt",
+        "example_videos": [
+          {
+            "id": "g76WR5Ie4CM",
+            "title": "INSTALEI O MINECRAFT DENTRO DO HELLO NEIGHBOUR!",
+            "channel": "Jazzghost",
+            "thumbnail": "https://i.ytimg.com/vi/g76WR5Ie4CM/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=g76WR5Ie4CM",
+            "views": 2627597,
+            "age_hours": 47.5
+          },
+          {
+            "id": "S7NJOynf_VU",
+            "title": "EU INSTALEI MINECRAFT dentro do GTA 5",
+            "channel": "LipaoGamer",
+            "thumbnail": "https://i.ytimg.com/vi/S7NJOynf_VU/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=S7NJOynf_VU",
+            "views": 153144,
+            "age_hours": 21.6
+          }
+        ]
+      },
+      {
+        "phrase": "todo mundo",
+        "video_count": 2,
+        "momentum": 11.65,
+        "regions": [
+          "BR"
+        ],
+        "lang": "pt",
+        "example_videos": [
+          {
+            "id": "ZVuMlxXlD8E",
+            "title": "A EMILLY VICK FEZ TATUAGEM DE TODO MUNDO #shorts",
+            "channel": "Emilly Tubera",
+            "thumbnail": "https://i.ytimg.com/vi/ZVuMlxXlD8E/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=ZVuMlxXlD8E",
+            "views": 2466619,
+            "age_hours": 41.2
+          },
+          {
+            "id": "cSrx2odmbwg",
+            "title": "Como tirar foto de pôr do sol como um profissional no iPhone! Todo mundo vai achar q vc usa DSLR",
+            "channel": "Jef Dicas Tech 📱Tecnologia ",
+            "thumbnail": "https://i.ytimg.com/vi/cSrx2odmbwg/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=cSrx2odmbwg",
+            "views": 1535203,
+            "age_hours": 119.4
+          }
+        ]
+      },
+      {
+        "phrase": "emilly vick",
+        "video_count": 2,
+        "momentum": 11.26,
+        "regions": [
+          "BR"
+        ],
+        "lang": "pt",
+        "example_videos": [
+          {
+            "id": "ZVuMlxXlD8E",
+            "title": "A EMILLY VICK FEZ TATUAGEM DE TODO MUNDO #shorts",
+            "channel": "Emilly Tubera",
+            "thumbnail": "https://i.ytimg.com/vi/ZVuMlxXlD8E/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=ZVuMlxXlD8E",
+            "views": 2466619,
+            "age_hours": 41.2
+          },
+          {
+            "id": "MriVZCQJPFU",
+            "title": "emilly Vick  #emillyvickof #emillyvickof #katlenof #void",
+            "channel": "Emilly Vick Central",
+            "thumbnail": "https://i.ytimg.com/vi/MriVZCQJPFU/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=MriVZCQJPFU",
+            "views": 206591,
+            "age_hours": 38.1
+          }
+        ]
+      }
+    ],
+    "AU": [],
+    "ALL": [
+      {
+        "phrase": "iphone",
+        "video_count": 9,
+        "momentum": 48.28,
+        "regions": [
+          "US"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "5laDGy4INB0",
+            "title": "iPhone Duo Durability: Destroyed",
+            "channel": "JerryRigEverything",
+            "thumbnail": "https://i.ytimg.com/vi/5laDGy4INB0/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=5laDGy4INB0",
+            "views": 4422638,
+            "age_hours": 11.1
+          },
+          {
+            "id": "YOAhjSK9Lbw",
+            "title": "iPhone Duos are cracking 😬",
+            "channel": "John Casterline",
+            "thumbnail": "https://i.ytimg.com/vi/YOAhjSK9Lbw/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=YOAhjSK9Lbw",
+            "views": 1460979,
+            "age_hours": 14.6
+          },
+          {
+            "id": "tW39aTQ-LEI",
+            "title": "He peeled the nano-texture off his iPhone duo??",
+            "channel": "CarterPCs",
+            "thumbnail": "https://i.ytimg.com/vi/tW39aTQ-LEI/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=tW39aTQ-LEI",
+            "views": 7039755,
+            "age_hours": 35.4
+          }
+        ]
+      },
+      {
+        "phrase": "iphone duo",
+        "video_count": 7,
+        "momentum": 47.26,
+        "regions": [
+          "US"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "5laDGy4INB0",
+            "title": "iPhone Duo Durability: Destroyed",
+            "channel": "JerryRigEverything",
+            "thumbnail": "https://i.ytimg.com/vi/5laDGy4INB0/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=5laDGy4INB0",
+            "views": 4422638,
+            "age_hours": 11.1
+          },
+          {
+            "id": "tW39aTQ-LEI",
+            "title": "He peeled the nano-texture off his iPhone duo??",
+            "channel": "CarterPCs",
+            "thumbnail": "https://i.ytimg.com/vi/tW39aTQ-LEI/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=tW39aTQ-LEI",
+            "views": 7039755,
+            "age_hours": 35.4
+          },
+          {
+            "id": "i3ZlSlnGWng",
+            "title": "6 ways iPhone Duo beats Samsung",
+            "channel": "Mrwhosetheboss",
+            "thumbnail": "https://i.ytimg.com/vi/i3ZlSlnGWng/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=i3ZlSlnGWng",
+            "views": 8746435,
+            "age_hours": 75.0
+          }
+        ]
+      },
+      {
+        "phrase": "comedy",
+        "video_count": 6,
+        "momentum": 26.98,
+        "regions": [
+          "DE"
+        ],
+        "lang": "de",
+        "example_videos": [
+          {
+            "id": "kRrDC0fFa2c",
+            "title": "Hässliche Schuhe noch noch noch länger 😅👞👞 #comedy #lustig #schuhe #outfit #fyp",
+            "channel": "dergp",
+            "thumbnail": "https://i.ytimg.com/vi/kRrDC0fFa2c/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=kRrDC0fFa2c",
+            "views": 2000919,
+            "age_hours": 74.1
+          },
+          {
+            "id": "jgbBOBxNOOg",
+            "title": "SCHWESTER HAT MEIN AUTO?!🤯🚨 #shortsdeutschland #comedy #kindheit #momente",
+            "channel": "Jenni ⭐️",
+            "thumbnail": "https://i.ytimg.com/vi/jgbBOBxNOOg/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=jgbBOBxNOOg",
+            "views": 2630911,
+            "age_hours": 117.9
+          },
+          {
+            "id": "MCHtBs_e8hw",
+            "title": "Es hat ihm geschmeckt😶‍🌫️? #comedy #comedyvideo #shorts",
+            "channel": "typischberkee",
+            "thumbnail": "https://i.ytimg.com/vi/MCHtBs_e8hw/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=MCHtBs_e8hw",
+            "views": 1491059,
+            "age_hours": 70.3
+          }
+        ]
+      },
+      {
+        "phrase": "avengers doomsday",
+        "video_count": 4,
+        "momentum": 24.64,
+        "regions": [
+          "US"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "oLJFJSNFklU",
+            "title": "EXCLUSIVE PREVIEW ⚾ MLB Crosses Over Into Avengers: Doomsday 🤯",
+            "channel": "MLB",
+            "thumbnail": "https://i.ytimg.com/vi/oLJFJSNFklU/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=oLJFJSNFklU",
+            "views": 1689397,
+            "age_hours": 14.2
+          },
+          {
+            "id": "6H-_VHitfAA",
+            "title": "AVENGERS 5: DOOMSDAY Official “Steve Rogers Meets New Avengers” Teaser Trailer (2026)",
+            "channel": "KinoCheck.com",
+            "thumbnail": "https://i.ytimg.com/vi/6H-_VHitfAA/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=6H-_VHitfAA",
+            "views": 1809323,
+            "age_hours": 13.9
+          },
+          {
+            "id": "WWa7n1FBKeE",
+            "title": "AVENGERS DOOMSDAY TRAILER Breakdown and Easter Eggs",
+            "channel": "Emergency Awesome",
+            "thumbnail": "https://i.ytimg.com/vi/WWa7n1FBKeE/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=WWa7n1FBKeE",
+            "views": 297462,
+            "age_hours": 12.1
+          }
+        ]
+      },
+      {
+        "phrase": "time",
+        "video_count": 4,
+        "momentum": 19.31,
+        "regions": [
+          "US"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "3uURd82kFd4",
+            "title": "What's the time?",
+            "channel": "Mob Entertainment",
+            "thumbnail": "https://i.ytimg.com/vi/3uURd82kFd4/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=3uURd82kFd4",
+            "views": 1713428,
+            "age_hours": 13.7
+          },
+          {
+            "id": "KjPmotVGXsA",
+            "title": "The Funniest Looting Debate of All Time 🍞😭",
+            "channel": "Mike Memes",
+            "thumbnail": "https://i.ytimg.com/vi/KjPmotVGXsA/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=KjPmotVGXsA",
+            "views": 10240224,
+            "age_hours": 119.1
+          },
+          {
+            "id": "1NLU4ySkgu4",
+            "title": "COME WITH ME TO SEE THEM FOR THE 1ST TIME😳🍒💉✨ #comewithme #dayinmylife #dayinthelife #vlog #girls",
+            "channel": "Sydney Everhart",
+            "thumbnail": "https://i.ytimg.com/vi/1NLU4ySkgu4/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=1NLU4ySkgu4",
+            "views": 294283,
+            "age_hours": 70.5
+          }
+        ]
+      },
+      {
+        "phrase": "minecraft",
+        "video_count": 4,
+        "momentum": 18.26,
+        "regions": [
+          "IN"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "r1EUU26jrTM",
+            "title": "We Found GIANT SCARY FOOTPRINTS in Minecraft…",
+            "channel": "Karry Kraft",
+            "thumbnail": "https://i.ytimg.com/vi/r1EUU26jrTM/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=r1EUU26jrTM",
+            "views": 1046639,
+            "age_hours": 24.9
+          },
+          {
+            "id": "iRFxgun272Q",
+            "title": "Surviving in Deadly Pool for 24 Hours in Minecraft..",
+            "channel": "Carry Depie",
+            "thumbnail": "https://i.ytimg.com/vi/iRFxgun272Q/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=iRFxgun272Q",
+            "views": 1595911,
+            "age_hours": 50.7
+          },
+          {
+            "id": "xxvzkQvsJyg",
+            "title": "We Created BUNKER to Survive SCARY LUNAR MOON in Minecraft...",
+            "channel": "Junkeyy",
+            "thumbnail": "https://i.ytimg.com/vi/xxvzkQvsJyg/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=xxvzkQvsJyg",
+            "views": 1177528,
+            "age_hours": 48.8
+          }
+        ]
+      },
+      {
+        "phrase": "gta live gta5",
+        "video_count": 2,
+        "momentum": 17.15,
+        "regions": [
+          "IN"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "FLELDkv8zWg",
+            "title": "GTA 5 LIVE  #gta5 #gtav #gaming",
+            "channel": "PAJI IS LIVE",
+            "thumbnail": "https://i.ytimg.com/vi/FLELDkv8zWg/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=FLELDkv8zWg",
+            "views": 5654065,
+            "age_hours": 10.5
+          },
+          {
+            "id": "UDG80MZZb2g",
+            "title": "GTA 5 LIVE 🔥 #gta5 #shortslive #gaming",
+            "channel": "BOSS GAMING",
+            "thumbnail": "https://i.ytimg.com/vi/UDG80MZZb2g/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=UDG80MZZb2g",
+            "views": 3931352,
+            "age_hours": 8.5
+          }
+        ]
+      },
+      {
+        "phrase": "iphone duo unboxing",
+        "video_count": 2,
+        "momentum": 14.73,
+        "regions": [
+          "IN"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "9ZZi8KJ7MGo",
+            "title": "iPhone DUO Unboxing - My New Phone ! #shorts",
+            "channel": "TechBar",
+            "thumbnail": "https://i.ytimg.com/vi/9ZZi8KJ7MGo/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=9ZZi8KJ7MGo",
+            "views": 2642501,
+            "age_hours": 51.3
+          },
+          {
+            "id": "bEGiQjlFPlw",
+            "title": "₹3,74,900 iPhone Duo Unboxing..",
+            "channel": "Manoj Saru",
+            "thumbnail": "https://i.ytimg.com/vi/bEGiQjlFPlw/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=bEGiQjlFPlw",
+            "views": 824449,
+            "age_hours": 49.7
+          }
+        ]
+      },
+      {
+        "phrase": "avengers doomsday official",
+        "video_count": 2,
+        "momentum": 14.61,
+        "regions": [
+          "US"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "6H-_VHitfAA",
+            "title": "AVENGERS 5: DOOMSDAY Official “Steve Rogers Meets New Avengers” Teaser Trailer (2026)",
+            "channel": "KinoCheck.com",
+            "thumbnail": "https://i.ytimg.com/vi/6H-_VHitfAA/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=6H-_VHitfAA",
+            "views": 1809323,
+            "age_hours": 13.9
+          },
+          {
+            "id": "Kyjq27ORERk",
+            "title": "AVENGERS: DOOMSDAY Official “Steve Rogers Reunites With Avengers” Teaser Trailer (2026)",
+            "channel": "FilmSelect",
+            "thumbnail": "https://i.ytimg.com/vi/Kyjq27ORERk/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=Kyjq27ORERk",
+            "views": 357375,
+            "age_hours": 14.0
+          }
+        ]
+      },
+      {
+        "phrase": "doomsday official steve",
+        "video_count": 2,
+        "momentum": 14.61,
+        "regions": [
+          "US"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "6H-_VHitfAA",
+            "title": "AVENGERS 5: DOOMSDAY Official “Steve Rogers Meets New Avengers” Teaser Trailer (2026)",
+            "channel": "KinoCheck.com",
+            "thumbnail": "https://i.ytimg.com/vi/6H-_VHitfAA/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=6H-_VHitfAA",
+            "views": 1809323,
+            "age_hours": 13.9
+          },
+          {
+            "id": "Kyjq27ORERk",
+            "title": "AVENGERS: DOOMSDAY Official “Steve Rogers Reunites With Avengers” Teaser Trailer (2026)",
+            "channel": "FilmSelect",
+            "thumbnail": "https://i.ytimg.com/vi/Kyjq27ORERk/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=Kyjq27ORERk",
+            "views": 357375,
+            "age_hours": 14.0
+          }
+        ]
+      },
+      {
+        "phrase": "official steve rogers",
+        "video_count": 2,
+        "momentum": 14.61,
+        "regions": [
+          "US"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "6H-_VHitfAA",
+            "title": "AVENGERS 5: DOOMSDAY Official “Steve Rogers Meets New Avengers” Teaser Trailer (2026)",
+            "channel": "KinoCheck.com",
+            "thumbnail": "https://i.ytimg.com/vi/6H-_VHitfAA/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=6H-_VHitfAA",
+            "views": 1809323,
+            "age_hours": 13.9
+          },
+          {
+            "id": "Kyjq27ORERk",
+            "title": "AVENGERS: DOOMSDAY Official “Steve Rogers Reunites With Avengers” Teaser Trailer (2026)",
+            "channel": "FilmSelect",
+            "thumbnail": "https://i.ytimg.com/vi/Kyjq27ORERk/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=Kyjq27ORERk",
+            "views": 357375,
+            "age_hours": 14.0
+          }
+        ]
+      },
+      {
+        "phrase": "avengers teaser trailer",
+        "video_count": 2,
+        "momentum": 14.61,
+        "regions": [
+          "US"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "6H-_VHitfAA",
+            "title": "AVENGERS 5: DOOMSDAY Official “Steve Rogers Meets New Avengers” Teaser Trailer (2026)",
+            "channel": "KinoCheck.com",
+            "thumbnail": "https://i.ytimg.com/vi/6H-_VHitfAA/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=6H-_VHitfAA",
+            "views": 1809323,
+            "age_hours": 13.9
+          },
+          {
+            "id": "Kyjq27ORERk",
+            "title": "AVENGERS: DOOMSDAY Official “Steve Rogers Reunites With Avengers” Teaser Trailer (2026)",
+            "channel": "FilmSelect",
+            "thumbnail": "https://i.ytimg.com/vi/Kyjq27ORERk/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=Kyjq27ORERk",
+            "views": 357375,
+            "age_hours": 14.0
+          }
+        ]
+      },
+      {
+        "phrase": "instalei minecraft dentro",
+        "video_count": 2,
+        "momentum": 13.71,
+        "regions": [
+          "BR"
+        ],
+        "lang": "pt",
+        "example_videos": [
+          {
+            "id": "g76WR5Ie4CM",
+            "title": "INSTALEI O MINECRAFT DENTRO DO HELLO NEIGHBOUR!",
+            "channel": "Jazzghost",
+            "thumbnail": "https://i.ytimg.com/vi/g76WR5Ie4CM/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=g76WR5Ie4CM",
+            "views": 2627597,
+            "age_hours": 47.5
+          },
+          {
+            "id": "S7NJOynf_VU",
+            "title": "EU INSTALEI MINECRAFT dentro do GTA 5",
+            "channel": "LipaoGamer",
+            "thumbnail": "https://i.ytimg.com/vi/S7NJOynf_VU/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=S7NJOynf_VU",
+            "views": 153144,
+            "age_hours": 21.6
+          }
+        ]
+      },
+      {
+        "phrase": "3d professor",
+        "video_count": 2,
+        "momentum": 13.7,
+        "regions": [
+          "IN"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "-xdD1y6JAi4",
+            "title": "Tiger Shroff vs Lawrence Bishnoi (3D) by Professor of How",
+            "channel": "Professor Of How",
+            "thumbnail": "https://i.ytimg.com/vi/-xdD1y6JAi4/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=-xdD1y6JAi4",
+            "views": 21508525,
+            "age_hours": 118.9
+          },
+          {
+            "id": "bJVOo7caT6A",
+            "title": "💀Mukti Laabh Bhawan (3D) by Professor of How",
+            "channel": "Professor Of How",
+            "thumbnail": "https://i.ytimg.com/vi/bJVOo7caT6A/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=bJVOo7caT6A",
+            "views": 18280791,
+            "age_hours": 153.8
+          }
+        ]
+      },
+      {
+        "phrase": "apple iphone duo",
+        "video_count": 2,
+        "momentum": 13.63,
+        "regions": [
+          "IN"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "8kuHOHbZZyY",
+            "title": "Apple iPhone Duo | Boring Unboxing & First Impression | Malayalam",
+            "channel": "CallMeShazzam TECH",
+            "thumbnail": "https://i.ytimg.com/vi/8kuHOHbZZyY/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=8kuHOHbZZyY",
+            "views": 580627,
+            "age_hours": 26.1
+          },
+          {
+            "id": "6YKst1orufw",
+            "title": "₹3.75 Lakhs ku iPhone a?😱 Apple iPhone Duo Retail Unit Unboxing🔥",
+            "channel": "Tech Satire",
+            "thumbnail": "https://i.ytimg.com/vi/6YKst1orufw/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=6YKst1orufw",
+            "views": 270164,
+            "age_hours": 24.9
+          }
+        ]
+      },
+      {
+        "phrase": "bhojpuri song",
+        "video_count": 2,
+        "momentum": 13.44,
+        "regions": [
+          "IN"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "sO-tw97a_2g",
+            "title": "Video | फोटउवा लेके हाथ में | Khesari Lal Yadav | Ft. Dimpal Singh | Photauwa | Bhojpuri Song 2026",
+            "channel": "Annapurna Films",
+            "thumbnail": "https://i.ytimg.com/vi/sO-tw97a_2g/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=sO-tw97a_2g",
+            "views": 1731662,
+            "age_hours": 38.1
+          },
+          {
+            "id": "BSw_AiwvMBs",
+            "title": "#Video | कोरा में | #Pawan Singh | Kora Me |  #Queen Shalinee | #Khushi Kakkar | Bhojpuri New Song",
+            "channel": "Sur Music ",
+            "thumbnail": "https://i.ytimg.com/vi/BSw_AiwvMBs/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=BSw_AiwvMBs",
+            "views": 1290856,
+            "age_hours": 38.1
+          }
+        ]
+      },
+      {
+        "phrase": "gone wrong",
+        "video_count": 2,
+        "momentum": 11.87,
+        "regions": [
+          "IN"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "l3yZEEjYv7Y",
+            "title": "\"Number Ek\" Prank Gone Wrong on Girl YouTuber",
+            "channel": "SATVIK",
+            "thumbnail": "https://i.ytimg.com/vi/l3yZEEjYv7Y/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=l3yZEEjYv7Y",
+            "views": 550075,
+            "age_hours": 11.4
+          },
+          {
+            "id": "wS3rvxbkVUA",
+            "title": "iPhone Duo Drop Test Gone Wrong! 😶",
+            "channel": "Beebom",
+            "thumbnail": "https://i.ytimg.com/vi/wS3rvxbkVUA/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=wS3rvxbkVUA",
+            "views": 4060096,
+            "age_hours": 217.2
+          }
+        ]
+      },
+      {
+        "phrase": "todo mundo",
+        "video_count": 2,
+        "momentum": 11.65,
+        "regions": [
+          "BR"
+        ],
+        "lang": "pt",
+        "example_videos": [
+          {
+            "id": "ZVuMlxXlD8E",
+            "title": "A EMILLY VICK FEZ TATUAGEM DE TODO MUNDO #shorts",
+            "channel": "Emilly Tubera",
+            "thumbnail": "https://i.ytimg.com/vi/ZVuMlxXlD8E/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=ZVuMlxXlD8E",
+            "views": 2466619,
+            "age_hours": 41.2
+          },
+          {
+            "id": "cSrx2odmbwg",
+            "title": "Como tirar foto de pôr do sol como um profissional no iPhone! Todo mundo vai achar q vc usa DSLR",
+            "channel": "Jef Dicas Tech 📱Tecnologia ",
+            "thumbnail": "https://i.ytimg.com/vi/cSrx2odmbwg/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=cSrx2odmbwg",
+            "views": 1535203,
+            "age_hours": 119.4
           }
         ]
       }
@@ -2587,87 +2466,87 @@
   },
   "trending_searches": [
     {
-      "phrase": "how to tie a tie",
-      "prefix": "how to",
-      "rank": 1,
-      "first_seen_at": "2026-10-24T09:59:09.411460+00:00",
-      "is_new": true
-    },
-    {
-      "phrase": "how do i say goodbye dean lewis",
-      "prefix": "how do",
-      "rank": 1,
-      "first_seen_at": "2026-10-24T09:59:09.411460+00:00",
-      "is_new": true
-    },
-    {
-      "phrase": "how does it feel d'angelo",
-      "prefix": "how does",
-      "rank": 1,
-      "first_seen_at": "2026-10-24T09:59:09.411460+00:00",
-      "is_new": true
-    },
-    {
-      "phrase": "what is this diddy blud doing on the calculator",
-      "prefix": "what is",
-      "rank": 1,
-      "first_seen_at": "2026-10-24T09:59:09.411460+00:00",
-      "is_new": true
-    },
-    {
-      "phrase": "what are you listening to chris stapleton",
-      "prefix": "what are",
-      "rank": 1,
-      "first_seen_at": "2026-10-24T09:59:09.411460+00:00",
-      "is_new": true
-    },
-    {
-      "phrase": "worst way riley green",
-      "prefix": "worst",
-      "rank": 1,
-      "first_seen_at": "2026-10-24T09:59:09.411460+00:00",
-      "is_new": true
-    },
-    {
-      "phrase": "topoppgen",
-      "prefix": "top",
-      "rank": 1,
-      "first_seen_at": "2026-10-24T09:59:09.411460+00:00",
-      "is_new": true
-    },
-    {
-      "phrase": "how does it feel",
-      "prefix": "how does",
-      "rank": 2,
-      "first_seen_at": "2026-10-24T09:59:09.411460+00:00",
-      "is_new": true
-    },
-    {
-      "phrase": "why is my bus driver playing mitski",
+      "phrase": "why is it spicy",
       "prefix": "why is",
-      "rank": 2,
-      "first_seen_at": "2026-10-24T09:59:09.411460+00:00",
+      "rank": 1,
+      "first_seen_at": "2026-10-24T15:03:53.450343+00:00",
       "is_new": true
     },
     {
-      "phrase": "why does it hurt to love you",
+      "phrase": "why do birds suddenly appear",
+      "prefix": "why do",
+      "rank": 1,
+      "first_seen_at": "2026-10-24T15:03:53.450343+00:00",
+      "is_new": true
+    },
+    {
+      "phrase": "why does he call you darling",
       "prefix": "why does",
-      "rank": 2,
-      "first_seen_at": "2026-10-24T09:59:09.411460+00:00",
+      "rank": 1,
+      "first_seen_at": "2026-10-24T15:03:53.450343+00:00",
       "is_new": true
     },
     {
-      "phrase": "what is love",
-      "prefix": "what is",
-      "rank": 2,
-      "first_seen_at": "2026-10-24T09:59:09.411460+00:00",
-      "is_new": true
-    },
-    {
-      "phrase": "what happened to you",
+      "phrase": "what happened to virgil",
       "prefix": "what happened",
+      "rank": 1,
+      "first_seen_at": "2026-10-24T15:03:53.450343+00:00",
+      "is_new": true
+    },
+    {
+      "phrase": "best build 2k26",
+      "prefix": "best",
+      "rank": 1,
+      "first_seen_at": "2026-10-24T15:03:53.450343+00:00",
+      "is_new": true
+    },
+    {
+      "phrase": "is it a crime mariah the scientist",
+      "prefix": "is it",
+      "rank": 1,
+      "first_seen_at": "2026-10-24T15:03:53.450343+00:00",
+      "is_new": true
+    },
+    {
+      "phrase": "should i stay or should i go",
+      "prefix": "should i",
+      "rank": 1,
+      "first_seen_at": "2026-10-24T15:03:53.450343+00:00",
+      "is_new": true
+    },
+    {
+      "phrase": "can you stand the rain new edition",
+      "prefix": "can you",
+      "rank": 1,
+      "first_seen_at": "2026-10-24T15:03:53.450343+00:00",
+      "is_new": true
+    },
+    {
+      "phrase": "how to draw",
+      "prefix": "how to",
       "rank": 2,
-      "first_seen_at": "2026-10-24T09:59:09.411460+00:00",
+      "first_seen_at": "2026-10-24T15:03:53.450343+00:00",
+      "is_new": true
+    },
+    {
+      "phrase": "why don't we fall in love",
+      "prefix": "why do",
+      "rank": 2,
+      "first_seen_at": "2026-10-24T15:03:53.450343+00:00",
+      "is_new": true
+    },
+    {
+      "phrase": "what are you doing",
+      "prefix": "what are",
+      "rank": 2,
+      "first_seen_at": "2026-10-24T15:03:53.450343+00:00",
+      "is_new": true
+    },
+    {
+      "phrase": "best part",
+      "prefix": "best",
+      "rank": 2,
+      "first_seen_at": "2026-10-24T15:03:53.450343+00:00",
       "is_new": true
     }
   ],
@@ -2680,91 +2559,15 @@
       "thumbnail": "https://i.ytimg.com/vi/-5ZXrO_lYSA/mqdefault.jpg",
       "published_at": "2026-10-23T04:00:07Z",
       "category_id": "10",
-      "views": 47196255,
-      "likes": 804048,
-      "comments": 58671,
-      "age_hours": 30.0,
-      "views_per_hour": 1574186,
-      "momentum": 6.485,
+      "views": 48793293,
+      "likes": 839174,
+      "comments": 60450,
+      "age_hours": 35.1,
+      "views_per_hour": 1391725,
+      "momentum": 6.431,
       "url": "https://www.youtube.com/watch?v=-5ZXrO_lYSA",
       "region": "US",
       "category": "Other",
-      "_detected_lang": "en"
-    },
-    {
-      "id": "oC6brLXQe4I",
-      "title": "BABYMONSTER - 'DESERVE' M/V",
-      "channel": "BABYMONSTER",
-      "channel_id": "UCqwUnggBBct-AY2lAdI88jQ",
-      "thumbnail": "https://i.ytimg.com/vi/oC6brLXQe4I/mqdefault.jpg",
-      "published_at": "2026-10-23T04:00:09Z",
-      "category_id": "10",
-      "views": 15898524,
-      "likes": 636867,
-      "comments": 46385,
-      "age_hours": 30.0,
-      "views_per_hour": 530285,
-      "momentum": 6.35,
-      "url": "https://www.youtube.com/watch?v=oC6brLXQe4I",
-      "region": "GB",
-      "category": "Other",
-      "_detected_lang": "en"
-    },
-    {
-      "id": "5laDGy4INB0",
-      "title": "iPhone Duo Durability: Destroyed",
-      "channel": "JerryRigEverything",
-      "channel_id": "UCWFKCr40YwOZQx8FHU_ZqqQ",
-      "thumbnail": "https://i.ytimg.com/vi/5laDGy4INB0/mqdefault.jpg",
-      "published_at": "2026-10-24T03:58:15Z",
-      "category_id": "26",
-      "views": 2038997,
-      "likes": 105793,
-      "comments": 7922,
-      "age_hours": 6.0,
-      "views_per_hour": 339067,
-      "momentum": 6.319,
-      "url": "https://www.youtube.com/watch?v=5laDGy4INB0",
-      "region": "AU",
-      "category": "Howto & Style",
-      "_detected_lang": "en"
-    },
-    {
-      "id": "3uURd82kFd4",
-      "title": "What's the time?",
-      "channel": "Mob Entertainment",
-      "channel_id": "UCXqV4yoyC_mmZye6VbKFPeQ",
-      "thumbnail": "https://i.ytimg.com/vi/3uURd82kFd4/mqdefault.jpg",
-      "published_at": "2026-10-24T01:23:50Z",
-      "category_id": "20",
-      "views": 1131822,
-      "likes": 89443,
-      "comments": 7683,
-      "age_hours": 8.6,
-      "views_per_hour": 131820,
-      "momentum": 6.277,
-      "url": "https://www.youtube.com/watch?v=3uURd82kFd4",
-      "region": "US",
-      "category": "Gaming",
-      "_detected_lang": "en"
-    },
-    {
-      "id": "B9slt9ZEJn0",
-      "title": "Кто украдет БОЛЬШЕ ВСЕГО КОНФЕТ у САМОЙ ЗЛОЙ БАБУШКИ В МИРЕ?",
-      "channel": "SASHA SHOW",
-      "channel_id": "UCtJrEZ1OUmddE3yGVflYZeQ",
-      "thumbnail": "https://i.ytimg.com/vi/B9slt9ZEJn0/mqdefault.jpg",
-      "published_at": "2026-10-19T13:00:20Z",
-      "category_id": "22",
-      "views": 88793589,
-      "likes": 2547863,
-      "comments": 3146,
-      "age_hours": 117.0,
-      "views_per_hour": 759054,
-      "momentum": 6.22,
-      "url": "https://www.youtube.com/watch?v=B9slt9ZEJn0",
-      "region": "DE",
-      "category": "People & Blogs",
       "_detected_lang": "en"
     },
     {
@@ -2775,34 +2578,91 @@
       "thumbnail": "https://i.ytimg.com/vi/ZAS20E1SueY/mqdefault.jpg",
       "published_at": "2026-10-23T13:45:37Z",
       "category_id": "24",
-      "views": 25416685,
-      "likes": 178729,
-      "comments": 699,
-      "age_hours": 20.2,
-      "views_per_hour": 1256793,
-      "momentum": 6.187,
+      "views": 48075627,
+      "likes": 314300,
+      "comments": 1160,
+      "age_hours": 25.3,
+      "views_per_hour": 1900093,
+      "momentum": 6.362,
       "url": "https://www.youtube.com/watch?v=ZAS20E1SueY",
       "region": "GB",
       "category": "Entertainment",
       "_detected_lang": "en"
     },
     {
-      "id": "iqQWCYMlMw0",
-      "title": "ATEEZ(에이티즈) - 'Drip' Official MV",
-      "channel": "KQ ENTERTAINMENT",
-      "channel_id": "UCQdq-lqPEq_yZ_wP_kuVB9Q",
-      "thumbnail": "https://i.ytimg.com/vi/iqQWCYMlMw0/mqdefault.jpg",
-      "published_at": "2026-10-23T04:00:02Z",
+      "id": "mND4T0lzg_g",
+      "title": "How People Treat You Based on Subscribers",
+      "channel": "MrBeast",
+      "channel_id": "UCX6OQ3DkcsbYNE6H8uQQuVA",
+      "thumbnail": "https://i.ytimg.com/vi/mND4T0lzg_g/mqdefault.jpg",
+      "published_at": "2026-10-23T18:00:08Z",
+      "category_id": "24",
+      "views": 14975605,
+      "likes": 508752,
+      "comments": 9444,
+      "age_hours": 21.1,
+      "views_per_hour": 711091,
+      "momentum": 6.286,
+      "url": "https://www.youtube.com/watch?v=mND4T0lzg_g",
+      "region": "CA",
+      "category": "Entertainment",
+      "_detected_lang": "en"
+    },
+    {
+      "id": "oC6brLXQe4I",
+      "title": "BABYMONSTER - 'DESERVE' M/V",
+      "channel": "BABYMONSTER",
+      "channel_id": "UCqwUnggBBct-AY2lAdI88jQ",
+      "thumbnail": "https://i.ytimg.com/vi/oC6brLXQe4I/mqdefault.jpg",
+      "published_at": "2026-10-23T04:00:09Z",
       "category_id": "10",
-      "views": 6169510,
-      "likes": 365290,
-      "comments": 23759,
-      "age_hours": 30.0,
-      "views_per_hour": 205769,
-      "momentum": 6.147,
-      "url": "https://www.youtube.com/watch?v=iqQWCYMlMw0",
-      "region": "US",
+      "views": 18629481,
+      "likes": 653786,
+      "comments": 47300,
+      "age_hours": 35.1,
+      "views_per_hour": 531370,
+      "momentum": 6.273,
+      "url": "https://www.youtube.com/watch?v=oC6brLXQe4I",
+      "region": "GB",
       "category": "Other",
+      "_detected_lang": "en"
+    },
+    {
+      "id": "B9slt9ZEJn0",
+      "title": "Кто украдет БОЛЬШЕ ВСЕГО КОНФЕТ у САМОЙ ЗЛОЙ БАБУШКИ В МИРЕ?",
+      "channel": "SASHA SHOW",
+      "channel_id": "UCtJrEZ1OUmddE3yGVflYZeQ",
+      "thumbnail": "https://i.ytimg.com/vi/B9slt9ZEJn0/mqdefault.jpg",
+      "published_at": "2026-10-19T13:00:20Z",
+      "category_id": "22",
+      "views": 93280215,
+      "likes": 2696236,
+      "comments": 3319,
+      "age_hours": 122.1,
+      "views_per_hour": 764230,
+      "momentum": 6.225,
+      "url": "https://www.youtube.com/watch?v=B9slt9ZEJn0",
+      "region": "DE",
+      "category": "People & Blogs",
+      "_detected_lang": "en"
+    },
+    {
+      "id": "5laDGy4INB0",
+      "title": "iPhone Duo Durability: Destroyed",
+      "channel": "JerryRigEverything",
+      "channel_id": "UCWFKCr40YwOZQx8FHU_ZqqQ",
+      "thumbnail": "https://i.ytimg.com/vi/5laDGy4INB0/mqdefault.jpg",
+      "published_at": "2026-10-24T03:58:15Z",
+      "category_id": "26",
+      "views": 4422638,
+      "likes": 169388,
+      "comments": 11306,
+      "age_hours": 11.1,
+      "views_per_hour": 398760,
+      "momentum": 6.173,
+      "url": "https://www.youtube.com/watch?v=5laDGy4INB0",
+      "region": "US",
+      "category": "Howto & Style",
       "_detected_lang": "en"
     },
     {
@@ -2813,52 +2673,71 @@
       "thumbnail": "https://i.ytimg.com/vi/RE3_PGwDwhw/mqdefault.jpg",
       "published_at": "2026-10-17T16:00:18Z",
       "category_id": "24",
-      "views": 139203923,
-      "likes": 1912018,
-      "comments": 67106,
-      "age_hours": 162.0,
-      "views_per_hour": 859398,
-      "momentum": 6.126,
+      "views": 141012493,
+      "likes": 1927625,
+      "comments": 67772,
+      "age_hours": 167.1,
+      "views_per_hour": 844099,
+      "momentum": 6.117,
       "url": "https://www.youtube.com/watch?v=RE3_PGwDwhw",
       "region": "US",
       "category": "Entertainment",
       "_detected_lang": "en"
     },
     {
-      "id": "UDG80MZZb2g",
-      "title": "GTA 5 LIVE 🔥 #gta5 #shortslive #gaming",
-      "channel": "BOSS GAMING",
-      "channel_id": "UCx3u1O4-ZpWO5vUooXYt18w",
-      "thumbnail": "https://i.ytimg.com/vi/UDG80MZZb2g/mqdefault.jpg",
-      "published_at": "2026-10-24T06:30:51Z",
+      "id": "3uURd82kFd4",
+      "title": "What's the time?",
+      "channel": "Mob Entertainment",
+      "channel_id": "UCXqV4yoyC_mmZye6VbKFPeQ",
+      "thumbnail": "https://i.ytimg.com/vi/3uURd82kFd4/mqdefault.jpg",
+      "published_at": "2026-10-24T01:23:50Z",
       "category_id": "20",
-      "views": 3930635,
-      "likes": 8432,
-      "comments": 0,
-      "age_hours": 3.5,
-      "views_per_hour": 1132665,
-      "momentum": 6.08,
-      "url": "https://www.youtube.com/watch?v=UDG80MZZb2g",
-      "region": "IN",
+      "views": 1713428,
+      "likes": 115731,
+      "comments": 9411,
+      "age_hours": 13.7,
+      "views_per_hour": 125394,
+      "momentum": 6.067,
+      "url": "https://www.youtube.com/watch?v=3uURd82kFd4",
+      "region": "US",
       "category": "Gaming",
       "_detected_lang": "en"
     },
     {
-      "id": "FLELDkv8zWg",
-      "title": "GTA 5 LIVE  #gta5 #gtav #gaming",
-      "channel": "PAJI IS LIVE",
-      "channel_id": "UCDFCpzs71ziH52_FcL2eTNA",
-      "thumbnail": "https://i.ytimg.com/vi/FLELDkv8zWg/mqdefault.jpg",
-      "published_at": "2026-10-24T04:36:27Z",
+      "id": "iqQWCYMlMw0",
+      "title": "ATEEZ(에이티즈) - 'Drip' Official MV",
+      "channel": "KQ ENTERTAINMENT",
+      "channel_id": "UCQdq-lqPEq_yZ_wP_kuVB9Q",
+      "thumbnail": "https://i.ytimg.com/vi/iqQWCYMlMw0/mqdefault.jpg",
+      "published_at": "2026-10-23T04:00:02Z",
+      "category_id": "10",
+      "views": 7333064,
+      "likes": 379983,
+      "comments": 24400,
+      "age_hours": 35.1,
+      "views_per_hour": 209152,
+      "momentum": 6.049,
+      "url": "https://www.youtube.com/watch?v=iqQWCYMlMw0",
+      "region": "US",
+      "category": "Other",
+      "_detected_lang": "en"
+    },
+    {
+      "id": "KaA__3rqnI0",
+      "title": "Who Can Escape Without getting Crushed 💀",
+      "channel": "Hero DW",
+      "channel_id": "UCmUtBcLQXRquSciyu7texBA",
+      "thumbnail": "https://i.ytimg.com/vi/KaA__3rqnI0/mqdefault.jpg",
+      "published_at": "2026-10-17T22:42:15Z",
       "category_id": "20",
-      "views": 5653198,
-      "likes": 6889,
-      "comments": 2,
-      "age_hours": 5.4,
-      "views_per_hour": 1051382,
-      "momentum": 6.036,
-      "url": "https://www.youtube.com/watch?v=FLELDkv8zWg",
-      "region": "IN",
+      "views": 102337228,
+      "likes": 1147740,
+      "comments": 4703,
+      "age_hours": 160.4,
+      "views_per_hour": 638182,
+      "momentum": 5.938,
+      "url": "https://www.youtube.com/watch?v=KaA__3rqnI0",
+      "region": "US",
       "category": "Gaming",
       "_detected_lang": "en"
     },
@@ -2870,34 +2749,15 @@
       "thumbnail": "https://i.ytimg.com/vi/8HH35yYEJfo/mqdefault.jpg",
       "published_at": "2026-10-21T04:50:01Z",
       "category_id": "22",
-      "views": 54399475,
-      "likes": 487266,
-      "comments": 352,
-      "age_hours": 77.2,
-      "views_per_hour": 705105,
-      "momentum": 5.953,
+      "views": 54604399,
+      "likes": 485910,
+      "comments": 354,
+      "age_hours": 82.2,
+      "views_per_hour": 664050,
+      "momentum": 5.926,
       "url": "https://www.youtube.com/watch?v=8HH35yYEJfo",
       "region": "IN",
       "category": "People & Blogs",
-      "_detected_lang": "en"
-    },
-    {
-      "id": "KaA__3rqnI0",
-      "title": "Who Can Escape Without getting Crushed 💀",
-      "channel": "Hero DW",
-      "channel_id": "UCmUtBcLQXRquSciyu7texBA",
-      "thumbnail": "https://i.ytimg.com/vi/KaA__3rqnI0/mqdefault.jpg",
-      "published_at": "2026-10-17T22:42:15Z",
-      "category_id": "20",
-      "views": 99231016,
-      "likes": 1124892,
-      "comments": 4646,
-      "age_hours": 155.3,
-      "views_per_hour": 639049,
-      "momentum": 5.94,
-      "url": "https://www.youtube.com/watch?v=KaA__3rqnI0",
-      "region": "US",
-      "category": "Gaming",
       "_detected_lang": "en"
     },
     {
@@ -2908,33 +2768,14 @@
       "thumbnail": "https://i.ytimg.com/vi/0flO-ekO-qo/mqdefault.jpg",
       "published_at": "2026-10-20T15:55:29Z",
       "category_id": "23",
-      "views": 64931588,
-      "likes": 387575,
-      "comments": 172,
-      "age_hours": 90.1,
-      "views_per_hour": 720983,
-      "momentum": 5.928,
+      "views": 66549193,
+      "likes": 395449,
+      "comments": 176,
+      "age_hours": 95.1,
+      "views_per_hour": 699500,
+      "momentum": 5.914,
       "url": "https://www.youtube.com/watch?v=0flO-ekO-qo",
       "region": "IN",
-      "category": "Comedy",
-      "_detected_lang": "en"
-    },
-    {
-      "id": "YOAhjSK9Lbw",
-      "title": "iPhone Duos are cracking 😬",
-      "channel": "John Casterline",
-      "channel_id": "UCE7spuKzxP1k8A-XucxxUAQ",
-      "thumbnail": "https://i.ytimg.com/vi/YOAhjSK9Lbw/mqdefault.jpg",
-      "published_at": "2026-10-24T00:26:28Z",
-      "category_id": "23",
-      "views": 1077502,
-      "likes": 77897,
-      "comments": 2857,
-      "age_hours": 9.5,
-      "views_per_hour": 112917,
-      "momentum": 5.917,
-      "url": "https://www.youtube.com/watch?v=YOAhjSK9Lbw",
-      "region": "US",
       "category": "Comedy",
       "_detected_lang": "en"
     },
@@ -2946,12 +2787,12 @@
       "thumbnail": "https://i.ytimg.com/vi/Y8IJi7iP5vk/mqdefault.jpg",
       "published_at": "2026-10-16T16:00:02Z",
       "category_id": "24",
-      "views": 111486917,
-      "likes": 1007173,
-      "comments": 12365,
-      "age_hours": 186.0,
-      "views_per_hour": 599444,
-      "momentum": 5.889,
+      "views": 112908055,
+      "likes": 1017078,
+      "comments": 12431,
+      "age_hours": 191.1,
+      "views_per_hour": 590948,
+      "momentum": 5.882,
       "url": "https://www.youtube.com/watch?v=Y8IJi7iP5vk",
       "region": "IN",
       "category": "Entertainment",
@@ -2965,53 +2806,34 @@
       "thumbnail": "https://i.ytimg.com/vi/bs0XsXVW7vs/mqdefault.jpg",
       "published_at": "2026-10-20T12:43:55Z",
       "category_id": "24",
-      "views": 42901383,
-      "likes": 719909,
-      "comments": 2333,
-      "age_hours": 93.3,
-      "views_per_hour": 460061,
-      "momentum": 5.856,
+      "views": 44993738,
+      "likes": 749781,
+      "comments": 2423,
+      "age_hours": 98.3,
+      "views_per_hour": 457580,
+      "momentum": 5.852,
       "url": "https://www.youtube.com/watch?v=bs0XsXVW7vs",
       "region": "US",
       "category": "Entertainment",
       "_detected_lang": "en"
     },
     {
-      "id": "y5IdSoHdkgg",
-      "title": "10,000 Players Simulate COLD WAR in Minecraft",
-      "channel": "Spoke",
-      "channel_id": "UCk2uxbWi5py_iJXaEsh2YRA",
-      "thumbnail": "https://i.ytimg.com/vi/y5IdSoHdkgg/mqdefault.jpg",
-      "published_at": "2026-10-23T00:03:42Z",
-      "category_id": "20",
-      "views": 5505075,
-      "likes": 156890,
-      "comments": 30347,
-      "age_hours": 33.9,
-      "views_per_hour": 162288,
-      "momentum": 5.794,
-      "url": "https://www.youtube.com/watch?v=y5IdSoHdkgg",
+      "id": "YOAhjSK9Lbw",
+      "title": "iPhone Duos are cracking 😬",
+      "channel": "John Casterline",
+      "channel_id": "UCE7spuKzxP1k8A-XucxxUAQ",
+      "thumbnail": "https://i.ytimg.com/vi/YOAhjSK9Lbw/mqdefault.jpg",
+      "published_at": "2026-10-24T00:26:28Z",
+      "category_id": "23",
+      "views": 1460979,
+      "likes": 105520,
+      "comments": 3590,
+      "age_hours": 14.6,
+      "views_per_hour": 99925,
+      "momentum": 5.845,
+      "url": "https://www.youtube.com/watch?v=YOAhjSK9Lbw",
       "region": "US",
-      "category": "Gaming",
-      "_detected_lang": "de"
-    },
-    {
-      "id": "yzxwIH5bmm0",
-      "title": "Why they gotta do him like that 💔",
-      "channel": "MajesticFeeds",
-      "channel_id": "UCei1KlJG3K1CMc89pJOtWOQ",
-      "thumbnail": "https://i.ytimg.com/vi/yzxwIH5bmm0/mqdefault.jpg",
-      "published_at": "2026-10-22T02:02:44Z",
-      "category_id": "24",
-      "views": 12390775,
-      "likes": 486370,
-      "comments": 2465,
-      "age_hours": 55.9,
-      "views_per_hour": 221510,
-      "momentum": 5.776,
-      "url": "https://www.youtube.com/watch?v=yzxwIH5bmm0",
-      "region": "US",
-      "category": "Entertainment",
+      "category": "Comedy",
       "_detected_lang": "en"
     },
     {
@@ -3022,34 +2844,53 @@
       "thumbnail": "https://i.ytimg.com/vi/Ybhq8ZwTOdo/mqdefault.jpg",
       "published_at": "2026-10-20T19:00:03Z",
       "category_id": "23",
-      "views": 24283807,
-      "likes": 706517,
-      "comments": 2967,
-      "age_hours": 87.0,
-      "views_per_hour": 279180,
-      "momentum": 5.769,
+      "views": 25031090,
+      "likes": 720130,
+      "comments": 3014,
+      "age_hours": 92.1,
+      "views_per_hour": 271897,
+      "momentum": 5.754,
       "url": "https://www.youtube.com/watch?v=Ybhq8ZwTOdo",
       "region": "US",
       "category": "Comedy",
       "_detected_lang": "en"
     },
     {
-      "id": "GsOBaZh6cZo",
-      "title": "So Swaezy | Yo Yo Honey Singh | Hommie Dilliwaala | Full Song",
-      "channel": "Yo Yo Honey Singh",
-      "channel_id": "UC1KonH1j8WMhc5cT6Bp7NtA",
-      "thumbnail": "https://i.ytimg.com/vi/GsOBaZh6cZo/mqdefault.jpg",
-      "published_at": "2026-10-23T05:30:07Z",
-      "category_id": "10",
-      "views": 4446963,
-      "likes": 163188,
-      "comments": 16026,
-      "age_hours": 28.5,
-      "views_per_hour": 156130,
-      "momentum": 5.762,
-      "url": "https://www.youtube.com/watch?v=GsOBaZh6cZo",
+      "id": "yzxwIH5bmm0",
+      "title": "Why they gotta do him like that 💔",
+      "channel": "MajesticFeeds",
+      "channel_id": "UCei1KlJG3K1CMc89pJOtWOQ",
+      "thumbnail": "https://i.ytimg.com/vi/yzxwIH5bmm0/mqdefault.jpg",
+      "published_at": "2026-10-22T02:02:44Z",
+      "category_id": "24",
+      "views": 13012103,
+      "likes": 504954,
+      "comments": 2575,
+      "age_hours": 61.0,
+      "views_per_hour": 213257,
+      "momentum": 5.753,
+      "url": "https://www.youtube.com/watch?v=yzxwIH5bmm0",
+      "region": "US",
+      "category": "Entertainment",
+      "_detected_lang": "en"
+    },
+    {
+      "id": "FLELDkv8zWg",
+      "title": "GTA 5 LIVE  #gta5 #gtav #gaming",
+      "channel": "PAJI IS LIVE",
+      "channel_id": "UCDFCpzs71ziH52_FcL2eTNA",
+      "thumbnail": "https://i.ytimg.com/vi/FLELDkv8zWg/mqdefault.jpg",
+      "published_at": "2026-10-24T04:36:27Z",
+      "category_id": "20",
+      "views": 5654065,
+      "likes": 6852,
+      "comments": 2,
+      "age_hours": 10.5,
+      "views_per_hour": 540783,
+      "momentum": 5.747,
+      "url": "https://www.youtube.com/watch?v=FLELDkv8zWg",
       "region": "IN",
-      "category": "Other",
+      "category": "Gaming",
       "_detected_lang": "en"
     },
     {
@@ -3060,35 +2901,35 @@
       "thumbnail": "https://i.ytimg.com/vi/GFWRDeEXyQA/mqdefault.jpg",
       "published_at": "2026-10-21T16:00:32Z",
       "category_id": "22",
-      "views": 17926909,
-      "likes": 519169,
-      "comments": 4490,
-      "age_hours": 66.0,
-      "views_per_hour": 271720,
-      "momentum": 5.762,
+      "views": 18467337,
+      "likes": 534881,
+      "comments": 4592,
+      "age_hours": 71.1,
+      "views_per_hour": 259905,
+      "momentum": 5.742,
       "url": "https://www.youtube.com/watch?v=GFWRDeEXyQA",
       "region": "IN",
       "category": "People & Blogs",
       "_detected_lang": "en"
     },
     {
-      "id": "hOdR1RJ7qcs",
-      "title": "POV: O BUG DO SONO QUANDO VOCÊ TÁ SONHANDO QUE TÁ SE ARRUMANDO 😹",
-      "channel": "MoriMura",
-      "channel_id": "UCdK_G8bo0X0kVwxiWoIUfwQ",
-      "thumbnail": "https://i.ytimg.com/vi/hOdR1RJ7qcs/mqdefault.jpg",
-      "published_at": "2026-10-23T21:28:17Z",
-      "category_id": "22",
-      "views": 3109218,
-      "likes": 99363,
-      "comments": 1065,
-      "age_hours": 12.5,
-      "views_per_hour": 248465,
-      "momentum": 5.759,
-      "url": "https://www.youtube.com/watch?v=hOdR1RJ7qcs",
-      "region": "BR",
-      "category": "People & Blogs",
-      "_detected_lang": "pt"
+      "id": "y5IdSoHdkgg",
+      "title": "10,000 Players Simulate COLD WAR in Minecraft",
+      "channel": "Spoke",
+      "channel_id": "UCk2uxbWi5py_iJXaEsh2YRA",
+      "thumbnail": "https://i.ytimg.com/vi/y5IdSoHdkgg/mqdefault.jpg",
+      "published_at": "2026-10-23T00:03:42Z",
+      "category_id": "20",
+      "views": 5955095,
+      "likes": 162109,
+      "comments": 31440,
+      "age_hours": 39.0,
+      "views_per_hour": 152695,
+      "momentum": 5.74,
+      "url": "https://www.youtube.com/watch?v=y5IdSoHdkgg",
+      "region": "US",
+      "category": "Gaming",
+      "_detected_lang": "de"
     },
     {
       "id": "zJOaqPMHs7Y",
@@ -3098,12 +2939,12 @@
       "thumbnail": "https://i.ytimg.com/vi/zJOaqPMHs7Y/mqdefault.jpg",
       "published_at": "2026-10-19T00:43:19Z",
       "category_id": "24",
-      "views": 33635052,
-      "likes": 857205,
-      "comments": 14974,
-      "age_hours": 129.3,
-      "views_per_hour": 260209,
-      "momentum": 5.715,
+      "views": 33859099,
+      "likes": 862105,
+      "comments": 15059,
+      "age_hours": 134.3,
+      "views_per_hour": 252041,
+      "momentum": 5.701,
       "url": "https://www.youtube.com/watch?v=zJOaqPMHs7Y",
       "region": "US",
       "category": "Entertainment",
@@ -3117,15 +2958,53 @@
       "thumbnail": "https://i.ytimg.com/vi/cA0zG_aDriw/mqdefault.jpg",
       "published_at": "2026-10-23T04:30:37Z",
       "category_id": "24",
-      "views": 10199453,
-      "likes": 157989,
-      "comments": 803,
-      "age_hours": 29.5,
-      "views_per_hour": 346046,
-      "momentum": 5.715,
+      "views": 11573470,
+      "likes": 175871,
+      "comments": 856,
+      "age_hours": 34.6,
+      "views_per_hour": 334952,
+      "momentum": 5.697,
       "url": "https://www.youtube.com/watch?v=cA0zG_aDriw",
       "region": "IN",
       "category": "Entertainment",
+      "_detected_lang": "en"
+    },
+    {
+      "id": "GsOBaZh6cZo",
+      "title": "So Swaezy | Yo Yo Honey Singh | Hommie Dilliwaala | Full Song",
+      "channel": "Yo Yo Honey Singh",
+      "channel_id": "UC1KonH1j8WMhc5cT6Bp7NtA",
+      "thumbnail": "https://i.ytimg.com/vi/GsOBaZh6cZo/mqdefault.jpg",
+      "published_at": "2026-10-23T05:30:07Z",
+      "category_id": "10",
+      "views": 5820243,
+      "likes": 170032,
+      "comments": 16622,
+      "age_hours": 33.6,
+      "views_per_hour": 173423,
+      "momentum": 5.695,
+      "url": "https://www.youtube.com/watch?v=GsOBaZh6cZo",
+      "region": "IN",
+      "category": "Other",
+      "_detected_lang": "en"
+    },
+    {
+      "id": "UDG80MZZb2g",
+      "title": "GTA 5 LIVE 🔥 #gta5 #shortslive #gaming",
+      "channel": "BOSS GAMING",
+      "channel_id": "UCx3u1O4-ZpWO5vUooXYt18w",
+      "thumbnail": "https://i.ytimg.com/vi/UDG80MZZb2g/mqdefault.jpg",
+      "published_at": "2026-10-24T06:30:51Z",
+      "category_id": "20",
+      "views": 3931352,
+      "likes": 8372,
+      "comments": 0,
+      "age_hours": 8.5,
+      "views_per_hour": 459877,
+      "momentum": 5.687,
+      "url": "https://www.youtube.com/watch?v=UDG80MZZb2g",
+      "region": "IN",
+      "category": "Gaming",
       "_detected_lang": "en"
     }
   ]
