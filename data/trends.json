@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T03:30:58.878163+00:00",
+  "generated_at": "2026-10-29T11:58:06.015562+00:00",
   "regions": [
     "US",
     "GB",
@@ -40,392 +40,444 @@
     }
   ],
   "stats": {
-    "total_videos": 428,
+    "total_videos": 421,
     "total_topics": 18,
-    "total_themes": 7,
+    "total_themes": 8,
     "total_searches": 12,
     "by_category": {
-      "Entertainment": 99,
-      "Howto & Style": 17,
-      "People & Blogs": 111,
-      "Comedy": 27,
-      "Science & Tech": 21,
-      "Gaming": 89,
       "Other": 59,
-      "Education": 5
+      "Entertainment": 105,
+      "Gaming": 72,
+      "Howto & Style": 16,
+      "Comedy": 26,
+      "Science & Tech": 16,
+      "People & Blogs": 118,
+      "Education": 9
     }
   },
   "emerging_themes": [
     {
-      "phrase": "playing free fire",
-      "video_count": 30,
-      "channel_count": 30,
-      "total_channels_seen": 30,
-      "uploads_per_hour": 2.5,
-      "window_hours": 12,
-      "example_videos": [
-        {
-          "id": "mgRb0lmV278",
-          "title": "PLAYING FREE FIRE INDIA FIRST TIME 🤍🫂",
-          "channel": "Ayush Rajput Gaming ",
-          "channel_id": "UCtNZ96q1CeE69JL129PnoFw",
-          "subscribers": 82,
-          "thumbnail": "https://i.ytimg.com/vi/mgRb0lmV278/mqdefault.jpg",
-          "published_at": "2026-10-29T03:30:23Z",
-          "url": "https://www.youtube.com/watch?v=mgRb0lmV278"
-        },
-        {
-          "id": "XgNglyamwkM",
-          "title": "🔥 FREE FIRE INDIA FIRST EXPERIENCE 😱❤️ | PLAYING FREE FIRE INDIA FOR THE FIRST TIME! 🎮",
-          "channel": "Free Firet-2d",
-          "channel_id": "UCxVsmyJgHHivBWppRN_baxA",
-          "subscribers": 7,
-          "thumbnail": "https://i.ytimg.com/vi/XgNglyamwkM/mqdefault.jpg",
-          "published_at": "2026-10-29T03:30:18Z",
-          "url": "https://www.youtube.com/watch?v=XgNglyamwkM"
-        },
-        {
-          "id": "1Gwm_Fg8b8o",
-          "title": "Playing FREE FIRE INDIA for First Time 😍 Ulkaa Gamerz ",
-          "channel": "Ulkaa Gamerz",
-          "channel_id": "UCIRkBvG7k8V78uUdz1DDpvQ",
-          "subscribers": 1710,
-          "thumbnail": "https://i.ytimg.com/vi/1Gwm_Fg8b8o/mqdefault.jpg",
-          "published_at": "2026-10-29T03:30:07Z",
-          "url": "https://www.youtube.com/watch?v=1Gwm_Fg8b8o"
-        },
-        {
-          "id": "nW8pABkvrIQ",
-          "title": "&quot;Playing FREE FIRE INDIA for First 1Time😍&quot; #freefireindia ",
-          "channel": "DM DARSHU LIVE",
-          "channel_id": "UC8PR_4UQnpo9mf_4HApsx_A",
-          "subscribers": 51,
-          "thumbnail": "https://i.ytimg.com/vi/nW8pABkvrIQ/mqdefault.jpg",
-          "published_at": "2026-10-29T03:30:04Z",
-          "url": "https://www.youtube.com/watch?v=nW8pABkvrIQ"
-        }
-      ],
-      "first_detected_at": "2026-10-29T03:30:58.878163+00:00",
-      "last_seen_at": "2026-10-29T03:30:58.878163+00:00"
-    },
-    {
-      "phrase": "fire india first",
-      "video_count": 30,
-      "channel_count": 30,
-      "total_channels_seen": 30,
-      "uploads_per_hour": 2.5,
-      "window_hours": 12,
-      "example_videos": [
-        {
-          "id": "bEmvLtNhxr8",
-          "title": "Free Fire IndiaFirst Reaction#short #shorts",
-          "channel": "ANDHRA FOLK KING",
-          "channel_id": "UCvIYWRl6_cfkAdbHCd4kL0g",
-          "subscribers": 5430,
-          "thumbnail": "https://i.ytimg.com/vi/bEmvLtNhxr8/mqdefault.jpg",
-          "published_at": "2026-10-29T03:30:29Z",
-          "url": "https://www.youtube.com/watch?v=bEmvLtNhxr8"
-        },
-        {
-          "id": "mgRb0lmV278",
-          "title": "PLAYING FREE FIRE INDIA FIRST TIME 🤍🫂",
-          "channel": "Ayush Rajput Gaming ",
-          "channel_id": "UCtNZ96q1CeE69JL129PnoFw",
-          "subscribers": 82,
-          "thumbnail": "https://i.ytimg.com/vi/mgRb0lmV278/mqdefault.jpg",
-          "published_at": "2026-10-29T03:30:23Z",
-          "url": "https://www.youtube.com/watch?v=mgRb0lmV278"
-        },
-        {
-          "id": "XgNglyamwkM",
-          "title": "🔥 FREE FIRE INDIA FIRST EXPERIENCE 😱❤️ | PLAYING FREE FIRE INDIA FOR THE FIRST TIME! 🎮",
-          "channel": "Free Firet-2d",
-          "channel_id": "UCxVsmyJgHHivBWppRN_baxA",
-          "subscribers": 7,
-          "thumbnail": "https://i.ytimg.com/vi/XgNglyamwkM/mqdefault.jpg",
-          "published_at": "2026-10-29T03:30:18Z",
-          "url": "https://www.youtube.com/watch?v=XgNglyamwkM"
-        },
-        {
-          "id": "ba0_tAXOlwU",
-          "title": "FREE FIRE INDIA FIRST GAMEPLAY &amp; REACTION! 😱#FreeFireIndia #FreeFire #FreeFireGameplay #viral #short",
-          "channel": "Mishraji Gaming",
-          "channel_id": "UCrxQFoYz899gNNZW67NCzaw",
-          "subscribers": 149,
-          "thumbnail": "https://i.ytimg.com/vi/ba0_tAXOlwU/mqdefault.jpg",
-          "published_at": "2026-10-29T03:30:17Z",
-          "url": "https://www.youtube.com/watch?v=ba0_tAXOlwU"
-        }
-      ],
-      "first_detected_at": "2026-10-29T03:30:58.878163+00:00",
-      "last_seen_at": "2026-10-29T03:30:58.878163+00:00"
-    },
-    {
-      "phrase": "fire india 1st",
-      "video_count": 30,
+      "phrase": "deep forest survival",
+      "video_count": 29,
       "channel_count": 29,
-      "total_channels_seen": 29,
+      "total_channels_seen": 30,
       "uploads_per_hour": 2.42,
       "window_hours": 12,
       "example_videos": [
         {
-          "id": "eMembnCwG_I",
-          "title": "FREE FIRE INDIA 1ST GAMEPLAY ❤️ #viral #freefire #explore #fyp #trending #gameplay #shorts",
-          "channel": "The Minhaj Gamer",
-          "channel_id": "UCMAmxQXlONSL3s4Zpv8cavw",
-          "subscribers": 14,
-          "thumbnail": "https://i.ytimg.com/vi/eMembnCwG_I/mqdefault.jpg",
-          "published_at": "2026-10-29T03:30:34Z",
-          "url": "https://www.youtube.com/watch?v=eMembnCwG_I"
+          "id": "PwsSRdASce8",
+          "title": "A woman survives alone in the deep forest, gathering snails to get by day after day",
+          "channel": "lý thị bầu daily life",
+          "channel_id": "UCABI1BWhC7YSZRpl8_B039g",
+          "subscribers": 2210,
+          "thumbnail": "https://i.ytimg.com/vi/PwsSRdASce8/mqdefault.jpg",
+          "published_at": "2026-10-29T11:51:34Z",
+          "url": "https://www.youtube.com/watch?v=PwsSRdASce8"
         },
         {
-          "id": "aMLnFEh2BiM",
-          "title": "​Free Fire India ਨਵਾਂ Map ਧਮਾਕਾ! 🔥 | Pura Gamemap Reveal | 1st Gaming Video",
-          "channel": "Dilu Barnala",
-          "channel_id": "UCXkV0es0opT5bpjlIiLOCbA",
+          "id": "HtjDUNBLC-s",
+          "title": "🔥 Building Wooden Log Cabin in Deep Forest 🌲🪓 | Survival House Step by Step Part-11",
+          "channel": "World Masti",
+          "channel_id": "UC4FPSpwkWmvCB4kR7KlSDtg",
           "subscribers": 0,
-          "thumbnail": "https://i.ytimg.com/vi/aMLnFEh2BiM/mqdefault.jpg",
-          "published_at": "2026-10-29T03:30:27Z",
-          "url": "https://www.youtube.com/watch?v=aMLnFEh2BiM"
+          "thumbnail": "https://i.ytimg.com/vi/HtjDUNBLC-s/mqdefault.jpg",
+          "published_at": "2026-10-29T11:44:04Z",
+          "url": "https://www.youtube.com/watch?v=HtjDUNBLC-s"
         },
         {
-          "id": "ba0_tAXOlwU",
-          "title": "FREE FIRE INDIA FIRST GAMEPLAY &amp; REACTION! 😱#FreeFireIndia #FreeFire #FreeFireGameplay #viral #short",
-          "channel": "Mishraji Gaming",
-          "channel_id": "UCrxQFoYz899gNNZW67NCzaw",
-          "subscribers": 149,
-          "thumbnail": "https://i.ytimg.com/vi/ba0_tAXOlwU/mqdefault.jpg",
-          "published_at": "2026-10-29T03:30:17Z",
-          "url": "https://www.youtube.com/watch?v=ba0_tAXOlwU"
+          "id": "GglPuSKvfsc",
+          "title": "🔥 Building Wooden Log Cabin in Deep Forest 🌲🪓 | Survival House Step by Step Part-11",
+          "channel": "Nikhil Shadow",
+          "channel_id": "UCBVnM8WtjpAOAJJHV6P8hsA",
+          "subscribers": 248000,
+          "thumbnail": "https://i.ytimg.com/vi/GglPuSKvfsc/mqdefault.jpg",
+          "published_at": "2026-10-29T11:32:16Z",
+          "url": "https://www.youtube.com/watch?v=GglPuSKvfsc"
         },
         {
-          "id": "-SNl4HE1Kyw",
-          "title": "Free fire india first gameplay like  rai star #raistar",
-          "channel": "OP HNUNTER YT",
-          "channel_id": "UCVNvi9n_rb3tBqpRGzviCdQ",
-          "subscribers": 1680,
-          "thumbnail": "https://i.ytimg.com/vi/-SNl4HE1Kyw/mqdefault.jpg",
-          "published_at": "2026-10-29T03:28:49Z",
-          "url": "https://www.youtube.com/watch?v=-SNl4HE1Kyw"
+          "id": "rX6tydRZii8",
+          "title": "🔥 Building Wooden Log Cabin in Deep Forest 🌲🪓 | Survival House Step by Step Part-11",
+          "channel": "JBL AUR BIHARI DJ SANAM",
+          "channel_id": "UCsDHOlp42RnUhuoG0J2l2RA",
+          "subscribers": 248000,
+          "thumbnail": "https://i.ytimg.com/vi/rX6tydRZii8/mqdefault.jpg",
+          "published_at": "2026-10-29T11:31:00Z",
+          "url": "https://www.youtube.com/watch?v=rX6tydRZii8"
         }
       ],
-      "first_detected_at": "2026-10-29T03:30:58.878163+00:00",
-      "last_seen_at": "2026-10-29T03:30:58.878163+00:00"
+      "first_detected_at": "2026-10-29T11:58:06.015562+00:00",
+      "last_seen_at": "2026-10-29T11:58:06.015562+00:00"
     },
     {
-      "phrase": "free fire india",
-      "video_count": 27,
-      "channel_count": 27,
-      "total_channels_seen": 30,
-      "uploads_per_hour": 2.25,
+      "phrase": "log cabin deep",
+      "video_count": 29,
+      "channel_count": 28,
+      "total_channels_seen": 29,
+      "uploads_per_hour": 2.33,
       "window_hours": 12,
       "example_videos": [
         {
-          "id": "2kBHj6FouAM",
-          "title": "free fire india return #shorts #freefireindia",
-          "channel": "1401 GAMEING ",
-          "channel_id": "UClVxGMMFC70OVyVXYLnUueQ",
-          "subscribers": 11500,
-          "thumbnail": "https://i.ytimg.com/vi/2kBHj6FouAM/mqdefault.jpg",
-          "published_at": "2026-10-29T03:13:19Z",
-          "url": "https://www.youtube.com/watch?v=2kBHj6FouAM"
+          "id": "HtjDUNBLC-s",
+          "title": "🔥 Building Wooden Log Cabin in Deep Forest 🌲🪓 | Survival House Step by Step Part-11",
+          "channel": "World Masti",
+          "channel_id": "UC4FPSpwkWmvCB4kR7KlSDtg",
+          "subscribers": 0,
+          "thumbnail": "https://i.ytimg.com/vi/HtjDUNBLC-s/mqdefault.jpg",
+          "published_at": "2026-10-29T11:44:04Z",
+          "url": "https://www.youtube.com/watch?v=HtjDUNBLC-s"
         },
         {
-          "id": "9qE6opcnSQk",
-          "title": "❤Free Fire Max go back free fire india😭#FreeFireMAX #FreeFireIndia #FreeFire #FFMAX #GarenaFreeFire",
-          "channel": "₦₲ㅤSAICO !!!",
-          "channel_id": "UC0gBTaRkczZUv28m7cck5EA",
-          "subscribers": 147,
-          "thumbnail": "https://i.ytimg.com/vi/9qE6opcnSQk/mqdefault.jpg",
-          "published_at": "2026-10-29T03:07:09Z",
-          "url": "https://www.youtube.com/watch?v=9qE6opcnSQk"
+          "id": "GglPuSKvfsc",
+          "title": "🔥 Building Wooden Log Cabin in Deep Forest 🌲🪓 | Survival House Step by Step Part-11",
+          "channel": "Nikhil Shadow",
+          "channel_id": "UCBVnM8WtjpAOAJJHV6P8hsA",
+          "subscribers": 248000,
+          "thumbnail": "https://i.ytimg.com/vi/GglPuSKvfsc/mqdefault.jpg",
+          "published_at": "2026-10-29T11:32:16Z",
+          "url": "https://www.youtube.com/watch?v=GglPuSKvfsc"
         },
         {
-          "id": "Hql-7hz714k",
-          "title": "🔥 FREE FIRE INDIA NEW UPDATE 🇮🇳😱",
-          "channel": "FF YADAV GAMER",
-          "channel_id": "UCmnMD1vUCR0D1jfStrzzQvg",
-          "subscribers": 245,
-          "thumbnail": "https://i.ytimg.com/vi/Hql-7hz714k/mqdefault.jpg",
-          "published_at": "2026-10-29T03:04:48Z",
-          "url": "https://www.youtube.com/watch?v=Hql-7hz714k"
+          "id": "rX6tydRZii8",
+          "title": "🔥 Building Wooden Log Cabin in Deep Forest 🌲🪓 | Survival House Step by Step Part-11",
+          "channel": "JBL AUR BIHARI DJ SANAM",
+          "channel_id": "UCsDHOlp42RnUhuoG0J2l2RA",
+          "subscribers": 248000,
+          "thumbnail": "https://i.ytimg.com/vi/rX6tydRZii8/mqdefault.jpg",
+          "published_at": "2026-10-29T11:31:00Z",
+          "url": "https://www.youtube.com/watch?v=rX6tydRZii8"
         },
         {
-          "id": "frk9SDfHLKU",
-          "title": "FREE FIRE INDIA WALE ❤️‍🔥😱 #shorts #freefire",
-          "channel": "ZennXWorld",
-          "channel_id": "UCEOEsRH-Y06IumAHZad8Q4A",
-          "subscribers": 1880,
-          "thumbnail": "https://i.ytimg.com/vi/frk9SDfHLKU/mqdefault.jpg",
-          "published_at": "2026-10-29T03:02:18Z",
-          "url": "https://www.youtube.com/watch?v=frk9SDfHLKU"
+          "id": "skTHAhB50Es",
+          "title": "🔥 Building Wooden Log Cabin in Deep Forest 🌲🪓 | Survival House Step by Step",
+          "channel": "shehzadi_r_786",
+          "channel_id": "UCEuEUqu0JNKyyFs7Nub7Hkw",
+          "subscribers": 2,
+          "thumbnail": "https://i.ytimg.com/vi/skTHAhB50Es/mqdefault.jpg",
+          "published_at": "2026-10-29T11:22:39Z",
+          "url": "https://www.youtube.com/watch?v=skTHAhB50Es"
+        }
+      ],
+      "first_detected_at": "2026-10-29T11:58:06.015562+00:00",
+      "last_seen_at": "2026-10-29T11:58:06.015562+00:00"
+    },
+    {
+      "phrase": "cabin deep forest",
+      "video_count": 29,
+      "channel_count": 28,
+      "total_channels_seen": 29,
+      "uploads_per_hour": 2.33,
+      "window_hours": 12,
+      "example_videos": [
+        {
+          "id": "oJOfXuSt8oc",
+          "title": "Calming Rain at a Deep Forest Cabin 🌧 | Relaxing Dark Bedroom Sounds for Deep Sleep",
+          "channel": "Sleepless Rainfall",
+          "channel_id": "UCJVJLKQnWKRec9iTumAw5Zg",
+          "subscribers": 1700,
+          "thumbnail": "https://i.ytimg.com/vi/oJOfXuSt8oc/mqdefault.jpg",
+          "published_at": "2026-10-29T11:44:34Z",
+          "url": "https://www.youtube.com/watch?v=oJOfXuSt8oc"
+        },
+        {
+          "id": "HtjDUNBLC-s",
+          "title": "🔥 Building Wooden Log Cabin in Deep Forest 🌲🪓 | Survival House Step by Step Part-11",
+          "channel": "World Masti",
+          "channel_id": "UC4FPSpwkWmvCB4kR7KlSDtg",
+          "subscribers": 0,
+          "thumbnail": "https://i.ytimg.com/vi/HtjDUNBLC-s/mqdefault.jpg",
+          "published_at": "2026-10-29T11:44:04Z",
+          "url": "https://www.youtube.com/watch?v=HtjDUNBLC-s"
+        },
+        {
+          "id": "-d65auGBD5A",
+          "title": "Cozy Forest Cabin Rain (NO ADS) 🌧️ Deep Sleep &amp; Instant Relaxation",
+          "channel": "Velve ones Music",
+          "channel_id": "UCHEKKT_IvSNmCzwNTWFuN7A",
+          "subscribers": 1290,
+          "thumbnail": "https://i.ytimg.com/vi/-d65auGBD5A/mqdefault.jpg",
+          "published_at": "2026-10-29T11:32:18Z",
+          "url": "https://www.youtube.com/watch?v=-d65auGBD5A"
+        },
+        {
+          "id": "rX6tydRZii8",
+          "title": "🔥 Building Wooden Log Cabin in Deep Forest 🌲🪓 | Survival House Step by Step Part-11",
+          "channel": "JBL AUR BIHARI DJ SANAM",
+          "channel_id": "UCsDHOlp42RnUhuoG0J2l2RA",
+          "subscribers": 248000,
+          "thumbnail": "https://i.ytimg.com/vi/rX6tydRZii8/mqdefault.jpg",
+          "published_at": "2026-10-29T11:31:00Z",
+          "url": "https://www.youtube.com/watch?v=rX6tydRZii8"
+        }
+      ],
+      "first_detected_at": "2026-10-29T11:58:06.015562+00:00",
+      "last_seen_at": "2026-10-29T11:58:06.015562+00:00"
+    },
+    {
+      "phrase": "wooden log cabin",
+      "video_count": 27,
+      "channel_count": 26,
+      "total_channels_seen": 29,
+      "uploads_per_hour": 2.17,
+      "window_hours": 12,
+      "example_videos": [
+        {
+          "id": "tYuyD-SjGQQ",
+          "title": "😜TIMELAPSE: START to FINISH Alone BUILD LOG Cabin (Wooden House), How To Build Wooden Cabin,#shorts",
+          "channel": "Isteyak sk 786",
+          "channel_id": "UCYUFsReqBfa-BUqGY1Rw63w",
+          "subscribers": 5,
+          "thumbnail": "https://i.ytimg.com/vi/tYuyD-SjGQQ/mqdefault.jpg",
+          "published_at": "2026-10-29T11:55:28Z",
+          "url": "https://www.youtube.com/watch?v=tYuyD-SjGQQ"
+        },
+        {
+          "id": "rX6tydRZii8",
+          "title": "🔥 Building Wooden Log Cabin in Deep Forest 🌲🪓 | Survival House Step by Step Part-11",
+          "channel": "JBL AUR BIHARI DJ SANAM",
+          "channel_id": "UCsDHOlp42RnUhuoG0J2l2RA",
+          "subscribers": 248000,
+          "thumbnail": "https://i.ytimg.com/vi/rX6tydRZii8/mqdefault.jpg",
+          "published_at": "2026-10-29T11:31:00Z",
+          "url": "https://www.youtube.com/watch?v=rX6tydRZii8"
+        },
+        {
+          "id": "MjB_aqCaLsc",
+          "title": "“Building Wooden Log Cabin in Forest 👽🌲| Survival House Step by Step” part-31  #tweening #shorts",
+          "channel": " KP FUN SHORT ",
+          "channel_id": "UCTB3j6fzSaJYU-xZgNYwEHQ",
+          "subscribers": 20400,
+          "thumbnail": "https://i.ytimg.com/vi/MjB_aqCaLsc/mqdefault.jpg",
+          "published_at": "2026-10-29T11:30:17Z",
+          "url": "https://www.youtube.com/watch?v=MjB_aqCaLsc"
+        },
+        {
+          "id": "RjzkTqEJnQI",
+          "title": "&quot;Building Wooden Log Cabin in Forest🌲😘 Survival House Step by Step",
+          "channel": "Abhay yt 90",
+          "channel_id": "UCXDXzZJzMqY8T1EhOzBVmiw",
+          "subscribers": 61100,
+          "thumbnail": "https://i.ytimg.com/vi/RjzkTqEJnQI/mqdefault.jpg",
+          "published_at": "2026-10-29T11:29:44Z",
+          "url": "https://www.youtube.com/watch?v=RjzkTqEJnQI"
+        }
+      ],
+      "first_detected_at": "2026-10-29T11:58:06.015562+00:00",
+      "last_seen_at": "2026-10-29T11:58:06.015562+00:00"
+    },
+    {
+      "phrase": "free fire india",
+      "video_count": 26,
+      "channel_count": 26,
+      "total_channels_seen": 30,
+      "uploads_per_hour": 2.17,
+      "window_hours": 12,
+      "example_videos": [
+        {
+          "id": "i7hkaB1bOjg",
+          "title": "FREE FIRE 🤔 FREE FIRE INDIA.  #freefire #freefireindia",
+          "channel": "@BROKEN HEART FF ",
+          "channel_id": "UC1rw9qn278HpbfK7Jax8_YQ",
+          "subscribers": 335,
+          "thumbnail": "https://i.ytimg.com/vi/i7hkaB1bOjg/mqdefault.jpg",
+          "published_at": "2026-10-29T11:49:14Z",
+          "url": "https://www.youtube.com/watch?v=i7hkaB1bOjg"
+        },
+        {
+          "id": "lQ3PR0Tkgkc",
+          "title": "free fire max 🔥 vs free fire india 💀 #freefire #freefireindia",
+          "channel": "Gujaratix7ff ",
+          "channel_id": "UCCpt1ZlMf6Kqs9ELd2oXtQg",
+          "subscribers": 97,
+          "thumbnail": "https://i.ytimg.com/vi/lQ3PR0Tkgkc/mqdefault.jpg",
+          "published_at": "2026-10-29T11:45:26Z",
+          "url": "https://www.youtube.com/watch?v=lQ3PR0Tkgkc"
+        },
+        {
+          "id": "lJBpFf6zLZQ",
+          "title": "Free Fire MAX का नाम बदलकर Free Fire India? 😱 गेम में कुछ भी नहीं बदला! 😂 #freefire #freefireindia",
+          "channel": "Surya Pratap Gaming",
+          "channel_id": "UC7EMNyminzdsPfmq4DFJanw",
+          "subscribers": 2530,
+          "thumbnail": "https://i.ytimg.com/vi/lJBpFf6zLZQ/mqdefault.jpg",
+          "published_at": "2026-10-29T11:37:31Z",
+          "url": "https://www.youtube.com/watch?v=lJBpFf6zLZQ"
+        },
+        {
+          "id": "n8jyqGR89KU",
+          "title": "😱 Free Fire India Hidden Features में FREE REWARDS मिल रहे हैं! 🎁🇮🇳 #freefire #shorts #trending",
+          "channel": "Bio 2 ilyas",
+          "channel_id": "UCbhhVvh3jdT7iDZ2S7S8znA",
+          "subscribers": 19600,
+          "thumbnail": "https://i.ytimg.com/vi/n8jyqGR89KU/mqdefault.jpg",
+          "published_at": "2026-10-29T11:33:39Z",
+          "url": "https://www.youtube.com/watch?v=n8jyqGR89KU"
         }
       ],
       "first_detected_at": "2026-10-27T11:16:15.960845+00:00",
-      "last_seen_at": "2026-10-29T03:30:58.878163+00:00"
+      "last_seen_at": "2026-10-29T11:58:06.015562+00:00"
     },
     {
-      "phrase": "free fire",
-      "video_count": 25,
-      "channel_count": 24,
+      "phrase": "iphone duo",
+      "video_count": 27,
+      "channel_count": 25,
       "total_channels_seen": 28,
+      "uploads_per_hour": 2.08,
+      "window_hours": 12,
+      "example_videos": [
+        {
+          "id": "RH7TZ7xtHcQ",
+          "title": "iPhone Duoケースの最適解かも。holditのシリコンケースはヒンジまで守れてガタつきにくい",
+          "channel": "飯塚健太 - イエスタLife",
+          "channel_id": "UCLn8WeDJX1_3R9f7HL2UCig",
+          "subscribers": 3330,
+          "thumbnail": "https://i.ytimg.com/vi/RH7TZ7xtHcQ/mqdefault.jpg",
+          "published_at": "2026-10-29T11:43:38Z",
+          "url": "https://www.youtube.com/watch?v=RH7TZ7xtHcQ"
+        },
+        {
+          "id": "hIaNB9BH2-I",
+          "title": "iPhone Duoを全面保護 #iphoneケース #iphoneduo #iphoneduocase #折りたたみスマホ  #shorts #便利グッズ",
+          "channel": "moecase",
+          "channel_id": "UCyLXyYKE9PcMWRxLfzR0zvw",
+          "subscribers": 1050,
+          "thumbnail": "https://i.ytimg.com/vi/hIaNB9BH2-I/mqdefault.jpg",
+          "published_at": "2026-10-29T11:34:06Z",
+          "url": "https://www.youtube.com/watch?v=hIaNB9BH2-I"
+        },
+        {
+          "id": "s96VHlTmxnQ",
+          "title": "一次代買兩台iPhone Duo！🔥 感謝上海金哥信任，蘋果折疊屏到底有多搶手？#shorts",
+          "channel": "Gadget 星球",
+          "channel_id": "UC6kGdeC-zfDz7DKpaVyI-kQ",
+          "subscribers": 18900,
+          "thumbnail": "https://i.ytimg.com/vi/s96VHlTmxnQ/mqdefault.jpg",
+          "published_at": "2026-10-29T11:33:41Z",
+          "url": "https://www.youtube.com/watch?v=s96VHlTmxnQ"
+        },
+        {
+          "id": "nFpWPv6hAo8",
+          "title": "Khi mẹ có iphone Duo! #shorts",
+          "channel": "Nhi La Cà",
+          "channel_id": "UCW0Oq-ovUPkjhvWjfyNKCKQ",
+          "subscribers": 314000,
+          "thumbnail": "https://i.ytimg.com/vi/nFpWPv6hAo8/mqdefault.jpg",
+          "published_at": "2026-10-29T11:33:23Z",
+          "url": "https://www.youtube.com/watch?v=nFpWPv6hAo8"
+        }
+      ],
+      "first_detected_at": "2026-10-21T16:18:59.322063+00:00",
+      "last_seen_at": "2026-10-29T11:58:06.015562+00:00"
+    },
+    {
+      "phrase": "building wooden log",
+      "video_count": 25,
+      "channel_count": 25,
+      "total_channels_seen": 30,
+      "uploads_per_hour": 2.08,
+      "window_hours": 12,
+      "example_videos": [
+        {
+          "id": "oObppx8nlJE",
+          "title": "ogcabin Building Wooden Log Cabin in Forest 🌲| Survival House Step by Step",
+          "channel": "Raj Khokan ",
+          "channel_id": "UC0-wIdwehw2xgQyhMS5bEjw",
+          "subscribers": 4320,
+          "thumbnail": "https://i.ytimg.com/vi/oObppx8nlJE/mqdefault.jpg",
+          "published_at": "2026-10-29T11:48:10Z",
+          "url": "https://www.youtube.com/watch?v=oObppx8nlJE"
+        },
+        {
+          "id": "9qkhAOdE_6c",
+          "title": "Building Wooden Log Cabin in Forest 👽🌲| Survival House Step by Step” part-2 #shorts",
+          "channel": "Up Factx 1.0",
+          "channel_id": "UCLX4UZtj11AG476e-QI5FRw",
+          "subscribers": 1880,
+          "thumbnail": "https://i.ytimg.com/vi/9qkhAOdE_6c/mqdefault.jpg",
+          "published_at": "2026-10-29T11:39:58Z",
+          "url": "https://www.youtube.com/watch?v=9qkhAOdE_6c"
+        },
+        {
+          "id": "GglPuSKvfsc",
+          "title": "🔥 Building Wooden Log Cabin in Deep Forest 🌲🪓 | Survival House Step by Step Part-11",
+          "channel": "Nikhil Shadow",
+          "channel_id": "UCBVnM8WtjpAOAJJHV6P8hsA",
+          "subscribers": 248000,
+          "thumbnail": "https://i.ytimg.com/vi/GglPuSKvfsc/mqdefault.jpg",
+          "published_at": "2026-10-29T11:32:16Z",
+          "url": "https://www.youtube.com/watch?v=GglPuSKvfsc"
+        },
+        {
+          "id": "rX6tydRZii8",
+          "title": "🔥 Building Wooden Log Cabin in Deep Forest 🌲🪓 | Survival House Step by Step Part-11",
+          "channel": "JBL AUR BIHARI DJ SANAM",
+          "channel_id": "UCsDHOlp42RnUhuoG0J2l2RA",
+          "subscribers": 248000,
+          "thumbnail": "https://i.ytimg.com/vi/rX6tydRZii8/mqdefault.jpg",
+          "published_at": "2026-10-29T11:31:00Z",
+          "url": "https://www.youtube.com/watch?v=rX6tydRZii8"
+        }
+      ],
+      "first_detected_at": "2026-10-29T11:58:06.015562+00:00",
+      "last_seen_at": "2026-10-29T11:58:06.015562+00:00"
+    },
+    {
+      "phrase": "karwa chauth",
+      "video_count": 24,
+      "channel_count": 24,
+      "total_channels_seen": 30,
       "uploads_per_hour": 2.0,
       "window_hours": 12,
       "example_videos": [
         {
-          "id": "1ygBVF8Zv5k",
-          "title": "AMIT BHAI REACTED ON FREE FIRE INDIA🇨🇮 ❤️‍🩹 #freefire #freefireindia #trending #fyp #foryou",
-          "channel": "GWR×ALPHA",
-          "channel_id": "UC6vG8VDgZJCtJF_xq6LV-Vg",
-          "subscribers": 1070,
-          "thumbnail": "https://i.ytimg.com/vi/1ygBVF8Zv5k/mqdefault.jpg",
-          "published_at": "2026-10-29T03:15:13Z",
-          "url": "https://www.youtube.com/watch?v=1ygBVF8Zv5k"
+          "id": "X6SwbNk68ko",
+          "title": "Karwa Chauth #mememandir",
+          "channel": "MemeMandir",
+          "channel_id": "UCg5ogbPlpn8DN-NrLPK12VQ",
+          "subscribers": 392000,
+          "thumbnail": "https://i.ytimg.com/vi/X6SwbNk68ko/mqdefault.jpg",
+          "published_at": "2026-10-29T11:30:33Z",
+          "url": "https://www.youtube.com/watch?v=X6SwbNk68ko"
         },
         {
-          "id": "byi7HpZPwPs",
-          "title": "OLD PEAK MISSING 🥺🙏FREE FIRE INDIA 🇮🇳OLD MEMORIS❄⛄ RETURN 👍🏻 DESY  GAMER🤯#freefireindia #shortsfeed",
-          "channel": "og ikka ",
-          "channel_id": "UCDl6yKzVJi0EHsLs9nxhTRA",
-          "subscribers": 351,
-          "thumbnail": "https://i.ytimg.com/vi/byi7HpZPwPs/mqdefault.jpg",
-          "published_at": "2026-10-29T03:13:20Z",
-          "url": "https://www.youtube.com/watch?v=byi7HpZPwPs"
+          "id": "7m8937UobBo",
+          "title": "😱GRWM for my first Karwa Chauth without my husband? #karwachauth #festive #grwm",
+          "channel": "Vaibhavi Thakur",
+          "channel_id": "UCOpCD3MTZLQ_xpjQFBI_rMQ",
+          "subscribers": 406000,
+          "thumbnail": "https://i.ytimg.com/vi/7m8937UobBo/mqdefault.jpg",
+          "published_at": "2026-10-29T11:30:25Z",
+          "url": "https://www.youtube.com/watch?v=7m8937UobBo"
         },
         {
-          "id": "1w1kONzDiU8",
-          "title": "Free fire india 🇮🇳 agya lekin pehle jaisa nhi 😒 #freefire #shorts",
-          "channel": "AuraXboys",
-          "channel_id": "UCa27NVWId6xgdmpjCjLa89A",
-          "subscribers": 3420,
-          "thumbnail": "https://i.ytimg.com/vi/1w1kONzDiU8/mqdefault.jpg",
-          "published_at": "2026-10-29T03:07:52Z",
-          "url": "https://www.youtube.com/watch?v=1w1kONzDiU8"
+          "id": "ETEYOaf2MdY",
+          "title": "Me on karwa Chauth #memes #popular #viral #funnymemes #karwachauth #karwa #me",
+          "channel": "Yaduvanshi harshita",
+          "channel_id": "UCB5nnzv-KJw16w625_G6-Zg",
+          "subscribers": 258000,
+          "thumbnail": "https://i.ytimg.com/vi/ETEYOaf2MdY/mqdefault.jpg",
+          "published_at": "2026-10-29T11:30:00Z",
+          "url": "https://www.youtube.com/watch?v=ETEYOaf2MdY"
         },
         {
-          "id": "YJtEXMSJsrQ",
-          "title": "Karakter Sultan Free Fire Panik Pertama Kali Naik Angkot Bareng Emak-Emak Galak!",
-          "channel": "Hiburan Ai Comedy FF",
-          "channel_id": "UCEdtzCNmtZ58baRREsCmXOQ",
-          "subscribers": 676,
-          "thumbnail": "https://i.ytimg.com/vi/YJtEXMSJsrQ/mqdefault.jpg",
-          "published_at": "2026-10-29T03:07:11Z",
-          "url": "https://www.youtube.com/watch?v=YJtEXMSJsrQ"
+          "id": "eCVTqWp-Cq0",
+          "title": "Karwa Chauth |“ਅੱਜ ਤਾਂ ਮੈਂ ਘਰ ਜਾਣਾ, ਕਹਿੰਦੇ- ਤੁਹਾਡੇ ਵਿੱਚੋਂ ਦੀ ਚੰਦ ਦੇਖਣਾ!” | CM Bhagwant Mann",
+          "channel": "GTC NEWS",
+          "channel_id": "UCyLWKPppsRr3TJESKtSDofQ",
+          "subscribers": 158000,
+          "thumbnail": "https://i.ytimg.com/vi/eCVTqWp-Cq0/mqdefault.jpg",
+          "published_at": "2026-10-29T11:16:20Z",
+          "url": "https://www.youtube.com/watch?v=eCVTqWp-Cq0"
         }
       ],
-      "first_detected_at": "2026-10-29T03:30:58.878163+00:00",
-      "last_seen_at": "2026-10-29T03:30:58.878163+00:00"
-    },
-    {
-      "phrase": "iphone duo",
-      "video_count": 23,
-      "channel_count": 23,
-      "total_channels_seen": 30,
-      "uploads_per_hour": 1.92,
-      "window_hours": 12,
-      "example_videos": [
-        {
-          "id": "MXyIfGr0VCk",
-          "title": "Apple、ついにiPhone Duoの不具合を認める",
-          "channel": "タイガーリーク密着24時【ネットの反応】",
-          "channel_id": "UC6IgaxFzV520MH8B7fcvYQg",
-          "subscribers": 99600,
-          "thumbnail": "https://i.ytimg.com/vi/MXyIfGr0VCk/mqdefault.jpg",
-          "published_at": "2026-10-29T03:00:35Z",
-          "url": "https://www.youtube.com/watch?v=MXyIfGr0VCk"
-        },
-        {
-          "id": "LMgLvZ-Ug5g",
-          "title": "한 눈에 반해서 바로 지른 아이폰 듀오 노트앱..? ㄷㄷ",
-          "channel": "맥가이버",
-          "channel_id": "UCvBClW1ddPN6Vg1klen20Nw",
-          "subscribers": 181000,
-          "thumbnail": "https://i.ytimg.com/vi/LMgLvZ-Ug5g/mqdefault.jpg",
-          "published_at": "2026-10-29T03:00:19Z",
-          "url": "https://www.youtube.com/watch?v=LMgLvZ-Ug5g"
-        },
-        {
-          "id": "KfNvEaI-IRI",
-          "title": "Turning a Mac into an iPhone Duo #tech #apple #iphoneduo #techtok #yaptech",
-          "channel": "yaptech",
-          "channel_id": "UCQ1rApkswsEiM7xPDcZk4Gg",
-          "subscribers": 64400,
-          "thumbnail": "https://i.ytimg.com/vi/KfNvEaI-IRI/mqdefault.jpg",
-          "published_at": "2026-10-29T02:53:13Z",
-          "url": "https://www.youtube.com/watch?v=KfNvEaI-IRI"
-        },
-        {
-          "id": "Ht3Sn6hcw6o",
-          "title": "IPhone Duo vẫn lỏ hơn máy gập Huawei nhiều #tạphoácôngnghệ #iphoneduo #huawei #shorts",
-          "channel": "Tạp hóa công nghệ",
-          "channel_id": "UCJKU3kXBu-Ou_KHdXiY87vQ",
-          "subscribers": 12600,
-          "thumbnail": "https://i.ytimg.com/vi/Ht3Sn6hcw6o/mqdefault.jpg",
-          "published_at": "2026-10-29T02:41:00Z",
-          "url": "https://www.youtube.com/watch?v=Ht3Sn6hcw6o"
-        }
-      ],
-      "first_detected_at": "2026-10-21T16:18:59.322063+00:00",
-      "last_seen_at": "2026-10-29T03:30:58.878163+00:00"
-    },
-    {
-      "phrase": "craft attack",
-      "video_count": 30,
-      "channel_count": 14,
-      "total_channels_seen": 14,
-      "uploads_per_hour": 1.17,
-      "window_hours": 12,
-      "example_videos": [
-        {
-          "id": "jU5xnt8Q1Eg",
-          "title": "CastCrafter switcht zur falschen Zeit den Channel | Craft Attack 14",
-          "channel": "clipverdacht",
-          "channel_id": "UC2fOWQbWPfB0BNKAJ96llMQ",
-          "subscribers": 36,
-          "thumbnail": "https://i.ytimg.com/vi/jU5xnt8Q1Eg/mqdefault.jpg",
-          "published_at": "2026-10-28T23:55:12Z",
-          "url": "https://www.youtube.com/watch?v=jU5xnt8Q1Eg"
-        },
-        {
-          "id": "eKNPA43OPLE",
-          "title": "nooreax erlebt den kuriosesten Tod... | Craft Attack 14",
-          "channel": "clipverdacht",
-          "channel_id": "UC2fOWQbWPfB0BNKAJ96llMQ",
-          "subscribers": 36,
-          "thumbnail": "https://i.ytimg.com/vi/eKNPA43OPLE/mqdefault.jpg",
-          "published_at": "2026-10-28T23:54:43Z",
-          "url": "https://www.youtube.com/watch?v=eKNPA43OPLE"
-        },
-        {
-          "id": "Gs7W-klVMqo",
-          "title": "nooreax bekommt eine Steuerprüfung | Craft Attack 14",
-          "channel": "clipverdacht",
-          "channel_id": "UC2fOWQbWPfB0BNKAJ96llMQ",
-          "subscribers": 36,
-          "thumbnail": "https://i.ytimg.com/vi/Gs7W-klVMqo/mqdefault.jpg",
-          "published_at": "2026-10-28T23:54:06Z",
-          "url": "https://www.youtube.com/watch?v=Gs7W-klVMqo"
-        },
-        {
-          "id": "mVyhY4qsY5o",
-          "title": "nooreax wird plötzlich überrollt... | Craft Attack 14",
-          "channel": "clipverdacht",
-          "channel_id": "UC2fOWQbWPfB0BNKAJ96llMQ",
-          "subscribers": 36,
-          "thumbnail": "https://i.ytimg.com/vi/mVyhY4qsY5o/mqdefault.jpg",
-          "published_at": "2026-10-28T23:51:52Z",
-          "url": "https://www.youtube.com/watch?v=mVyhY4qsY5o"
-        }
-      ],
-      "first_detected_at": "2026-10-28T03:04:55.967597+00:00",
-      "last_seen_at": "2026-10-29T03:30:58.878163+00:00"
+      "first_detected_at": "2026-10-29T11:58:06.015562+00:00",
+      "last_seen_at": "2026-10-29T11:58:06.015562+00:00"
     }
   ],
   "topics": [
     {
       "phrase": "iphone duo",
       "video_count": 9,
-      "momentum": 56.9,
+      "momentum": 55.4,
       "regions": [
         "US"
       ],
@@ -437,8 +489,8 @@
           "channel": "JerryRigEverything",
           "thumbnail": "https://i.ytimg.com/vi/5laDGy4INB0/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=5laDGy4INB0",
-          "views": 13753147,
-          "age_hours": 119.5
+          "views": 13897580,
+          "age_hours": 128.0
         },
         {
           "id": "XwnQ0pMANVo",
@@ -446,24 +498,24 @@
           "channel": "John Casterline",
           "thumbnail": "https://i.ytimg.com/vi/XwnQ0pMANVo/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=XwnQ0pMANVo",
-          "views": 2986528,
-          "age_hours": 49.4
+          "views": 3113107,
+          "age_hours": 57.8
         },
         {
-          "id": "4FOOKUfUWzg",
-          "title": "iPhone Duo Problem is Getting Worse",
-          "channel": "penguinz0",
-          "thumbnail": "https://i.ytimg.com/vi/4FOOKUfUWzg/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=4FOOKUfUWzg",
-          "views": 2688299,
-          "age_hours": 32.5
+          "id": "i3ZlSlnGWng",
+          "title": "6 ways iPhone Duo beats Samsung",
+          "channel": "Mrwhosetheboss",
+          "thumbnail": "https://i.ytimg.com/vi/i3ZlSlnGWng/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=i3ZlSlnGWng",
+          "views": 11343170,
+          "age_hours": 191.9
         }
       ]
     },
     {
       "phrase": "free fire india",
-      "video_count": 6,
-      "momentum": 46.7,
+      "video_count": 5,
+      "momentum": 38.38,
       "regions": [
         "IN"
       ],
@@ -475,8 +527,8 @@
           "channel": "Free Fire India Official",
           "thumbnail": "https://i.ytimg.com/vi/S5I_LaOmze4/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=S5I_LaOmze4",
-          "views": 5885051,
-          "age_hours": 45.1
+          "views": 5951716,
+          "age_hours": 53.5
         },
         {
           "id": "4m58nVDpoY8",
@@ -484,8 +536,8 @@
           "channel": "Tonde Gamer",
           "thumbnail": "https://i.ytimg.com/vi/4m58nVDpoY8/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=4m58nVDpoY8",
-          "views": 1354200,
-          "age_hours": 20.3
+          "views": 1525887,
+          "age_hours": 28.8
         },
         {
           "id": "ZW9bzJOiGQk",
@@ -493,91 +545,91 @@
           "channel": "SATVIK",
           "thumbnail": "https://i.ytimg.com/vi/ZW9bzJOiGQk/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=ZW9bzJOiGQk",
-          "views": 961937,
-          "age_hours": 16.3
-        }
-      ]
-    },
-    {
-      "phrase": "free fire",
-      "video_count": 7,
-      "momentum": 45.62,
-      "regions": [
-        "IN"
-      ],
-      "lang": "en",
-      "example_videos": [
-        {
-          "id": "S5I_LaOmze4",
-          "title": "FREE FIRE INDIA IS HERE!",
-          "channel": "Free Fire India Official",
-          "thumbnail": "https://i.ytimg.com/vi/S5I_LaOmze4/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=S5I_LaOmze4",
-          "views": 5885051,
-          "age_hours": 45.1
-        },
-        {
-          "id": "JmbfyeBJhJ0",
-          "title": "🌿FREE FIRE LIVE🌿PLAYING BR-RANKED😎2X AWM SPEED GAME PLAY 🎮🎯 ON LIVE - GARENA FREE FIRE",
-          "channel": "DAD I AM OK GAMING",
-          "thumbnail": "https://i.ytimg.com/vi/JmbfyeBJhJ0/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=JmbfyeBJhJ0",
-          "views": 1203485,
-          "age_hours": 6.4
-        },
-        {
-          "id": "4m58nVDpoY8",
-          "title": "Free Fire India 1st Gameplay ❤ Tonde Gamer",
-          "channel": "Tonde Gamer",
-          "thumbnail": "https://i.ytimg.com/vi/4m58nVDpoY8/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=4m58nVDpoY8",
-          "views": 1354200,
-          "age_hours": 20.3
+          "views": 1380806,
+          "age_hours": 24.8
         }
       ]
     },
     {
       "phrase": "iphone",
       "video_count": 8,
-      "momentum": 38.13,
+      "momentum": 34.48,
+      "regions": [
+        "BR"
+      ],
+      "lang": "pt",
+      "example_videos": [
+        {
+          "id": "a257882luMg",
+          "title": "porque lamine yamal quebrou seu iPhone de ouro",
+          "channel": "FootFlash ⚡",
+          "thumbnail": "https://i.ytimg.com/vi/a257882luMg/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=a257882luMg",
+          "views": 701864,
+          "age_hours": 60.3
+        },
+        {
+          "id": "pFiBFdox1DM",
+          "title": "O que acontece se dobrar o iPhone Duo 10 mil vezes?",
+          "channel": "Sev7n Games OFICIAL",
+          "thumbnail": "https://i.ytimg.com/vi/pFiBFdox1DM/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=pFiBFdox1DM",
+          "views": 1884184,
+          "age_hours": 106.0
+        },
+        {
+          "id": "kEc3DDE8jn0",
+          "title": "O NOVO IPHONE DOBRÁVEL ta CHEIO de PROBLEMA!!!",
+          "channel": "Top! Tech",
+          "thumbnail": "https://i.ytimg.com/vi/kEc3DDE8jn0/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=kEc3DDE8jn0",
+          "views": 243925,
+          "age_hours": 14.6
+        }
+      ]
+    },
+    {
+      "phrase": "diwali",
+      "video_count": 6,
+      "momentum": 31.16,
       "regions": [
         "IN"
       ],
       "lang": "en",
       "example_videos": [
         {
-          "id": "eNu2AbeOpos",
-          "title": "iPhone DUO से पूरी Team को दिया Surprise! 😱🔥#shorts",
-          "channel": "Tech Master",
-          "thumbnail": "https://i.ytimg.com/vi/eNu2AbeOpos/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=eNu2AbeOpos",
-          "views": 10222501,
-          "age_hours": 37.5
+          "id": "4fd9aio7m9k",
+          "title": "Indian moms on Diwali 🪔 😅#funnyshorts #diwali #diwalispecial #familyfun #shorts",
+          "channel": "Cute Sangwan Saanvi",
+          "thumbnail": "https://i.ytimg.com/vi/4fd9aio7m9k/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=4fd9aio7m9k",
+          "views": 63061940,
+          "age_hours": 71.1
         },
         {
-          "id": "ZJK45CjZoIA",
-          "title": "iPhone Duo Vs iPhone 18",
-          "channel": "ZHC",
-          "thumbnail": "https://i.ytimg.com/vi/ZJK45CjZoIA/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=ZJK45CjZoIA",
-          "views": 10466539,
-          "age_hours": 154.6
+          "id": "TH4GUdGCLr0",
+          "title": "Diwali ki Safai 🤣 Shararati Patni 🤣 #comedy #funny #trending #diwali #diwalispecial",
+          "channel": "Shivam Pooja Vibes",
+          "thumbnail": "https://i.ytimg.com/vi/TH4GUdGCLr0/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=TH4GUdGCLr0",
+          "views": 31529021,
+          "age_hours": 77.3
         },
         {
-          "id": "-AsC_oSJ5-M",
-          "title": "😤 இந்த அவமானம் உனக்கு தேவையா 🤦‍♂️ OPPO Find X10 Pro Max vs iPhone 18 Pro Max 🔥",
-          "channel": "Tamil Tech - MrTT",
-          "thumbnail": "https://i.ytimg.com/vi/-AsC_oSJ5-M/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=-AsC_oSJ5-M",
-          "views": 394773,
-          "age_hours": 21.8
+          "id": "WGP-oT3Umzw",
+          "title": "The Craziest Diwali Jugaad Ever😱🧲#shorts #relatable #nostalgia #ytshorts",
+          "channel": "Nukkad viness",
+          "thumbnail": "https://i.ytimg.com/vi/WGP-oT3Umzw/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=WGP-oT3Umzw",
+          "views": 38052277,
+          "age_hours": 120.5
         }
       ]
     },
     {
       "phrase": "india",
-      "video_count": 7,
-      "momentum": 36.14,
+      "video_count": 6,
+      "momentum": 30.56,
       "regions": [
         "IN"
       ],
@@ -589,8 +641,8 @@
           "channel": "Free Fire India Official",
           "thumbnail": "https://i.ytimg.com/vi/S5I_LaOmze4/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=S5I_LaOmze4",
-          "views": 5885051,
-          "age_hours": 45.1
+          "views": 5951716,
+          "age_hours": 53.5
         },
         {
           "id": "4m58nVDpoY8",
@@ -598,8 +650,8 @@
           "channel": "Tonde Gamer",
           "thumbnail": "https://i.ytimg.com/vi/4m58nVDpoY8/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=4m58nVDpoY8",
-          "views": 1354200,
-          "age_hours": 20.3
+          "views": 1525887,
+          "age_hours": 28.8
         },
         {
           "id": "ZW9bzJOiGQk",
@@ -607,53 +659,399 @@
           "channel": "SATVIK",
           "thumbnail": "https://i.ytimg.com/vi/ZW9bzJOiGQk/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=ZW9bzJOiGQk",
-          "views": 961937,
-          "age_hours": 16.3
+          "views": 1380806,
+          "age_hours": 24.8
         }
       ]
     },
     {
-      "phrase": "karwachauth",
-      "video_count": 5,
-      "momentum": 27.63,
+      "phrase": "karwa chauth",
+      "video_count": 4,
+      "momentum": 24.81,
       "regions": [
         "IN"
       ],
       "lang": "en",
       "example_videos": [
         {
-          "id": "8KQV2cr3huM",
-          "title": "Middle Class 💔😱 Karwachauth 🌙 #shorts #emotional #viral #video",
-          "channel": "Jomy Production",
-          "thumbnail": "https://i.ytimg.com/vi/8KQV2cr3huM/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=8KQV2cr3huM",
-          "views": 5911568,
-          "age_hours": 16.5
+          "id": "Mnqx6T8Ht1w",
+          "title": "Karwa Chauth Ki Mehndi 🤣 #neetubisht #lakhneet #karwachauth #mehndi #comedy #ytshorts",
+          "channel": "Neetu Bisht",
+          "thumbnail": "https://i.ytimg.com/vi/Mnqx6T8Ht1w/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=Mnqx6T8Ht1w",
+          "views": 28673526,
+          "age_hours": 31.5
         },
+        {
+          "id": "LdR3PkhyGIk",
+          "title": "Karwa Chauth Special 😍 #karwachauth #karwachauthspecial #shorts #youtubeshorts #shortsfeed #comedy",
+          "channel": "TEAM BHL",
+          "thumbnail": "https://i.ytimg.com/vi/LdR3PkhyGIk/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=LdR3PkhyGIk",
+          "views": 94336818,
+          "age_hours": 130.4
+        },
+        {
+          "id": "8mnbDRN7NBU",
+          "title": "#video चंदा की चांदनी | Chanda Ki Chandni | Karwa Chauth Special Song 2026 | Amrita Dixit | New Song",
+          "channel": "Amrita Dixit Official",
+          "thumbnail": "https://i.ytimg.com/vi/8mnbDRN7NBU/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=8mnbDRN7NBU",
+          "views": 292176,
+          "age_hours": 34.1
+        }
+      ]
+    },
+    {
+      "phrase": "ytshorts",
+      "video_count": 4,
+      "momentum": 22.3,
+      "regions": [
+        "IN"
+      ],
+      "lang": "en",
+      "example_videos": [
         {
           "id": "Mnqx6T8Ht1w",
           "title": "Karwa Chauth Ki Mehndi 🤣 #neetubisht #lakhneet #karwachauth #mehndi #comedy #ytshorts",
           "channel": "Neetu Bisht",
           "thumbnail": "https://i.ytimg.com/vi/Mnqx6T8Ht1w/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=Mnqx6T8Ht1w",
-          "views": 19528648,
-          "age_hours": 23.0
+          "views": 28673526,
+          "age_hours": 31.5
         },
         {
-          "id": "Gbt5yKHfmF4",
-          "title": "Surajactor new shorts #surajactor  happy karwachauth dosto #karwachauth",
-          "channel": "Filmy Surraj",
-          "thumbnail": "https://i.ytimg.com/vi/Gbt5yKHfmF4/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=Gbt5yKHfmF4",
-          "views": 29913542,
-          "age_hours": 88.6
+          "id": "ISmRJOIpJr4",
+          "title": "Jaisi Karni Wisi Bharni 🤣 #shorts #tiktokvideo #funnyshorts #ytshorts #shortbeta #mamabhnaji",
+          "channel": "Sukhasan Ka Star",
+          "thumbnail": "https://i.ytimg.com/vi/ISmRJOIpJr4/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=ISmRJOIpJr4",
+          "views": 19542985,
+          "age_hours": 48.4
+        },
+        {
+          "id": "WGP-oT3Umzw",
+          "title": "The Craziest Diwali Jugaad Ever😱🧲#shorts #relatable #nostalgia #ytshorts",
+          "channel": "Nukkad viness",
+          "thumbnail": "https://i.ytimg.com/vi/WGP-oT3Umzw/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=WGP-oT3Umzw",
+          "views": 38052277,
+          "age_hours": 120.5
+        }
+      ]
+    },
+    {
+      "phrase": "minecraft",
+      "video_count": 4,
+      "momentum": 19.34,
+      "regions": [
+        "IN"
+      ],
+      "lang": "en",
+      "example_videos": [
+        {
+          "id": "ls0FQdzVxko",
+          "title": "Testing Trending Minecraft Scary Myths To See If They Are Real!",
+          "channel": "ProBoiz 95",
+          "thumbnail": "https://i.ytimg.com/vi/ls0FQdzVxko/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=ls0FQdzVxko",
+          "views": 2028877,
+          "age_hours": 21.3
+        },
+        {
+          "id": "huKL02VWKNE",
+          "title": "Minecraft But We Can Make Cars of Any Block..",
+          "channel": "Carry Depie",
+          "thumbnail": "https://i.ytimg.com/vi/huKL02VWKNE/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=huKL02VWKNE",
+          "views": 1041037,
+          "age_hours": 24.1
+        },
+        {
+          "id": "Z3eizu2xYTE",
+          "title": "I Installed MINECRAFT STEVE in Every Game!",
+          "channel": "ProBoii",
+          "thumbnail": "https://i.ytimg.com/vi/Z3eizu2xYTE/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=Z3eizu2xYTE",
+          "views": 1575666,
+          "age_hours": 46.8
+        }
+      ]
+    },
+    {
+      "phrase": "special",
+      "video_count": 4,
+      "momentum": 19.33,
+      "regions": [
+        "IN"
+      ],
+      "lang": "en",
+      "example_videos": [
+        {
+          "id": "LdR3PkhyGIk",
+          "title": "Karwa Chauth Special 😍 #karwachauth #karwachauthspecial #shorts #youtubeshorts #shortsfeed #comedy",
+          "channel": "TEAM BHL",
+          "thumbnail": "https://i.ytimg.com/vi/LdR3PkhyGIk/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=LdR3PkhyGIk",
+          "views": 94336818,
+          "age_hours": 130.4
+        },
+        {
+          "id": "mWlmcjwV44o",
+          "title": "Avengers: Doomsday | Special Look - Hindi | In Cinemas December 17 ",
+          "channel": "IndiaMarvel",
+          "thumbnail": "https://i.ytimg.com/vi/mWlmcjwV44o/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=mWlmcjwV44o",
+          "views": 5357304,
+          "age_hours": 26.3
+        },
+        {
+          "id": "8mnbDRN7NBU",
+          "title": "#video चंदा की चांदनी | Chanda Ki Chandni | Karwa Chauth Special Song 2026 | Amrita Dixit | New Song",
+          "channel": "Amrita Dixit Official",
+          "thumbnail": "https://i.ytimg.com/vi/8mnbDRN7NBU/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=8mnbDRN7NBU",
+          "views": 292176,
+          "age_hours": 34.1
+        }
+      ]
+    },
+    {
+      "phrase": "building wooden log",
+      "video_count": 2,
+      "momentum": 16.87,
+      "regions": [
+        "IN"
+      ],
+      "lang": "en",
+      "example_videos": [
+        {
+          "id": "77C-W8y91u0",
+          "title": "🔥 Building Wooden Log Cabin in Deep Forest 🌲🪓 | Survival House Step by Step Part-11",
+          "channel": "Bitu facto1",
+          "thumbnail": "https://i.ytimg.com/vi/77C-W8y91u0/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=77C-W8y91u0",
+          "views": 15121940,
+          "age_hours": 25.5
+        },
+        {
+          "id": "KILMo8It4Hw",
+          "title": "🔥 Building Wooden Log Cabin in Deep Forest 🌲🪓 | Survival House Step by Step Part-11",
+          "channel": "Bitu facto1",
+          "thumbnail": "https://i.ytimg.com/vi/KILMo8It4Hw/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=KILMo8It4Hw",
+          "views": 14556415,
+          "age_hours": 49.5
+        }
+      ]
+    },
+    {
+      "phrase": "wooden log cabin",
+      "video_count": 2,
+      "momentum": 16.87,
+      "regions": [
+        "IN"
+      ],
+      "lang": "en",
+      "example_videos": [
+        {
+          "id": "77C-W8y91u0",
+          "title": "🔥 Building Wooden Log Cabin in Deep Forest 🌲🪓 | Survival House Step by Step Part-11",
+          "channel": "Bitu facto1",
+          "thumbnail": "https://i.ytimg.com/vi/77C-W8y91u0/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=77C-W8y91u0",
+          "views": 15121940,
+          "age_hours": 25.5
+        },
+        {
+          "id": "KILMo8It4Hw",
+          "title": "🔥 Building Wooden Log Cabin in Deep Forest 🌲🪓 | Survival House Step by Step Part-11",
+          "channel": "Bitu facto1",
+          "thumbnail": "https://i.ytimg.com/vi/KILMo8It4Hw/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=KILMo8It4Hw",
+          "views": 14556415,
+          "age_hours": 49.5
+        }
+      ]
+    },
+    {
+      "phrase": "log cabin deep",
+      "video_count": 2,
+      "momentum": 16.87,
+      "regions": [
+        "IN"
+      ],
+      "lang": "en",
+      "example_videos": [
+        {
+          "id": "77C-W8y91u0",
+          "title": "🔥 Building Wooden Log Cabin in Deep Forest 🌲🪓 | Survival House Step by Step Part-11",
+          "channel": "Bitu facto1",
+          "thumbnail": "https://i.ytimg.com/vi/77C-W8y91u0/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=77C-W8y91u0",
+          "views": 15121940,
+          "age_hours": 25.5
+        },
+        {
+          "id": "KILMo8It4Hw",
+          "title": "🔥 Building Wooden Log Cabin in Deep Forest 🌲🪓 | Survival House Step by Step Part-11",
+          "channel": "Bitu facto1",
+          "thumbnail": "https://i.ytimg.com/vi/KILMo8It4Hw/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=KILMo8It4Hw",
+          "views": 14556415,
+          "age_hours": 49.5
+        }
+      ]
+    },
+    {
+      "phrase": "cabin deep forest",
+      "video_count": 2,
+      "momentum": 16.87,
+      "regions": [
+        "IN"
+      ],
+      "lang": "en",
+      "example_videos": [
+        {
+          "id": "77C-W8y91u0",
+          "title": "🔥 Building Wooden Log Cabin in Deep Forest 🌲🪓 | Survival House Step by Step Part-11",
+          "channel": "Bitu facto1",
+          "thumbnail": "https://i.ytimg.com/vi/77C-W8y91u0/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=77C-W8y91u0",
+          "views": 15121940,
+          "age_hours": 25.5
+        },
+        {
+          "id": "KILMo8It4Hw",
+          "title": "🔥 Building Wooden Log Cabin in Deep Forest 🌲🪓 | Survival House Step by Step Part-11",
+          "channel": "Bitu facto1",
+          "thumbnail": "https://i.ytimg.com/vi/KILMo8It4Hw/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=KILMo8It4Hw",
+          "views": 14556415,
+          "age_hours": 49.5
+        }
+      ]
+    },
+    {
+      "phrase": "deep forest survival",
+      "video_count": 2,
+      "momentum": 16.87,
+      "regions": [
+        "IN"
+      ],
+      "lang": "en",
+      "example_videos": [
+        {
+          "id": "77C-W8y91u0",
+          "title": "🔥 Building Wooden Log Cabin in Deep Forest 🌲🪓 | Survival House Step by Step Part-11",
+          "channel": "Bitu facto1",
+          "thumbnail": "https://i.ytimg.com/vi/77C-W8y91u0/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=77C-W8y91u0",
+          "views": 15121940,
+          "age_hours": 25.5
+        },
+        {
+          "id": "KILMo8It4Hw",
+          "title": "🔥 Building Wooden Log Cabin in Deep Forest 🌲🪓 | Survival House Step by Step Part-11",
+          "channel": "Bitu facto1",
+          "thumbnail": "https://i.ytimg.com/vi/KILMo8It4Hw/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=KILMo8It4Hw",
+          "views": 14556415,
+          "age_hours": 49.5
+        }
+      ]
+    },
+    {
+      "phrase": "forest survival house",
+      "video_count": 2,
+      "momentum": 16.87,
+      "regions": [
+        "IN"
+      ],
+      "lang": "en",
+      "example_videos": [
+        {
+          "id": "77C-W8y91u0",
+          "title": "🔥 Building Wooden Log Cabin in Deep Forest 🌲🪓 | Survival House Step by Step Part-11",
+          "channel": "Bitu facto1",
+          "thumbnail": "https://i.ytimg.com/vi/77C-W8y91u0/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=77C-W8y91u0",
+          "views": 15121940,
+          "age_hours": 25.5
+        },
+        {
+          "id": "KILMo8It4Hw",
+          "title": "🔥 Building Wooden Log Cabin in Deep Forest 🌲🪓 | Survival House Step by Step Part-11",
+          "channel": "Bitu facto1",
+          "thumbnail": "https://i.ytimg.com/vi/KILMo8It4Hw/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=KILMo8It4Hw",
+          "views": 14556415,
+          "age_hours": 49.5
+        }
+      ]
+    },
+    {
+      "phrase": "survival house step",
+      "video_count": 2,
+      "momentum": 16.87,
+      "regions": [
+        "IN"
+      ],
+      "lang": "en",
+      "example_videos": [
+        {
+          "id": "77C-W8y91u0",
+          "title": "🔥 Building Wooden Log Cabin in Deep Forest 🌲🪓 | Survival House Step by Step Part-11",
+          "channel": "Bitu facto1",
+          "thumbnail": "https://i.ytimg.com/vi/77C-W8y91u0/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=77C-W8y91u0",
+          "views": 15121940,
+          "age_hours": 25.5
+        },
+        {
+          "id": "KILMo8It4Hw",
+          "title": "🔥 Building Wooden Log Cabin in Deep Forest 🌲🪓 | Survival House Step by Step Part-11",
+          "channel": "Bitu facto1",
+          "thumbnail": "https://i.ytimg.com/vi/KILMo8It4Hw/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=KILMo8It4Hw",
+          "views": 14556415,
+          "age_hours": 49.5
+        }
+      ]
+    },
+    {
+      "phrase": "house step step",
+      "video_count": 2,
+      "momentum": 16.87,
+      "regions": [
+        "IN"
+      ],
+      "lang": "en",
+      "example_videos": [
+        {
+          "id": "77C-W8y91u0",
+          "title": "🔥 Building Wooden Log Cabin in Deep Forest 🌲🪓 | Survival House Step by Step Part-11",
+          "channel": "Bitu facto1",
+          "thumbnail": "https://i.ytimg.com/vi/77C-W8y91u0/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=77C-W8y91u0",
+          "views": 15121940,
+          "age_hours": 25.5
+        },
+        {
+          "id": "KILMo8It4Hw",
+          "title": "🔥 Building Wooden Log Cabin in Deep Forest 🌲🪓 | Survival House Step by Step Part-11",
+          "channel": "Bitu facto1",
+          "thumbnail": "https://i.ytimg.com/vi/KILMo8It4Hw/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=KILMo8It4Hw",
+          "views": 14556415,
+          "age_hours": 49.5
         }
       ]
     },
     {
       "phrase": "craft attack",
-      "video_count": 5,
-      "momentum": 27.46,
+      "video_count": 3,
+      "momentum": 16.05,
       "regions": [
         "DE"
       ],
@@ -665,17 +1063,8 @@
           "channel": "Bastian",
           "thumbnail": "https://i.ytimg.com/vi/zkFqxVoUdCQ/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=zkFqxVoUdCQ",
-          "views": 126971,
-          "age_hours": 8.4
-        },
-        {
-          "id": "gCF-tYTKYmM",
-          "title": "FUXEL oder ALETHEA?❤️FÜR WEN SOLL ICH MICH ENTSCHEIDEN? (CRAFT ATTACK 14)",
-          "channel": "TriDan",
-          "thumbnail": "https://i.ytimg.com/vi/gCF-tYTKYmM/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=gCF-tYTKYmM",
-          "views": 82142,
-          "age_hours": 15.5
+          "views": 178055,
+          "age_hours": 16.9
         },
         {
           "id": "Haioj4zf5IQ",
@@ -683,363 +1072,17 @@
           "channel": "SecondTry",
           "thumbnail": "https://i.ytimg.com/vi/Haioj4zf5IQ/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=Haioj4zf5IQ",
-          "views": 266301,
-          "age_hours": 18.5
-        }
-      ]
-    },
-    {
-      "phrase": "minecraft",
-      "video_count": 5,
-      "momentum": 23.75,
-      "regions": [
-        "BR"
-      ],
-      "lang": "pt",
-      "example_videos": [
-        {
-          "id": "xOd9dxacvsk",
-          "title": "OS MOBS DO MINECRAFT FALAM EM PORTUGUÊS!",
-          "channel": "Jazzghost",
-          "thumbnail": "https://i.ytimg.com/vi/xOd9dxacvsk/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=xOd9dxacvsk",
-          "views": 1925022,
-          "age_hours": 12.5
+          "views": 282682,
+          "age_hours": 27.0
         },
         {
-          "id": "hPWleYKQIWs",
-          "title": "sobrevivendo a SUNMAN no Minecraft",
-          "channel": "Mendrux",
-          "thumbnail": "https://i.ytimg.com/vi/hPWleYKQIWs/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=hPWleYKQIWs",
-          "views": 113242,
-          "age_hours": 6.5
-        },
-        {
-          "id": "YbZNGdKbKoM",
-          "title": "Eu DOMINEI uma GUERRA DE CIVILIZAÇÕES no Minecraft",
-          "channel": "Serra",
-          "thumbnail": "https://i.ytimg.com/vi/YbZNGdKbKoM/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=YbZNGdKbKoM",
-          "views": 145210,
-          "age_hours": 13.5
-        }
-      ]
-    },
-    {
-      "phrase": "world",
-      "video_count": 4,
-      "momentum": 21.56,
-      "regions": [
-        "US"
-      ],
-      "lang": "en",
-      "example_videos": [
-        {
-          "id": "4JXaK62Zonw",
-          "title": "Can You Beat FNaF World WITHOUT GETTING HIT?",
-          "channel": "TheDapperWaffle",
-          "thumbnail": "https://i.ytimg.com/vi/4JXaK62Zonw/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=4JXaK62Zonw",
-          "views": 197102,
-          "age_hours": 8.1
-        },
-        {
-          "id": "nIw1O3zvOfE",
-          "title": "JUMANJI: OPEN WORLD - New Trailer (4K)",
-          "channel": "Sony Pictures Entertainment",
-          "thumbnail": "https://i.ytimg.com/vi/nIw1O3zvOfE/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=nIw1O3zvOfE",
-          "views": 4969871,
-          "age_hours": 14.5
-        },
-        {
-          "id": "9OPoiRcze0w",
-          "title": "Indie World Showcase 10.28.2026",
-          "channel": "Nintendo of America",
-          "thumbnail": "https://i.ytimg.com/vi/9OPoiRcze0w/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=9OPoiRcze0w",
-          "views": 912549,
-          "age_hours": 11.5
-        }
-      ]
-    },
-    {
-      "phrase": "gta live",
-      "video_count": 3,
-      "momentum": 19.58,
-      "regions": [
-        "IN"
-      ],
-      "lang": "en",
-      "example_videos": [
-        {
-          "id": "OlFY84S7Xws",
-          "title": "🔴 LIVE | tiger  hunt challange🐆 | GTA V Mods #gtav #gtalive gta v live",
-          "channel": "GTA PANTHER HUNT",
-          "thumbnail": "https://i.ytimg.com/vi/OlFY84S7Xws/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=OlFY84S7Xws",
-          "views": 6141525,
-          "age_hours": 5.8
-        },
-        {
-          "id": "vEfNaGrbhfw",
-          "title": "GTA 5 LIVE #gta5 #gtav #gaming#shortsfeed #shortslive #gta #live #shorts",
-          "channel": "GTA Khelo",
-          "thumbnail": "https://i.ytimg.com/vi/vEfNaGrbhfw/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=vEfNaGrbhfw",
-          "views": 1550586,
-          "age_hours": 24.8
-        },
-        {
-          "id": "tNeka18UIB0",
-          "title": "GTA 5 LIVE  #gta5 #gtav #gaming",
-          "channel": "SANGU IS LIVE",
-          "thumbnail": "https://i.ytimg.com/vi/tNeka18UIB0/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=tNeka18UIB0",
-          "views": 1621074,
-          "age_hours": 26.0
-        }
-      ]
-    },
-    {
-      "phrase": "oppo",
-      "video_count": 4,
-      "momentum": 18.97,
-      "regions": [
-        "IN"
-      ],
-      "lang": "en",
-      "example_videos": [
-        {
-          "id": "AipHOfPLs54",
-          "title": "OPPO Why Bro ? | Mobile World",
-          "channel": "CallMeShazzam TECH",
-          "thumbnail": "https://i.ytimg.com/vi/AipHOfPLs54/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=AipHOfPLs54",
-          "views": 882779,
-          "age_hours": 35.2
-        },
-        {
-          "id": "xGtDbXpQF4o",
-          "title": "Parcel की Mystery OPPO Find X10 Pro Max ने Solve कर दी! 😱📦 #shorts",
-          "channel": "Tech Master",
-          "thumbnail": "https://i.ytimg.com/vi/xGtDbXpQF4o/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=xGtDbXpQF4o",
-          "views": 6475644,
-          "age_hours": 113.4
-        },
-        {
-          "id": "-AsC_oSJ5-M",
-          "title": "😤 இந்த அவமானம் உனக்கு தேவையா 🤦‍♂️ OPPO Find X10 Pro Max vs iPhone 18 Pro Max 🔥",
-          "channel": "Tamil Tech - MrTT",
-          "thumbnail": "https://i.ytimg.com/vi/-AsC_oSJ5-M/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=-AsC_oSJ5-M",
-          "views": 394773,
-          "age_hours": 21.8
-        }
-      ]
-    },
-    {
-      "phrase": "fire india 1st",
-      "video_count": 2,
-      "momentum": 15.67,
-      "regions": [
-        "IN"
-      ],
-      "lang": "en",
-      "example_videos": [
-        {
-          "id": "4m58nVDpoY8",
-          "title": "Free Fire India 1st Gameplay ❤ Tonde Gamer",
-          "channel": "Tonde Gamer",
-          "thumbnail": "https://i.ytimg.com/vi/4m58nVDpoY8/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=4m58nVDpoY8",
-          "views": 1354200,
-          "age_hours": 20.3
-        },
-        {
-          "id": "ZW9bzJOiGQk",
-          "title": "Playing Free Fire INDIA for 1st Time",
-          "channel": "SATVIK",
-          "thumbnail": "https://i.ytimg.com/vi/ZW9bzJOiGQk/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=ZW9bzJOiGQk",
-          "views": 961937,
-          "age_hours": 16.3
-        }
-      ]
-    },
-    {
-      "phrase": "playing free fire",
-      "video_count": 2,
-      "momentum": 15.2,
-      "regions": [
-        "IN"
-      ],
-      "lang": "en",
-      "example_videos": [
-        {
-          "id": "ZW9bzJOiGQk",
-          "title": "Playing Free Fire INDIA for 1st Time",
-          "channel": "SATVIK",
-          "thumbnail": "https://i.ytimg.com/vi/ZW9bzJOiGQk/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=ZW9bzJOiGQk",
-          "views": 961937,
-          "age_hours": 16.3
-        },
-        {
-          "id": "kaxRebUiA14",
-          "title": "Playing FREE FIRE INDIA for First Time😍🔥",
-          "channel": "Badge 99",
-          "thumbnail": "https://i.ytimg.com/vi/kaxRebUiA14/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=kaxRebUiA14",
-          "views": 615750,
-          "age_hours": 17.9
-        }
-      ]
-    },
-    {
-      "phrase": "fire india first",
-      "video_count": 2,
-      "momentum": 14.97,
-      "regions": [
-        "IN"
-      ],
-      "lang": "en",
-      "example_videos": [
-        {
-          "id": "kaxRebUiA14",
-          "title": "Playing FREE FIRE INDIA for First Time😍🔥",
-          "channel": "Badge 99",
-          "thumbnail": "https://i.ytimg.com/vi/kaxRebUiA14/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=kaxRebUiA14",
-          "views": 615750,
-          "age_hours": 17.9
-        },
-        {
-          "id": "nbTkE-H8XbQ",
-          "title": "🇮🇳 FREE FIRE INDIA FIRST LIVE �With Munna Bhai - #FreeFireIndia #FreeFireLive #FFIndia #MBG",
-          "channel": "Munna bhai gaming",
-          "thumbnail": "https://i.ytimg.com/vi/nbTkE-H8XbQ/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=nbTkE-H8XbQ",
-          "views": 588138,
-          "age_hours": 16.8
-        }
-      ]
-    },
-    {
-      "phrase": "secreta pode",
-      "video_count": 2,
-      "momentum": 14.61,
-      "regions": [
-        "BR"
-      ],
-      "lang": "pt",
-      "example_videos": [
-        {
-          "id": "1KL4xxg7d_E",
-          "title": "só UMA PESSOA SECRETA pode comentar nesse vídeo",
-          "channel": "Giuliana Mafra",
-          "thumbnail": "https://i.ytimg.com/vi/1KL4xxg7d_E/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=1KL4xxg7d_E",
-          "views": 5729177,
-          "age_hours": 28.5
-        },
-        {
-          "id": "xbR5lGG-VIA",
-          "title": "Com essa MÁQUINA SECRETA você pode fazer IMPRESSÕES 3D INFINITAS! 😱🖨️",
-          "channel": "Eu sou Barone #Shorts",
-          "thumbnail": "https://i.ytimg.com/vi/xbR5lGG-VIA/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=xbR5lGG-VIA",
-          "views": 642336,
-          "age_hours": 81.5
-        }
-      ]
-    },
-    {
-      "phrase": "oppo find x10",
-      "video_count": 2,
-      "momentum": 14.6,
-      "regions": [
-        "IN"
-      ],
-      "lang": "en",
-      "example_videos": [
-        {
-          "id": "xGtDbXpQF4o",
-          "title": "Parcel की Mystery OPPO Find X10 Pro Max ने Solve कर दी! 😱📦 #shorts",
-          "channel": "Tech Master",
-          "thumbnail": "https://i.ytimg.com/vi/xGtDbXpQF4o/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=xGtDbXpQF4o",
-          "views": 6475644,
-          "age_hours": 113.4
-        },
-        {
-          "id": "-AsC_oSJ5-M",
-          "title": "😤 இந்த அவமானம் உனக்கு தேவையா 🤦‍♂️ OPPO Find X10 Pro Max vs iPhone 18 Pro Max 🔥",
-          "channel": "Tamil Tech - MrTT",
-          "thumbnail": "https://i.ytimg.com/vi/-AsC_oSJ5-M/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=-AsC_oSJ5-M",
-          "views": 394773,
-          "age_hours": 21.8
-        }
-      ]
-    },
-    {
-      "phrase": "find x10 pro",
-      "video_count": 2,
-      "momentum": 14.6,
-      "regions": [
-        "IN"
-      ],
-      "lang": "en",
-      "example_videos": [
-        {
-          "id": "xGtDbXpQF4o",
-          "title": "Parcel की Mystery OPPO Find X10 Pro Max ने Solve कर दी! 😱📦 #shorts",
-          "channel": "Tech Master",
-          "thumbnail": "https://i.ytimg.com/vi/xGtDbXpQF4o/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=xGtDbXpQF4o",
-          "views": 6475644,
-          "age_hours": 113.4
-        },
-        {
-          "id": "-AsC_oSJ5-M",
-          "title": "😤 இந்த அவமானம் உனக்கு தேவையா 🤦‍♂️ OPPO Find X10 Pro Max vs iPhone 18 Pro Max 🔥",
-          "channel": "Tamil Tech - MrTT",
-          "thumbnail": "https://i.ytimg.com/vi/-AsC_oSJ5-M/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=-AsC_oSJ5-M",
-          "views": 394773,
-          "age_hours": 21.8
-        }
-      ]
-    },
-    {
-      "phrase": "x10 pro max",
-      "video_count": 2,
-      "momentum": 14.6,
-      "regions": [
-        "IN"
-      ],
-      "lang": "en",
-      "example_videos": [
-        {
-          "id": "xGtDbXpQF4o",
-          "title": "Parcel की Mystery OPPO Find X10 Pro Max ने Solve कर दी! 😱📦 #shorts",
-          "channel": "Tech Master",
-          "thumbnail": "https://i.ytimg.com/vi/xGtDbXpQF4o/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=xGtDbXpQF4o",
-          "views": 6475644,
-          "age_hours": 113.4
-        },
-        {
-          "id": "-AsC_oSJ5-M",
-          "title": "😤 இந்த அவமானம் உனக்கு தேவையா 🤦‍♂️ OPPO Find X10 Pro Max vs iPhone 18 Pro Max 🔥",
-          "channel": "Tamil Tech - MrTT",
-          "thumbnail": "https://i.ytimg.com/vi/-AsC_oSJ5-M/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=-AsC_oSJ5-M",
-          "views": 394773,
-          "age_hours": 21.8
+          "id": "E-tu8UlSxIY",
+          "title": "WIR HABEN 200 HÄUSER ZU VIEL GEBAUT...😭 CRAFT ATTACK 14 MIT DEN TITANEN🔥",
+          "channel": "EliasN97",
+          "thumbnail": "https://i.ytimg.com/vi/E-tu8UlSxIY/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=E-tu8UlSxIY",
+          "views": 210941,
+          "age_hours": 24.5
         }
       ]
     }
@@ -1048,8 +1091,8 @@
     "BR": [
       {
         "phrase": "iphone",
-        "video_count": 7,
-        "momentum": 30.05,
+        "video_count": 8,
+        "momentum": 34.48,
         "regions": [
           "BR"
         ],
@@ -1061,8 +1104,8 @@
             "channel": "FootFlash ⚡",
             "thumbnail": "https://i.ytimg.com/vi/a257882luMg/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=a257882luMg",
-            "views": 680274,
-            "age_hours": 51.9
+            "views": 701864,
+            "age_hours": 60.3
           },
           {
             "id": "pFiBFdox1DM",
@@ -1070,62 +1113,91 @@
             "channel": "Sev7n Games OFICIAL",
             "thumbnail": "https://i.ytimg.com/vi/pFiBFdox1DM/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=pFiBFdox1DM",
-            "views": 1842648,
-            "age_hours": 97.5
+            "views": 1884184,
+            "age_hours": 106.0
           },
           {
-            "id": "L7M1WkPAY6o",
-            "title": "o SAMSUNG quando erram a senha nele Vs o IPHONE: kakakakak #shorts",
-            "channel": "Davi Aguiar ",
-            "thumbnail": "https://i.ytimg.com/vi/L7M1WkPAY6o/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=L7M1WkPAY6o",
-            "views": 860392,
-            "age_hours": 50.9
+            "id": "kEc3DDE8jn0",
+            "title": "O NOVO IPHONE DOBRÁVEL ta CHEIO de PROBLEMA!!!",
+            "channel": "Top! Tech",
+            "thumbnail": "https://i.ytimg.com/vi/kEc3DDE8jn0/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=kEc3DDE8jn0",
+            "views": 243925,
+            "age_hours": 14.6
           }
         ]
       },
       {
-        "phrase": "minecraft",
-        "video_count": 5,
-        "momentum": 23.75,
+        "phrase": "mc paiva",
+        "video_count": 2,
+        "momentum": 15.54,
         "regions": [
           "BR"
         ],
         "lang": "pt",
         "example_videos": [
           {
-            "id": "xOd9dxacvsk",
-            "title": "OS MOBS DO MINECRAFT FALAM EM PORTUGUÊS!",
-            "channel": "Jazzghost",
-            "thumbnail": "https://i.ytimg.com/vi/xOd9dxacvsk/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=xOd9dxacvsk",
-            "views": 1925022,
-            "age_hours": 12.5
+            "id": "3Ck3XiNgLuY",
+            "title": "QUANDO CÊ VOLTA | MC GP, MC PAIVA, KAYBLACK, AARON MODESTO | WEY | PEDRO LOTTO |",
+            "channel": "MC GP",
+            "thumbnail": "https://i.ytimg.com/vi/3Ck3XiNgLuY/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=3Ck3XiNgLuY",
+            "views": 22683,
+            "age_hours": 12.0
           },
           {
-            "id": "hPWleYKQIWs",
-            "title": "sobrevivendo a SUNMAN no Minecraft",
-            "channel": "Mendrux",
-            "thumbnail": "https://i.ytimg.com/vi/hPWleYKQIWs/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=hPWleYKQIWs",
-            "views": 113242,
-            "age_hours": 6.5
+            "id": "mi-aoQ41K4Y",
+            "title": "Baby ❤️❤️ - MC Paiva (Clipe Oficial)",
+            "channel": "Mc Paiva ZS",
+            "thumbnail": "https://i.ytimg.com/vi/mi-aoQ41K4Y/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=mi-aoQ41K4Y",
+            "views": 828575,
+            "age_hours": 35.5
+          }
+        ]
+      },
+      {
+        "phrase": "novo",
+        "video_count": 4,
+        "momentum": 15.41,
+        "regions": [
+          "BR"
+        ],
+        "lang": "pt",
+        "example_videos": [
+          {
+            "id": "kEc3DDE8jn0",
+            "title": "O NOVO IPHONE DOBRÁVEL ta CHEIO de PROBLEMA!!!",
+            "channel": "Top! Tech",
+            "thumbnail": "https://i.ytimg.com/vi/kEc3DDE8jn0/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=kEc3DDE8jn0",
+            "views": 243925,
+            "age_hours": 14.6
           },
           {
-            "id": "YbZNGdKbKoM",
-            "title": "Eu DOMINEI uma GUERRA DE CIVILIZAÇÕES no Minecraft",
-            "channel": "Serra",
-            "thumbnail": "https://i.ytimg.com/vi/YbZNGdKbKoM/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=YbZNGdKbKoM",
-            "views": 145210,
-            "age_hours": 13.5
+            "id": "k02hVjlAQjg",
+            "title": "Jumanji: Mundo Real | Novo Trailer | Dublado",
+            "channel": "Sony Pictures Brasil",
+            "thumbnail": "https://i.ytimg.com/vi/k02hVjlAQjg/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=k02hVjlAQjg",
+            "views": 122392,
+            "age_hours": 23.0
+          },
+          {
+            "id": "0oQSEu-4xyk",
+            "title": "VIDA REAL MÃE DE DUAS 👧🏻💖 Mia quebrou o braço, iPhone novo + rotina em casa",
+            "channel": "Bia Galvão - mãe da Mia e Olívia",
+            "thumbnail": "https://i.ytimg.com/vi/0oQSEu-4xyk/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=0oQSEu-4xyk",
+            "views": 1161995,
+            "age_hours": 425.0
           }
         ]
       },
       {
         "phrase": "secreta pode",
         "video_count": 2,
-        "momentum": 14.61,
+        "momentum": 14.34,
         "regions": [
           "BR"
         ],
@@ -1137,8 +1209,8 @@
             "channel": "Giuliana Mafra",
             "thumbnail": "https://i.ytimg.com/vi/1KL4xxg7d_E/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=1KL4xxg7d_E",
-            "views": 5729177,
-            "age_hours": 28.5
+            "views": 5792824,
+            "age_hours": 37.0
           },
           {
             "id": "xbR5lGG-VIA",
@@ -1146,104 +1218,18 @@
             "channel": "Eu sou Barone #Shorts",
             "thumbnail": "https://i.ytimg.com/vi/xbR5lGG-VIA/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=xbR5lGG-VIA",
-            "views": 642336,
-            "age_hours": 81.5
-          }
-        ]
-      },
-      {
-        "phrase": "mobs minecraft",
-        "video_count": 2,
-        "momentum": 12.82,
-        "regions": [
-          "BR"
-        ],
-        "lang": "pt",
-        "example_videos": [
-          {
-            "id": "xOd9dxacvsk",
-            "title": "OS MOBS DO MINECRAFT FALAM EM PORTUGUÊS!",
-            "channel": "Jazzghost",
-            "thumbnail": "https://i.ytimg.com/vi/xOd9dxacvsk/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=xOd9dxacvsk",
-            "views": 1925022,
-            "age_hours": 12.5
-          },
-          {
-            "id": "7M3tv3EBfFw",
-            "title": "TROLEI MEU AMIGO EM UMA BATALHA DE MOBS NO MINECRAFT",
-            "channel": "Athos",
-            "thumbnail": "https://i.ytimg.com/vi/7M3tv3EBfFw/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=7M3tv3EBfFw",
-            "views": 218038,
-            "age_hours": 14.0
-          }
-        ]
-      },
-      {
-        "phrase": "roube ovo",
-        "video_count": 2,
-        "momentum": 10.91,
-        "regions": [
-          "BR"
-        ],
-        "lang": "pt",
-        "example_videos": [
-          {
-            "id": "uBAR2RoW1b4",
-            "title": "PEGUEI um OVO ABSURDAMENTE RARO no Roube um Ovo!",
-            "channel": "Canal Clash War",
-            "thumbnail": "https://i.ytimg.com/vi/uBAR2RoW1b4/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=uBAR2RoW1b4",
-            "views": 167883,
-            "age_hours": 8.3
-          },
-          {
-            "id": "5lU3w4EhKSg",
-            "title": "ENCONTREI O MELHOR ESCONDERIJO DO ROUBE UM OVO",
-            "channel": "DudaBlox",
-            "thumbnail": "https://i.ytimg.com/vi/5lU3w4EhKSg/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=5lU3w4EhKSg",
-            "views": 40454,
-            "age_hours": 6.5
-          }
-        ]
-      },
-      {
-        "phrase": "letra lyrics",
-        "video_count": 2,
-        "momentum": 6.81,
-        "regions": [
-          "BR"
-        ],
-        "lang": "pt",
-        "example_videos": [
-          {
-            "id": "Dz4dvShM-Rc",
-            "title": "Marília Mendonça - Supera (Ao Vivo) (Letra/Lyrics) | BraZa",
-            "channel": "BraZa Network",
-            "thumbnail": "https://i.ytimg.com/vi/Dz4dvShM-Rc/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=Dz4dvShM-Rc",
-            "views": 6992,
-            "age_hours": 12.5
-          },
-          {
-            "id": "eF4IF7qG9d0",
-            "title": "PRA NÃO PENSAR EM VOCÊ - Zezé Di Camargo & Luciano (Letra/Lyrics)",
-            "channel": "caramelo music",
-            "thumbnail": "https://i.ytimg.com/vi/eF4IF7qG9d0/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=eF4IF7qG9d0",
-            "views": 26765,
-            "age_hours": 62.1
+            "views": 652009,
+            "age_hours": 90.0
           }
         ]
       }
     ],
+    "CA": [],
     "US": [
       {
         "phrase": "iphone duo",
         "video_count": 9,
-        "momentum": 56.9,
+        "momentum": 55.4,
         "regions": [
           "US"
         ],
@@ -1255,8 +1241,8 @@
             "channel": "JerryRigEverything",
             "thumbnail": "https://i.ytimg.com/vi/5laDGy4INB0/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=5laDGy4INB0",
-            "views": 13753147,
-            "age_hours": 119.5
+            "views": 13897580,
+            "age_hours": 128.0
           },
           {
             "id": "XwnQ0pMANVo",
@@ -1264,94 +1250,26 @@
             "channel": "John Casterline",
             "thumbnail": "https://i.ytimg.com/vi/XwnQ0pMANVo/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=XwnQ0pMANVo",
-            "views": 2986528,
-            "age_hours": 49.4
+            "views": 3113107,
+            "age_hours": 57.8
           },
           {
-            "id": "4FOOKUfUWzg",
-            "title": "iPhone Duo Problem is Getting Worse",
-            "channel": "penguinz0",
-            "thumbnail": "https://i.ytimg.com/vi/4FOOKUfUWzg/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=4FOOKUfUWzg",
-            "views": 2688299,
-            "age_hours": 32.5
-          }
-        ]
-      },
-      {
-        "phrase": "world",
-        "video_count": 4,
-        "momentum": 21.56,
-        "regions": [
-          "US"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "4JXaK62Zonw",
-            "title": "Can You Beat FNaF World WITHOUT GETTING HIT?",
-            "channel": "TheDapperWaffle",
-            "thumbnail": "https://i.ytimg.com/vi/4JXaK62Zonw/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=4JXaK62Zonw",
-            "views": 197102,
-            "age_hours": 8.1
-          },
-          {
-            "id": "nIw1O3zvOfE",
-            "title": "JUMANJI: OPEN WORLD - New Trailer (4K)",
-            "channel": "Sony Pictures Entertainment",
-            "thumbnail": "https://i.ytimg.com/vi/nIw1O3zvOfE/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=nIw1O3zvOfE",
-            "views": 4969871,
-            "age_hours": 14.5
-          },
-          {
-            "id": "9OPoiRcze0w",
-            "title": "Indie World Showcase 10.28.2026",
-            "channel": "Nintendo of America",
-            "thumbnail": "https://i.ytimg.com/vi/9OPoiRcze0w/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=9OPoiRcze0w",
-            "views": 912549,
-            "age_hours": 11.5
-          }
-        ]
-      },
-      {
-        "phrase": "dead daylight",
-        "video_count": 2,
-        "momentum": 12.36,
-        "regions": [
-          "US"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "LjJIYDFyyKQ",
-            "title": "New Killer Art the Clown (The Terrifier) | Dead by Daylight PTB",
-            "channel": "not Otzdarva",
-            "thumbnail": "https://i.ytimg.com/vi/LjJIYDFyyKQ/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=LjJIYDFyyKQ",
-            "views": 522577,
-            "age_hours": 10.3
-          },
-          {
-            "id": "rsDR9xaPIJE",
-            "title": "Dead by Daylight | Terrifier | Teaser",
-            "channel": "Dead by Daylight",
-            "thumbnail": "https://i.ytimg.com/vi/rsDR9xaPIJE/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=rsDR9xaPIJE",
-            "views": 329743,
-            "age_hours": 12.5
+            "id": "i3ZlSlnGWng",
+            "title": "6 ways iPhone Duo beats Samsung",
+            "channel": "Mrwhosetheboss",
+            "thumbnail": "https://i.ytimg.com/vi/i3ZlSlnGWng/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=i3ZlSlnGWng",
+            "views": 11343170,
+            "age_hours": 191.9
           }
         ]
       }
     ],
-    "CA": [],
     "IN": [
       {
         "phrase": "free fire india",
-        "video_count": 6,
-        "momentum": 46.7,
+        "video_count": 5,
+        "momentum": 38.38,
         "regions": [
           "IN"
         ],
@@ -1363,8 +1281,8 @@
             "channel": "Free Fire India Official",
             "thumbnail": "https://i.ytimg.com/vi/S5I_LaOmze4/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=S5I_LaOmze4",
-            "views": 5885051,
-            "age_hours": 45.1
+            "views": 5951716,
+            "age_hours": 53.5
           },
           {
             "id": "4m58nVDpoY8",
@@ -1372,8 +1290,8 @@
             "channel": "Tonde Gamer",
             "thumbnail": "https://i.ytimg.com/vi/4m58nVDpoY8/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=4m58nVDpoY8",
-            "views": 1354200,
-            "age_hours": 20.3
+            "views": 1525887,
+            "age_hours": 28.8
           },
           {
             "id": "ZW9bzJOiGQk",
@@ -1381,129 +1299,15 @@
             "channel": "SATVIK",
             "thumbnail": "https://i.ytimg.com/vi/ZW9bzJOiGQk/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=ZW9bzJOiGQk",
-            "views": 961937,
-            "age_hours": 16.3
-          }
-        ]
-      },
-      {
-        "phrase": "free fire",
-        "video_count": 7,
-        "momentum": 45.62,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "S5I_LaOmze4",
-            "title": "FREE FIRE INDIA IS HERE!",
-            "channel": "Free Fire India Official",
-            "thumbnail": "https://i.ytimg.com/vi/S5I_LaOmze4/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=S5I_LaOmze4",
-            "views": 5885051,
-            "age_hours": 45.1
-          },
-          {
-            "id": "JmbfyeBJhJ0",
-            "title": "🌿FREE FIRE LIVE🌿PLAYING BR-RANKED😎2X AWM SPEED GAME PLAY 🎮🎯 ON LIVE - GARENA FREE FIRE",
-            "channel": "DAD I AM OK GAMING",
-            "thumbnail": "https://i.ytimg.com/vi/JmbfyeBJhJ0/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=JmbfyeBJhJ0",
-            "views": 1203485,
-            "age_hours": 6.4
-          },
-          {
-            "id": "4m58nVDpoY8",
-            "title": "Free Fire India 1st Gameplay ❤ Tonde Gamer",
-            "channel": "Tonde Gamer",
-            "thumbnail": "https://i.ytimg.com/vi/4m58nVDpoY8/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=4m58nVDpoY8",
-            "views": 1354200,
-            "age_hours": 20.3
-          }
-        ]
-      },
-      {
-        "phrase": "iphone",
-        "video_count": 8,
-        "momentum": 38.13,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "eNu2AbeOpos",
-            "title": "iPhone DUO से पूरी Team को दिया Surprise! 😱🔥#shorts",
-            "channel": "Tech Master",
-            "thumbnail": "https://i.ytimg.com/vi/eNu2AbeOpos/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=eNu2AbeOpos",
-            "views": 10222501,
-            "age_hours": 37.5
-          },
-          {
-            "id": "ZJK45CjZoIA",
-            "title": "iPhone Duo Vs iPhone 18",
-            "channel": "ZHC",
-            "thumbnail": "https://i.ytimg.com/vi/ZJK45CjZoIA/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=ZJK45CjZoIA",
-            "views": 10466539,
-            "age_hours": 154.6
-          },
-          {
-            "id": "-AsC_oSJ5-M",
-            "title": "😤 இந்த அவமானம் உனக்கு தேவையா 🤦‍♂️ OPPO Find X10 Pro Max vs iPhone 18 Pro Max 🔥",
-            "channel": "Tamil Tech - MrTT",
-            "thumbnail": "https://i.ytimg.com/vi/-AsC_oSJ5-M/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=-AsC_oSJ5-M",
-            "views": 394773,
-            "age_hours": 21.8
-          }
-        ]
-      },
-      {
-        "phrase": "india",
-        "video_count": 7,
-        "momentum": 36.14,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "S5I_LaOmze4",
-            "title": "FREE FIRE INDIA IS HERE!",
-            "channel": "Free Fire India Official",
-            "thumbnail": "https://i.ytimg.com/vi/S5I_LaOmze4/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=S5I_LaOmze4",
-            "views": 5885051,
-            "age_hours": 45.1
-          },
-          {
-            "id": "4m58nVDpoY8",
-            "title": "Free Fire India 1st Gameplay ❤ Tonde Gamer",
-            "channel": "Tonde Gamer",
-            "thumbnail": "https://i.ytimg.com/vi/4m58nVDpoY8/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=4m58nVDpoY8",
-            "views": 1354200,
-            "age_hours": 20.3
-          },
-          {
-            "id": "ZW9bzJOiGQk",
-            "title": "Playing Free Fire INDIA for 1st Time",
-            "channel": "SATVIK",
-            "thumbnail": "https://i.ytimg.com/vi/ZW9bzJOiGQk/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=ZW9bzJOiGQk",
-            "views": 961937,
-            "age_hours": 16.3
+            "views": 1380806,
+            "age_hours": 24.8
           }
         ]
       },
       {
         "phrase": "iphone duo",
-        "video_count": 6,
-        "momentum": 35.76,
+        "video_count": 5,
+        "momentum": 32.06,
         "regions": [
           "IN"
         ],
@@ -1515,8 +1319,17 @@
             "channel": "Tech Master",
             "thumbnail": "https://i.ytimg.com/vi/eNu2AbeOpos/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=eNu2AbeOpos",
-            "views": 10222501,
-            "age_hours": 37.5
+            "views": 12477400,
+            "age_hours": 46.0
+          },
+          {
+            "id": "BGes86db5bA",
+            "title": "He Shook IPhone Duo Sales",
+            "channel": "Fact2Fact",
+            "thumbnail": "https://i.ytimg.com/vi/BGes86db5bA/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=BGes86db5bA",
+            "views": 7779895,
+            "age_hours": 142.7
           },
           {
             "id": "ZJK45CjZoIA",
@@ -1524,100 +1337,205 @@
             "channel": "ZHC",
             "thumbnail": "https://i.ytimg.com/vi/ZJK45CjZoIA/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=ZJK45CjZoIA",
-            "views": 10466539,
-            "age_hours": 154.6
-          },
-          {
-            "id": "H1ADfptil74",
-            "title": "iPhone Duo Issues ❌❌🚨",
-            "channel": "TechBurner Shorts",
-            "thumbnail": "https://i.ytimg.com/vi/H1ADfptil74/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=H1ADfptil74",
-            "views": 1458815,
-            "age_hours": 46.0
+            "views": 10521093,
+            "age_hours": 163.0
           }
         ]
       },
       {
-        "phrase": "karwachauth",
-        "video_count": 5,
-        "momentum": 27.63,
+        "phrase": "diwali",
+        "video_count": 6,
+        "momentum": 31.16,
         "regions": [
           "IN"
         ],
         "lang": "en",
         "example_videos": [
           {
-            "id": "8KQV2cr3huM",
-            "title": "Middle Class 💔😱 Karwachauth 🌙 #shorts #emotional #viral #video",
-            "channel": "Jomy Production",
-            "thumbnail": "https://i.ytimg.com/vi/8KQV2cr3huM/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=8KQV2cr3huM",
-            "views": 5911568,
-            "age_hours": 16.5
+            "id": "4fd9aio7m9k",
+            "title": "Indian moms on Diwali 🪔 😅#funnyshorts #diwali #diwalispecial #familyfun #shorts",
+            "channel": "Cute Sangwan Saanvi",
+            "thumbnail": "https://i.ytimg.com/vi/4fd9aio7m9k/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=4fd9aio7m9k",
+            "views": 63061940,
+            "age_hours": 71.1
           },
+          {
+            "id": "TH4GUdGCLr0",
+            "title": "Diwali ki Safai 🤣 Shararati Patni 🤣 #comedy #funny #trending #diwali #diwalispecial",
+            "channel": "Shivam Pooja Vibes",
+            "thumbnail": "https://i.ytimg.com/vi/TH4GUdGCLr0/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=TH4GUdGCLr0",
+            "views": 31529021,
+            "age_hours": 77.3
+          },
+          {
+            "id": "WGP-oT3Umzw",
+            "title": "The Craziest Diwali Jugaad Ever😱🧲#shorts #relatable #nostalgia #ytshorts",
+            "channel": "Nukkad viness",
+            "thumbnail": "https://i.ytimg.com/vi/WGP-oT3Umzw/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=WGP-oT3Umzw",
+            "views": 38052277,
+            "age_hours": 120.5
+          }
+        ]
+      },
+      {
+        "phrase": "india",
+        "video_count": 6,
+        "momentum": 30.56,
+        "regions": [
+          "IN"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "S5I_LaOmze4",
+            "title": "FREE FIRE INDIA IS HERE!",
+            "channel": "Free Fire India Official",
+            "thumbnail": "https://i.ytimg.com/vi/S5I_LaOmze4/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=S5I_LaOmze4",
+            "views": 5951716,
+            "age_hours": 53.5
+          },
+          {
+            "id": "4m58nVDpoY8",
+            "title": "Free Fire India 1st Gameplay ❤ Tonde Gamer",
+            "channel": "Tonde Gamer",
+            "thumbnail": "https://i.ytimg.com/vi/4m58nVDpoY8/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=4m58nVDpoY8",
+            "views": 1525887,
+            "age_hours": 28.8
+          },
+          {
+            "id": "ZW9bzJOiGQk",
+            "title": "Playing Free Fire INDIA for 1st Time",
+            "channel": "SATVIK",
+            "thumbnail": "https://i.ytimg.com/vi/ZW9bzJOiGQk/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=ZW9bzJOiGQk",
+            "views": 1380806,
+            "age_hours": 24.8
+          }
+        ]
+      },
+      {
+        "phrase": "iphone",
+        "video_count": 6,
+        "momentum": 30.29,
+        "regions": [
+          "IN"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "eNu2AbeOpos",
+            "title": "iPhone DUO से पूरी Team को दिया Surprise! 😱🔥#shorts",
+            "channel": "Tech Master",
+            "thumbnail": "https://i.ytimg.com/vi/eNu2AbeOpos/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=eNu2AbeOpos",
+            "views": 12477400,
+            "age_hours": 46.0
+          },
+          {
+            "id": "BGes86db5bA",
+            "title": "He Shook IPhone Duo Sales",
+            "channel": "Fact2Fact",
+            "thumbnail": "https://i.ytimg.com/vi/BGes86db5bA/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=BGes86db5bA",
+            "views": 7779895,
+            "age_hours": 142.7
+          },
+          {
+            "id": "ZJK45CjZoIA",
+            "title": "iPhone Duo Vs iPhone 18",
+            "channel": "ZHC",
+            "thumbnail": "https://i.ytimg.com/vi/ZJK45CjZoIA/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=ZJK45CjZoIA",
+            "views": 10521093,
+            "age_hours": 163.0
+          }
+        ]
+      },
+      {
+        "phrase": "karwa chauth",
+        "video_count": 4,
+        "momentum": 24.81,
+        "regions": [
+          "IN"
+        ],
+        "lang": "en",
+        "example_videos": [
           {
             "id": "Mnqx6T8Ht1w",
             "title": "Karwa Chauth Ki Mehndi 🤣 #neetubisht #lakhneet #karwachauth #mehndi #comedy #ytshorts",
             "channel": "Neetu Bisht",
             "thumbnail": "https://i.ytimg.com/vi/Mnqx6T8Ht1w/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=Mnqx6T8Ht1w",
-            "views": 19528648,
-            "age_hours": 23.0
+            "views": 28673526,
+            "age_hours": 31.5
           },
           {
-            "id": "Gbt5yKHfmF4",
-            "title": "Surajactor new shorts #surajactor  happy karwachauth dosto #karwachauth",
-            "channel": "Filmy Surraj",
-            "thumbnail": "https://i.ytimg.com/vi/Gbt5yKHfmF4/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=Gbt5yKHfmF4",
-            "views": 29913542,
-            "age_hours": 88.6
+            "id": "LdR3PkhyGIk",
+            "title": "Karwa Chauth Special 😍 #karwachauth #karwachauthspecial #shorts #youtubeshorts #shortsfeed #comedy",
+            "channel": "TEAM BHL",
+            "thumbnail": "https://i.ytimg.com/vi/LdR3PkhyGIk/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=LdR3PkhyGIk",
+            "views": 94336818,
+            "age_hours": 130.4
+          },
+          {
+            "id": "8mnbDRN7NBU",
+            "title": "#video चंदा की चांदनी | Chanda Ki Chandni | Karwa Chauth Special Song 2026 | Amrita Dixit | New Song",
+            "channel": "Amrita Dixit Official",
+            "thumbnail": "https://i.ytimg.com/vi/8mnbDRN7NBU/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=8mnbDRN7NBU",
+            "views": 292176,
+            "age_hours": 34.1
           }
         ]
       },
       {
-        "phrase": "gta live",
-        "video_count": 3,
-        "momentum": 19.58,
+        "phrase": "ytshorts",
+        "video_count": 4,
+        "momentum": 22.3,
         "regions": [
           "IN"
         ],
         "lang": "en",
         "example_videos": [
           {
-            "id": "OlFY84S7Xws",
-            "title": "🔴 LIVE | tiger  hunt challange🐆 | GTA V Mods #gtav #gtalive gta v live",
-            "channel": "GTA PANTHER HUNT",
-            "thumbnail": "https://i.ytimg.com/vi/OlFY84S7Xws/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=OlFY84S7Xws",
-            "views": 6141525,
-            "age_hours": 5.8
+            "id": "Mnqx6T8Ht1w",
+            "title": "Karwa Chauth Ki Mehndi 🤣 #neetubisht #lakhneet #karwachauth #mehndi #comedy #ytshorts",
+            "channel": "Neetu Bisht",
+            "thumbnail": "https://i.ytimg.com/vi/Mnqx6T8Ht1w/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=Mnqx6T8Ht1w",
+            "views": 28673526,
+            "age_hours": 31.5
           },
           {
-            "id": "vEfNaGrbhfw",
-            "title": "GTA 5 LIVE #gta5 #gtav #gaming#shortsfeed #shortslive #gta #live #shorts",
-            "channel": "GTA Khelo",
-            "thumbnail": "https://i.ytimg.com/vi/vEfNaGrbhfw/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=vEfNaGrbhfw",
-            "views": 1550586,
-            "age_hours": 24.8
+            "id": "ISmRJOIpJr4",
+            "title": "Jaisi Karni Wisi Bharni 🤣 #shorts #tiktokvideo #funnyshorts #ytshorts #shortbeta #mamabhnaji",
+            "channel": "Sukhasan Ka Star",
+            "thumbnail": "https://i.ytimg.com/vi/ISmRJOIpJr4/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=ISmRJOIpJr4",
+            "views": 19542985,
+            "age_hours": 48.4
           },
           {
-            "id": "tNeka18UIB0",
-            "title": "GTA 5 LIVE  #gta5 #gtav #gaming",
-            "channel": "SANGU IS LIVE",
-            "thumbnail": "https://i.ytimg.com/vi/tNeka18UIB0/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=tNeka18UIB0",
-            "views": 1621074,
-            "age_hours": 26.0
+            "id": "WGP-oT3Umzw",
+            "title": "The Craziest Diwali Jugaad Ever😱🧲#shorts #relatable #nostalgia #ytshorts",
+            "channel": "Nukkad viness",
+            "thumbnail": "https://i.ytimg.com/vi/WGP-oT3Umzw/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=WGP-oT3Umzw",
+            "views": 38052277,
+            "age_hours": 120.5
           }
         ]
       },
       {
         "phrase": "minecraft",
         "video_count": 4,
-        "momentum": 19.54,
+        "momentum": 19.34,
         "regions": [
           "IN"
         ],
@@ -1629,17 +1547,8 @@
             "channel": "ProBoiz 95",
             "thumbnail": "https://i.ytimg.com/vi/ls0FQdzVxko/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=ls0FQdzVxko",
-            "views": 852691,
-            "age_hours": 12.9
-          },
-          {
-            "id": "Z3eizu2xYTE",
-            "title": "I Installed MINECRAFT STEVE in Every Game!",
-            "channel": "ProBoii",
-            "thumbnail": "https://i.ytimg.com/vi/Z3eizu2xYTE/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=Z3eizu2xYTE",
-            "views": 1470966,
-            "age_hours": 38.4
+            "views": 2028877,
+            "age_hours": 21.3
           },
           {
             "id": "huKL02VWKNE",
@@ -1647,53 +1556,294 @@
             "channel": "Carry Depie",
             "thumbnail": "https://i.ytimg.com/vi/huKL02VWKNE/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=huKL02VWKNE",
-            "views": 718251,
-            "age_hours": 15.6
+            "views": 1041037,
+            "age_hours": 24.1
+          },
+          {
+            "id": "Z3eizu2xYTE",
+            "title": "I Installed MINECRAFT STEVE in Every Game!",
+            "channel": "ProBoii",
+            "thumbnail": "https://i.ytimg.com/vi/Z3eizu2xYTE/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=Z3eizu2xYTE",
+            "views": 1575666,
+            "age_hours": 46.8
           }
         ]
       },
       {
-        "phrase": "oppo",
+        "phrase": "special",
         "video_count": 4,
-        "momentum": 18.97,
+        "momentum": 19.33,
         "regions": [
           "IN"
         ],
         "lang": "en",
         "example_videos": [
           {
-            "id": "AipHOfPLs54",
-            "title": "OPPO Why Bro ? | Mobile World",
-            "channel": "CallMeShazzam TECH",
-            "thumbnail": "https://i.ytimg.com/vi/AipHOfPLs54/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=AipHOfPLs54",
-            "views": 882779,
-            "age_hours": 35.2
+            "id": "LdR3PkhyGIk",
+            "title": "Karwa Chauth Special 😍 #karwachauth #karwachauthspecial #shorts #youtubeshorts #shortsfeed #comedy",
+            "channel": "TEAM BHL",
+            "thumbnail": "https://i.ytimg.com/vi/LdR3PkhyGIk/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=LdR3PkhyGIk",
+            "views": 94336818,
+            "age_hours": 130.4
           },
           {
-            "id": "xGtDbXpQF4o",
-            "title": "Parcel की Mystery OPPO Find X10 Pro Max ने Solve कर दी! 😱📦 #shorts",
-            "channel": "Tech Master",
-            "thumbnail": "https://i.ytimg.com/vi/xGtDbXpQF4o/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=xGtDbXpQF4o",
-            "views": 6475644,
-            "age_hours": 113.4
+            "id": "mWlmcjwV44o",
+            "title": "Avengers: Doomsday | Special Look - Hindi | In Cinemas December 17 ",
+            "channel": "IndiaMarvel",
+            "thumbnail": "https://i.ytimg.com/vi/mWlmcjwV44o/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=mWlmcjwV44o",
+            "views": 5357304,
+            "age_hours": 26.3
           },
           {
-            "id": "-AsC_oSJ5-M",
-            "title": "😤 இந்த அவமானம் உனக்கு தேவையா 🤦‍♂️ OPPO Find X10 Pro Max vs iPhone 18 Pro Max 🔥",
-            "channel": "Tamil Tech - MrTT",
-            "thumbnail": "https://i.ytimg.com/vi/-AsC_oSJ5-M/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=-AsC_oSJ5-M",
-            "views": 394773,
-            "age_hours": 21.8
+            "id": "8mnbDRN7NBU",
+            "title": "#video चंदा की चांदनी | Chanda Ki Chandni | Karwa Chauth Special Song 2026 | Amrita Dixit | New Song",
+            "channel": "Amrita Dixit Official",
+            "thumbnail": "https://i.ytimg.com/vi/8mnbDRN7NBU/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=8mnbDRN7NBU",
+            "views": 292176,
+            "age_hours": 34.1
+          }
+        ]
+      },
+      {
+        "phrase": "building wooden log",
+        "video_count": 2,
+        "momentum": 16.87,
+        "regions": [
+          "IN"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "77C-W8y91u0",
+            "title": "🔥 Building Wooden Log Cabin in Deep Forest 🌲🪓 | Survival House Step by Step Part-11",
+            "channel": "Bitu facto1",
+            "thumbnail": "https://i.ytimg.com/vi/77C-W8y91u0/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=77C-W8y91u0",
+            "views": 15121940,
+            "age_hours": 25.5
+          },
+          {
+            "id": "KILMo8It4Hw",
+            "title": "🔥 Building Wooden Log Cabin in Deep Forest 🌲🪓 | Survival House Step by Step Part-11",
+            "channel": "Bitu facto1",
+            "thumbnail": "https://i.ytimg.com/vi/KILMo8It4Hw/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=KILMo8It4Hw",
+            "views": 14556415,
+            "age_hours": 49.5
+          }
+        ]
+      },
+      {
+        "phrase": "wooden log cabin",
+        "video_count": 2,
+        "momentum": 16.87,
+        "regions": [
+          "IN"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "77C-W8y91u0",
+            "title": "🔥 Building Wooden Log Cabin in Deep Forest 🌲🪓 | Survival House Step by Step Part-11",
+            "channel": "Bitu facto1",
+            "thumbnail": "https://i.ytimg.com/vi/77C-W8y91u0/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=77C-W8y91u0",
+            "views": 15121940,
+            "age_hours": 25.5
+          },
+          {
+            "id": "KILMo8It4Hw",
+            "title": "🔥 Building Wooden Log Cabin in Deep Forest 🌲🪓 | Survival House Step by Step Part-11",
+            "channel": "Bitu facto1",
+            "thumbnail": "https://i.ytimg.com/vi/KILMo8It4Hw/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=KILMo8It4Hw",
+            "views": 14556415,
+            "age_hours": 49.5
+          }
+        ]
+      },
+      {
+        "phrase": "log cabin deep",
+        "video_count": 2,
+        "momentum": 16.87,
+        "regions": [
+          "IN"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "77C-W8y91u0",
+            "title": "🔥 Building Wooden Log Cabin in Deep Forest 🌲🪓 | Survival House Step by Step Part-11",
+            "channel": "Bitu facto1",
+            "thumbnail": "https://i.ytimg.com/vi/77C-W8y91u0/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=77C-W8y91u0",
+            "views": 15121940,
+            "age_hours": 25.5
+          },
+          {
+            "id": "KILMo8It4Hw",
+            "title": "🔥 Building Wooden Log Cabin in Deep Forest 🌲🪓 | Survival House Step by Step Part-11",
+            "channel": "Bitu facto1",
+            "thumbnail": "https://i.ytimg.com/vi/KILMo8It4Hw/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=KILMo8It4Hw",
+            "views": 14556415,
+            "age_hours": 49.5
+          }
+        ]
+      },
+      {
+        "phrase": "cabin deep forest",
+        "video_count": 2,
+        "momentum": 16.87,
+        "regions": [
+          "IN"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "77C-W8y91u0",
+            "title": "🔥 Building Wooden Log Cabin in Deep Forest 🌲🪓 | Survival House Step by Step Part-11",
+            "channel": "Bitu facto1",
+            "thumbnail": "https://i.ytimg.com/vi/77C-W8y91u0/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=77C-W8y91u0",
+            "views": 15121940,
+            "age_hours": 25.5
+          },
+          {
+            "id": "KILMo8It4Hw",
+            "title": "🔥 Building Wooden Log Cabin in Deep Forest 🌲🪓 | Survival House Step by Step Part-11",
+            "channel": "Bitu facto1",
+            "thumbnail": "https://i.ytimg.com/vi/KILMo8It4Hw/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=KILMo8It4Hw",
+            "views": 14556415,
+            "age_hours": 49.5
+          }
+        ]
+      },
+      {
+        "phrase": "deep forest survival",
+        "video_count": 2,
+        "momentum": 16.87,
+        "regions": [
+          "IN"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "77C-W8y91u0",
+            "title": "🔥 Building Wooden Log Cabin in Deep Forest 🌲🪓 | Survival House Step by Step Part-11",
+            "channel": "Bitu facto1",
+            "thumbnail": "https://i.ytimg.com/vi/77C-W8y91u0/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=77C-W8y91u0",
+            "views": 15121940,
+            "age_hours": 25.5
+          },
+          {
+            "id": "KILMo8It4Hw",
+            "title": "🔥 Building Wooden Log Cabin in Deep Forest 🌲🪓 | Survival House Step by Step Part-11",
+            "channel": "Bitu facto1",
+            "thumbnail": "https://i.ytimg.com/vi/KILMo8It4Hw/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=KILMo8It4Hw",
+            "views": 14556415,
+            "age_hours": 49.5
+          }
+        ]
+      },
+      {
+        "phrase": "forest survival house",
+        "video_count": 2,
+        "momentum": 16.87,
+        "regions": [
+          "IN"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "77C-W8y91u0",
+            "title": "🔥 Building Wooden Log Cabin in Deep Forest 🌲🪓 | Survival House Step by Step Part-11",
+            "channel": "Bitu facto1",
+            "thumbnail": "https://i.ytimg.com/vi/77C-W8y91u0/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=77C-W8y91u0",
+            "views": 15121940,
+            "age_hours": 25.5
+          },
+          {
+            "id": "KILMo8It4Hw",
+            "title": "🔥 Building Wooden Log Cabin in Deep Forest 🌲🪓 | Survival House Step by Step Part-11",
+            "channel": "Bitu facto1",
+            "thumbnail": "https://i.ytimg.com/vi/KILMo8It4Hw/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=KILMo8It4Hw",
+            "views": 14556415,
+            "age_hours": 49.5
+          }
+        ]
+      },
+      {
+        "phrase": "survival house step",
+        "video_count": 2,
+        "momentum": 16.87,
+        "regions": [
+          "IN"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "77C-W8y91u0",
+            "title": "🔥 Building Wooden Log Cabin in Deep Forest 🌲🪓 | Survival House Step by Step Part-11",
+            "channel": "Bitu facto1",
+            "thumbnail": "https://i.ytimg.com/vi/77C-W8y91u0/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=77C-W8y91u0",
+            "views": 15121940,
+            "age_hours": 25.5
+          },
+          {
+            "id": "KILMo8It4Hw",
+            "title": "🔥 Building Wooden Log Cabin in Deep Forest 🌲🪓 | Survival House Step by Step Part-11",
+            "channel": "Bitu facto1",
+            "thumbnail": "https://i.ytimg.com/vi/KILMo8It4Hw/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=KILMo8It4Hw",
+            "views": 14556415,
+            "age_hours": 49.5
+          }
+        ]
+      },
+      {
+        "phrase": "house step step",
+        "video_count": 2,
+        "momentum": 16.87,
+        "regions": [
+          "IN"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "77C-W8y91u0",
+            "title": "🔥 Building Wooden Log Cabin in Deep Forest 🌲🪓 | Survival House Step by Step Part-11",
+            "channel": "Bitu facto1",
+            "thumbnail": "https://i.ytimg.com/vi/77C-W8y91u0/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=77C-W8y91u0",
+            "views": 15121940,
+            "age_hours": 25.5
+          },
+          {
+            "id": "KILMo8It4Hw",
+            "title": "🔥 Building Wooden Log Cabin in Deep Forest 🌲🪓 | Survival House Step by Step Part-11",
+            "channel": "Bitu facto1",
+            "thumbnail": "https://i.ytimg.com/vi/KILMo8It4Hw/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=KILMo8It4Hw",
+            "views": 14556415,
+            "age_hours": 49.5
           }
         ]
       },
       {
         "phrase": "fire india 1st",
         "video_count": 2,
-        "momentum": 15.67,
+        "momentum": 15.34,
         "regions": [
           "IN"
         ],
@@ -1705,8 +1855,8 @@
             "channel": "Tonde Gamer",
             "thumbnail": "https://i.ytimg.com/vi/4m58nVDpoY8/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=4m58nVDpoY8",
-            "views": 1354200,
-            "age_hours": 20.3
+            "views": 1525887,
+            "age_hours": 28.8
           },
           {
             "id": "ZW9bzJOiGQk",
@@ -1714,240 +1864,8 @@
             "channel": "SATVIK",
             "thumbnail": "https://i.ytimg.com/vi/ZW9bzJOiGQk/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=ZW9bzJOiGQk",
-            "views": 961937,
-            "age_hours": 16.3
-          }
-        ]
-      },
-      {
-        "phrase": "playing free fire",
-        "video_count": 2,
-        "momentum": 15.2,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "ZW9bzJOiGQk",
-            "title": "Playing Free Fire INDIA for 1st Time",
-            "channel": "SATVIK",
-            "thumbnail": "https://i.ytimg.com/vi/ZW9bzJOiGQk/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=ZW9bzJOiGQk",
-            "views": 961937,
-            "age_hours": 16.3
-          },
-          {
-            "id": "kaxRebUiA14",
-            "title": "Playing FREE FIRE INDIA for First Time😍🔥",
-            "channel": "Badge 99",
-            "thumbnail": "https://i.ytimg.com/vi/kaxRebUiA14/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=kaxRebUiA14",
-            "views": 615750,
-            "age_hours": 17.9
-          }
-        ]
-      },
-      {
-        "phrase": "fire india first",
-        "video_count": 2,
-        "momentum": 14.97,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "kaxRebUiA14",
-            "title": "Playing FREE FIRE INDIA for First Time😍🔥",
-            "channel": "Badge 99",
-            "thumbnail": "https://i.ytimg.com/vi/kaxRebUiA14/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=kaxRebUiA14",
-            "views": 615750,
-            "age_hours": 17.9
-          },
-          {
-            "id": "nbTkE-H8XbQ",
-            "title": "🇮🇳 FREE FIRE INDIA FIRST LIVE �With Munna Bhai - #FreeFireIndia #FreeFireLive #FFIndia #MBG",
-            "channel": "Munna bhai gaming",
-            "thumbnail": "https://i.ytimg.com/vi/nbTkE-H8XbQ/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=nbTkE-H8XbQ",
-            "views": 588138,
-            "age_hours": 16.8
-          }
-        ]
-      },
-      {
-        "phrase": "oppo find x10",
-        "video_count": 2,
-        "momentum": 14.6,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "xGtDbXpQF4o",
-            "title": "Parcel की Mystery OPPO Find X10 Pro Max ने Solve कर दी! 😱📦 #shorts",
-            "channel": "Tech Master",
-            "thumbnail": "https://i.ytimg.com/vi/xGtDbXpQF4o/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=xGtDbXpQF4o",
-            "views": 6475644,
-            "age_hours": 113.4
-          },
-          {
-            "id": "-AsC_oSJ5-M",
-            "title": "😤 இந்த அவமானம் உனக்கு தேவையா 🤦‍♂️ OPPO Find X10 Pro Max vs iPhone 18 Pro Max 🔥",
-            "channel": "Tamil Tech - MrTT",
-            "thumbnail": "https://i.ytimg.com/vi/-AsC_oSJ5-M/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=-AsC_oSJ5-M",
-            "views": 394773,
-            "age_hours": 21.8
-          }
-        ]
-      },
-      {
-        "phrase": "find x10 pro",
-        "video_count": 2,
-        "momentum": 14.6,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "xGtDbXpQF4o",
-            "title": "Parcel की Mystery OPPO Find X10 Pro Max ने Solve कर दी! 😱📦 #shorts",
-            "channel": "Tech Master",
-            "thumbnail": "https://i.ytimg.com/vi/xGtDbXpQF4o/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=xGtDbXpQF4o",
-            "views": 6475644,
-            "age_hours": 113.4
-          },
-          {
-            "id": "-AsC_oSJ5-M",
-            "title": "😤 இந்த அவமானம் உனக்கு தேவையா 🤦‍♂️ OPPO Find X10 Pro Max vs iPhone 18 Pro Max 🔥",
-            "channel": "Tamil Tech - MrTT",
-            "thumbnail": "https://i.ytimg.com/vi/-AsC_oSJ5-M/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=-AsC_oSJ5-M",
-            "views": 394773,
-            "age_hours": 21.8
-          }
-        ]
-      },
-      {
-        "phrase": "x10 pro max",
-        "video_count": 2,
-        "momentum": 14.6,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "xGtDbXpQF4o",
-            "title": "Parcel की Mystery OPPO Find X10 Pro Max ने Solve कर दी! 😱📦 #shorts",
-            "channel": "Tech Master",
-            "thumbnail": "https://i.ytimg.com/vi/xGtDbXpQF4o/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=xGtDbXpQF4o",
-            "views": 6475644,
-            "age_hours": 113.4
-          },
-          {
-            "id": "-AsC_oSJ5-M",
-            "title": "😤 இந்த அவமானம் உனக்கு தேவையா 🤦‍♂️ OPPO Find X10 Pro Max vs iPhone 18 Pro Max 🔥",
-            "channel": "Tamil Tech - MrTT",
-            "thumbnail": "https://i.ytimg.com/vi/-AsC_oSJ5-M/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=-AsC_oSJ5-M",
-            "views": 394773,
-            "age_hours": 21.8
-          }
-        ]
-      },
-      {
-        "phrase": "gta live gta5",
-        "video_count": 2,
-        "momentum": 14.44,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "vEfNaGrbhfw",
-            "title": "GTA 5 LIVE #gta5 #gtav #gaming#shortsfeed #shortslive #gta #live #shorts",
-            "channel": "GTA Khelo",
-            "thumbnail": "https://i.ytimg.com/vi/vEfNaGrbhfw/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=vEfNaGrbhfw",
-            "views": 1550586,
+            "views": 1380806,
             "age_hours": 24.8
-          },
-          {
-            "id": "tNeka18UIB0",
-            "title": "GTA 5 LIVE  #gta5 #gtav #gaming",
-            "channel": "SANGU IS LIVE",
-            "thumbnail": "https://i.ytimg.com/vi/tNeka18UIB0/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=tNeka18UIB0",
-            "views": 1621074,
-            "age_hours": 26.0
-          }
-        ]
-      },
-      {
-        "phrase": "live gta5 gtav",
-        "video_count": 2,
-        "momentum": 14.44,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "vEfNaGrbhfw",
-            "title": "GTA 5 LIVE #gta5 #gtav #gaming#shortsfeed #shortslive #gta #live #shorts",
-            "channel": "GTA Khelo",
-            "thumbnail": "https://i.ytimg.com/vi/vEfNaGrbhfw/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=vEfNaGrbhfw",
-            "views": 1550586,
-            "age_hours": 24.8
-          },
-          {
-            "id": "tNeka18UIB0",
-            "title": "GTA 5 LIVE  #gta5 #gtav #gaming",
-            "channel": "SANGU IS LIVE",
-            "thumbnail": "https://i.ytimg.com/vi/tNeka18UIB0/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=tNeka18UIB0",
-            "views": 1621074,
-            "age_hours": 26.0
-          }
-        ]
-      },
-      {
-        "phrase": "gta5 gtav gaming",
-        "video_count": 2,
-        "momentum": 14.44,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "vEfNaGrbhfw",
-            "title": "GTA 5 LIVE #gta5 #gtav #gaming#shortsfeed #shortslive #gta #live #shorts",
-            "channel": "GTA Khelo",
-            "thumbnail": "https://i.ytimg.com/vi/vEfNaGrbhfw/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=vEfNaGrbhfw",
-            "views": 1550586,
-            "age_hours": 24.8
-          },
-          {
-            "id": "tNeka18UIB0",
-            "title": "GTA 5 LIVE  #gta5 #gtav #gaming",
-            "channel": "SANGU IS LIVE",
-            "thumbnail": "https://i.ytimg.com/vi/tNeka18UIB0/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=tNeka18UIB0",
-            "views": 1621074,
-            "age_hours": 26.0
           }
         ]
       }
@@ -1956,7 +1874,7 @@
       {
         "phrase": "official mv",
         "video_count": 2,
-        "momentum": 13.7,
+        "momentum": 13.57,
         "regions": [
           "AU"
         ],
@@ -1968,8 +1886,8 @@
             "channel": "HYBE LABELS",
             "thumbnail": "https://i.ytimg.com/vi/V2V9-9VhYJo/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=V2V9-9VhYJo",
-            "views": 10267587,
-            "age_hours": 66.5
+            "views": 10768950,
+            "age_hours": 75.0
           },
           {
             "id": "INJuqE_34eQ",
@@ -1977,15 +1895,15 @@
             "channel": "Quân A.P Official",
             "thumbnail": "https://i.ytimg.com/vi/INJuqE_34eQ/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=INJuqE_34eQ",
-            "views": 2450646,
-            "age_hours": 38.5
+            "views": 2918761,
+            "age_hours": 47.0
           }
         ]
       },
       {
         "phrase": "i ng",
         "video_count": 2,
-        "momentum": 13.15,
+        "momentum": 13.01,
         "regions": [
           "AU"
         ],
@@ -1997,8 +1915,8 @@
             "channel": "OSAD Official",
             "thumbnail": "https://i.ytimg.com/vi/hGu7BVQy5G0/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=hGu7BVQy5G0",
-            "views": 2062697,
-            "age_hours": 35.6
+            "views": 2674964,
+            "age_hours": 44.1
           },
           {
             "id": "INJuqE_34eQ",
@@ -2006,46 +1924,56 @@
             "channel": "Quân A.P Official",
             "thumbnail": "https://i.ytimg.com/vi/INJuqE_34eQ/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=INJuqE_34eQ",
-            "views": 2450646,
-            "age_hours": 38.5
-          }
-        ]
-      },
-      {
-        "phrase": "avengers doomsday",
-        "video_count": 2,
-        "momentum": 12.51,
-        "regions": [
-          "AU"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "UfNu7pcR0e8",
-            "title": "Avengers: Doomsday | In Theaters December 18",
-            "channel": "Marvel Entertainment",
-            "thumbnail": "https://i.ytimg.com/vi/UfNu7pcR0e8/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=UfNu7pcR0e8",
-            "views": 16737108,
-            "age_hours": 99.5
-          },
-          {
-            "id": "o1Z4HHeIJS0",
-            "title": "AVENGERS DOOMSDAY NEW TRAILER BREAKDOWN! “Fake Steve” & Details You Missed!",
-            "channel": "New Rockstars",
-            "thumbnail": "https://i.ytimg.com/vi/o1Z4HHeIJS0/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=o1Z4HHeIJS0",
-            "views": 716463,
-            "age_hours": 29.6
+            "views": 2918761,
+            "age_hours": 47.0
           }
         ]
       }
     ],
+    "GB": [],
     "DE": [
       {
+        "phrase": "iphone",
+        "video_count": 4,
+        "momentum": 18.29,
+        "regions": [
+          "DE"
+        ],
+        "lang": "de",
+        "example_videos": [
+          {
+            "id": "iRmiZbr0cHM",
+            "title": "iPhone Duo: Прорывное Нейро-Складывание 🍎",
+            "channel": "i11ushenka",
+            "thumbnail": "https://i.ytimg.com/vi/iRmiZbr0cHM/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=iRmiZbr0cHM",
+            "views": 7358378,
+            "age_hours": 67.9
+          },
+          {
+            "id": "9YFGA3VhdWM",
+            "title": "🕹️ Apple manipuliert Siri: Darum hört dein iPhone eine Apple Keynote nicht | DasIstJay | #Shorts",
+            "channel": "DasIstJay",
+            "thumbnail": "https://i.ytimg.com/vi/9YFGA3VhdWM/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=9YFGA3VhdWM",
+            "views": 203903,
+            "age_hours": 24.5
+          },
+          {
+            "id": "JX6wXMROwpM",
+            "title": "Ich werfe das erste iPhone 18 Pro 😱",
+            "channel": "twenty4tim",
+            "thumbnail": "https://i.ytimg.com/vi/JX6wXMROwpM/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=JX6wXMROwpM",
+            "views": 78619,
+            "age_hours": 17.3
+          }
+        ]
+      },
+      {
         "phrase": "craft attack",
-        "video_count": 5,
-        "momentum": 27.46,
+        "video_count": 3,
+        "momentum": 16.05,
         "regions": [
           "DE"
         ],
@@ -2057,17 +1985,8 @@
             "channel": "Bastian",
             "thumbnail": "https://i.ytimg.com/vi/zkFqxVoUdCQ/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=zkFqxVoUdCQ",
-            "views": 126971,
-            "age_hours": 8.4
-          },
-          {
-            "id": "gCF-tYTKYmM",
-            "title": "FUXEL oder ALETHEA?❤️FÜR WEN SOLL ICH MICH ENTSCHEIDEN? (CRAFT ATTACK 14)",
-            "channel": "TriDan",
-            "thumbnail": "https://i.ytimg.com/vi/gCF-tYTKYmM/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=gCF-tYTKYmM",
-            "views": 82142,
-            "age_hours": 15.5
+            "views": 178055,
+            "age_hours": 16.9
           },
           {
             "id": "Haioj4zf5IQ",
@@ -2075,53 +1994,24 @@
             "channel": "SecondTry",
             "thumbnail": "https://i.ytimg.com/vi/Haioj4zf5IQ/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=Haioj4zf5IQ",
-            "views": 266301,
-            "age_hours": 18.5
-          }
-        ]
-      },
-      {
-        "phrase": "iphone",
-        "video_count": 4,
-        "momentum": 19.04,
-        "regions": [
-          "DE"
-        ],
-        "lang": "de",
-        "example_videos": [
-          {
-            "id": "iRmiZbr0cHM",
-            "title": "iPhone Duo: Прорывное Нейро-Складывание 🍎",
-            "channel": "i11ushenka",
-            "thumbnail": "https://i.ytimg.com/vi/iRmiZbr0cHM/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=iRmiZbr0cHM",
-            "views": 6940712,
-            "age_hours": 59.4
+            "views": 282682,
+            "age_hours": 27.0
           },
           {
-            "id": "f_bLnQWaQGI",
-            "title": "В Чем Разница iPhone 17 и iPhone 18? #iphone17 #iphone18",
-            "channel": "Байгазы",
-            "thumbnail": "https://i.ytimg.com/vi/f_bLnQWaQGI/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=f_bLnQWaQGI",
-            "views": 6579697,
-            "age_hours": 157.9
-          },
-          {
-            "id": "9YFGA3VhdWM",
-            "title": "🕹️ Apple manipuliert Siri: Darum hört dein iPhone eine Apple Keynote nicht | DasIstJay | #Shorts",
-            "channel": "DasIstJay",
-            "thumbnail": "https://i.ytimg.com/vi/9YFGA3VhdWM/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=9YFGA3VhdWM",
-            "views": 175996,
-            "age_hours": 16.0
+            "id": "E-tu8UlSxIY",
+            "title": "WIR HABEN 200 HÄUSER ZU VIEL GEBAUT...😭 CRAFT ATTACK 14 MIT DEN TITANEN🔥",
+            "channel": "EliasN97",
+            "thumbnail": "https://i.ytimg.com/vi/E-tu8UlSxIY/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=E-tu8UlSxIY",
+            "views": 210941,
+            "age_hours": 24.5
           }
         ]
       },
       {
         "phrase": "iphone duo",
         "video_count": 2,
-        "momentum": 12.08,
+        "momentum": 11.98,
         "regions": [
           "DE"
         ],
@@ -2133,8 +2023,8 @@
             "channel": "i11ushenka",
             "thumbnail": "https://i.ytimg.com/vi/iRmiZbr0cHM/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=iRmiZbr0cHM",
-            "views": 6940712,
-            "age_hours": 59.4
+            "views": 7358378,
+            "age_hours": 67.9
           },
           {
             "id": "gcZNplFNpfY",
@@ -2142,15 +2032,15 @@
             "channel": "Alex",
             "thumbnail": "https://i.ytimg.com/vi/gcZNplFNpfY/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=gcZNplFNpfY",
-            "views": 669832,
-            "age_hours": 89.5
+            "views": 681421,
+            "age_hours": 98.0
           }
         ]
       },
       {
         "phrase": "comedy funny",
         "video_count": 2,
-        "momentum": 11.18,
+        "momentum": 11.14,
         "regions": [
           "DE"
         ],
@@ -2162,8 +2052,8 @@
             "channel": "Melina & Can",
             "thumbnail": "https://i.ytimg.com/vi/yDBcYCdq6GY/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=yDBcYCdq6GY",
-            "views": 2309969,
-            "age_hours": 107.1
+            "views": 2381459,
+            "age_hours": 115.5
           },
           {
             "id": "QXeH1pUIT1w",
@@ -2171,18 +2061,17 @@
             "channel": "Iris G",
             "thumbnail": "https://i.ytimg.com/vi/QXeH1pUIT1w/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=QXeH1pUIT1w",
-            "views": 2234872,
-            "age_hours": 112.9
+            "views": 2320437,
+            "age_hours": 121.3
           }
         ]
       }
     ],
-    "GB": [],
     "ALL": [
       {
         "phrase": "iphone duo",
         "video_count": 9,
-        "momentum": 56.9,
+        "momentum": 55.4,
         "regions": [
           "US"
         ],
@@ -2194,8 +2083,8 @@
             "channel": "JerryRigEverything",
             "thumbnail": "https://i.ytimg.com/vi/5laDGy4INB0/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=5laDGy4INB0",
-            "views": 13753147,
-            "age_hours": 119.5
+            "views": 13897580,
+            "age_hours": 128.0
           },
           {
             "id": "XwnQ0pMANVo",
@@ -2203,24 +2092,24 @@
             "channel": "John Casterline",
             "thumbnail": "https://i.ytimg.com/vi/XwnQ0pMANVo/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=XwnQ0pMANVo",
-            "views": 2986528,
-            "age_hours": 49.4
+            "views": 3113107,
+            "age_hours": 57.8
           },
           {
-            "id": "4FOOKUfUWzg",
-            "title": "iPhone Duo Problem is Getting Worse",
-            "channel": "penguinz0",
-            "thumbnail": "https://i.ytimg.com/vi/4FOOKUfUWzg/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=4FOOKUfUWzg",
-            "views": 2688299,
-            "age_hours": 32.5
+            "id": "i3ZlSlnGWng",
+            "title": "6 ways iPhone Duo beats Samsung",
+            "channel": "Mrwhosetheboss",
+            "thumbnail": "https://i.ytimg.com/vi/i3ZlSlnGWng/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=i3ZlSlnGWng",
+            "views": 11343170,
+            "age_hours": 191.9
           }
         ]
       },
       {
         "phrase": "free fire india",
-        "video_count": 6,
-        "momentum": 46.7,
+        "video_count": 5,
+        "momentum": 38.38,
         "regions": [
           "IN"
         ],
@@ -2232,8 +2121,8 @@
             "channel": "Free Fire India Official",
             "thumbnail": "https://i.ytimg.com/vi/S5I_LaOmze4/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=S5I_LaOmze4",
-            "views": 5885051,
-            "age_hours": 45.1
+            "views": 5951716,
+            "age_hours": 53.5
           },
           {
             "id": "4m58nVDpoY8",
@@ -2241,8 +2130,8 @@
             "channel": "Tonde Gamer",
             "thumbnail": "https://i.ytimg.com/vi/4m58nVDpoY8/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=4m58nVDpoY8",
-            "views": 1354200,
-            "age_hours": 20.3
+            "views": 1525887,
+            "age_hours": 28.8
           },
           {
             "id": "ZW9bzJOiGQk",
@@ -2250,91 +2139,91 @@
             "channel": "SATVIK",
             "thumbnail": "https://i.ytimg.com/vi/ZW9bzJOiGQk/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=ZW9bzJOiGQk",
-            "views": 961937,
-            "age_hours": 16.3
-          }
-        ]
-      },
-      {
-        "phrase": "free fire",
-        "video_count": 7,
-        "momentum": 45.62,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "S5I_LaOmze4",
-            "title": "FREE FIRE INDIA IS HERE!",
-            "channel": "Free Fire India Official",
-            "thumbnail": "https://i.ytimg.com/vi/S5I_LaOmze4/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=S5I_LaOmze4",
-            "views": 5885051,
-            "age_hours": 45.1
-          },
-          {
-            "id": "JmbfyeBJhJ0",
-            "title": "🌿FREE FIRE LIVE🌿PLAYING BR-RANKED😎2X AWM SPEED GAME PLAY 🎮🎯 ON LIVE - GARENA FREE FIRE",
-            "channel": "DAD I AM OK GAMING",
-            "thumbnail": "https://i.ytimg.com/vi/JmbfyeBJhJ0/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=JmbfyeBJhJ0",
-            "views": 1203485,
-            "age_hours": 6.4
-          },
-          {
-            "id": "4m58nVDpoY8",
-            "title": "Free Fire India 1st Gameplay ❤ Tonde Gamer",
-            "channel": "Tonde Gamer",
-            "thumbnail": "https://i.ytimg.com/vi/4m58nVDpoY8/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=4m58nVDpoY8",
-            "views": 1354200,
-            "age_hours": 20.3
+            "views": 1380806,
+            "age_hours": 24.8
           }
         ]
       },
       {
         "phrase": "iphone",
         "video_count": 8,
-        "momentum": 38.13,
+        "momentum": 34.48,
+        "regions": [
+          "BR"
+        ],
+        "lang": "pt",
+        "example_videos": [
+          {
+            "id": "a257882luMg",
+            "title": "porque lamine yamal quebrou seu iPhone de ouro",
+            "channel": "FootFlash ⚡",
+            "thumbnail": "https://i.ytimg.com/vi/a257882luMg/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=a257882luMg",
+            "views": 701864,
+            "age_hours": 60.3
+          },
+          {
+            "id": "pFiBFdox1DM",
+            "title": "O que acontece se dobrar o iPhone Duo 10 mil vezes?",
+            "channel": "Sev7n Games OFICIAL",
+            "thumbnail": "https://i.ytimg.com/vi/pFiBFdox1DM/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=pFiBFdox1DM",
+            "views": 1884184,
+            "age_hours": 106.0
+          },
+          {
+            "id": "kEc3DDE8jn0",
+            "title": "O NOVO IPHONE DOBRÁVEL ta CHEIO de PROBLEMA!!!",
+            "channel": "Top! Tech",
+            "thumbnail": "https://i.ytimg.com/vi/kEc3DDE8jn0/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=kEc3DDE8jn0",
+            "views": 243925,
+            "age_hours": 14.6
+          }
+        ]
+      },
+      {
+        "phrase": "diwali",
+        "video_count": 6,
+        "momentum": 31.16,
         "regions": [
           "IN"
         ],
         "lang": "en",
         "example_videos": [
           {
-            "id": "eNu2AbeOpos",
-            "title": "iPhone DUO से पूरी Team को दिया Surprise! 😱🔥#shorts",
-            "channel": "Tech Master",
-            "thumbnail": "https://i.ytimg.com/vi/eNu2AbeOpos/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=eNu2AbeOpos",
-            "views": 10222501,
-            "age_hours": 37.5
+            "id": "4fd9aio7m9k",
+            "title": "Indian moms on Diwali 🪔 😅#funnyshorts #diwali #diwalispecial #familyfun #shorts",
+            "channel": "Cute Sangwan Saanvi",
+            "thumbnail": "https://i.ytimg.com/vi/4fd9aio7m9k/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=4fd9aio7m9k",
+            "views": 63061940,
+            "age_hours": 71.1
           },
           {
-            "id": "ZJK45CjZoIA",
-            "title": "iPhone Duo Vs iPhone 18",
-            "channel": "ZHC",
-            "thumbnail": "https://i.ytimg.com/vi/ZJK45CjZoIA/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=ZJK45CjZoIA",
-            "views": 10466539,
-            "age_hours": 154.6
+            "id": "TH4GUdGCLr0",
+            "title": "Diwali ki Safai 🤣 Shararati Patni 🤣 #comedy #funny #trending #diwali #diwalispecial",
+            "channel": "Shivam Pooja Vibes",
+            "thumbnail": "https://i.ytimg.com/vi/TH4GUdGCLr0/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=TH4GUdGCLr0",
+            "views": 31529021,
+            "age_hours": 77.3
           },
           {
-            "id": "-AsC_oSJ5-M",
-            "title": "😤 இந்த அவமானம் உனக்கு தேவையா 🤦‍♂️ OPPO Find X10 Pro Max vs iPhone 18 Pro Max 🔥",
-            "channel": "Tamil Tech - MrTT",
-            "thumbnail": "https://i.ytimg.com/vi/-AsC_oSJ5-M/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=-AsC_oSJ5-M",
-            "views": 394773,
-            "age_hours": 21.8
+            "id": "WGP-oT3Umzw",
+            "title": "The Craziest Diwali Jugaad Ever😱🧲#shorts #relatable #nostalgia #ytshorts",
+            "channel": "Nukkad viness",
+            "thumbnail": "https://i.ytimg.com/vi/WGP-oT3Umzw/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=WGP-oT3Umzw",
+            "views": 38052277,
+            "age_hours": 120.5
           }
         ]
       },
       {
         "phrase": "india",
-        "video_count": 7,
-        "momentum": 36.14,
+        "video_count": 6,
+        "momentum": 30.56,
         "regions": [
           "IN"
         ],
@@ -2346,8 +2235,8 @@
             "channel": "Free Fire India Official",
             "thumbnail": "https://i.ytimg.com/vi/S5I_LaOmze4/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=S5I_LaOmze4",
-            "views": 5885051,
-            "age_hours": 45.1
+            "views": 5951716,
+            "age_hours": 53.5
           },
           {
             "id": "4m58nVDpoY8",
@@ -2355,8 +2244,8 @@
             "channel": "Tonde Gamer",
             "thumbnail": "https://i.ytimg.com/vi/4m58nVDpoY8/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=4m58nVDpoY8",
-            "views": 1354200,
-            "age_hours": 20.3
+            "views": 1525887,
+            "age_hours": 28.8
           },
           {
             "id": "ZW9bzJOiGQk",
@@ -2364,53 +2253,399 @@
             "channel": "SATVIK",
             "thumbnail": "https://i.ytimg.com/vi/ZW9bzJOiGQk/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=ZW9bzJOiGQk",
-            "views": 961937,
-            "age_hours": 16.3
+            "views": 1380806,
+            "age_hours": 24.8
           }
         ]
       },
       {
-        "phrase": "karwachauth",
-        "video_count": 5,
-        "momentum": 27.63,
+        "phrase": "karwa chauth",
+        "video_count": 4,
+        "momentum": 24.81,
         "regions": [
           "IN"
         ],
         "lang": "en",
         "example_videos": [
           {
-            "id": "8KQV2cr3huM",
-            "title": "Middle Class 💔😱 Karwachauth 🌙 #shorts #emotional #viral #video",
-            "channel": "Jomy Production",
-            "thumbnail": "https://i.ytimg.com/vi/8KQV2cr3huM/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=8KQV2cr3huM",
-            "views": 5911568,
-            "age_hours": 16.5
+            "id": "Mnqx6T8Ht1w",
+            "title": "Karwa Chauth Ki Mehndi 🤣 #neetubisht #lakhneet #karwachauth #mehndi #comedy #ytshorts",
+            "channel": "Neetu Bisht",
+            "thumbnail": "https://i.ytimg.com/vi/Mnqx6T8Ht1w/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=Mnqx6T8Ht1w",
+            "views": 28673526,
+            "age_hours": 31.5
           },
+          {
+            "id": "LdR3PkhyGIk",
+            "title": "Karwa Chauth Special 😍 #karwachauth #karwachauthspecial #shorts #youtubeshorts #shortsfeed #comedy",
+            "channel": "TEAM BHL",
+            "thumbnail": "https://i.ytimg.com/vi/LdR3PkhyGIk/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=LdR3PkhyGIk",
+            "views": 94336818,
+            "age_hours": 130.4
+          },
+          {
+            "id": "8mnbDRN7NBU",
+            "title": "#video चंदा की चांदनी | Chanda Ki Chandni | Karwa Chauth Special Song 2026 | Amrita Dixit | New Song",
+            "channel": "Amrita Dixit Official",
+            "thumbnail": "https://i.ytimg.com/vi/8mnbDRN7NBU/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=8mnbDRN7NBU",
+            "views": 292176,
+            "age_hours": 34.1
+          }
+        ]
+      },
+      {
+        "phrase": "ytshorts",
+        "video_count": 4,
+        "momentum": 22.3,
+        "regions": [
+          "IN"
+        ],
+        "lang": "en",
+        "example_videos": [
           {
             "id": "Mnqx6T8Ht1w",
             "title": "Karwa Chauth Ki Mehndi 🤣 #neetubisht #lakhneet #karwachauth #mehndi #comedy #ytshorts",
             "channel": "Neetu Bisht",
             "thumbnail": "https://i.ytimg.com/vi/Mnqx6T8Ht1w/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=Mnqx6T8Ht1w",
-            "views": 19528648,
-            "age_hours": 23.0
+            "views": 28673526,
+            "age_hours": 31.5
           },
           {
-            "id": "Gbt5yKHfmF4",
-            "title": "Surajactor new shorts #surajactor  happy karwachauth dosto #karwachauth",
-            "channel": "Filmy Surraj",
-            "thumbnail": "https://i.ytimg.com/vi/Gbt5yKHfmF4/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=Gbt5yKHfmF4",
-            "views": 29913542,
-            "age_hours": 88.6
+            "id": "ISmRJOIpJr4",
+            "title": "Jaisi Karni Wisi Bharni 🤣 #shorts #tiktokvideo #funnyshorts #ytshorts #shortbeta #mamabhnaji",
+            "channel": "Sukhasan Ka Star",
+            "thumbnail": "https://i.ytimg.com/vi/ISmRJOIpJr4/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=ISmRJOIpJr4",
+            "views": 19542985,
+            "age_hours": 48.4
+          },
+          {
+            "id": "WGP-oT3Umzw",
+            "title": "The Craziest Diwali Jugaad Ever😱🧲#shorts #relatable #nostalgia #ytshorts",
+            "channel": "Nukkad viness",
+            "thumbnail": "https://i.ytimg.com/vi/WGP-oT3Umzw/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=WGP-oT3Umzw",
+            "views": 38052277,
+            "age_hours": 120.5
+          }
+        ]
+      },
+      {
+        "phrase": "minecraft",
+        "video_count": 4,
+        "momentum": 19.34,
+        "regions": [
+          "IN"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "ls0FQdzVxko",
+            "title": "Testing Trending Minecraft Scary Myths To See If They Are Real!",
+            "channel": "ProBoiz 95",
+            "thumbnail": "https://i.ytimg.com/vi/ls0FQdzVxko/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=ls0FQdzVxko",
+            "views": 2028877,
+            "age_hours": 21.3
+          },
+          {
+            "id": "huKL02VWKNE",
+            "title": "Minecraft But We Can Make Cars of Any Block..",
+            "channel": "Carry Depie",
+            "thumbnail": "https://i.ytimg.com/vi/huKL02VWKNE/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=huKL02VWKNE",
+            "views": 1041037,
+            "age_hours": 24.1
+          },
+          {
+            "id": "Z3eizu2xYTE",
+            "title": "I Installed MINECRAFT STEVE in Every Game!",
+            "channel": "ProBoii",
+            "thumbnail": "https://i.ytimg.com/vi/Z3eizu2xYTE/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=Z3eizu2xYTE",
+            "views": 1575666,
+            "age_hours": 46.8
+          }
+        ]
+      },
+      {
+        "phrase": "special",
+        "video_count": 4,
+        "momentum": 19.33,
+        "regions": [
+          "IN"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "LdR3PkhyGIk",
+            "title": "Karwa Chauth Special 😍 #karwachauth #karwachauthspecial #shorts #youtubeshorts #shortsfeed #comedy",
+            "channel": "TEAM BHL",
+            "thumbnail": "https://i.ytimg.com/vi/LdR3PkhyGIk/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=LdR3PkhyGIk",
+            "views": 94336818,
+            "age_hours": 130.4
+          },
+          {
+            "id": "mWlmcjwV44o",
+            "title": "Avengers: Doomsday | Special Look - Hindi | In Cinemas December 17 ",
+            "channel": "IndiaMarvel",
+            "thumbnail": "https://i.ytimg.com/vi/mWlmcjwV44o/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=mWlmcjwV44o",
+            "views": 5357304,
+            "age_hours": 26.3
+          },
+          {
+            "id": "8mnbDRN7NBU",
+            "title": "#video चंदा की चांदनी | Chanda Ki Chandni | Karwa Chauth Special Song 2026 | Amrita Dixit | New Song",
+            "channel": "Amrita Dixit Official",
+            "thumbnail": "https://i.ytimg.com/vi/8mnbDRN7NBU/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=8mnbDRN7NBU",
+            "views": 292176,
+            "age_hours": 34.1
+          }
+        ]
+      },
+      {
+        "phrase": "building wooden log",
+        "video_count": 2,
+        "momentum": 16.87,
+        "regions": [
+          "IN"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "77C-W8y91u0",
+            "title": "🔥 Building Wooden Log Cabin in Deep Forest 🌲🪓 | Survival House Step by Step Part-11",
+            "channel": "Bitu facto1",
+            "thumbnail": "https://i.ytimg.com/vi/77C-W8y91u0/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=77C-W8y91u0",
+            "views": 15121940,
+            "age_hours": 25.5
+          },
+          {
+            "id": "KILMo8It4Hw",
+            "title": "🔥 Building Wooden Log Cabin in Deep Forest 🌲🪓 | Survival House Step by Step Part-11",
+            "channel": "Bitu facto1",
+            "thumbnail": "https://i.ytimg.com/vi/KILMo8It4Hw/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=KILMo8It4Hw",
+            "views": 14556415,
+            "age_hours": 49.5
+          }
+        ]
+      },
+      {
+        "phrase": "wooden log cabin",
+        "video_count": 2,
+        "momentum": 16.87,
+        "regions": [
+          "IN"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "77C-W8y91u0",
+            "title": "🔥 Building Wooden Log Cabin in Deep Forest 🌲🪓 | Survival House Step by Step Part-11",
+            "channel": "Bitu facto1",
+            "thumbnail": "https://i.ytimg.com/vi/77C-W8y91u0/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=77C-W8y91u0",
+            "views": 15121940,
+            "age_hours": 25.5
+          },
+          {
+            "id": "KILMo8It4Hw",
+            "title": "🔥 Building Wooden Log Cabin in Deep Forest 🌲🪓 | Survival House Step by Step Part-11",
+            "channel": "Bitu facto1",
+            "thumbnail": "https://i.ytimg.com/vi/KILMo8It4Hw/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=KILMo8It4Hw",
+            "views": 14556415,
+            "age_hours": 49.5
+          }
+        ]
+      },
+      {
+        "phrase": "log cabin deep",
+        "video_count": 2,
+        "momentum": 16.87,
+        "regions": [
+          "IN"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "77C-W8y91u0",
+            "title": "🔥 Building Wooden Log Cabin in Deep Forest 🌲🪓 | Survival House Step by Step Part-11",
+            "channel": "Bitu facto1",
+            "thumbnail": "https://i.ytimg.com/vi/77C-W8y91u0/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=77C-W8y91u0",
+            "views": 15121940,
+            "age_hours": 25.5
+          },
+          {
+            "id": "KILMo8It4Hw",
+            "title": "🔥 Building Wooden Log Cabin in Deep Forest 🌲🪓 | Survival House Step by Step Part-11",
+            "channel": "Bitu facto1",
+            "thumbnail": "https://i.ytimg.com/vi/KILMo8It4Hw/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=KILMo8It4Hw",
+            "views": 14556415,
+            "age_hours": 49.5
+          }
+        ]
+      },
+      {
+        "phrase": "cabin deep forest",
+        "video_count": 2,
+        "momentum": 16.87,
+        "regions": [
+          "IN"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "77C-W8y91u0",
+            "title": "🔥 Building Wooden Log Cabin in Deep Forest 🌲🪓 | Survival House Step by Step Part-11",
+            "channel": "Bitu facto1",
+            "thumbnail": "https://i.ytimg.com/vi/77C-W8y91u0/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=77C-W8y91u0",
+            "views": 15121940,
+            "age_hours": 25.5
+          },
+          {
+            "id": "KILMo8It4Hw",
+            "title": "🔥 Building Wooden Log Cabin in Deep Forest 🌲🪓 | Survival House Step by Step Part-11",
+            "channel": "Bitu facto1",
+            "thumbnail": "https://i.ytimg.com/vi/KILMo8It4Hw/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=KILMo8It4Hw",
+            "views": 14556415,
+            "age_hours": 49.5
+          }
+        ]
+      },
+      {
+        "phrase": "deep forest survival",
+        "video_count": 2,
+        "momentum": 16.87,
+        "regions": [
+          "IN"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "77C-W8y91u0",
+            "title": "🔥 Building Wooden Log Cabin in Deep Forest 🌲🪓 | Survival House Step by Step Part-11",
+            "channel": "Bitu facto1",
+            "thumbnail": "https://i.ytimg.com/vi/77C-W8y91u0/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=77C-W8y91u0",
+            "views": 15121940,
+            "age_hours": 25.5
+          },
+          {
+            "id": "KILMo8It4Hw",
+            "title": "🔥 Building Wooden Log Cabin in Deep Forest 🌲🪓 | Survival House Step by Step Part-11",
+            "channel": "Bitu facto1",
+            "thumbnail": "https://i.ytimg.com/vi/KILMo8It4Hw/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=KILMo8It4Hw",
+            "views": 14556415,
+            "age_hours": 49.5
+          }
+        ]
+      },
+      {
+        "phrase": "forest survival house",
+        "video_count": 2,
+        "momentum": 16.87,
+        "regions": [
+          "IN"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "77C-W8y91u0",
+            "title": "🔥 Building Wooden Log Cabin in Deep Forest 🌲🪓 | Survival House Step by Step Part-11",
+            "channel": "Bitu facto1",
+            "thumbnail": "https://i.ytimg.com/vi/77C-W8y91u0/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=77C-W8y91u0",
+            "views": 15121940,
+            "age_hours": 25.5
+          },
+          {
+            "id": "KILMo8It4Hw",
+            "title": "🔥 Building Wooden Log Cabin in Deep Forest 🌲🪓 | Survival House Step by Step Part-11",
+            "channel": "Bitu facto1",
+            "thumbnail": "https://i.ytimg.com/vi/KILMo8It4Hw/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=KILMo8It4Hw",
+            "views": 14556415,
+            "age_hours": 49.5
+          }
+        ]
+      },
+      {
+        "phrase": "survival house step",
+        "video_count": 2,
+        "momentum": 16.87,
+        "regions": [
+          "IN"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "77C-W8y91u0",
+            "title": "🔥 Building Wooden Log Cabin in Deep Forest 🌲🪓 | Survival House Step by Step Part-11",
+            "channel": "Bitu facto1",
+            "thumbnail": "https://i.ytimg.com/vi/77C-W8y91u0/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=77C-W8y91u0",
+            "views": 15121940,
+            "age_hours": 25.5
+          },
+          {
+            "id": "KILMo8It4Hw",
+            "title": "🔥 Building Wooden Log Cabin in Deep Forest 🌲🪓 | Survival House Step by Step Part-11",
+            "channel": "Bitu facto1",
+            "thumbnail": "https://i.ytimg.com/vi/KILMo8It4Hw/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=KILMo8It4Hw",
+            "views": 14556415,
+            "age_hours": 49.5
+          }
+        ]
+      },
+      {
+        "phrase": "house step step",
+        "video_count": 2,
+        "momentum": 16.87,
+        "regions": [
+          "IN"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "77C-W8y91u0",
+            "title": "🔥 Building Wooden Log Cabin in Deep Forest 🌲🪓 | Survival House Step by Step Part-11",
+            "channel": "Bitu facto1",
+            "thumbnail": "https://i.ytimg.com/vi/77C-W8y91u0/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=77C-W8y91u0",
+            "views": 15121940,
+            "age_hours": 25.5
+          },
+          {
+            "id": "KILMo8It4Hw",
+            "title": "🔥 Building Wooden Log Cabin in Deep Forest 🌲🪓 | Survival House Step by Step Part-11",
+            "channel": "Bitu facto1",
+            "thumbnail": "https://i.ytimg.com/vi/KILMo8It4Hw/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=KILMo8It4Hw",
+            "views": 14556415,
+            "age_hours": 49.5
           }
         ]
       },
       {
         "phrase": "craft attack",
-        "video_count": 5,
-        "momentum": 27.46,
+        "video_count": 3,
+        "momentum": 16.05,
         "regions": [
           "DE"
         ],
@@ -2422,17 +2657,8 @@
             "channel": "Bastian",
             "thumbnail": "https://i.ytimg.com/vi/zkFqxVoUdCQ/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=zkFqxVoUdCQ",
-            "views": 126971,
-            "age_hours": 8.4
-          },
-          {
-            "id": "gCF-tYTKYmM",
-            "title": "FUXEL oder ALETHEA?❤️FÜR WEN SOLL ICH MICH ENTSCHEIDEN? (CRAFT ATTACK 14)",
-            "channel": "TriDan",
-            "thumbnail": "https://i.ytimg.com/vi/gCF-tYTKYmM/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=gCF-tYTKYmM",
-            "views": 82142,
-            "age_hours": 15.5
+            "views": 178055,
+            "age_hours": 16.9
           },
           {
             "id": "Haioj4zf5IQ",
@@ -2440,363 +2666,17 @@
             "channel": "SecondTry",
             "thumbnail": "https://i.ytimg.com/vi/Haioj4zf5IQ/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=Haioj4zf5IQ",
-            "views": 266301,
-            "age_hours": 18.5
-          }
-        ]
-      },
-      {
-        "phrase": "minecraft",
-        "video_count": 5,
-        "momentum": 23.75,
-        "regions": [
-          "BR"
-        ],
-        "lang": "pt",
-        "example_videos": [
-          {
-            "id": "xOd9dxacvsk",
-            "title": "OS MOBS DO MINECRAFT FALAM EM PORTUGUÊS!",
-            "channel": "Jazzghost",
-            "thumbnail": "https://i.ytimg.com/vi/xOd9dxacvsk/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=xOd9dxacvsk",
-            "views": 1925022,
-            "age_hours": 12.5
+            "views": 282682,
+            "age_hours": 27.0
           },
           {
-            "id": "hPWleYKQIWs",
-            "title": "sobrevivendo a SUNMAN no Minecraft",
-            "channel": "Mendrux",
-            "thumbnail": "https://i.ytimg.com/vi/hPWleYKQIWs/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=hPWleYKQIWs",
-            "views": 113242,
-            "age_hours": 6.5
-          },
-          {
-            "id": "YbZNGdKbKoM",
-            "title": "Eu DOMINEI uma GUERRA DE CIVILIZAÇÕES no Minecraft",
-            "channel": "Serra",
-            "thumbnail": "https://i.ytimg.com/vi/YbZNGdKbKoM/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=YbZNGdKbKoM",
-            "views": 145210,
-            "age_hours": 13.5
-          }
-        ]
-      },
-      {
-        "phrase": "world",
-        "video_count": 4,
-        "momentum": 21.56,
-        "regions": [
-          "US"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "4JXaK62Zonw",
-            "title": "Can You Beat FNaF World WITHOUT GETTING HIT?",
-            "channel": "TheDapperWaffle",
-            "thumbnail": "https://i.ytimg.com/vi/4JXaK62Zonw/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=4JXaK62Zonw",
-            "views": 197102,
-            "age_hours": 8.1
-          },
-          {
-            "id": "nIw1O3zvOfE",
-            "title": "JUMANJI: OPEN WORLD - New Trailer (4K)",
-            "channel": "Sony Pictures Entertainment",
-            "thumbnail": "https://i.ytimg.com/vi/nIw1O3zvOfE/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=nIw1O3zvOfE",
-            "views": 4969871,
-            "age_hours": 14.5
-          },
-          {
-            "id": "9OPoiRcze0w",
-            "title": "Indie World Showcase 10.28.2026",
-            "channel": "Nintendo of America",
-            "thumbnail": "https://i.ytimg.com/vi/9OPoiRcze0w/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=9OPoiRcze0w",
-            "views": 912549,
-            "age_hours": 11.5
-          }
-        ]
-      },
-      {
-        "phrase": "gta live",
-        "video_count": 3,
-        "momentum": 19.58,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "OlFY84S7Xws",
-            "title": "🔴 LIVE | tiger  hunt challange🐆 | GTA V Mods #gtav #gtalive gta v live",
-            "channel": "GTA PANTHER HUNT",
-            "thumbnail": "https://i.ytimg.com/vi/OlFY84S7Xws/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=OlFY84S7Xws",
-            "views": 6141525,
-            "age_hours": 5.8
-          },
-          {
-            "id": "vEfNaGrbhfw",
-            "title": "GTA 5 LIVE #gta5 #gtav #gaming#shortsfeed #shortslive #gta #live #shorts",
-            "channel": "GTA Khelo",
-            "thumbnail": "https://i.ytimg.com/vi/vEfNaGrbhfw/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=vEfNaGrbhfw",
-            "views": 1550586,
-            "age_hours": 24.8
-          },
-          {
-            "id": "tNeka18UIB0",
-            "title": "GTA 5 LIVE  #gta5 #gtav #gaming",
-            "channel": "SANGU IS LIVE",
-            "thumbnail": "https://i.ytimg.com/vi/tNeka18UIB0/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=tNeka18UIB0",
-            "views": 1621074,
-            "age_hours": 26.0
-          }
-        ]
-      },
-      {
-        "phrase": "oppo",
-        "video_count": 4,
-        "momentum": 18.97,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "AipHOfPLs54",
-            "title": "OPPO Why Bro ? | Mobile World",
-            "channel": "CallMeShazzam TECH",
-            "thumbnail": "https://i.ytimg.com/vi/AipHOfPLs54/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=AipHOfPLs54",
-            "views": 882779,
-            "age_hours": 35.2
-          },
-          {
-            "id": "xGtDbXpQF4o",
-            "title": "Parcel की Mystery OPPO Find X10 Pro Max ने Solve कर दी! 😱📦 #shorts",
-            "channel": "Tech Master",
-            "thumbnail": "https://i.ytimg.com/vi/xGtDbXpQF4o/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=xGtDbXpQF4o",
-            "views": 6475644,
-            "age_hours": 113.4
-          },
-          {
-            "id": "-AsC_oSJ5-M",
-            "title": "😤 இந்த அவமானம் உனக்கு தேவையா 🤦‍♂️ OPPO Find X10 Pro Max vs iPhone 18 Pro Max 🔥",
-            "channel": "Tamil Tech - MrTT",
-            "thumbnail": "https://i.ytimg.com/vi/-AsC_oSJ5-M/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=-AsC_oSJ5-M",
-            "views": 394773,
-            "age_hours": 21.8
-          }
-        ]
-      },
-      {
-        "phrase": "fire india 1st",
-        "video_count": 2,
-        "momentum": 15.67,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "4m58nVDpoY8",
-            "title": "Free Fire India 1st Gameplay ❤ Tonde Gamer",
-            "channel": "Tonde Gamer",
-            "thumbnail": "https://i.ytimg.com/vi/4m58nVDpoY8/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=4m58nVDpoY8",
-            "views": 1354200,
-            "age_hours": 20.3
-          },
-          {
-            "id": "ZW9bzJOiGQk",
-            "title": "Playing Free Fire INDIA for 1st Time",
-            "channel": "SATVIK",
-            "thumbnail": "https://i.ytimg.com/vi/ZW9bzJOiGQk/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=ZW9bzJOiGQk",
-            "views": 961937,
-            "age_hours": 16.3
-          }
-        ]
-      },
-      {
-        "phrase": "playing free fire",
-        "video_count": 2,
-        "momentum": 15.2,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "ZW9bzJOiGQk",
-            "title": "Playing Free Fire INDIA for 1st Time",
-            "channel": "SATVIK",
-            "thumbnail": "https://i.ytimg.com/vi/ZW9bzJOiGQk/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=ZW9bzJOiGQk",
-            "views": 961937,
-            "age_hours": 16.3
-          },
-          {
-            "id": "kaxRebUiA14",
-            "title": "Playing FREE FIRE INDIA for First Time😍🔥",
-            "channel": "Badge 99",
-            "thumbnail": "https://i.ytimg.com/vi/kaxRebUiA14/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=kaxRebUiA14",
-            "views": 615750,
-            "age_hours": 17.9
-          }
-        ]
-      },
-      {
-        "phrase": "fire india first",
-        "video_count": 2,
-        "momentum": 14.97,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "kaxRebUiA14",
-            "title": "Playing FREE FIRE INDIA for First Time😍🔥",
-            "channel": "Badge 99",
-            "thumbnail": "https://i.ytimg.com/vi/kaxRebUiA14/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=kaxRebUiA14",
-            "views": 615750,
-            "age_hours": 17.9
-          },
-          {
-            "id": "nbTkE-H8XbQ",
-            "title": "🇮🇳 FREE FIRE INDIA FIRST LIVE �With Munna Bhai - #FreeFireIndia #FreeFireLive #FFIndia #MBG",
-            "channel": "Munna bhai gaming",
-            "thumbnail": "https://i.ytimg.com/vi/nbTkE-H8XbQ/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=nbTkE-H8XbQ",
-            "views": 588138,
-            "age_hours": 16.8
-          }
-        ]
-      },
-      {
-        "phrase": "secreta pode",
-        "video_count": 2,
-        "momentum": 14.61,
-        "regions": [
-          "BR"
-        ],
-        "lang": "pt",
-        "example_videos": [
-          {
-            "id": "1KL4xxg7d_E",
-            "title": "só UMA PESSOA SECRETA pode comentar nesse vídeo",
-            "channel": "Giuliana Mafra",
-            "thumbnail": "https://i.ytimg.com/vi/1KL4xxg7d_E/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=1KL4xxg7d_E",
-            "views": 5729177,
-            "age_hours": 28.5
-          },
-          {
-            "id": "xbR5lGG-VIA",
-            "title": "Com essa MÁQUINA SECRETA você pode fazer IMPRESSÕES 3D INFINITAS! 😱🖨️",
-            "channel": "Eu sou Barone #Shorts",
-            "thumbnail": "https://i.ytimg.com/vi/xbR5lGG-VIA/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=xbR5lGG-VIA",
-            "views": 642336,
-            "age_hours": 81.5
-          }
-        ]
-      },
-      {
-        "phrase": "oppo find x10",
-        "video_count": 2,
-        "momentum": 14.6,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "xGtDbXpQF4o",
-            "title": "Parcel की Mystery OPPO Find X10 Pro Max ने Solve कर दी! 😱📦 #shorts",
-            "channel": "Tech Master",
-            "thumbnail": "https://i.ytimg.com/vi/xGtDbXpQF4o/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=xGtDbXpQF4o",
-            "views": 6475644,
-            "age_hours": 113.4
-          },
-          {
-            "id": "-AsC_oSJ5-M",
-            "title": "😤 இந்த அவமானம் உனக்கு தேவையா 🤦‍♂️ OPPO Find X10 Pro Max vs iPhone 18 Pro Max 🔥",
-            "channel": "Tamil Tech - MrTT",
-            "thumbnail": "https://i.ytimg.com/vi/-AsC_oSJ5-M/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=-AsC_oSJ5-M",
-            "views": 394773,
-            "age_hours": 21.8
-          }
-        ]
-      },
-      {
-        "phrase": "find x10 pro",
-        "video_count": 2,
-        "momentum": 14.6,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "xGtDbXpQF4o",
-            "title": "Parcel की Mystery OPPO Find X10 Pro Max ने Solve कर दी! 😱📦 #shorts",
-            "channel": "Tech Master",
-            "thumbnail": "https://i.ytimg.com/vi/xGtDbXpQF4o/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=xGtDbXpQF4o",
-            "views": 6475644,
-            "age_hours": 113.4
-          },
-          {
-            "id": "-AsC_oSJ5-M",
-            "title": "😤 இந்த அவமானம் உனக்கு தேவையா 🤦‍♂️ OPPO Find X10 Pro Max vs iPhone 18 Pro Max 🔥",
-            "channel": "Tamil Tech - MrTT",
-            "thumbnail": "https://i.ytimg.com/vi/-AsC_oSJ5-M/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=-AsC_oSJ5-M",
-            "views": 394773,
-            "age_hours": 21.8
-          }
-        ]
-      },
-      {
-        "phrase": "x10 pro max",
-        "video_count": 2,
-        "momentum": 14.6,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "xGtDbXpQF4o",
-            "title": "Parcel की Mystery OPPO Find X10 Pro Max ने Solve कर दी! 😱📦 #shorts",
-            "channel": "Tech Master",
-            "thumbnail": "https://i.ytimg.com/vi/xGtDbXpQF4o/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=xGtDbXpQF4o",
-            "views": 6475644,
-            "age_hours": 113.4
-          },
-          {
-            "id": "-AsC_oSJ5-M",
-            "title": "😤 இந்த அவமானம் உனக்கு தேவையா 🤦‍♂️ OPPO Find X10 Pro Max vs iPhone 18 Pro Max 🔥",
-            "channel": "Tamil Tech - MrTT",
-            "thumbnail": "https://i.ytimg.com/vi/-AsC_oSJ5-M/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=-AsC_oSJ5-M",
-            "views": 394773,
-            "age_hours": 21.8
+            "id": "E-tu8UlSxIY",
+            "title": "WIR HABEN 200 HÄUSER ZU VIEL GEBAUT...😭 CRAFT ATTACK 14 MIT DEN TITANEN🔥",
+            "channel": "EliasN97",
+            "thumbnail": "https://i.ytimg.com/vi/E-tu8UlSxIY/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=E-tu8UlSxIY",
+            "views": 210941,
+            "age_hours": 24.5
           }
         ]
       }
@@ -2804,91 +2684,110 @@
   },
   "trending_searches": [
     {
-      "phrase": "why is it spicy",
-      "prefix": "why is",
-      "rank": 1,
-      "first_seen_at": "2026-10-29T03:30:58.880876+00:00",
-      "is_new": true
-    },
-    {
-      "phrase": "why do birds suddenly appear",
-      "prefix": "why do",
-      "rank": 1,
-      "first_seen_at": "2026-10-29T03:30:58.880876+00:00",
-      "is_new": true
-    },
-    {
-      "phrase": "why does he call you darling",
-      "prefix": "why does",
-      "rank": 1,
-      "first_seen_at": "2026-10-29T03:30:58.880876+00:00",
-      "is_new": true
-    },
-    {
-      "phrase": "what happened to virgil",
-      "prefix": "what happened",
-      "rank": 1,
-      "first_seen_at": "2026-10-29T03:30:58.880876+00:00",
-      "is_new": true
-    },
-    {
-      "phrase": "topoppgen",
-      "prefix": "top",
-      "rank": 1,
-      "first_seen_at": "2026-10-29T03:30:58.880876+00:00",
-      "is_new": true
-    },
-    {
-      "phrase": "is it a crime mariah the scientist",
-      "prefix": "is it",
-      "rank": 1,
-      "first_seen_at": "2026-10-29T03:30:58.880876+00:00",
-      "is_new": true
-    },
-    {
-      "phrase": "should i stay or should i go",
-      "prefix": "should i",
-      "rank": 1,
-      "first_seen_at": "2026-10-29T03:30:58.880876+00:00",
-      "is_new": true
-    },
-    {
-      "phrase": "can you stand the rain new edition",
-      "prefix": "can you",
-      "rank": 1,
-      "first_seen_at": "2026-10-29T03:30:58.880876+00:00",
-      "is_new": true
-    },
-    {
-      "phrase": "how to draw",
+      "phrase": "how to tie a tie",
       "prefix": "how to",
-      "rank": 2,
-      "first_seen_at": "2026-10-29T03:30:58.880876+00:00",
+      "rank": 1,
+      "first_seen_at": "2026-10-29T11:58:06.018701+00:00",
       "is_new": true
     },
     {
-      "phrase": "why is my bus driver playing mitski",
-      "prefix": "why is",
-      "rank": 2,
-      "first_seen_at": "2026-10-29T03:30:58.880876+00:00",
+      "phrase": "how do i say goodbye dean lewis",
+      "prefix": "how do",
+      "rank": 1,
+      "first_seen_at": "2026-10-29T11:58:06.018701+00:00",
       "is_new": true
     },
     {
-      "phrase": "why don't we fall in love",
-      "prefix": "why do",
-      "rank": 2,
-      "first_seen_at": "2026-10-29T03:30:58.880876+00:00",
+      "phrase": "how does it feel d'angelo",
+      "prefix": "how does",
+      "rank": 1,
+      "first_seen_at": "2026-10-29T11:58:06.018701+00:00",
       "is_new": true
     },
     {
-      "phrase": "what are you doing",
+      "phrase": "what is this diddy blud doing on the calculator",
+      "prefix": "what is",
+      "rank": 1,
+      "first_seen_at": "2026-10-29T11:58:06.018701+00:00",
+      "is_new": true
+    },
+    {
+      "phrase": "what are you listening to chris stapleton",
       "prefix": "what are",
+      "rank": 1,
+      "first_seen_at": "2026-10-29T11:58:06.018701+00:00",
+      "is_new": true
+    },
+    {
+      "phrase": "best build 2k26",
+      "prefix": "best",
+      "rank": 1,
+      "first_seen_at": "2026-10-29T11:58:06.018701+00:00",
+      "is_new": true
+    },
+    {
+      "phrase": "worst way riley green",
+      "prefix": "worst",
+      "rank": 1,
+      "first_seen_at": "2026-10-29T11:58:06.018701+00:00",
+      "is_new": true
+    },
+    {
+      "phrase": "how does it feel",
+      "prefix": "how does",
       "rank": 2,
-      "first_seen_at": "2026-10-29T03:30:58.880876+00:00",
+      "first_seen_at": "2026-10-29T11:58:06.018701+00:00",
+      "is_new": true
+    },
+    {
+      "phrase": "why does it hurt to love you",
+      "prefix": "why does",
+      "rank": 2,
+      "first_seen_at": "2026-10-29T11:58:06.018701+00:00",
+      "is_new": true
+    },
+    {
+      "phrase": "what is love",
+      "prefix": "what is",
+      "rank": 2,
+      "first_seen_at": "2026-10-29T11:58:06.018701+00:00",
+      "is_new": true
+    },
+    {
+      "phrase": "what happened to you",
+      "prefix": "what happened",
+      "rank": 2,
+      "first_seen_at": "2026-10-29T11:58:06.018701+00:00",
+      "is_new": true
+    },
+    {
+      "phrase": "best part",
+      "prefix": "best",
+      "rank": 2,
+      "first_seen_at": "2026-10-29T11:58:06.018701+00:00",
       "is_new": true
     }
   ],
   "breakout_videos": [
+    {
+      "id": "3Ck3XiNgLuY",
+      "title": "QUANDO CÊ VOLTA | MC GP, MC PAIVA, KAYBLACK, AARON MODESTO | WEY | PEDRO LOTTO |",
+      "channel": "MC GP",
+      "channel_id": "UCzWQnGyNQuvgVYV2OLoqNdg",
+      "thumbnail": "https://i.ytimg.com/vi/3Ck3XiNgLuY/mqdefault.jpg",
+      "published_at": "2026-10-29T00:00:11Z",
+      "category_id": "10",
+      "views": 22683,
+      "likes": 1485,
+      "comments": 2804,
+      "age_hours": 12.0,
+      "views_per_hour": 1896,
+      "momentum": 7.759,
+      "url": "https://www.youtube.com/watch?v=3Ck3XiNgLuY",
+      "region": "BR",
+      "category": "Other",
+      "_detected_lang": "pt"
+    },
     {
       "id": "1KL4xxg7d_E",
       "title": "só UMA PESSOA SECRETA pode comentar nesse vídeo",
@@ -2897,16 +2796,35 @@
       "thumbnail": "https://i.ytimg.com/vi/1KL4xxg7d_E/mqdefault.jpg",
       "published_at": "2026-10-27T23:00:00Z",
       "category_id": "24",
-      "views": 5729177,
-      "likes": 131588,
-      "comments": 199801,
-      "age_hours": 28.5,
-      "views_per_hour": 200917,
-      "momentum": 7.396,
+      "views": 5792824,
+      "likes": 132377,
+      "comments": 199799,
+      "age_hours": 37.0,
+      "views_per_hour": 156702,
+      "momentum": 7.224,
       "url": "https://www.youtube.com/watch?v=1KL4xxg7d_E",
       "region": "BR",
       "category": "Entertainment",
       "_detected_lang": "pt"
+    },
+    {
+      "id": "nbvngNeBrps",
+      "title": "HELLFIRE HALLOWEEN EVENT | Blox Fruits",
+      "channel": "Gamer Robot",
+      "channel_id": "UC_xlDCBWQPlihORIZLWtpbA",
+      "thumbnail": "https://i.ytimg.com/vi/nbvngNeBrps/mqdefault.jpg",
+      "published_at": "2026-10-29T01:30:08Z",
+      "category_id": "20",
+      "views": 821234,
+      "likes": 55167,
+      "comments": 13709,
+      "age_hours": 10.5,
+      "views_per_hour": 78486,
+      "momentum": 6.37,
+      "url": "https://www.youtube.com/watch?v=nbvngNeBrps",
+      "region": "CA",
+      "category": "Gaming",
+      "_detected_lang": "en"
     },
     {
       "id": "_T88FBvSPfI",
@@ -2916,12 +2834,12 @@
       "thumbnail": "https://i.ytimg.com/vi/_T88FBvSPfI/mqdefault.jpg",
       "published_at": "2026-10-24T13:50:24Z",
       "category_id": "26",
-      "views": 160185092,
-      "likes": 1353191,
+      "views": 189122108,
+      "likes": 1560844,
       "comments": 0,
-      "age_hours": 109.7,
-      "views_per_hour": 1460565,
-      "momentum": 6.269,
+      "age_hours": 118.1,
+      "views_per_hour": 1601030,
+      "momentum": 6.307,
       "url": "https://www.youtube.com/watch?v=_T88FBvSPfI",
       "region": "US",
       "category": "Howto & Style",
@@ -2935,12 +2853,12 @@
       "thumbnail": "https://i.ytimg.com/vi/ZAS20E1SueY/mqdefault.jpg",
       "published_at": "2026-10-23T13:45:37Z",
       "category_id": "24",
-      "views": 183431381,
-      "likes": 880728,
+      "views": 183427629,
+      "likes": 880717,
       "comments": 4471,
-      "age_hours": 133.8,
-      "views_per_hour": 1371418,
-      "momentum": 6.198,
+      "age_hours": 142.2,
+      "views_per_hour": 1289883,
+      "momentum": 6.171,
       "url": "https://www.youtube.com/watch?v=ZAS20E1SueY",
       "region": "US",
       "category": "Entertainment",
@@ -2954,34 +2872,15 @@
       "thumbnail": "https://i.ytimg.com/vi/Kvc_hpdMMVA/mqdefault.jpg",
       "published_at": "2026-10-27T15:00:10Z",
       "category_id": "24",
-      "views": 41414213,
-      "likes": 452561,
-      "comments": 1196,
-      "age_hours": 36.5,
-      "views_per_hour": 1134308,
-      "momentum": 6.189,
+      "views": 45346139,
+      "likes": 479346,
+      "comments": 1242,
+      "age_hours": 45.0,
+      "views_per_hour": 1008534,
+      "momentum": 6.132,
       "url": "https://www.youtube.com/watch?v=Kvc_hpdMMVA",
       "region": "US",
       "category": "Entertainment",
-      "_detected_lang": "en"
-    },
-    {
-      "id": "27aKOHCdpt0",
-      "title": "I tried Apple’s new touchscreen MacBook Pro..",
-      "channel": "CarterPCs",
-      "channel_id": "UCi7wDE2ZTiR5QYYrUY5WhtA",
-      "thumbnail": "https://i.ytimg.com/vi/27aKOHCdpt0/mqdefault.jpg",
-      "published_at": "2026-10-28T18:35:57Z",
-      "category_id": "22",
-      "views": 4327561,
-      "likes": 170070,
-      "comments": 3517,
-      "age_hours": 8.9,
-      "views_per_hour": 485465,
-      "momentum": 6.179,
-      "url": "https://www.youtube.com/watch?v=27aKOHCdpt0",
-      "region": "US",
-      "category": "People & Blogs",
       "_detected_lang": "en"
     },
     {
@@ -2992,12 +2891,12 @@
       "thumbnail": "https://i.ytimg.com/vi/j9HEOD1UgJY/mqdefault.jpg",
       "published_at": "2026-10-27T13:00:28Z",
       "category_id": "23",
-      "views": 19042320,
-      "likes": 775441,
-      "comments": 6196,
-      "age_hours": 38.5,
-      "views_per_hour": 494535,
-      "momentum": 6.176,
+      "views": 19846981,
+      "likes": 819541,
+      "comments": 6458,
+      "age_hours": 47.0,
+      "views_per_hour": 422659,
+      "momentum": 6.109,
       "url": "https://www.youtube.com/watch?v=j9HEOD1UgJY",
       "region": "US",
       "category": "Comedy",
@@ -3011,15 +2910,34 @@
       "thumbnail": "https://i.ytimg.com/vi/Z4aMdO8K0XE/mqdefault.jpg",
       "published_at": "2026-10-25T13:30:07Z",
       "category_id": "23",
-      "views": 50390710,
-      "likes": 1310827,
-      "comments": 47158,
-      "age_hours": 86.0,
-      "views_per_hour": 585857,
-      "momentum": 6.122,
+      "views": 51905893,
+      "likes": 1334546,
+      "comments": 47603,
+      "age_hours": 94.5,
+      "views_per_hour": 549479,
+      "momentum": 6.088,
       "url": "https://www.youtube.com/watch?v=Z4aMdO8K0XE",
       "region": "CA",
       "category": "Comedy",
+      "_detected_lang": "en"
+    },
+    {
+      "id": "Hud8pC4cIjA",
+      "title": "झोपड़ी वाली दुल्हन ने क्रेन पर मनाया करवाचौथ 😱❤️ | पति ने किया कमाल!",
+      "channel": "Suno bahen",
+      "channel_id": "UCYV-WMfJGeUqOeMm-Vi6RoA",
+      "thumbnail": "https://i.ytimg.com/vi/Hud8pC4cIjA/mqdefault.jpg",
+      "published_at": "2026-10-26T07:15:13Z",
+      "category_id": "24",
+      "views": 54904208,
+      "likes": 1042789,
+      "comments": 3286,
+      "age_hours": 76.7,
+      "views_per_hour": 715711,
+      "momentum": 6.081,
+      "url": "https://www.youtube.com/watch?v=Hud8pC4cIjA",
+      "region": "IN",
+      "category": "Entertainment",
       "_detected_lang": "en"
     },
     {
@@ -3030,92 +2948,16 @@
       "thumbnail": "https://i.ytimg.com/vi/eNu2AbeOpos/mqdefault.jpg",
       "published_at": "2026-10-27T14:00:21Z",
       "category_id": "28",
-      "views": 10222501,
-      "likes": 359751,
-      "comments": 49204,
-      "age_hours": 37.5,
-      "views_per_hour": 272537,
-      "momentum": 6.08,
+      "views": 12477400,
+      "likes": 439390,
+      "comments": 58665,
+      "age_hours": 46.0,
+      "views_per_hour": 271479,
+      "momentum": 6.072,
       "url": "https://www.youtube.com/watch?v=eNu2AbeOpos",
       "region": "IN",
       "category": "Science & Tech",
       "_detected_lang": "en"
-    },
-    {
-      "id": "ae9Xvl-eln8",
-      "title": "XLOV 'Hush' MV",
-      "channel": "XLOV",
-      "channel_id": "UCHWhn9xw7x8NPPnV6eWQDQA",
-      "thumbnail": "https://i.ytimg.com/vi/ae9Xvl-eln8/mqdefault.jpg",
-      "published_at": "2026-10-28T09:00:33Z",
-      "category_id": "24",
-      "views": 688592,
-      "likes": 80698,
-      "comments": 6390,
-      "age_hours": 18.5,
-      "views_per_hour": 37213,
-      "momentum": 6.066,
-      "url": "https://www.youtube.com/watch?v=ae9Xvl-eln8",
-      "region": "US",
-      "category": "Entertainment",
-      "_detected_lang": "en"
-    },
-    {
-      "id": "OlFY84S7Xws",
-      "title": "🔴 LIVE | tiger  hunt challange🐆 | GTA V Mods #gtav #gtalive gta v live",
-      "channel": "GTA PANTHER HUNT",
-      "channel_id": "UCL7jjKDoc-zomqcrWXpnF8g",
-      "thumbnail": "https://i.ytimg.com/vi/OlFY84S7Xws/mqdefault.jpg",
-      "published_at": "2026-10-28T21:41:10Z",
-      "category_id": "20",
-      "views": 6141525,
-      "likes": 6431,
-      "comments": 0,
-      "age_hours": 5.8,
-      "views_per_hour": 1053736,
-      "momentum": 6.035,
-      "url": "https://www.youtube.com/watch?v=OlFY84S7Xws",
-      "region": "IN",
-      "category": "Gaming",
-      "_detected_lang": "en"
-    },
-    {
-      "id": "8KQV2cr3huM",
-      "title": "Middle Class 💔😱 Karwachauth 🌙 #shorts #emotional #viral #video",
-      "channel": "Jomy Production",
-      "channel_id": "UC_cdxikvfl_ntmtW6loibKA",
-      "thumbnail": "https://i.ytimg.com/vi/8KQV2cr3huM/mqdefault.jpg",
-      "published_at": "2026-10-28T11:00:30Z",
-      "category_id": "24",
-      "views": 5911568,
-      "likes": 131948,
-      "comments": 24765,
-      "age_hours": 16.5,
-      "views_per_hour": 358142,
-      "momentum": 6.035,
-      "url": "https://www.youtube.com/watch?v=8KQV2cr3huM",
-      "region": "IN",
-      "category": "Entertainment",
-      "_detected_lang": "en"
-    },
-    {
-      "id": "7LXLdq7Ct3M",
-      "title": "Squishy Escondido no Mercado! #shorts",
-      "channel": "Sofia Pevidor",
-      "channel_id": "UCvykMlkz7Stbp7sSWx27ntA",
-      "thumbnail": "https://i.ytimg.com/vi/7LXLdq7Ct3M/mqdefault.jpg",
-      "published_at": "2026-10-27T15:00:24Z",
-      "category_id": "22",
-      "views": 15682198,
-      "likes": 557477,
-      "comments": 368,
-      "age_hours": 36.5,
-      "views_per_hour": 429549,
-      "momentum": 6.035,
-      "url": "https://www.youtube.com/watch?v=7LXLdq7Ct3M",
-      "region": "BR",
-      "category": "People & Blogs",
-      "_detected_lang": "pt"
     },
     {
       "id": "Mnqx6T8Ht1w",
@@ -3125,128 +2967,33 @@
       "thumbnail": "https://i.ytimg.com/vi/Mnqx6T8Ht1w/mqdefault.jpg",
       "published_at": "2026-10-28T04:30:12Z",
       "category_id": "24",
-      "views": 19528648,
-      "likes": 141066,
-      "comments": 476,
-      "age_hours": 23.0,
-      "views_per_hour": 848659,
-      "momentum": 6.016,
+      "views": 28673526,
+      "likes": 203425,
+      "comments": 537,
+      "age_hours": 31.5,
+      "views_per_hour": 911339,
+      "momentum": 6.045,
       "url": "https://www.youtube.com/watch?v=Mnqx6T8Ht1w",
       "region": "IN",
       "category": "Entertainment",
       "_detected_lang": "en"
     },
     {
-      "id": "LMyqRxp73iE",
-      "title": "Como liberar as GIFs no Youtube!",
-      "channel": "Daniel Gontijo",
-      "channel_id": "UCeX71Zy5GQoMO3vseiKrhUQ",
-      "thumbnail": "https://i.ytimg.com/vi/LMyqRxp73iE/mqdefault.jpg",
-      "published_at": "2026-10-28T22:36:07Z",
-      "category_id": "24",
-      "views": 714078,
-      "likes": 28423,
-      "comments": 6007,
-      "age_hours": 4.9,
-      "views_per_hour": 145334,
-      "momentum": 6.008,
-      "url": "https://www.youtube.com/watch?v=LMyqRxp73iE",
-      "region": "BR",
-      "category": "Entertainment",
-      "_detected_lang": "pt"
-    },
-    {
-      "id": "CrZTJC-F-AM",
-      "title": "What Will You Be When You Grow Up? 🎤⚽ #Jobs",
-      "channel": "ThinkaDoos",
-      "channel_id": "UCQgyIIEhgR46dEobG4TDFxw",
-      "thumbnail": "https://i.ytimg.com/vi/CrZTJC-F-AM/mqdefault.jpg",
-      "published_at": "2026-10-24T10:30:09Z",
-      "category_id": "26",
-      "views": 89249733,
-      "likes": 652552,
-      "comments": 0,
-      "age_hours": 113.0,
-      "views_per_hour": 789745,
-      "momentum": 5.984,
-      "url": "https://www.youtube.com/watch?v=CrZTJC-F-AM",
-      "region": "US",
-      "category": "Howto & Style",
-      "_detected_lang": "en"
-    },
-    {
-      "id": "xOd9dxacvsk",
-      "title": "OS MOBS DO MINECRAFT FALAM EM PORTUGUÊS!",
-      "channel": "Jazzghost",
-      "channel_id": "UCIXguhHCl8eDTkXpEuiGPUA",
-      "thumbnail": "https://i.ytimg.com/vi/xOd9dxacvsk/mqdefault.jpg",
-      "published_at": "2026-10-28T15:00:26Z",
-      "category_id": "20",
-      "views": 1925022,
-      "likes": 108041,
-      "comments": 6620,
-      "age_hours": 12.5,
-      "views_per_hour": 153906,
-      "momentum": 5.948,
-      "url": "https://www.youtube.com/watch?v=xOd9dxacvsk",
-      "region": "BR",
-      "category": "Gaming",
-      "_detected_lang": "pt"
-    },
-    {
-      "id": "-5ZXrO_lYSA",
-      "title": "LISA - Tarantino (Official Music Video)",
-      "channel": "LISAOfficialVEVO",
-      "channel_id": "UCg3ymxYCmURj5BFtbgMt-Og",
-      "thumbnail": "https://i.ytimg.com/vi/-5ZXrO_lYSA/mqdefault.jpg",
-      "published_at": "2026-10-23T04:00:07Z",
-      "category_id": "10",
-      "views": 66585545,
-      "likes": 1100819,
-      "comments": 72171,
-      "age_hours": 143.5,
-      "views_per_hour": 463971,
-      "momentum": 5.915,
-      "url": "https://www.youtube.com/watch?v=-5ZXrO_lYSA",
-      "region": "AU",
-      "category": "Other",
-      "_detected_lang": "en"
-    },
-    {
-      "id": "j-LYl1lTbdA",
-      "title": "🤣 करवाचौथ में बेवड़ा पति 😱 CG COMEDY ‼️NITESH COMEDIAN ‼️#cgshorts #cgcomedy #niteshcomedian",
-      "channel": "Nitesh Comedian143",
-      "channel_id": "UC58Y9mGoLHC_wW0X-WrgSHg",
-      "thumbnail": "https://i.ytimg.com/vi/j-LYl1lTbdA/mqdefault.jpg",
-      "published_at": "2026-10-28T01:33:03Z",
-      "category_id": "23",
-      "views": 12772778,
-      "likes": 229379,
-      "comments": 429,
-      "age_hours": 26.0,
-      "views_per_hour": 491948,
-      "momentum": 5.898,
-      "url": "https://www.youtube.com/watch?v=j-LYl1lTbdA",
-      "region": "IN",
-      "category": "Comedy",
-      "_detected_lang": "en"
-    },
-    {
-      "id": "WQ0LJIgIxFM",
-      "title": "Lisa unlock another Fangirl 🤭 #lisa #fypシ",
-      "channel": "Bakey",
-      "channel_id": "UCC1Je0ZXT1bFu4_agxNzfBQ",
-      "thumbnail": "https://i.ytimg.com/vi/WQ0LJIgIxFM/mqdefault.jpg",
-      "published_at": "2026-10-26T08:58:00Z",
+      "id": "4fd9aio7m9k",
+      "title": "Indian moms on Diwali 🪔 😅#funnyshorts #diwali #diwalispecial #familyfun #shorts",
+      "channel": "Cute Sangwan Saanvi",
+      "channel_id": "UCngRyL10DifSVzsvdJapzZA",
+      "thumbnail": "https://i.ytimg.com/vi/4fd9aio7m9k/mqdefault.jpg",
+      "published_at": "2026-10-26T12:52:00Z",
       "category_id": "22",
-      "views": 44249967,
-      "likes": 241047,
-      "comments": 1293,
-      "age_hours": 66.5,
-      "views_per_hour": 664937,
-      "momentum": 5.888,
-      "url": "https://www.youtube.com/watch?v=WQ0LJIgIxFM",
-      "region": "AU",
+      "views": 63061940,
+      "likes": 448233,
+      "comments": 514,
+      "age_hours": 71.1,
+      "views_per_hour": 886950,
+      "momentum": 6.033,
+      "url": "https://www.youtube.com/watch?v=4fd9aio7m9k",
+      "region": "IN",
       "category": "People & Blogs",
       "_detected_lang": "en"
     },
@@ -3258,15 +3005,129 @@
       "thumbnail": "https://i.ytimg.com/vi/y8Dq1c7gIlo/mqdefault.jpg",
       "published_at": "2026-10-28T07:53:05Z",
       "category_id": "22",
-      "views": 11609250,
-      "likes": 113871,
-      "comments": 365,
-      "age_hours": 19.6,
-      "views_per_hour": 591407,
-      "momentum": 5.887,
+      "views": 24183279,
+      "likes": 191347,
+      "comments": 661,
+      "age_hours": 28.1,
+      "views_per_hour": 861173,
+      "momentum": 6.031,
       "url": "https://www.youtube.com/watch?v=y8Dq1c7gIlo",
       "region": "IN",
       "category": "People & Blogs",
+      "_detected_lang": "en"
+    },
+    {
+      "id": "CrZTJC-F-AM",
+      "title": "What Will You Be When You Grow Up? 🎤⚽ #Jobs",
+      "channel": "ThinkaDoos",
+      "channel_id": "UCQgyIIEhgR46dEobG4TDFxw",
+      "thumbnail": "https://i.ytimg.com/vi/CrZTJC-F-AM/mqdefault.jpg",
+      "published_at": "2026-10-24T10:30:09Z",
+      "category_id": "26",
+      "views": 103897651,
+      "likes": 750057,
+      "comments": 0,
+      "age_hours": 121.5,
+      "views_per_hour": 855387,
+      "momentum": 6.018,
+      "url": "https://www.youtube.com/watch?v=CrZTJC-F-AM",
+      "region": "US",
+      "category": "Howto & Style",
+      "_detected_lang": "en"
+    },
+    {
+      "id": "7LXLdq7Ct3M",
+      "title": "Squishy Escondido no Mercado! #shorts",
+      "channel": "Sofia Pevidor",
+      "channel_id": "UCvykMlkz7Stbp7sSWx27ntA",
+      "thumbnail": "https://i.ytimg.com/vi/7LXLdq7Ct3M/mqdefault.jpg",
+      "published_at": "2026-10-27T15:00:24Z",
+      "category_id": "22",
+      "views": 17627271,
+      "likes": 635528,
+      "comments": 396,
+      "age_hours": 45.0,
+      "views_per_hour": 392061,
+      "momentum": 5.998,
+      "url": "https://www.youtube.com/watch?v=7LXLdq7Ct3M",
+      "region": "BR",
+      "category": "People & Blogs",
+      "_detected_lang": "pt"
+    },
+    {
+      "id": "D3gxzt6NJy8",
+      "title": "#core",
+      "channel": "EpicStoryZone 2.0",
+      "channel_id": "UC2sqnoN1qlWiiwUXVpoL8jg",
+      "thumbnail": "https://i.ytimg.com/vi/D3gxzt6NJy8/mqdefault.jpg",
+      "published_at": "2026-10-27T07:55:17Z",
+      "category_id": "22",
+      "views": 33068414,
+      "likes": 510200,
+      "comments": 289,
+      "age_hours": 52.0,
+      "views_per_hour": 635380,
+      "momentum": 5.983,
+      "url": "https://www.youtube.com/watch?v=D3gxzt6NJy8",
+      "region": "IN",
+      "category": "People & Blogs",
+      "_detected_lang": "en"
+    },
+    {
+      "id": "27aKOHCdpt0",
+      "title": "I tried Apple’s new touchscreen MacBook Pro..",
+      "channel": "CarterPCs",
+      "channel_id": "UCi7wDE2ZTiR5QYYrUY5WhtA",
+      "thumbnail": "https://i.ytimg.com/vi/27aKOHCdpt0/mqdefault.jpg",
+      "published_at": "2026-10-28T18:35:57Z",
+      "category_id": "22",
+      "views": 6110412,
+      "likes": 217553,
+      "comments": 4163,
+      "age_hours": 17.4,
+      "views_per_hour": 351860,
+      "momentum": 5.979,
+      "url": "https://www.youtube.com/watch?v=27aKOHCdpt0",
+      "region": "US",
+      "category": "People & Blogs",
+      "_detected_lang": "en"
+    },
+    {
+      "id": "CIk-JJINbzA",
+      "title": "#sawadika #lisablackpink #languagechallenge #sawadikalisa #kpopdancechallenge",
+      "channel": "See you Ziyu",
+      "channel_id": "UC7RjzZjbbV2trdTS9Es2ESA",
+      "thumbnail": "https://i.ytimg.com/vi/CIk-JJINbzA/mqdefault.jpg",
+      "published_at": "2026-10-27T06:14:08Z",
+      "category_id": "22",
+      "views": 42655351,
+      "likes": 259362,
+      "comments": 1516,
+      "age_hours": 53.7,
+      "views_per_hour": 793889,
+      "momentum": 5.974,
+      "url": "https://www.youtube.com/watch?v=CIk-JJINbzA",
+      "region": "US",
+      "category": "People & Blogs",
+      "_detected_lang": "en"
+    },
+    {
+      "id": "rXUutoqZm_o",
+      "title": "Tiwari Family Aur Sharad Purnima 😂 #shorts #relatable #family #barkhatiwariofficial #comedy #funny",
+      "channel": "Barkha Tiwari official",
+      "channel_id": "UCZQKc9FMCvpmVzuhJueWpqw",
+      "thumbnail": "https://i.ytimg.com/vi/rXUutoqZm_o/mqdefault.jpg",
+      "published_at": "2026-10-26T14:55:11Z",
+      "category_id": "23",
+      "views": 35164065,
+      "likes": 631638,
+      "comments": 2278,
+      "age_hours": 69.0,
+      "views_per_hour": 509280,
+      "momentum": 5.916,
+      "url": "https://www.youtube.com/watch?v=rXUutoqZm_o",
+      "region": "IN",
+      "category": "Comedy",
       "_detected_lang": "en"
     },
     {
@@ -3277,72 +3138,91 @@
       "thumbnail": "https://i.ytimg.com/vi/6sZBlzXqOVc/mqdefault.jpg",
       "published_at": "2026-10-27T14:12:33Z",
       "category_id": "20",
-      "views": 21411772,
-      "likes": 233244,
-      "comments": 194,
-      "age_hours": 37.3,
-      "views_per_hour": 573960,
-      "momentum": 5.885,
+      "views": 27965849,
+      "likes": 291909,
+      "comments": 240,
+      "age_hours": 45.8,
+      "views_per_hour": 611179,
+      "momentum": 5.907,
       "url": "https://www.youtube.com/watch?v=6sZBlzXqOVc",
       "region": "IN",
       "category": "Gaming",
       "_detected_lang": "en"
     },
     {
-      "id": "s8Wo_XdcaeY",
-      "title": "Bro's Survival Instincts Kicked In😭🙏#shorts #memes",
-      "channel": "DumbJuice",
-      "channel_id": "UCJMHJZXllkgIGl-mLFVzegA",
-      "thumbnail": "https://i.ytimg.com/vi/s8Wo_XdcaeY/mqdefault.jpg",
-      "published_at": "2026-10-26T18:10:46Z",
-      "category_id": "24",
-      "views": 27664851,
-      "likes": 360323,
-      "comments": 1852,
-      "age_hours": 57.3,
-      "views_per_hour": 482522,
-      "momentum": 5.835,
-      "url": "https://www.youtube.com/watch?v=s8Wo_XdcaeY",
-      "region": "US",
-      "category": "Entertainment",
+      "id": "j-LYl1lTbdA",
+      "title": "🤣 करवाचौथ में बेवड़ा पति 😱 CG COMEDY ‼️NITESH COMEDIAN ‼️#cgshorts #cgcomedy #niteshcomedian",
+      "channel": "Nitesh Comedian143",
+      "channel_id": "UC58Y9mGoLHC_wW0X-WrgSHg",
+      "thumbnail": "https://i.ytimg.com/vi/j-LYl1lTbdA/mqdefault.jpg",
+      "published_at": "2026-10-28T01:33:03Z",
+      "category_id": "23",
+      "views": 16661567,
+      "likes": 273618,
+      "comments": 538,
+      "age_hours": 34.4,
+      "views_per_hour": 484129,
+      "momentum": 5.874,
+      "url": "https://www.youtube.com/watch?v=j-LYl1lTbdA",
+      "region": "IN",
+      "category": "Comedy",
       "_detected_lang": "en"
     },
     {
-      "id": "Ax87tvuqahs",
-      "title": "He literally has his life in his hands💀💔",
-      "channel": "MainStream Media",
-      "channel_id": "UCTWzvrr6t-k7eRy3d-j_EEQ",
-      "thumbnail": "https://i.ytimg.com/vi/Ax87tvuqahs/mqdefault.jpg",
-      "published_at": "2026-10-23T19:00:18Z",
+      "id": "zA68aeHObjs",
+      "title": "Diwali Ki Rat Do Logon Ki 3 Parchhaiyan Kaise Bni?😱 #ytshorts #villagelife #nostalgia #desilife",
+      "channel": "JAI HIND OFFICIAL",
+      "channel_id": "UCaVqePAhGnXCS5v7bOQ0qEw",
+      "thumbnail": "https://i.ytimg.com/vi/zA68aeHObjs/mqdefault.jpg",
+      "published_at": "2026-10-26T14:00:42Z",
       "category_id": "22",
-      "views": 63785539,
-      "likes": 732297,
-      "comments": 3388,
-      "age_hours": 128.5,
-      "views_per_hour": 496353,
-      "momentum": 5.83,
-      "url": "https://www.youtube.com/watch?v=Ax87tvuqahs",
-      "region": "US",
+      "views": 44153924,
+      "likes": 267915,
+      "comments": 188,
+      "age_hours": 70.0,
+      "views_per_hour": 631178,
+      "momentum": 5.871,
+      "url": "https://www.youtube.com/watch?v=zA68aeHObjs",
+      "region": "IN",
       "category": "People & Blogs",
+      "_detected_lang": "pt"
+    },
+    {
+      "id": "Dj3FHQaFr64",
+      "title": "Bro’s Wife is a Genius 😂 #funny #hopecore #hopelesscore",
+      "channel": "Hopeless Core",
+      "channel_id": "UCCK7_HdCFAKTNBwh5KRAscA",
+      "thumbnail": "https://i.ytimg.com/vi/Dj3FHQaFr64/mqdefault.jpg",
+      "published_at": "2026-10-29T04:18:22Z",
+      "category_id": "23",
+      "views": 1306726,
+      "likes": 73789,
+      "comments": 928,
+      "age_hours": 7.7,
+      "views_per_hour": 170590,
+      "momentum": 5.86,
+      "url": "https://www.youtube.com/watch?v=Dj3FHQaFr64",
+      "region": "AU",
+      "category": "Comedy",
       "_detected_lang": "en"
     },
     {
-      "id": "DJ490C-1gx8",
-      "title": "معجون الاسنان",
-      "channel": "قصص وحواديت ",
-      "channel_id": "UCkrPuMixcc1q1ZUWDNx1M-A",
-      "thumbnail": "https://i.ytimg.com/vi/DJ490C-1gx8/mqdefault.jpg",
-      "published_at": "2026-10-21T21:36:32Z",
-      "category_id": "25",
-      "views": 99502887,
-      "likes": 620657,
-      "comments": 0,
-      "age_hours": 173.9,
-      "views_per_hour": 572164,
-      "momentum": 5.829,
-      "url": "https://www.youtube.com/watch?v=DJ490C-1gx8",
-      "region": "BR",
-      "category": "Other",
+      "id": "LdR3PkhyGIk",
+      "title": "Karwa Chauth Special 😍 #karwachauth #karwachauthspecial #shorts #youtubeshorts #shortsfeed #comedy",
+      "channel": "TEAM BHL",
+      "channel_id": "UCkAmksqC9y1mHyfIDTZr3sA",
+      "thumbnail": "https://i.ytimg.com/vi/LdR3PkhyGIk/mqdefault.jpg",
+      "published_at": "2026-10-24T01:32:16Z",
+      "category_id": "23",
+      "views": 94336818,
+      "likes": 0,
+      "comments": 1163,
+      "age_hours": 130.4,
+      "views_per_hour": 723283,
+      "momentum": 5.86,
+      "url": "https://www.youtube.com/watch?v=LdR3PkhyGIk",
+      "region": "IN",
+      "category": "Comedy",
       "_detected_lang": "en"
     }
   ]
