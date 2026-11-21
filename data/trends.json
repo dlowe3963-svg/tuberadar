@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T04:49:21.890692+00:00",
+  "generated_at": "2026-11-21T13:54:06.632146+00:00",
   "regions": [
     "US",
     "GB",
@@ -40,18 +40,18 @@
     }
   ],
   "stats": {
-    "total_videos": 450,
+    "total_videos": 448,
     "total_topics": 18,
-    "total_themes": 6,
+    "total_themes": 5,
     "total_searches": 12,
     "by_category": {
-      "Other": 61,
-      "Gaming": 76,
-      "Entertainment": 100,
-      "People & Blogs": 148,
-      "Comedy": 22,
-      "Science & Tech": 15,
-      "Education": 11,
+      "Other": 65,
+      "People & Blogs": 147,
+      "Science & Tech": 16,
+      "Gaming": 67,
+      "Entertainment": 108,
+      "Comedy": 18,
+      "Education": 10,
       "Howto & Style": 17
     }
   },
@@ -59,562 +59,329 @@
     {
       "phrase": "gta5 gtav gaming",
       "video_count": 30,
+      "channel_count": 30,
+      "total_channels_seen": 30,
+      "uploads_per_hour": 2.5,
+      "window_hours": 12,
+      "example_videos": [
+        {
+          "id": "jJkDXy8gVTo",
+          "title": "GTA 5 LIVE  #gta5 #gtav #gaming",
+          "channel": "PAJI IS LIVE",
+          "channel_id": "UCDFCpzs71ziH52_FcL2eTNA",
+          "subscribers": 831000,
+          "thumbnail": "https://i.ytimg.com/vi/jJkDXy8gVTo/mqdefault.jpg",
+          "published_at": "2026-11-21T13:41:25Z",
+          "url": "https://www.youtube.com/watch?v=jJkDXy8gVTo"
+        },
+        {
+          "id": "hngXomqsmP0",
+          "title": "GTA 5 LIVE  #gta5 #gtav #gaming",
+          "channel": "SANGU IS LIVE",
+          "channel_id": "UCQxnqcOqGu_RO9YMhzt0Uaw",
+          "subscribers": 499000,
+          "thumbnail": "https://i.ytimg.com/vi/hngXomqsmP0/mqdefault.jpg",
+          "published_at": "2026-11-21T13:36:35Z",
+          "url": "https://www.youtube.com/watch?v=hngXomqsmP0"
+        },
+        {
+          "id": "t35nJOcA3_0",
+          "title": "GTA 5 Live | GodHxHARSTER | #gta #gtav #gaming",
+          "channel": "GodHxHARSTER",
+          "channel_id": "UCuOCqiynJUveqzt0iOnauHA",
+          "subscribers": 109000,
+          "thumbnail": "https://i.ytimg.com/vi/t35nJOcA3_0/mqdefault.jpg",
+          "published_at": "2026-11-21T13:34:37Z",
+          "url": "https://www.youtube.com/watch?v=t35nJOcA3_0"
+        },
+        {
+          "id": "KLqXa9VtuRU",
+          "title": "GTA 5 🔥 මේ Game එකේ වටිනාකම දන්නවද? 😳💰 | GTA V Sinhala",
+          "channel": "𝐍𝐮𝐛𝐢𝐱_𝐙𝐳..!! ",
+          "channel_id": "UCW1lOlXC6N4jwMqmHxV4lJQ",
+          "subscribers": 47,
+          "thumbnail": "https://i.ytimg.com/vi/KLqXa9VtuRU/mqdefault.jpg",
+          "published_at": "2026-11-21T13:32:39Z",
+          "url": "https://www.youtube.com/watch?v=KLqXa9VtuRU"
+        }
+      ],
+      "first_detected_at": "2026-11-21T04:49:21.890692+00:00",
+      "last_seen_at": "2026-11-21T13:54:06.632146+00:00"
+    },
+    {
+      "phrase": "live gta5 gtav",
+      "video_count": 30,
       "channel_count": 29,
       "total_channels_seen": 29,
       "uploads_per_hour": 2.42,
       "window_hours": 12,
       "example_videos": [
         {
-          "id": "VyD-ZRFXd-Q",
-          "title": "What happened when I reached End of the map of GTA 6 #shorts #gta #gta5 #gta6",
-          "channel": "JASON5",
-          "channel_id": "UCffGrsKkqGft-1rVsaeehug",
-          "subscribers": 31600,
-          "thumbnail": "https://i.ytimg.com/vi/VyD-ZRFXd-Q/mqdefault.jpg",
-          "published_at": "2026-11-21T04:45:28Z",
-          "url": "https://www.youtube.com/watch?v=VyD-ZRFXd-Q"
+          "id": "bNE_hlxIGPk",
+          "title": "gta6 🔥🔥🔥 vs gta5 #indiangamer #live #livestream #gaming #millionviews #shortvideo",
+          "channel": "Gaming Queen 👑",
+          "channel_id": "UCMaDzzenNnWXattav-ffEkg",
+          "subscribers": 2190,
+          "thumbnail": "https://i.ytimg.com/vi/bNE_hlxIGPk/mqdefault.jpg",
+          "published_at": "2026-11-21T13:53:38Z",
+          "url": "https://www.youtube.com/watch?v=bNE_hlxIGPk"
         },
         {
-          "id": "mqmHRVxh3_k",
-          "title": "GTA 5 RP NIGHTCLUB GOT OUT OF CONTROL 😂🔥 #GTA5 #GTAV #Nightclub #GTARP #Shorts",
-          "channel": "Play Sphere",
-          "channel_id": "UC4w_hk4vF03uf2sy4SilbNQ",
-          "subscribers": 8,
-          "thumbnail": "https://i.ytimg.com/vi/mqmHRVxh3_k/mqdefault.jpg",
-          "published_at": "2026-11-21T04:37:40Z",
-          "url": "https://www.youtube.com/watch?v=mqmHRVxh3_k"
+          "id": "QgpWAgicW70",
+          "title": "GTA 5 LIVE #gta5 #gtav #gaming",
+          "channel": "DareDevil Gaming 2K",
+          "channel_id": "UCrurHNFKGu1f6-5kMcQ0ZhA",
+          "subscribers": 364,
+          "thumbnail": "https://i.ytimg.com/vi/QgpWAgicW70/mqdefault.jpg",
+          "published_at": "2026-11-21T13:52:43Z",
+          "url": "https://www.youtube.com/watch?v=QgpWAgicW70"
         },
         {
-          "id": "m_12hxRH8WQ",
+          "id": "U7a6tCoxNuc",
+          "title": "GTA 5 Drivers Need to STOP Doing This 😂🚗💀 #shorts",
+          "channel": "Noob MV Live",
+          "channel_id": "UC71JbgJZTxaE0EZU2q-b0NQ",
+          "subscribers": 87,
+          "thumbnail": "https://i.ytimg.com/vi/U7a6tCoxNuc/mqdefault.jpg",
+          "published_at": "2026-11-21T13:44:17Z",
+          "url": "https://www.youtube.com/watch?v=U7a6tCoxNuc"
+        },
+        {
+          "id": "jJkDXy8gVTo",
           "title": "GTA 5 LIVE  #gta5 #gtav #gaming",
           "channel": "PAJI IS LIVE",
           "channel_id": "UCDFCpzs71ziH52_FcL2eTNA",
-          "subscribers": 830000,
-          "thumbnail": "https://i.ytimg.com/vi/m_12hxRH8WQ/mqdefault.jpg",
-          "published_at": "2026-11-21T04:31:31Z",
-          "url": "https://www.youtube.com/watch?v=m_12hxRH8WQ"
-        },
-        {
-          "id": "-8j94LX9hIs",
-          "title": "Even the Fridge Changed GTA 5 vs GTA 6#GTA6 #GTA5 #GTAV #Gaming",
-          "channel": "TR GAMER",
-          "channel_id": "UChAvECGrkFxtWw-VXfCwfiw",
-          "subscribers": 9450,
-          "thumbnail": "https://i.ytimg.com/vi/-8j94LX9hIs/mqdefault.jpg",
-          "published_at": "2026-11-21T04:31:24Z",
-          "url": "https://www.youtube.com/watch?v=-8j94LX9hIs"
+          "subscribers": 831000,
+          "thumbnail": "https://i.ytimg.com/vi/jJkDXy8gVTo/mqdefault.jpg",
+          "published_at": "2026-11-21T13:41:25Z",
+          "url": "https://www.youtube.com/watch?v=jJkDXy8gVTo"
         }
       ],
       "first_detected_at": "2026-11-21T04:49:21.890692+00:00",
-      "last_seen_at": "2026-11-21T04:49:21.890692+00:00"
-    },
-    {
-      "phrase": "live gta5 gtav",
-      "video_count": 30,
-      "channel_count": 28,
-      "total_channels_seen": 28,
-      "uploads_per_hour": 2.33,
-      "window_hours": 12,
-      "example_videos": [
-        {
-          "id": "F7WmKjQ5y3s",
-          "title": "Pure Chaos in Los Santos! GTA Live Highlight #Shorts #GTA6 #GTAV",
-          "channel": "Los Santos Moments",
-          "channel_id": "UCEuMY7wjBzfT7R1A6i4gt1A",
-          "subscribers": 1,
-          "thumbnail": "https://i.ytimg.com/vi/F7WmKjQ5y3s/mqdefault.jpg",
-          "published_at": "2026-11-21T04:44:00Z",
-          "url": "https://www.youtube.com/watch?v=F7WmKjQ5y3s"
-        },
-        {
-          "id": "5AaMtwNhpsQ",
-          "title": "VEJA ESSE MOMENTO DA LIVE DO JOKER",
-          "channel": "Paulão os Cortes",
-          "channel_id": "UC1a8yCiocjjeCkPbbxvCFlw",
-          "subscribers": 29,
-          "thumbnail": "https://i.ytimg.com/vi/5AaMtwNhpsQ/mqdefault.jpg",
-          "published_at": "2026-11-21T04:42:41Z",
-          "url": "https://www.youtube.com/watch?v=5AaMtwNhpsQ"
-        },
-        {
-          "id": "Dc1qsmXNA7M",
-          "title": "GTA 5 LIVE #gta5 shortslive #verticallivefeed",
-          "channel": "XPERT",
-          "channel_id": "UC72vI06DPRsdDuaRqdyFu6g",
-          "subscribers": 2780,
-          "thumbnail": "https://i.ytimg.com/vi/Dc1qsmXNA7M/mqdefault.jpg",
-          "published_at": "2026-11-21T04:36:42Z",
-          "url": "https://www.youtube.com/watch?v=Dc1qsmXNA7M"
-        },
-        {
-          "id": "QWyU-YfiPlo",
-          "title": "GTA 5 LIVE  #gta5 #gtav #gaming",
-          "channel": "SANGU IS LIVE",
-          "channel_id": "UCQxnqcOqGu_RO9YMhzt0Uaw",
-          "subscribers": 496000,
-          "thumbnail": "https://i.ytimg.com/vi/QWyU-YfiPlo/mqdefault.jpg",
-          "published_at": "2026-11-21T04:35:10Z",
-          "url": "https://www.youtube.com/watch?v=QWyU-YfiPlo"
-        }
-      ],
-      "first_detected_at": "2026-11-21T04:49:21.890692+00:00",
-      "last_seen_at": "2026-11-21T04:49:21.890692+00:00"
+      "last_seen_at": "2026-11-21T13:54:06.632146+00:00"
     },
     {
       "phrase": "tulsi vivah",
       "video_count": 29,
-      "channel_count": 27,
-      "total_channels_seen": 28,
-      "uploads_per_hour": 2.25,
+      "channel_count": 29,
+      "total_channels_seen": 30,
+      "uploads_per_hour": 2.42,
       "window_hours": 12,
       "example_videos": [
         {
-          "id": "5mVGtFzm_9k",
-          "title": "Tulsi Vivah Special #Tulsi VivahVrat katha andAarti",
-          "channel": "priya Rani",
-          "channel_id": "UCPN-yyIJ_Iy2JmQOTcQP88Q",
-          "subscribers": 104,
-          "thumbnail": "https://i.ytimg.com/vi/5mVGtFzm_9k/mqdefault.jpg",
-          "published_at": "2026-11-21T04:24:58Z",
-          "url": "https://www.youtube.com/watch?v=5mVGtFzm_9k"
+          "id": "UYFoeXIUQP4",
+          "title": "easy Tulsi Vivah special rangoli design #tulsi #tulsivivah #art #simple #festival #krishna #easy",
+          "channel": "Rangoli Art and Craft ",
+          "channel_id": "UCdG7Vej7LQOuyVRIP2UJNFQ",
+          "subscribers": 28700,
+          "thumbnail": "https://i.ytimg.com/vi/UYFoeXIUQP4/mqdefault.jpg",
+          "published_at": "2026-11-21T13:42:19Z",
+          "url": "https://www.youtube.com/watch?v=UYFoeXIUQP4"
         },
         {
-          "id": "45xeP-ccgxk",
-          "title": "TulsiVivah🪔#tulsi#vivah#trending#ytshorts#reels#kartik#purnima#narayan#matarani#youtubeshorts#like",
-          "channel": "Sadrika Mishra",
-          "channel_id": "UC9bkjqQgU_ej_Y9z1xePiJA",
-          "subscribers": 184,
-          "thumbnail": "https://i.ytimg.com/vi/45xeP-ccgxk/mqdefault.jpg",
-          "published_at": "2026-11-21T04:20:44Z",
-          "url": "https://www.youtube.com/watch?v=45xeP-ccgxk"
+          "id": "bkMqvq2rDRM",
+          "title": "Tulsi Vivah #marriagesong #viral #tranding #tulsi #shorts #reels",
+          "channel": "the real home life style",
+          "channel_id": "UC9y2tEr4bQH0_FfzB_aKkRA",
+          "subscribers": 4520,
+          "thumbnail": "https://i.ytimg.com/vi/bkMqvq2rDRM/mqdefault.jpg",
+          "published_at": "2026-11-21T13:40:01Z",
+          "url": "https://www.youtube.com/watch?v=bkMqvq2rDRM"
         },
         {
-          "id": "0zo-wVUoOj8",
-          "title": "Jai Tulsi maiya🙏✨✨ 🌿Tulsi Vivah🌿🪔🙏 #shorts #ytshorts #tulsi",
-          "channel": "Christina Gupta (Rinku Kumari)",
-          "channel_id": "UCzqqwNpYPh8_QmvNBCl0gtQ",
-          "subscribers": 126,
-          "thumbnail": "https://i.ytimg.com/vi/0zo-wVUoOj8/mqdefault.jpg",
-          "published_at": "2026-11-21T04:15:07Z",
-          "url": "https://www.youtube.com/watch?v=0zo-wVUoOj8"
+          "id": "tCMImlyU_1w",
+          "title": "Tulsi Vivah 21 November 🙏`#TulsiVivah #TulsiVivah21November #Tulsi #Shaligram #TulsiMata #Vishnu",
+          "channel": "Savita Kumari",
+          "channel_id": "UCTRE-2KQkF-LSlZKjqk4F6w",
+          "subscribers": 2810,
+          "thumbnail": "https://i.ytimg.com/vi/tCMImlyU_1w/mqdefault.jpg",
+          "published_at": "2026-11-21T13:30:15Z",
+          "url": "https://www.youtube.com/watch?v=tCMImlyU_1w"
         },
         {
-          "id": "GmceSV3pMUo",
-          "title": "कालाकाला रे साँवरिया हरी हरी तुलसी #krishna #tulsi #vivah #devuthaniekadashi #khatu #shyam #birthday",
-          "channel": "जोशी जी घर पर है🤣Joshi Ji Ghar Par Hai😂",
-          "channel_id": "UCuZGnJfIxjBq98PDULVLHrA",
-          "subscribers": 840,
-          "thumbnail": "https://i.ytimg.com/vi/GmceSV3pMUo/mqdefault.jpg",
-          "published_at": "2026-11-21T04:03:25Z",
-          "url": "https://www.youtube.com/watch?v=GmceSV3pMUo"
+          "id": "VhJl9CGPjkk",
+          "title": "Tulsi Vivah Mangalashtak | Mangalashtak marathi #tulsivivah #mangalashtak #tulsi #shorts #reels #yt",
+          "channel": "Bhaktisudha",
+          "channel_id": "UClh5aNabQmNFBjAKtCknRjA",
+          "subscribers": 536000,
+          "thumbnail": "https://i.ytimg.com/vi/VhJl9CGPjkk/mqdefault.jpg",
+          "published_at": "2026-11-21T13:22:09Z",
+          "url": "https://www.youtube.com/watch?v=VhJl9CGPjkk"
         }
       ],
       "first_detected_at": "2026-11-21T04:49:21.890692+00:00",
-      "last_seen_at": "2026-11-21T04:49:21.890692+00:00"
+      "last_seen_at": "2026-11-21T13:54:06.632146+00:00"
     },
     {
-      "phrase": "samsung galaxy",
-      "video_count": 28,
+      "phrase": "avengers doomsday",
+      "video_count": 26,
       "channel_count": 26,
-      "total_channels_seen": 27,
+      "total_channels_seen": 30,
       "uploads_per_hour": 2.17,
       "window_hours": 12,
       "example_videos": [
         {
-          "id": "ebHP24IEEnQ",
-          "title": "Samsung galaxy a16 mini Mobile unboxing 📱😍💖 #shorts #trending #viral #galaxya16 #popular #mini",
-          "channel": "Mini Mobile Box",
-          "channel_id": "UCc0elIzBmjNYsJI8rBmYl7w",
-          "subscribers": 21400,
-          "thumbnail": "https://i.ytimg.com/vi/ebHP24IEEnQ/mqdefault.jpg",
-          "published_at": "2026-11-21T04:13:27Z",
-          "url": "https://www.youtube.com/watch?v=ebHP24IEEnQ"
+          "id": "5VlO1v-lFQg",
+          "title": "Doomsday Official Runtime Out ||#avengersdoomsday",
+          "channel": "Aepyy Facts",
+          "channel_id": "UC3uejS6yii5tWxTZKEt47bA",
+          "subscribers": 267,
+          "thumbnail": "https://i.ytimg.com/vi/5VlO1v-lFQg/mqdefault.jpg",
+          "published_at": "2026-11-21T13:30:36Z",
+          "url": "https://www.youtube.com/watch?v=5VlO1v-lFQg"
         },
         {
-          "id": "FFfeG1cBgWs",
-          "title": "Cardboard Samsung Galaxy S26 Ultra making 📱 #cardboard #samsung #art #cardboardcraft #clayart",
-          "channel": "@EasyPaperCrafts",
-          "channel_id": "UCdKFcIhFtXUA0FukIp0VZtg",
-          "subscribers": 13,
-          "thumbnail": "https://i.ytimg.com/vi/FFfeG1cBgWs/mqdefault.jpg",
-          "published_at": "2026-11-21T04:06:30Z",
-          "url": "https://www.youtube.com/watch?v=FFfeG1cBgWs"
+          "id": "vlDrxWQaopY",
+          "title": "Dr Doom Became Pain😭😂 #drdoom #doomsday #comics #marvel #mcu #avengersdoomsday #fyp #fypシ゚viral",
+          "channel": "Kaixpp〆 ",
+          "channel_id": "UCgApW5HLDelhrafITPyWaKw",
+          "subscribers": 19900,
+          "thumbnail": "https://i.ytimg.com/vi/vlDrxWQaopY/mqdefault.jpg",
+          "published_at": "2026-11-21T13:30:08Z",
+          "url": "https://www.youtube.com/watch?v=vlDrxWQaopY"
         },
         {
-          "id": "7jmlhPE_lzg",
-          "title": "Samsung Galaxy S27 Ultra Cobalt Violet📱🔥 #noads #tiktok#usa #sheru",
-          "channel": "kaleemGamer",
-          "channel_id": "UCN-pxWzfm2l5jbEbyxcpuhg",
-          "subscribers": 81,
-          "thumbnail": "https://i.ytimg.com/vi/7jmlhPE_lzg/mqdefault.jpg",
-          "published_at": "2026-11-21T04:04:33Z",
-          "url": "https://www.youtube.com/watch?v=7jmlhPE_lzg"
+          "id": "kQjDk7h8I9Q",
+          "title": "✌️😱Dooms Burger 🍔 ah⁉️ Avengers #doomsday #thediningchennai",
+          "channel": "the_dining _Chennai",
+          "channel_id": "UCMlqMIeHbJQk412tuS8NrzA",
+          "subscribers": 427000,
+          "thumbnail": "https://i.ytimg.com/vi/kQjDk7h8I9Q/mqdefault.jpg",
+          "published_at": "2026-11-21T13:22:52Z",
+          "url": "https://www.youtube.com/watch?v=kQjDk7h8I9Q"
         },
         {
-          "id": "0m8dzxXWd3g",
-          "title": "Samsung Galaxy S27 Ultra Cobalt Violet📱🔥 #noads #tiktok#usa #sheru",
-          "channel": "haleem gaming",
-          "channel_id": "UCdBK24tjEsHj8v-AQTfnnSQ",
-          "subscribers": 356,
-          "thumbnail": "https://i.ytimg.com/vi/0m8dzxXWd3g/mqdefault.jpg",
-          "published_at": "2026-11-21T04:03:18Z",
-          "url": "https://www.youtube.com/watch?v=0m8dzxXWd3g"
+          "id": "4SggPvmMS84",
+          "title": "Avengers: Doomsday vs Avengers: Endgame movie comparison//#doomsday #endgame #marvel #avengers",
+          "channel": "Filmflix",
+          "channel_id": "UC8eu7UsLFPz6YZLwMl2gfJQ",
+          "subscribers": 278000,
+          "thumbnail": "https://i.ytimg.com/vi/4SggPvmMS84/mqdefault.jpg",
+          "published_at": "2026-11-21T13:15:55Z",
+          "url": "https://www.youtube.com/watch?v=4SggPvmMS84"
         }
       ],
-      "first_detected_at": "2026-11-12T22:58:40.958248+00:00",
-      "last_seen_at": "2026-11-21T04:49:21.890692+00:00"
+      "first_detected_at": "2026-11-21T13:54:06.632146+00:00",
+      "last_seen_at": "2026-11-21T13:54:06.632146+00:00"
     },
     {
-      "phrase": "grand theft auto",
-      "video_count": 25,
-      "channel_count": 25,
-      "total_channels_seen": 30,
-      "uploads_per_hour": 2.08,
+      "phrase": "hostel boys shorts",
+      "video_count": 11,
+      "channel_count": 10,
+      "total_channels_seen": 11,
+      "uploads_per_hour": 0.83,
       "window_hours": 12,
       "example_videos": [
         {
-          "id": "6s468i48lDo",
-          "title": "Arthur Morgan Easter Egg GTA 6 - &quot;Grand Theft Auto VI &quot; Edit | #edit #gta6",
-          "channel": "Anblog",
-          "channel_id": "UCDsHJm2t6uTO8WxmkQqUE3g",
-          "subscribers": 437000,
-          "thumbnail": "https://i.ytimg.com/vi/6s468i48lDo/mqdefault.jpg",
-          "published_at": "2026-11-21T04:15:51Z",
-          "url": "https://www.youtube.com/watch?v=6s468i48lDo"
+          "id": "lBQKcMqRz_A",
+          "title": "Hostel Life: Girls vs Boys 😂. #shorts #staywithbela #relatable #hostellife #studentlife #foryou",
+          "channel": "Stay with Bela",
+          "channel_id": "UC-rg4Hh0TlMPyOu47jHismw",
+          "subscribers": 8660,
+          "thumbnail": "https://i.ytimg.com/vi/lBQKcMqRz_A/mqdefault.jpg",
+          "published_at": "2026-11-21T13:45:23Z",
+          "url": "https://www.youtube.com/watch?v=lBQKcMqRz_A"
         },
         {
-          "id": "VFbt2kroapA",
-          "title": "Los 2 finales malos de GTA VI (Grand Theft Auto 6)",
-          "channel": "FocaGuatonGameplays",
-          "channel_id": "UCjvzvnyTpVGF7rZ30BpQHMg",
-          "subscribers": 4550,
-          "thumbnail": "https://i.ytimg.com/vi/VFbt2kroapA/mqdefault.jpg",
-          "published_at": "2026-11-21T04:14:30Z",
-          "url": "https://www.youtube.com/watch?v=VFbt2kroapA"
+          "id": "VTXnx709WfU",
+          "title": "Airline Housing Society mein Boys Hostel, Kiraya Rs 12,500 se | T2M Smart Hostel",
+          "channel": "Houstel",
+          "channel_id": "UCPL4qnNFOmz9oETDioE3lYw",
+          "subscribers": 24,
+          "thumbnail": "https://i.ytimg.com/vi/VTXnx709WfU/mqdefault.jpg",
+          "published_at": "2026-11-21T13:32:27Z",
+          "url": "https://www.youtube.com/watch?v=VTXnx709WfU"
         },
         {
-          "id": "cA595d2wYc0",
-          "title": "СТРИМ С ЧИПАЕМ#641 - GRAND THEFT AUTO VI (ДОЛГОЖДАННАЯ ГТА 6 НА РЕЛИЗЕ, PS5 PRO, 60 FPS) - ЧАСТЬ #1",
-          "channel": "Ретро Канал CHIPaev'a",
-          "channel_id": "UCU0C2ivhnDVTt4TAxob2PHw",
-          "subscribers": 102000,
-          "thumbnail": "https://i.ytimg.com/vi/cA595d2wYc0/mqdefault.jpg",
-          "published_at": "2026-11-21T04:13:26Z",
-          "url": "https://www.youtube.com/watch?v=cA595d2wYc0"
+          "id": "H734yHcPEOg",
+          "title": "Part 1 | Teen yaaron ki wapsi aur hostel hungama | Sheru, Panther &amp; Cat | #shorts #viralvideo #yaari",
+          "channel": "Sheru Ka Aatank",
+          "channel_id": "UCHhYqIoSdmnC2_E9drprZ4w",
+          "subscribers": 97900,
+          "thumbnail": "https://i.ytimg.com/vi/H734yHcPEOg/mqdefault.jpg",
+          "published_at": "2026-11-21T13:25:26Z",
+          "url": "https://www.youtube.com/watch?v=H734yHcPEOg"
         },
         {
-          "id": "LdjLd4LI4iA",
-          "title": "Twitch(nkstackss) #lucia #gta6  #explorepage #viralreels #grandtheftauto",
-          "channel": "NKSTACKSS ",
-          "channel_id": "UCUS_CciEiQLvQAOdVWUOD3g",
-          "subscribers": 916,
-          "thumbnail": "https://i.ytimg.com/vi/LdjLd4LI4iA/mqdefault.jpg",
-          "published_at": "2026-11-21T04:13:22Z",
-          "url": "https://www.youtube.com/watch?v=LdjLd4LI4iA"
+          "id": "rHUwHlXOcTE",
+          "title": "Girl&#39;s Secret Life at the Boys Hostel! Part 2.#shorts",
+          "channel": "Fiha200k Yt",
+          "channel_id": "UCEOHca9jPlLcrfIqGzzyK5Q",
+          "subscribers": 541,
+          "thumbnail": "https://i.ytimg.com/vi/rHUwHlXOcTE/mqdefault.jpg",
+          "published_at": "2026-11-21T13:00:32Z",
+          "url": "https://www.youtube.com/watch?v=rHUwHlXOcTE"
         }
       ],
-      "first_detected_at": "2026-11-21T04:49:21.890692+00:00",
-      "last_seen_at": "2026-11-21T04:49:21.890692+00:00"
-    },
-    {
-      "phrase": "noads tiktok usa",
-      "video_count": 28,
-      "channel_count": 19,
-      "total_channels_seen": 20,
-      "uploads_per_hour": 1.58,
-      "window_hours": 12,
-      "example_videos": [
-        {
-          "id": "iXRDOUTKJlc",
-          "title": "jarwok wirr baru buka pangkas rambut wajar, dodok rispeklah.. #noads #tiktok #usa",
-          "channel": "dimasoddy",
-          "channel_id": "UCY5p6OfsLCvVc87v-bhOF5A",
-          "subscribers": 13400,
-          "thumbnail": "https://i.ytimg.com/vi/iXRDOUTKJlc/mqdefault.jpg",
-          "published_at": "2026-11-21T04:10:19Z",
-          "url": "https://www.youtube.com/watch?v=iXRDOUTKJlc"
-        },
-        {
-          "id": "7jmlhPE_lzg",
-          "title": "Samsung Galaxy S27 Ultra Cobalt Violet📱🔥 #noads #tiktok#usa #sheru",
-          "channel": "kaleemGamer",
-          "channel_id": "UCN-pxWzfm2l5jbEbyxcpuhg",
-          "subscribers": 81,
-          "thumbnail": "https://i.ytimg.com/vi/7jmlhPE_lzg/mqdefault.jpg",
-          "published_at": "2026-11-21T04:04:33Z",
-          "url": "https://www.youtube.com/watch?v=7jmlhPE_lzg"
-        },
-        {
-          "id": "C_BeP97Z018",
-          "title": "iPhone 18 Pro Max Dark Cherry📱🫶 #noads #tiktok #usa",
-          "channel": "PhanLuis",
-          "channel_id": "UCxxttY5btTU7zLcclQ-a02A",
-          "subscribers": 259000,
-          "thumbnail": "https://i.ytimg.com/vi/C_BeP97Z018/mqdefault.jpg",
-          "published_at": "2026-11-21T04:01:56Z",
-          "url": "https://www.youtube.com/watch?v=C_BeP97Z018"
-        },
-        {
-          "id": "8JSA2hpAFPc",
-          "title": "jarwok ganti profesi wirr, jadi kang pangkas rambut.. #noads #tiktok #usa",
-          "channel": "dimasoddy",
-          "channel_id": "UCY5p6OfsLCvVc87v-bhOF5A",
-          "subscribers": 13400,
-          "thumbnail": "https://i.ytimg.com/vi/8JSA2hpAFPc/mqdefault.jpg",
-          "published_at": "2026-11-21T04:00:25Z",
-          "url": "https://www.youtube.com/watch?v=8JSA2hpAFPc"
-        }
-      ],
-      "first_detected_at": "2026-11-12T14:16:12.977618+00:00",
-      "last_seen_at": "2026-11-21T04:49:21.890692+00:00"
+      "first_detected_at": "2026-11-21T13:54:06.632146+00:00",
+      "last_seen_at": "2026-11-21T13:54:06.632146+00:00"
     }
   ],
   "topics": [
     {
       "phrase": "ao vivo",
-      "video_count": 4,
-      "momentum": 24.19,
+      "video_count": 6,
+      "momentum": 36.48,
       "regions": [
         "BR"
       ],
       "lang": "pt",
       "example_videos": [
         {
+          "id": "nTJ5Z9gZsZU",
+          "title": "GTA VI: DIA 3 ZERANDO  🔴 CORINGA AO VIVO",
+          "channel": "LOUD Coringa",
+          "thumbnail": "https://i.ytimg.com/vi/nTJ5Z9gZsZU/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=nTJ5Z9gZsZU",
+          "views": 3156791,
+          "age_hours": 9.5
+        },
+        {
+          "id": "dUnPGbaydTE",
+          "title": "JASON VLOGS EM AÇÃO TERCEIRO DIA DE GTA 6 l JON VLOGS AO VIVO",
+          "channel": "Jon Vlogs",
+          "thumbnail": "https://i.ytimg.com/vi/dUnPGbaydTE/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=dUnPGbaydTE",
+          "views": 431624,
+          "age_hours": 3.3
+        },
+        {
           "id": "YqLOX86cdzk",
           "title": "VEM JOGAR GTA VI JUNTO COMIGO  [AO VIVO]",
           "channel": "Renato Garcia",
           "thumbnail": "https://i.ytimg.com/vi/YqLOX86cdzk/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=YqLOX86cdzk",
-          "views": 637988,
-          "age_hours": 2.6
-        },
-        {
-          "id": "i1irTd_Wnfk",
-          "title": "🔴 [PT-BR] FFWS GLOBAL FINALS 2026 - FASE CLASSIFICATÓRIA 2 | DIA 2 - FREE FIRE AO VIVO",
-          "channel": "Free Fire Esports Brasil #FREEFIRE",
-          "thumbnail": "https://i.ytimg.com/vi/i1irTd_Wnfk/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=i1irTd_Wnfk",
-          "views": 1075987,
-          "age_hours": 12.7
-        },
-        {
-          "id": "M2LlPQ32cXQ",
-          "title": "QUASE FOI - Netto Brito, Kamisa 10 | Ilha do Arrocha (Ao Vivo em São Luís/MA) - OFICIAL",
-          "channel": "Netto Brito",
-          "thumbnail": "https://i.ytimg.com/vi/M2LlPQ32cXQ/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=M2LlPQ32cXQ",
-          "views": 119926,
-          "age_hours": 13.8
+          "views": 678803,
+          "age_hours": 11.6
         }
       ]
     },
     {
-      "phrase": "grand theft auto",
+      "phrase": "gta live",
       "video_count": 3,
-      "momentum": 22.12,
-      "regions": [
-        "GB"
-      ],
-      "lang": "en",
-      "example_videos": [
-        {
-          "id": "mATQ5maJ234",
-          "title": "GTA 6 Walkthrough Gameplay Part 3 - LUCIA CAMINOS (GRAND THEFT AUTO 6)",
-          "channel": "theRadBrad",
-          "thumbnail": "https://i.ytimg.com/vi/mATQ5maJ234/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=mATQ5maJ234",
-          "views": 567226,
-          "age_hours": 13.8
-        },
-        {
-          "id": "hI4k9ewBEFA",
-          "title": "ABSOLUTE CINEMA | Grand Theft Auto 6 - Part 3",
-          "channel": "jacksepticeye",
-          "thumbnail": "https://i.ytimg.com/vi/hI4k9ewBEFA/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=hI4k9ewBEFA",
-          "views": 402620,
-          "age_hours": 11.8
-        },
-        {
-          "id": "NYgDT0RR0Ws",
-          "title": "🔴 GTA 6 DAY 3 LIVE 🔴 COMPLETING GRAND THEFT AUTO VI 🔴 (PS5 PRO) 🔴",
-          "channel": "ZerkaaPlays",
-          "thumbnail": "https://i.ytimg.com/vi/NYgDT0RR0Ws/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=NYgDT0RR0Ws",
-          "views": 424221,
-          "age_hours": 7.8
-        }
-      ]
-    },
-    {
-      "phrase": "noads tiktok usa",
-      "video_count": 3,
-      "momentum": 22.03,
+      "momentum": 21.87,
       "regions": [
         "IN"
       ],
       "lang": "en",
       "example_videos": [
         {
-          "id": "DgbB-9K7pfw",
-          "title": "Samsung Galaxy S27 Ultra Cobalt Violet📱🔥#noads #tiktok #usa Part 99",
-          "channel": "MR Latte Green",
-          "thumbnail": "https://i.ytimg.com/vi/DgbB-9K7pfw/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=DgbB-9K7pfw",
-          "views": 3259285,
-          "age_hours": 30.8
+          "id": "BMnH76tzoms",
+          "title": "GTA 5 LIVE | Train vs 100 Luxury Cars 😱🔥 कौन बचेगा?",
+          "channel": "Sunil Gaming",
+          "thumbnail": "https://i.ytimg.com/vi/BMnH76tzoms/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=BMnH76tzoms",
+          "views": 3109803,
+          "age_hours": 2.0
         },
         {
-          "id": "ybMCQof-qak",
-          "title": "Samsung Galaxy S29 Ultra Silver Titanium Game IQ🎮🔥#noads #tiktok #usa",
-          "channel": "MrCappuccino Green",
-          "thumbnail": "https://i.ytimg.com/vi/ybMCQof-qak/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=ybMCQof-qak",
-          "views": 9210905,
-          "age_hours": 126.8
-        },
-        {
-          "id": "UXHxotfcFF8",
-          "title": "Samsung Galaxy S27 Ultra Cobalt Violet📱🔥#noads #tiktok #usa",
-          "channel": "MrLimboGreen",
-          "thumbnail": "https://i.ytimg.com/vi/UXHxotfcFF8/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=UXHxotfcFF8",
-          "views": 4102566,
-          "age_hours": 78.8
-        }
-      ]
-    },
-    {
-      "phrase": "tulsi vivah",
-      "video_count": 4,
-      "momentum": 20.83,
-      "regions": [
-        "IN"
-      ],
-      "lang": "en",
-      "example_videos": [
-        {
-          "id": "TkgID59s8cI",
-          "title": "तुलसा की आई है बारात मेरे आंगन में | Tulsa Ki Aayi Hai Barat | तुलसी माता भजन | Tulsi Vivah Bhajan",
-          "channel": "Bajao Bhakti ",
-          "thumbnail": "https://i.ytimg.com/vi/TkgID59s8cI/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=TkgID59s8cI",
-          "views": 1208461,
-          "age_hours": 53.3
-        },
-        {
-          "id": "7jVEcnSY6a4",
-          "title": "जय जय तुलसी माता आरती | Jai Jai Tulsi Mata Aarti | Tulsi Aarti | Tulsi Vivah | Tulsi Pooja Aarti",
-          "channel": "Bhajan India",
-          "thumbnail": "https://i.ytimg.com/vi/7jVEcnSY6a4/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=7jVEcnSY6a4",
-          "views": 796192,
-          "age_hours": 41.8
-        },
-        {
-          "id": "4JGdp09QTyY",
-          "title": "तुलसी विवाह बधाई गीत | Tulsi Vivah Song 2026 | Upasna Mehta | Tulsi ji ke bhajan | Tulsi Bhajan 2026",
-          "channel": "Bhakti Sadhna भक्ति साधना",
-          "thumbnail": "https://i.ytimg.com/vi/4JGdp09QTyY/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=4JGdp09QTyY",
-          "views": 930641,
-          "age_hours": 65.8
-        }
-      ]
-    },
-    {
-      "phrase": "samsung",
-      "video_count": 4,
-      "momentum": 19.24,
-      "regions": [
-        "IN"
-      ],
-      "lang": "en",
-      "example_videos": [
-        {
-          "id": "DgbB-9K7pfw",
-          "title": "Samsung Galaxy S27 Ultra Cobalt Violet📱🔥#noads #tiktok #usa Part 99",
-          "channel": "MR Latte Green",
-          "thumbnail": "https://i.ytimg.com/vi/DgbB-9K7pfw/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=DgbB-9K7pfw",
-          "views": 3259285,
-          "age_hours": 30.8
-        },
-        {
-          "id": "ybMCQof-qak",
-          "title": "Samsung Galaxy S29 Ultra Silver Titanium Game IQ🎮🔥#noads #tiktok #usa",
-          "channel": "MrCappuccino Green",
-          "thumbnail": "https://i.ytimg.com/vi/ybMCQof-qak/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=ybMCQof-qak",
-          "views": 9210905,
-          "age_hours": 126.8
-        },
-        {
-          "id": "UXHxotfcFF8",
-          "title": "Samsung Galaxy S27 Ultra Cobalt Violet📱🔥#noads #tiktok #usa",
-          "channel": "MrLimboGreen",
-          "thumbnail": "https://i.ytimg.com/vi/UXHxotfcFF8/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=UXHxotfcFF8",
-          "views": 4102566,
-          "age_hours": 78.8
-        }
-      ]
-    },
-    {
-      "phrase": "ultra",
-      "video_count": 4,
-      "momentum": 19.24,
-      "regions": [
-        "IN"
-      ],
-      "lang": "en",
-      "example_videos": [
-        {
-          "id": "DgbB-9K7pfw",
-          "title": "Samsung Galaxy S27 Ultra Cobalt Violet📱🔥#noads #tiktok #usa Part 99",
-          "channel": "MR Latte Green",
-          "thumbnail": "https://i.ytimg.com/vi/DgbB-9K7pfw/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=DgbB-9K7pfw",
-          "views": 3259285,
-          "age_hours": 30.8
-        },
-        {
-          "id": "ybMCQof-qak",
-          "title": "Samsung Galaxy S29 Ultra Silver Titanium Game IQ🎮🔥#noads #tiktok #usa",
-          "channel": "MrCappuccino Green",
-          "thumbnail": "https://i.ytimg.com/vi/ybMCQof-qak/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=ybMCQof-qak",
-          "views": 9210905,
-          "age_hours": 126.8
-        },
-        {
-          "id": "UXHxotfcFF8",
-          "title": "Samsung Galaxy S27 Ultra Cobalt Violet📱🔥#noads #tiktok #usa",
-          "channel": "MrLimboGreen",
-          "thumbnail": "https://i.ytimg.com/vi/UXHxotfcFF8/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=UXHxotfcFF8",
-          "views": 4102566,
-          "age_hours": 78.8
-        }
-      ]
-    },
-    {
-      "phrase": "gta live gta5",
-      "video_count": 2,
-      "momentum": 18.64,
-      "regions": [
-        "IN"
-      ],
-      "lang": "en",
-      "example_videos": [
-        {
-          "id": "m_12hxRH8WQ",
+          "id": "L7XijWXkThw",
           "title": "GTA 5 LIVE  #gta5 #gtav #gaming",
-          "channel": "PAJI IS LIVE",
-          "thumbnail": "https://i.ytimg.com/vi/m_12hxRH8WQ/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=m_12hxRH8WQ",
-          "views": 5560466,
-          "age_hours": 1.0
+          "channel": "SANGU IS LIVE",
+          "thumbnail": "https://i.ytimg.com/vi/L7XijWXkThw/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=L7XijWXkThw",
+          "views": 2377815,
+          "age_hours": 3.8
         },
         {
           "id": "Rr4rV0Vol98",
@@ -623,186 +390,14 @@
           "thumbnail": "https://i.ytimg.com/vi/Rr4rV0Vol98/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=Rr4rV0Vol98",
           "views": 7096495,
-          "age_hours": 16.3
-        }
-      ]
-    },
-    {
-      "phrase": "live gta5 gtav",
-      "video_count": 2,
-      "momentum": 18.64,
-      "regions": [
-        "IN"
-      ],
-      "lang": "en",
-      "example_videos": [
-        {
-          "id": "m_12hxRH8WQ",
-          "title": "GTA 5 LIVE  #gta5 #gtav #gaming",
-          "channel": "PAJI IS LIVE",
-          "thumbnail": "https://i.ytimg.com/vi/m_12hxRH8WQ/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=m_12hxRH8WQ",
-          "views": 5560466,
-          "age_hours": 1.0
-        },
-        {
-          "id": "Rr4rV0Vol98",
-          "title": "GTA 5 LIVE #gta5 #gtav #gaming",
-          "channel": "Raajoo Gaming",
-          "thumbnail": "https://i.ytimg.com/vi/Rr4rV0Vol98/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=Rr4rV0Vol98",
-          "views": 7096495,
-          "age_hours": 16.3
-        }
-      ]
-    },
-    {
-      "phrase": "gta5 gtav gaming",
-      "video_count": 2,
-      "momentum": 18.64,
-      "regions": [
-        "IN"
-      ],
-      "lang": "en",
-      "example_videos": [
-        {
-          "id": "m_12hxRH8WQ",
-          "title": "GTA 5 LIVE  #gta5 #gtav #gaming",
-          "channel": "PAJI IS LIVE",
-          "thumbnail": "https://i.ytimg.com/vi/m_12hxRH8WQ/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=m_12hxRH8WQ",
-          "views": 5560466,
-          "age_hours": 1.0
-        },
-        {
-          "id": "Rr4rV0Vol98",
-          "title": "GTA 5 LIVE #gta5 #gtav #gaming",
-          "channel": "Raajoo Gaming",
-          "thumbnail": "https://i.ytimg.com/vi/Rr4rV0Vol98/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=Rr4rV0Vol98",
-          "views": 7096495,
-          "age_hours": 16.3
-        }
-      ]
-    },
-    {
-      "phrase": "samsung galaxy",
-      "video_count": 3,
-      "momentum": 18.36,
-      "regions": [
-        "IN"
-      ],
-      "lang": "en",
-      "example_videos": [
-        {
-          "id": "DgbB-9K7pfw",
-          "title": "Samsung Galaxy S27 Ultra Cobalt Violet📱🔥#noads #tiktok #usa Part 99",
-          "channel": "MR Latte Green",
-          "thumbnail": "https://i.ytimg.com/vi/DgbB-9K7pfw/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=DgbB-9K7pfw",
-          "views": 3259285,
-          "age_hours": 30.8
-        },
-        {
-          "id": "ybMCQof-qak",
-          "title": "Samsung Galaxy S29 Ultra Silver Titanium Game IQ🎮🔥#noads #tiktok #usa",
-          "channel": "MrCappuccino Green",
-          "thumbnail": "https://i.ytimg.com/vi/ybMCQof-qak/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=ybMCQof-qak",
-          "views": 9210905,
-          "age_hours": 126.8
-        },
-        {
-          "id": "UXHxotfcFF8",
-          "title": "Samsung Galaxy S27 Ultra Cobalt Violet📱🔥#noads #tiktok #usa",
-          "channel": "MrLimboGreen",
-          "thumbnail": "https://i.ytimg.com/vi/UXHxotfcFF8/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=UXHxotfcFF8",
-          "views": 4102566,
-          "age_hours": 78.8
-        }
-      ]
-    },
-    {
-      "phrase": "life",
-      "video_count": 4,
-      "momentum": 18.33,
-      "regions": [
-        "US"
-      ],
-      "lang": "en",
-      "example_videos": [
-        {
-          "id": "DiKc3ypdU90",
-          "title": "Final Life: Episode 4 - GUESS WHO'S BACK??",
-          "channel": "Grian",
-          "thumbnail": "https://i.ytimg.com/vi/DiKc3ypdU90/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=DiKc3ypdU90",
-          "views": 812547,
-          "age_hours": 11.8
-        },
-        {
-          "id": "6wwtFVev9jk",
-          "title": "This Bell Makes Life Easier 😍✨",
-          "channel": "CuriousThinks",
-          "thumbnail": "https://i.ytimg.com/vi/6wwtFVev9jk/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=6wwtFVev9jk",
-          "views": 4013085,
-          "age_hours": 40.8
-        },
-        {
-          "id": "cSXgj7Rp3Ds",
-          "title": "day in the life of the owner of @bunandcovy 🌟💐🍬#lisishops #lisi #bunandcovy #hoodie #dayinmylife",
-          "channel": "Lisi Shops",
-          "thumbnail": "https://i.ytimg.com/vi/cSXgj7Rp3Ds/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=cSXgj7Rp3Ds",
-          "views": 454592,
-          "age_hours": 130.8
-        }
-      ]
-    },
-    {
-      "phrase": "viral",
-      "video_count": 4,
-      "momentum": 17.84,
-      "regions": [
-        "DE"
-      ],
-      "lang": "de",
-      "example_videos": [
-        {
-          "id": "2c0KvKEotgs",
-          "title": "War das Fair?🙄😭 #selinaundharoon #couple #viral #humor #comedy #challenge #fyp #fy",
-          "channel": "Selina & Haroon",
-          "thumbnail": "https://i.ytimg.com/vi/2c0KvKEotgs/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=2c0KvKEotgs",
-          "views": 995483,
-          "age_hours": 34.3
-        },
-        {
-          "id": "N9db5XRIKEg",
-          "title": "Wie kann das sein..? #fypシ゚viral",
-          "channel": "BENNI BERICHTET",
-          "thumbnail": "https://i.ytimg.com/vi/N9db5XRIKEg/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=N9db5XRIKEg",
-          "views": 833532,
-          "age_hours": 49.8
-        },
-        {
-          "id": "RDYGyzC63K0",
-          "title": "Pov: diese eine komische Person, die Winter mag😂❄️ #winter #kalt #funny #pov #relatable #viral #fy",
-          "channel": "KevinWhoYT",
-          "thumbnail": "https://i.ytimg.com/vi/RDYGyzC63K0/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=RDYGyzC63K0",
-          "views": 1299649,
-          "age_hours": 60.0
+          "age_hours": 25.4
         }
       ]
     },
     {
       "phrase": "hostel boys shorts",
       "video_count": 2,
-      "momentum": 17.69,
+      "momentum": 17.47,
       "regions": [
         "IN"
       ],
@@ -814,8 +409,8 @@
           "channel": "Shreemani Tripathi",
           "thumbnail": "https://i.ytimg.com/vi/4c7__Wo2GEk/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=4c7__Wo2GEk",
-          "views": 13481818,
-          "age_hours": 20.2
+          "views": 15028048,
+          "age_hours": 29.3
         },
         {
           "id": "LFXlUDcl0B8",
@@ -823,53 +418,15 @@
           "channel": "Shreemani Tripathi",
           "thumbnail": "https://i.ytimg.com/vi/LFXlUDcl0B8/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=LFXlUDcl0B8",
-          "views": 16767202,
-          "age_hours": 46.4
-        }
-      ]
-    },
-    {
-      "phrase": "diese",
-      "video_count": 4,
-      "momentum": 17.18,
-      "regions": [
-        "DE"
-      ],
-      "lang": "de",
-      "example_videos": [
-        {
-          "id": "RDYGyzC63K0",
-          "title": "Pov: diese eine komische Person, die Winter mag😂❄️ #winter #kalt #funny #pov #relatable #viral #fy",
-          "channel": "KevinWhoYT",
-          "thumbnail": "https://i.ytimg.com/vi/RDYGyzC63K0/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=RDYGyzC63K0",
-          "views": 1299649,
-          "age_hours": 60.0
-        },
-        {
-          "id": "neU8Fm-CVec",
-          "title": "Diese Website hat Zugriff auf ALLE Security Kameras",
-          "channel": "LUCREW",
-          "thumbnail": "https://i.ytimg.com/vi/neU8Fm-CVec/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=neU8Fm-CVec",
-          "views": 196242,
-          "age_hours": 13.8
-        },
-        {
-          "id": "LoBwxlipVvs",
-          "title": "Diese Füllerfeder öffnet sich wie eine Blüte",
-          "channel": "Kung Fu Truth",
-          "thumbnail": "https://i.ytimg.com/vi/LoBwxlipVvs/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=LoBwxlipVvs",
-          "views": 2271481,
-          "age_hours": 139.8
+          "views": 18752535,
+          "age_hours": 55.5
         }
       ]
     },
     {
       "phrase": "you won't believe",
       "video_count": 2,
-      "momentum": 16.95,
+      "momentum": 16.94,
       "regions": [
         "US"
       ],
@@ -881,8 +438,8 @@
           "channel": "Foeko",
           "thumbnail": "https://i.ytimg.com/vi/BA4XucRzi5k/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=BA4XucRzi5k",
-          "views": 8876873,
-          "age_hours": 33.3
+          "views": 11399443,
+          "age_hours": 42.4
         },
         {
           "id": "ecuEdD-fwGU",
@@ -890,15 +447,178 @@
           "channel": "Foeko",
           "thumbnail": "https://i.ytimg.com/vi/ecuEdD-fwGU/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=ecuEdD-fwGU",
-          "views": 21007488,
-          "age_hours": 106.2
+          "views": 22671024,
+          "age_hours": 115.3
+        }
+      ]
+    },
+    {
+      "phrase": "gta live gta5",
+      "video_count": 2,
+      "momentum": 16.92,
+      "regions": [
+        "IN"
+      ],
+      "lang": "en",
+      "example_videos": [
+        {
+          "id": "L7XijWXkThw",
+          "title": "GTA 5 LIVE  #gta5 #gtav #gaming",
+          "channel": "SANGU IS LIVE",
+          "thumbnail": "https://i.ytimg.com/vi/L7XijWXkThw/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=L7XijWXkThw",
+          "views": 2377815,
+          "age_hours": 3.8
+        },
+        {
+          "id": "Rr4rV0Vol98",
+          "title": "GTA 5 LIVE #gta5 #gtav #gaming",
+          "channel": "Raajoo Gaming",
+          "thumbnail": "https://i.ytimg.com/vi/Rr4rV0Vol98/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=Rr4rV0Vol98",
+          "views": 7096495,
+          "age_hours": 25.4
+        }
+      ]
+    },
+    {
+      "phrase": "live gta5 gtav",
+      "video_count": 2,
+      "momentum": 16.92,
+      "regions": [
+        "IN"
+      ],
+      "lang": "en",
+      "example_videos": [
+        {
+          "id": "L7XijWXkThw",
+          "title": "GTA 5 LIVE  #gta5 #gtav #gaming",
+          "channel": "SANGU IS LIVE",
+          "thumbnail": "https://i.ytimg.com/vi/L7XijWXkThw/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=L7XijWXkThw",
+          "views": 2377815,
+          "age_hours": 3.8
+        },
+        {
+          "id": "Rr4rV0Vol98",
+          "title": "GTA 5 LIVE #gta5 #gtav #gaming",
+          "channel": "Raajoo Gaming",
+          "thumbnail": "https://i.ytimg.com/vi/Rr4rV0Vol98/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=Rr4rV0Vol98",
+          "views": 7096495,
+          "age_hours": 25.4
+        }
+      ]
+    },
+    {
+      "phrase": "gta5 gtav gaming",
+      "video_count": 2,
+      "momentum": 16.92,
+      "regions": [
+        "IN"
+      ],
+      "lang": "en",
+      "example_videos": [
+        {
+          "id": "L7XijWXkThw",
+          "title": "GTA 5 LIVE  #gta5 #gtav #gaming",
+          "channel": "SANGU IS LIVE",
+          "thumbnail": "https://i.ytimg.com/vi/L7XijWXkThw/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=L7XijWXkThw",
+          "views": 2377815,
+          "age_hours": 3.8
+        },
+        {
+          "id": "Rr4rV0Vol98",
+          "title": "GTA 5 LIVE #gta5 #gtav #gaming",
+          "channel": "Raajoo Gaming",
+          "thumbnail": "https://i.ytimg.com/vi/Rr4rV0Vol98/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=Rr4rV0Vol98",
+          "views": 7096495,
+          "age_hours": 25.4
+        }
+      ]
+    },
+    {
+      "phrase": "avengers doomsday",
+      "video_count": 3,
+      "momentum": 16.43,
+      "regions": [
+        "US"
+      ],
+      "lang": "en",
+      "example_videos": [
+        {
+          "id": "Fg0jyss_YnU",
+          "title": "Avengers: Doomsday | The Return | In Theaters December 18",
+          "channel": "Marvel Entertainment",
+          "thumbnail": "https://i.ytimg.com/vi/Fg0jyss_YnU/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=Fg0jyss_YnU",
+          "views": 7943506,
+          "age_hours": 68.9
+        },
+        {
+          "id": "o4aslcUEnoU",
+          "title": "Avengers: Doomsday: Every NEW REVEAL From the Empire Teaser",
+          "channel": "ScreenCrush",
+          "thumbnail": "https://i.ytimg.com/vi/o4aslcUEnoU/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=o4aslcUEnoU",
+          "views": 363726,
+          "age_hours": 39.0
+        },
+        {
+          "id": "89UgN4QALEE",
+          "title": "Where Is The Avengers Doomsday Trailer",
+          "channel": "John Campea",
+          "thumbnail": "https://i.ytimg.com/vi/89UgN4QALEE/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=89UgN4QALEE",
+          "views": 48371,
+          "age_hours": 13.5
+        }
+      ]
+    },
+    {
+      "phrase": "tulsi vivah",
+      "video_count": 3,
+      "momentum": 16.01,
+      "regions": [
+        "IN"
+      ],
+      "lang": "en",
+      "example_videos": [
+        {
+          "id": "TkgID59s8cI",
+          "title": "तुलसा की आई है बारात मेरे आंगन में | Tulsa Ki Aayi Hai Barat | तुलसी माता भजन | Tulsi Vivah Bhajan",
+          "channel": "Bajao Bhakti ",
+          "thumbnail": "https://i.ytimg.com/vi/TkgID59s8cI/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=TkgID59s8cI",
+          "views": 1398055,
+          "age_hours": 62.4
+        },
+        {
+          "id": "7jVEcnSY6a4",
+          "title": "जय जय तुलसी माता आरती | Jai Jai Tulsi Mata Aarti | Tulsi Aarti | Tulsi Vivah | Tulsi Pooja Aarti",
+          "channel": "Bhajan India",
+          "thumbnail": "https://i.ytimg.com/vi/7jVEcnSY6a4/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=7jVEcnSY6a4",
+          "views": 827084,
+          "age_hours": 50.9
+        },
+        {
+          "id": "4JGdp09QTyY",
+          "title": "तुलसी विवाह बधाई गीत | Tulsi Vivah Song 2026 | Upasna Mehta | Tulsi ji ke bhajan | Tulsi Bhajan 2026",
+          "channel": "Bhakti Sadhna भक्ति साधना",
+          "thumbnail": "https://i.ytimg.com/vi/4JGdp09QTyY/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=4JGdp09QTyY",
+          "views": 953030,
+          "age_hours": 74.9
         }
       ]
     },
     {
       "phrase": "youtubeshorts cringe lifehack",
       "video_count": 2,
-      "momentum": 15.77,
+      "momentum": 15.68,
       "regions": [
         "GB"
       ],
@@ -910,8 +630,8 @@
           "channel": "LouisAyy",
           "thumbnail": "https://i.ytimg.com/vi/UofAcEjhpUE/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=UofAcEjhpUE",
-          "views": 6637090,
-          "age_hours": 56.7
+          "views": 7304276,
+          "age_hours": 65.8
         },
         {
           "id": "PcAcLRfjuTA",
@@ -919,15 +639,15 @@
           "channel": "LouisAyy",
           "thumbnail": "https://i.ytimg.com/vi/PcAcLRfjuTA/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=PcAcLRfjuTA",
-          "views": 8504612,
-          "age_hours": 105.0
+          "views": 8883593,
+          "age_hours": 114.1
         }
       ]
     },
     {
       "phrase": "cringe lifehack comedy",
       "video_count": 2,
-      "momentum": 15.77,
+      "momentum": 15.68,
       "regions": [
         "GB"
       ],
@@ -939,8 +659,8 @@
           "channel": "LouisAyy",
           "thumbnail": "https://i.ytimg.com/vi/UofAcEjhpUE/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=UofAcEjhpUE",
-          "views": 6637090,
-          "age_hours": 56.7
+          "views": 7304276,
+          "age_hours": 65.8
         },
         {
           "id": "PcAcLRfjuTA",
@@ -948,15 +668,15 @@
           "channel": "LouisAyy",
           "thumbnail": "https://i.ytimg.com/vi/PcAcLRfjuTA/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=PcAcLRfjuTA",
-          "views": 8504612,
-          "age_hours": 105.0
+          "views": 8883593,
+          "age_hours": 114.1
         }
       ]
     },
     {
       "phrase": "lifehack comedy funny",
       "video_count": 2,
-      "momentum": 15.77,
+      "momentum": 15.68,
       "regions": [
         "GB"
       ],
@@ -968,8 +688,8 @@
           "channel": "LouisAyy",
           "thumbnail": "https://i.ytimg.com/vi/UofAcEjhpUE/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=UofAcEjhpUE",
-          "views": 6637090,
-          "age_hours": 56.7
+          "views": 7304276,
+          "age_hours": 65.8
         },
         {
           "id": "PcAcLRfjuTA",
@@ -977,8 +697,191 @@
           "channel": "LouisAyy",
           "thumbnail": "https://i.ytimg.com/vi/PcAcLRfjuTA/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=PcAcLRfjuTA",
-          "views": 8504612,
-          "age_hours": 105.0
+          "views": 8883593,
+          "age_hours": 114.1
+        }
+      ]
+    },
+    {
+      "phrase": "grand theft auto",
+      "video_count": 2,
+      "momentum": 15.37,
+      "regions": [
+        "AU"
+      ],
+      "lang": "en",
+      "example_videos": [
+        {
+          "id": "rQLEb0W7REo",
+          "title": "GTA 6 Walkthrough Gameplay Part 1 - INTRO (GRAND THEFT AUTO 6)",
+          "channel": "theRadBrad",
+          "thumbnail": "https://i.ytimg.com/vi/rQLEb0W7REo/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=rQLEb0W7REo",
+          "views": 8874026,
+          "age_hours": 69.6
+        },
+        {
+          "id": "Wd-vKw3XYP0",
+          "title": "Grand Theft Auto 6 Gameplay and Impressions...",
+          "channel": "jackfrags",
+          "thumbnail": "https://i.ytimg.com/vi/Wd-vKw3XYP0/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=Wd-vKw3XYP0",
+          "views": 3317560,
+          "age_hours": 63.8
+        }
+      ]
+    },
+    {
+      "phrase": "noads tiktok usa",
+      "video_count": 2,
+      "momentum": 14.76,
+      "regions": [
+        "IN"
+      ],
+      "lang": "en",
+      "example_videos": [
+        {
+          "id": "DgbB-9K7pfw",
+          "title": "Samsung Galaxy S27 Ultra Cobalt Violet📱🔥#noads #tiktok #usa Part 99",
+          "channel": "MR Latte Green",
+          "thumbnail": "https://i.ytimg.com/vi/DgbB-9K7pfw/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=DgbB-9K7pfw",
+          "views": 3606406,
+          "age_hours": 39.9
+        },
+        {
+          "id": "ybMCQof-qak",
+          "title": "Samsung Galaxy S29 Ultra Silver Titanium Game IQ🎮🔥#noads #tiktok #usa",
+          "channel": "MrCappuccino Green",
+          "thumbnail": "https://i.ytimg.com/vi/ybMCQof-qak/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=ybMCQof-qak",
+          "views": 9222978,
+          "age_hours": 135.9
+        }
+      ]
+    },
+    {
+      "phrase": "listen mom",
+      "video_count": 2,
+      "momentum": 13.97,
+      "regions": [
+        "US"
+      ],
+      "lang": "en",
+      "example_videos": [
+        {
+          "id": "2lOlOlWCx9g",
+          "title": "ALWAYS Listen To Your Mom 💀😭",
+          "channel": "Wild Cam",
+          "thumbnail": "https://i.ytimg.com/vi/2lOlOlWCx9g/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=2lOlOlWCx9g",
+          "views": 15878852,
+          "age_hours": 40.0
+        },
+        {
+          "id": "G69uJnkZu1Q",
+          "title": "This is why you listen to Mom #AFV #fail",
+          "channel": "America's Funniest Home Videos",
+          "thumbnail": "https://i.ytimg.com/vi/G69uJnkZu1Q/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=G69uJnkZu1Q",
+          "views": 17455449,
+          "age_hours": 83.9
+        }
+      ]
+    },
+    {
+      "phrase": "christmas",
+      "video_count": 4,
+      "momentum": 13.69,
+      "regions": [
+        "GB"
+      ],
+      "lang": "en",
+      "example_videos": [
+        {
+          "id": "yEmWcxMqPN8",
+          "title": "Nostalgic Christmas Decorate With Me | Paper Chains, Bows & Foraged Garlands",
+          "channel": "Dainty Diaries",
+          "thumbnail": "https://i.ytimg.com/vi/yEmWcxMqPN8/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=yEmWcxMqPN8",
+          "views": 60334,
+          "age_hours": 42.9
+        },
+        {
+          "id": "ybJ4FXJlbfE",
+          "title": "Top Christmas Songs of All Time Playlist 🎄 Best Christmas Music 2027",
+          "channel": "Christmas Songs and Carols - Love to Sing",
+          "thumbnail": "https://i.ytimg.com/vi/ybJ4FXJlbfE/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=ybJ4FXJlbfE",
+          "views": 60471,
+          "age_hours": 23.9
+        },
+        {
+          "id": "jZTUWIS82Q4",
+          "title": "DECORATE FOR CHRISTMAS WITH ME 2026 | cosy, nostalgic, heirloom | ad",
+          "channel": "Elle Swift",
+          "thumbnail": "https://i.ytimg.com/vi/jZTUWIS82Q4/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=jZTUWIS82Q4",
+          "views": 67757,
+          "age_hours": 44.9
+        }
+      ]
+    },
+    {
+      "phrase": "gta vi",
+      "video_count": 2,
+      "momentum": 13.63,
+      "regions": [
+        "BR"
+      ],
+      "lang": "pt",
+      "example_videos": [
+        {
+          "id": "nTJ5Z9gZsZU",
+          "title": "GTA VI: DIA 3 ZERANDO  🔴 CORINGA AO VIVO",
+          "channel": "LOUD Coringa",
+          "thumbnail": "https://i.ytimg.com/vi/nTJ5Z9gZsZU/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=nTJ5Z9gZsZU",
+          "views": 3156791,
+          "age_hours": 9.5
+        },
+        {
+          "id": "YqLOX86cdzk",
+          "title": "VEM JOGAR GTA VI JUNTO COMIGO  [AO VIVO]",
+          "channel": "Renato Garcia",
+          "thumbnail": "https://i.ytimg.com/vi/YqLOX86cdzk/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=YqLOX86cdzk",
+          "views": 678803,
+          "age_hours": 11.6
+        }
+      ]
+    },
+    {
+      "phrase": "vice city",
+      "video_count": 2,
+      "momentum": 13.27,
+      "regions": [
+        "IN"
+      ],
+      "lang": "en",
+      "example_videos": [
+        {
+          "id": "169ZzvPxvvM",
+          "title": "MY FIRST DAY IN VICE CITY | GTA 6 GAMEPLAY #1",
+          "channel": "Techno Gamerz",
+          "thumbnail": "https://i.ytimg.com/vi/169ZzvPxvvM/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=169ZzvPxvvM",
+          "views": 24524535,
+          "age_hours": 48.4
+        },
+        {
+          "id": "Vmo4SakRHnI",
+          "title": "EXPLORING THE REAL LIFE GTA VICE CITY - VLOG 170",
+          "channel": "Snax Gaming",
+          "thumbnail": "https://i.ytimg.com/vi/Vmo4SakRHnI/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=Vmo4SakRHnI",
+          "views": 1010722,
+          "age_hours": 76.9
         }
       ]
     }
@@ -987,46 +890,75 @@
     "BR": [
       {
         "phrase": "ao vivo",
-        "video_count": 4,
-        "momentum": 24.19,
+        "video_count": 6,
+        "momentum": 36.48,
         "regions": [
           "BR"
         ],
         "lang": "pt",
         "example_videos": [
           {
+            "id": "nTJ5Z9gZsZU",
+            "title": "GTA VI: DIA 3 ZERANDO  🔴 CORINGA AO VIVO",
+            "channel": "LOUD Coringa",
+            "thumbnail": "https://i.ytimg.com/vi/nTJ5Z9gZsZU/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=nTJ5Z9gZsZU",
+            "views": 3156791,
+            "age_hours": 9.5
+          },
+          {
+            "id": "dUnPGbaydTE",
+            "title": "JASON VLOGS EM AÇÃO TERCEIRO DIA DE GTA 6 l JON VLOGS AO VIVO",
+            "channel": "Jon Vlogs",
+            "thumbnail": "https://i.ytimg.com/vi/dUnPGbaydTE/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=dUnPGbaydTE",
+            "views": 431624,
+            "age_hours": 3.3
+          },
+          {
             "id": "YqLOX86cdzk",
             "title": "VEM JOGAR GTA VI JUNTO COMIGO  [AO VIVO]",
             "channel": "Renato Garcia",
             "thumbnail": "https://i.ytimg.com/vi/YqLOX86cdzk/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=YqLOX86cdzk",
-            "views": 637988,
-            "age_hours": 2.6
+            "views": 678803,
+            "age_hours": 11.6
+          }
+        ]
+      },
+      {
+        "phrase": "gta vi",
+        "video_count": 2,
+        "momentum": 13.63,
+        "regions": [
+          "BR"
+        ],
+        "lang": "pt",
+        "example_videos": [
+          {
+            "id": "nTJ5Z9gZsZU",
+            "title": "GTA VI: DIA 3 ZERANDO  🔴 CORINGA AO VIVO",
+            "channel": "LOUD Coringa",
+            "thumbnail": "https://i.ytimg.com/vi/nTJ5Z9gZsZU/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=nTJ5Z9gZsZU",
+            "views": 3156791,
+            "age_hours": 9.5
           },
           {
-            "id": "i1irTd_Wnfk",
-            "title": "🔴 [PT-BR] FFWS GLOBAL FINALS 2026 - FASE CLASSIFICATÓRIA 2 | DIA 2 - FREE FIRE AO VIVO",
-            "channel": "Free Fire Esports Brasil #FREEFIRE",
-            "thumbnail": "https://i.ytimg.com/vi/i1irTd_Wnfk/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=i1irTd_Wnfk",
-            "views": 1075987,
-            "age_hours": 12.7
-          },
-          {
-            "id": "M2LlPQ32cXQ",
-            "title": "QUASE FOI - Netto Brito, Kamisa 10 | Ilha do Arrocha (Ao Vivo em São Luís/MA) - OFICIAL",
-            "channel": "Netto Brito",
-            "thumbnail": "https://i.ytimg.com/vi/M2LlPQ32cXQ/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=M2LlPQ32cXQ",
-            "views": 119926,
-            "age_hours": 13.8
+            "id": "YqLOX86cdzk",
+            "title": "VEM JOGAR GTA VI JUNTO COMIGO  [AO VIVO]",
+            "channel": "Renato Garcia",
+            "thumbnail": "https://i.ytimg.com/vi/YqLOX86cdzk/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=YqLOX86cdzk",
+            "views": 678803,
+            "age_hours": 11.6
           }
         ]
       },
       {
         "phrase": "jogar gta",
         "video_count": 2,
-        "momentum": 13.65,
+        "momentum": 12.6,
         "regions": [
           "BR"
         ],
@@ -1038,8 +970,8 @@
             "channel": "Renato Garcia",
             "thumbnail": "https://i.ytimg.com/vi/YqLOX86cdzk/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=YqLOX86cdzk",
-            "views": 637988,
-            "age_hours": 2.6
+            "views": 678803,
+            "age_hours": 11.6
           },
           {
             "id": "P378KlLbGTA",
@@ -1047,15 +979,15 @@
             "channel": "Leozinn Deu Play ",
             "thumbnail": "https://i.ytimg.com/vi/P378KlLbGTA/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=P378KlLbGTA",
-            "views": 531550,
-            "age_hours": 6.8
+            "views": 934839,
+            "age_hours": 15.9
           }
         ]
       },
       {
         "phrase": "pela primeira vez",
         "video_count": 2,
-        "momentum": 12.89,
+        "momentum": 12.51,
         "regions": [
           "BR"
         ],
@@ -1067,8 +999,8 @@
             "channel": "Xinglau",
             "thumbnail": "https://i.ytimg.com/vi/EL_NPmxnJMM/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=EL_NPmxnJMM",
-            "views": 758257,
-            "age_hours": 14.8
+            "views": 810757,
+            "age_hours": 23.9
           },
           {
             "id": "0bG-tcIVPQQ",
@@ -1076,15 +1008,15 @@
             "channel": "Ana landim",
             "thumbnail": "https://i.ytimg.com/vi/0bG-tcIVPQQ/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=0bG-tcIVPQQ",
-            "views": 114921,
-            "age_hours": 78.9
+            "views": 115647,
+            "age_hours": 87.9
           }
         ]
       },
       {
         "phrase": "rodar gta",
         "video_count": 2,
-        "momentum": 11.23,
+        "momentum": 11.06,
         "regions": [
           "BR"
         ],
@@ -1096,8 +1028,8 @@
             "channel": "Top! Tech",
             "thumbnail": "https://i.ytimg.com/vi/7R57BpTNaAY/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=7R57BpTNaAY",
-            "views": 464098,
-            "age_hours": 31.8
+            "views": 487163,
+            "age_hours": 40.9
           },
           {
             "id": "ONeq1ihB0Iw",
@@ -1105,338 +1037,68 @@
             "channel": "Studio CI",
             "thumbnail": "https://i.ytimg.com/vi/ONeq1ihB0Iw/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=ONeq1ihB0Iw",
-            "views": 1417068,
-            "age_hours": 88.1
-          }
-        ]
-      }
-    ],
-    "US": [
-      {
-        "phrase": "life",
-        "video_count": 4,
-        "momentum": 18.33,
-        "regions": [
-          "US"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "DiKc3ypdU90",
-            "title": "Final Life: Episode 4 - GUESS WHO'S BACK??",
-            "channel": "Grian",
-            "thumbnail": "https://i.ytimg.com/vi/DiKc3ypdU90/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=DiKc3ypdU90",
-            "views": 812547,
-            "age_hours": 11.8
-          },
-          {
-            "id": "6wwtFVev9jk",
-            "title": "This Bell Makes Life Easier 😍✨",
-            "channel": "CuriousThinks",
-            "thumbnail": "https://i.ytimg.com/vi/6wwtFVev9jk/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=6wwtFVev9jk",
-            "views": 4013085,
-            "age_hours": 40.8
-          },
-          {
-            "id": "cSXgj7Rp3Ds",
-            "title": "day in the life of the owner of @bunandcovy 🌟💐🍬#lisishops #lisi #bunandcovy #hoodie #dayinmylife",
-            "channel": "Lisi Shops",
-            "thumbnail": "https://i.ytimg.com/vi/cSXgj7Rp3Ds/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=cSXgj7Rp3Ds",
-            "views": 454592,
-            "age_hours": 130.8
+            "views": 1432619,
+            "age_hours": 97.2
           }
         ]
       },
       {
-        "phrase": "you won't believe",
+        "phrase": "jon vlogs",
         "video_count": 2,
-        "momentum": 16.95,
+        "momentum": 10.8,
         "regions": [
-          "US"
+          "BR"
         ],
-        "lang": "en",
+        "lang": "pt",
         "example_videos": [
           {
-            "id": "BA4XucRzi5k",
-            "title": "You Won't Believe What He Writes On The Board Next! 😭",
-            "channel": "Foeko",
-            "thumbnail": "https://i.ytimg.com/vi/BA4XucRzi5k/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=BA4XucRzi5k",
-            "views": 8876873,
-            "age_hours": 33.3
+            "id": "dUnPGbaydTE",
+            "title": "JASON VLOGS EM AÇÃO TERCEIRO DIA DE GTA 6 l JON VLOGS AO VIVO",
+            "channel": "Jon Vlogs",
+            "thumbnail": "https://i.ytimg.com/vi/dUnPGbaydTE/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=dUnPGbaydTE",
+            "views": 431624,
+            "age_hours": 3.3
           },
           {
-            "id": "ecuEdD-fwGU",
-            "title": "You Won't Believe The Face He Makes When He Sees The ID! 😭",
-            "channel": "Foeko",
-            "thumbnail": "https://i.ytimg.com/vi/ecuEdD-fwGU/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=ecuEdD-fwGU",
-            "views": 21007488,
-            "age_hours": 106.2
-          }
-        ]
-      },
-      {
-        "phrase": "listen mom",
-        "video_count": 2,
-        "momentum": 14.11,
-        "regions": [
-          "US"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "2lOlOlWCx9g",
-            "title": "ALWAYS Listen To Your Mom 💀😭",
-            "channel": "Wild Cam",
-            "thumbnail": "https://i.ytimg.com/vi/2lOlOlWCx9g/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=2lOlOlWCx9g",
-            "views": 15399452,
-            "age_hours": 30.9
-          },
-          {
-            "id": "G69uJnkZu1Q",
-            "title": "This is why you listen to Mom #AFV #fail",
-            "channel": "America's Funniest Home Videos",
-            "thumbnail": "https://i.ytimg.com/vi/G69uJnkZu1Q/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=G69uJnkZu1Q",
-            "views": 15781276,
-            "age_hours": 74.8
-          }
-        ]
-      },
-      {
-        "phrase": "avengers doomsday",
-        "video_count": 2,
-        "momentum": 11.93,
-        "regions": [
-          "US"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "Fg0jyss_YnU",
-            "title": "Avengers: Doomsday | The Return | In Theaters December 18",
-            "channel": "Marvel Entertainment",
-            "thumbnail": "https://i.ytimg.com/vi/Fg0jyss_YnU/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=Fg0jyss_YnU",
-            "views": 7781106,
-            "age_hours": 59.8
-          },
-          {
-            "id": "o4aslcUEnoU",
-            "title": "Avengers: Doomsday: Every NEW REVEAL From the Empire Teaser",
-            "channel": "ScreenCrush",
-            "thumbnail": "https://i.ytimg.com/vi/o4aslcUEnoU/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=o4aslcUEnoU",
-            "views": 337811,
-            "age_hours": 29.9
-          }
-        ]
-      },
-      {
-        "phrase": "black friday",
-        "video_count": 2,
-        "momentum": 9.86,
-        "regions": [
-          "US"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "ET_P729YaZg",
-            "title": "Early Black Friday Deals",
-            "channel": "HotandFlashy",
-            "thumbnail": "https://i.ytimg.com/vi/ET_P729YaZg/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=ET_P729YaZg",
-            "views": 41915,
-            "age_hours": 16.3
-          },
-          {
-            "id": "anhXZyqew90",
-            "title": "Black Friday Haul!! 🛍️🌴 Designer Outlets Shopping!!",
-            "channel": "AlishaMarieVlogs",
-            "thumbnail": "https://i.ytimg.com/vi/anhXZyqew90/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=anhXZyqew90",
-            "views": 62392,
-            "age_hours": 12.1
+            "id": "1l_84NfFfnA",
+            "title": "ANA CASTELA E JON VLOGS FAZEM TREND DO “VESTIDO QUE PULA” NA TIMES SQUARE 😂",
+            "channel": "Rede Sertaneja",
+            "thumbnail": "https://i.ytimg.com/vi/1l_84NfFfnA/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=1l_84NfFfnA",
+            "views": 993872,
+            "age_hours": 482.5
           }
         ]
       }
     ],
     "IN": [
       {
-        "phrase": "noads tiktok usa",
+        "phrase": "gta live",
         "video_count": 3,
-        "momentum": 22.03,
+        "momentum": 21.87,
         "regions": [
           "IN"
         ],
         "lang": "en",
         "example_videos": [
           {
-            "id": "DgbB-9K7pfw",
-            "title": "Samsung Galaxy S27 Ultra Cobalt Violet📱🔥#noads #tiktok #usa Part 99",
-            "channel": "MR Latte Green",
-            "thumbnail": "https://i.ytimg.com/vi/DgbB-9K7pfw/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=DgbB-9K7pfw",
-            "views": 3259285,
-            "age_hours": 30.8
+            "id": "BMnH76tzoms",
+            "title": "GTA 5 LIVE | Train vs 100 Luxury Cars 😱🔥 कौन बचेगा?",
+            "channel": "Sunil Gaming",
+            "thumbnail": "https://i.ytimg.com/vi/BMnH76tzoms/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=BMnH76tzoms",
+            "views": 3109803,
+            "age_hours": 2.0
           },
           {
-            "id": "ybMCQof-qak",
-            "title": "Samsung Galaxy S29 Ultra Silver Titanium Game IQ🎮🔥#noads #tiktok #usa",
-            "channel": "MrCappuccino Green",
-            "thumbnail": "https://i.ytimg.com/vi/ybMCQof-qak/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=ybMCQof-qak",
-            "views": 9210905,
-            "age_hours": 126.8
-          },
-          {
-            "id": "UXHxotfcFF8",
-            "title": "Samsung Galaxy S27 Ultra Cobalt Violet📱🔥#noads #tiktok #usa",
-            "channel": "MrLimboGreen",
-            "thumbnail": "https://i.ytimg.com/vi/UXHxotfcFF8/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=UXHxotfcFF8",
-            "views": 4102566,
-            "age_hours": 78.8
-          }
-        ]
-      },
-      {
-        "phrase": "tulsi vivah",
-        "video_count": 4,
-        "momentum": 20.83,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "TkgID59s8cI",
-            "title": "तुलसा की आई है बारात मेरे आंगन में | Tulsa Ki Aayi Hai Barat | तुलसी माता भजन | Tulsi Vivah Bhajan",
-            "channel": "Bajao Bhakti ",
-            "thumbnail": "https://i.ytimg.com/vi/TkgID59s8cI/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=TkgID59s8cI",
-            "views": 1208461,
-            "age_hours": 53.3
-          },
-          {
-            "id": "7jVEcnSY6a4",
-            "title": "जय जय तुलसी माता आरती | Jai Jai Tulsi Mata Aarti | Tulsi Aarti | Tulsi Vivah | Tulsi Pooja Aarti",
-            "channel": "Bhajan India",
-            "thumbnail": "https://i.ytimg.com/vi/7jVEcnSY6a4/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=7jVEcnSY6a4",
-            "views": 796192,
-            "age_hours": 41.8
-          },
-          {
-            "id": "4JGdp09QTyY",
-            "title": "तुलसी विवाह बधाई गीत | Tulsi Vivah Song 2026 | Upasna Mehta | Tulsi ji ke bhajan | Tulsi Bhajan 2026",
-            "channel": "Bhakti Sadhna भक्ति साधना",
-            "thumbnail": "https://i.ytimg.com/vi/4JGdp09QTyY/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=4JGdp09QTyY",
-            "views": 930641,
-            "age_hours": 65.8
-          }
-        ]
-      },
-      {
-        "phrase": "samsung",
-        "video_count": 4,
-        "momentum": 19.24,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "DgbB-9K7pfw",
-            "title": "Samsung Galaxy S27 Ultra Cobalt Violet📱🔥#noads #tiktok #usa Part 99",
-            "channel": "MR Latte Green",
-            "thumbnail": "https://i.ytimg.com/vi/DgbB-9K7pfw/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=DgbB-9K7pfw",
-            "views": 3259285,
-            "age_hours": 30.8
-          },
-          {
-            "id": "ybMCQof-qak",
-            "title": "Samsung Galaxy S29 Ultra Silver Titanium Game IQ🎮🔥#noads #tiktok #usa",
-            "channel": "MrCappuccino Green",
-            "thumbnail": "https://i.ytimg.com/vi/ybMCQof-qak/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=ybMCQof-qak",
-            "views": 9210905,
-            "age_hours": 126.8
-          },
-          {
-            "id": "UXHxotfcFF8",
-            "title": "Samsung Galaxy S27 Ultra Cobalt Violet📱🔥#noads #tiktok #usa",
-            "channel": "MrLimboGreen",
-            "thumbnail": "https://i.ytimg.com/vi/UXHxotfcFF8/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=UXHxotfcFF8",
-            "views": 4102566,
-            "age_hours": 78.8
-          }
-        ]
-      },
-      {
-        "phrase": "ultra",
-        "video_count": 4,
-        "momentum": 19.24,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "DgbB-9K7pfw",
-            "title": "Samsung Galaxy S27 Ultra Cobalt Violet📱🔥#noads #tiktok #usa Part 99",
-            "channel": "MR Latte Green",
-            "thumbnail": "https://i.ytimg.com/vi/DgbB-9K7pfw/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=DgbB-9K7pfw",
-            "views": 3259285,
-            "age_hours": 30.8
-          },
-          {
-            "id": "ybMCQof-qak",
-            "title": "Samsung Galaxy S29 Ultra Silver Titanium Game IQ🎮🔥#noads #tiktok #usa",
-            "channel": "MrCappuccino Green",
-            "thumbnail": "https://i.ytimg.com/vi/ybMCQof-qak/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=ybMCQof-qak",
-            "views": 9210905,
-            "age_hours": 126.8
-          },
-          {
-            "id": "UXHxotfcFF8",
-            "title": "Samsung Galaxy S27 Ultra Cobalt Violet📱🔥#noads #tiktok #usa",
-            "channel": "MrLimboGreen",
-            "thumbnail": "https://i.ytimg.com/vi/UXHxotfcFF8/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=UXHxotfcFF8",
-            "views": 4102566,
-            "age_hours": 78.8
-          }
-        ]
-      },
-      {
-        "phrase": "gta live gta5",
-        "video_count": 2,
-        "momentum": 18.64,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "m_12hxRH8WQ",
+            "id": "L7XijWXkThw",
             "title": "GTA 5 LIVE  #gta5 #gtav #gaming",
-            "channel": "PAJI IS LIVE",
-            "thumbnail": "https://i.ytimg.com/vi/m_12hxRH8WQ/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=m_12hxRH8WQ",
-            "views": 5560466,
-            "age_hours": 1.0
+            "channel": "SANGU IS LIVE",
+            "thumbnail": "https://i.ytimg.com/vi/L7XijWXkThw/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=L7XijWXkThw",
+            "views": 2377815,
+            "age_hours": 3.8
           },
           {
             "id": "Rr4rV0Vol98",
@@ -1445,110 +1107,14 @@
             "thumbnail": "https://i.ytimg.com/vi/Rr4rV0Vol98/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=Rr4rV0Vol98",
             "views": 7096495,
-            "age_hours": 16.3
-          }
-        ]
-      },
-      {
-        "phrase": "live gta5 gtav",
-        "video_count": 2,
-        "momentum": 18.64,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "m_12hxRH8WQ",
-            "title": "GTA 5 LIVE  #gta5 #gtav #gaming",
-            "channel": "PAJI IS LIVE",
-            "thumbnail": "https://i.ytimg.com/vi/m_12hxRH8WQ/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=m_12hxRH8WQ",
-            "views": 5560466,
-            "age_hours": 1.0
-          },
-          {
-            "id": "Rr4rV0Vol98",
-            "title": "GTA 5 LIVE #gta5 #gtav #gaming",
-            "channel": "Raajoo Gaming",
-            "thumbnail": "https://i.ytimg.com/vi/Rr4rV0Vol98/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=Rr4rV0Vol98",
-            "views": 7096495,
-            "age_hours": 16.3
-          }
-        ]
-      },
-      {
-        "phrase": "gta5 gtav gaming",
-        "video_count": 2,
-        "momentum": 18.64,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "m_12hxRH8WQ",
-            "title": "GTA 5 LIVE  #gta5 #gtav #gaming",
-            "channel": "PAJI IS LIVE",
-            "thumbnail": "https://i.ytimg.com/vi/m_12hxRH8WQ/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=m_12hxRH8WQ",
-            "views": 5560466,
-            "age_hours": 1.0
-          },
-          {
-            "id": "Rr4rV0Vol98",
-            "title": "GTA 5 LIVE #gta5 #gtav #gaming",
-            "channel": "Raajoo Gaming",
-            "thumbnail": "https://i.ytimg.com/vi/Rr4rV0Vol98/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=Rr4rV0Vol98",
-            "views": 7096495,
-            "age_hours": 16.3
-          }
-        ]
-      },
-      {
-        "phrase": "samsung galaxy",
-        "video_count": 3,
-        "momentum": 18.36,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "DgbB-9K7pfw",
-            "title": "Samsung Galaxy S27 Ultra Cobalt Violet📱🔥#noads #tiktok #usa Part 99",
-            "channel": "MR Latte Green",
-            "thumbnail": "https://i.ytimg.com/vi/DgbB-9K7pfw/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=DgbB-9K7pfw",
-            "views": 3259285,
-            "age_hours": 30.8
-          },
-          {
-            "id": "ybMCQof-qak",
-            "title": "Samsung Galaxy S29 Ultra Silver Titanium Game IQ🎮🔥#noads #tiktok #usa",
-            "channel": "MrCappuccino Green",
-            "thumbnail": "https://i.ytimg.com/vi/ybMCQof-qak/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=ybMCQof-qak",
-            "views": 9210905,
-            "age_hours": 126.8
-          },
-          {
-            "id": "UXHxotfcFF8",
-            "title": "Samsung Galaxy S27 Ultra Cobalt Violet📱🔥#noads #tiktok #usa",
-            "channel": "MrLimboGreen",
-            "thumbnail": "https://i.ytimg.com/vi/UXHxotfcFF8/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=UXHxotfcFF8",
-            "views": 4102566,
-            "age_hours": 78.8
+            "age_hours": 25.4
           }
         ]
       },
       {
         "phrase": "hostel boys shorts",
         "video_count": 2,
-        "momentum": 17.69,
+        "momentum": 17.47,
         "regions": [
           "IN"
         ],
@@ -1560,8 +1126,8 @@
             "channel": "Shreemani Tripathi",
             "thumbnail": "https://i.ytimg.com/vi/4c7__Wo2GEk/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=4c7__Wo2GEk",
-            "views": 13481818,
-            "age_hours": 20.2
+            "views": 15028048,
+            "age_hours": 29.3
           },
           {
             "id": "LFXlUDcl0B8",
@@ -1569,160 +1135,140 @@
             "channel": "Shreemani Tripathi",
             "thumbnail": "https://i.ytimg.com/vi/LFXlUDcl0B8/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=LFXlUDcl0B8",
-            "views": 16767202,
-            "age_hours": 46.4
+            "views": 18752535,
+            "age_hours": 55.5
           }
         ]
       },
       {
-        "phrase": "ffws global finals",
+        "phrase": "gta live gta5",
         "video_count": 2,
-        "momentum": 15.07,
+        "momentum": 16.92,
         "regions": [
           "IN"
         ],
         "lang": "en",
         "example_videos": [
           {
-            "id": "sIgLMOkQsn4",
-            "title": "[HI] FFWS Global Finals 2026 - KO Phase 2 | Day 2",
-            "channel": "Free Fire India Esports",
-            "thumbnail": "https://i.ytimg.com/vi/sIgLMOkQsn4/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=sIgLMOkQsn4",
-            "views": 1446737,
-            "age_hours": 12.5
+            "id": "L7XijWXkThw",
+            "title": "GTA 5 LIVE  #gta5 #gtav #gaming",
+            "channel": "SANGU IS LIVE",
+            "thumbnail": "https://i.ytimg.com/vi/L7XijWXkThw/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=L7XijWXkThw",
+            "views": 2377815,
+            "age_hours": 3.8
           },
           {
-            "id": "0C6tv8OKYt4",
-            "title": "TOP 2 DIRECT INTO GRAND FINALE 🥵 INDIA 🇮🇳 vs BRU 🇹🇭 FLUXO 🇧🇷 || FFWS GLOBAL FINALS WATCH PARTY",
-            "channel": "Nonstop Gaming",
-            "thumbnail": "https://i.ytimg.com/vi/0C6tv8OKYt4/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=0C6tv8OKYt4",
-            "views": 415961,
-            "age_hours": 13.1
+            "id": "Rr4rV0Vol98",
+            "title": "GTA 5 LIVE #gta5 #gtav #gaming",
+            "channel": "Raajoo Gaming",
+            "thumbnail": "https://i.ytimg.com/vi/Rr4rV0Vol98/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=Rr4rV0Vol98",
+            "views": 7096495,
+            "age_hours": 25.4
           }
         ]
       },
       {
-        "phrase": "samsung galaxy s27",
+        "phrase": "live gta5 gtav",
         "video_count": 2,
-        "momentum": 14.7,
+        "momentum": 16.92,
         "regions": [
           "IN"
         ],
         "lang": "en",
         "example_videos": [
           {
-            "id": "DgbB-9K7pfw",
-            "title": "Samsung Galaxy S27 Ultra Cobalt Violet📱🔥#noads #tiktok #usa Part 99",
-            "channel": "MR Latte Green",
-            "thumbnail": "https://i.ytimg.com/vi/DgbB-9K7pfw/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=DgbB-9K7pfw",
-            "views": 3259285,
-            "age_hours": 30.8
+            "id": "L7XijWXkThw",
+            "title": "GTA 5 LIVE  #gta5 #gtav #gaming",
+            "channel": "SANGU IS LIVE",
+            "thumbnail": "https://i.ytimg.com/vi/L7XijWXkThw/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=L7XijWXkThw",
+            "views": 2377815,
+            "age_hours": 3.8
           },
           {
-            "id": "UXHxotfcFF8",
-            "title": "Samsung Galaxy S27 Ultra Cobalt Violet📱🔥#noads #tiktok #usa",
-            "channel": "MrLimboGreen",
-            "thumbnail": "https://i.ytimg.com/vi/UXHxotfcFF8/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=UXHxotfcFF8",
-            "views": 4102566,
-            "age_hours": 78.8
+            "id": "Rr4rV0Vol98",
+            "title": "GTA 5 LIVE #gta5 #gtav #gaming",
+            "channel": "Raajoo Gaming",
+            "thumbnail": "https://i.ytimg.com/vi/Rr4rV0Vol98/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=Rr4rV0Vol98",
+            "views": 7096495,
+            "age_hours": 25.4
           }
         ]
       },
       {
-        "phrase": "galaxy s27 ultra",
+        "phrase": "gta5 gtav gaming",
         "video_count": 2,
-        "momentum": 14.7,
+        "momentum": 16.92,
         "regions": [
           "IN"
         ],
         "lang": "en",
         "example_videos": [
           {
-            "id": "DgbB-9K7pfw",
-            "title": "Samsung Galaxy S27 Ultra Cobalt Violet📱🔥#noads #tiktok #usa Part 99",
-            "channel": "MR Latte Green",
-            "thumbnail": "https://i.ytimg.com/vi/DgbB-9K7pfw/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=DgbB-9K7pfw",
-            "views": 3259285,
-            "age_hours": 30.8
+            "id": "L7XijWXkThw",
+            "title": "GTA 5 LIVE  #gta5 #gtav #gaming",
+            "channel": "SANGU IS LIVE",
+            "thumbnail": "https://i.ytimg.com/vi/L7XijWXkThw/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=L7XijWXkThw",
+            "views": 2377815,
+            "age_hours": 3.8
           },
           {
-            "id": "UXHxotfcFF8",
-            "title": "Samsung Galaxy S27 Ultra Cobalt Violet📱🔥#noads #tiktok #usa",
-            "channel": "MrLimboGreen",
-            "thumbnail": "https://i.ytimg.com/vi/UXHxotfcFF8/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=UXHxotfcFF8",
-            "views": 4102566,
-            "age_hours": 78.8
+            "id": "Rr4rV0Vol98",
+            "title": "GTA 5 LIVE #gta5 #gtav #gaming",
+            "channel": "Raajoo Gaming",
+            "thumbnail": "https://i.ytimg.com/vi/Rr4rV0Vol98/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=Rr4rV0Vol98",
+            "views": 7096495,
+            "age_hours": 25.4
           }
         ]
       },
       {
-        "phrase": "s27 ultra cobalt",
-        "video_count": 2,
-        "momentum": 14.7,
+        "phrase": "tulsi vivah",
+        "video_count": 3,
+        "momentum": 16.01,
         "regions": [
           "IN"
         ],
         "lang": "en",
         "example_videos": [
           {
-            "id": "DgbB-9K7pfw",
-            "title": "Samsung Galaxy S27 Ultra Cobalt Violet📱🔥#noads #tiktok #usa Part 99",
-            "channel": "MR Latte Green",
-            "thumbnail": "https://i.ytimg.com/vi/DgbB-9K7pfw/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=DgbB-9K7pfw",
-            "views": 3259285,
-            "age_hours": 30.8
+            "id": "TkgID59s8cI",
+            "title": "तुलसा की आई है बारात मेरे आंगन में | Tulsa Ki Aayi Hai Barat | तुलसी माता भजन | Tulsi Vivah Bhajan",
+            "channel": "Bajao Bhakti ",
+            "thumbnail": "https://i.ytimg.com/vi/TkgID59s8cI/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=TkgID59s8cI",
+            "views": 1398055,
+            "age_hours": 62.4
           },
           {
-            "id": "UXHxotfcFF8",
-            "title": "Samsung Galaxy S27 Ultra Cobalt Violet📱🔥#noads #tiktok #usa",
-            "channel": "MrLimboGreen",
-            "thumbnail": "https://i.ytimg.com/vi/UXHxotfcFF8/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=UXHxotfcFF8",
-            "views": 4102566,
-            "age_hours": 78.8
+            "id": "7jVEcnSY6a4",
+            "title": "जय जय तुलसी माता आरती | Jai Jai Tulsi Mata Aarti | Tulsi Aarti | Tulsi Vivah | Tulsi Pooja Aarti",
+            "channel": "Bhajan India",
+            "thumbnail": "https://i.ytimg.com/vi/7jVEcnSY6a4/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=7jVEcnSY6a4",
+            "views": 827084,
+            "age_hours": 50.9
+          },
+          {
+            "id": "4JGdp09QTyY",
+            "title": "तुलसी विवाह बधाई गीत | Tulsi Vivah Song 2026 | Upasna Mehta | Tulsi ji ke bhajan | Tulsi Bhajan 2026",
+            "channel": "Bhakti Sadhna भक्ति साधना",
+            "thumbnail": "https://i.ytimg.com/vi/4JGdp09QTyY/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=4JGdp09QTyY",
+            "views": 953030,
+            "age_hours": 74.9
           }
         ]
       },
       {
-        "phrase": "ultra cobalt violet",
+        "phrase": "noads tiktok usa",
         "video_count": 2,
-        "momentum": 14.7,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "DgbB-9K7pfw",
-            "title": "Samsung Galaxy S27 Ultra Cobalt Violet📱🔥#noads #tiktok #usa Part 99",
-            "channel": "MR Latte Green",
-            "thumbnail": "https://i.ytimg.com/vi/DgbB-9K7pfw/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=DgbB-9K7pfw",
-            "views": 3259285,
-            "age_hours": 30.8
-          },
-          {
-            "id": "UXHxotfcFF8",
-            "title": "Samsung Galaxy S27 Ultra Cobalt Violet📱🔥#noads #tiktok #usa",
-            "channel": "MrLimboGreen",
-            "thumbnail": "https://i.ytimg.com/vi/UXHxotfcFF8/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=UXHxotfcFF8",
-            "views": 4102566,
-            "age_hours": 78.8
-          }
-        ]
-      },
-      {
-        "phrase": "cobalt violet noads",
-        "video_count": 2,
-        "momentum": 14.7,
+        "momentum": 14.76,
         "regions": [
           "IN"
         ],
@@ -1734,53 +1280,24 @@
             "channel": "MR Latte Green",
             "thumbnail": "https://i.ytimg.com/vi/DgbB-9K7pfw/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=DgbB-9K7pfw",
-            "views": 3259285,
-            "age_hours": 30.8
+            "views": 3606406,
+            "age_hours": 39.9
           },
           {
-            "id": "UXHxotfcFF8",
-            "title": "Samsung Galaxy S27 Ultra Cobalt Violet📱🔥#noads #tiktok #usa",
-            "channel": "MrLimboGreen",
-            "thumbnail": "https://i.ytimg.com/vi/UXHxotfcFF8/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=UXHxotfcFF8",
-            "views": 4102566,
-            "age_hours": 78.8
-          }
-        ]
-      },
-      {
-        "phrase": "violet noads tiktok",
-        "video_count": 2,
-        "momentum": 14.7,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "DgbB-9K7pfw",
-            "title": "Samsung Galaxy S27 Ultra Cobalt Violet📱🔥#noads #tiktok #usa Part 99",
-            "channel": "MR Latte Green",
-            "thumbnail": "https://i.ytimg.com/vi/DgbB-9K7pfw/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=DgbB-9K7pfw",
-            "views": 3259285,
-            "age_hours": 30.8
-          },
-          {
-            "id": "UXHxotfcFF8",
-            "title": "Samsung Galaxy S27 Ultra Cobalt Violet📱🔥#noads #tiktok #usa",
-            "channel": "MrLimboGreen",
-            "thumbnail": "https://i.ytimg.com/vi/UXHxotfcFF8/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=UXHxotfcFF8",
-            "views": 4102566,
-            "age_hours": 78.8
+            "id": "ybMCQof-qak",
+            "title": "Samsung Galaxy S29 Ultra Silver Titanium Game IQ🎮🔥#noads #tiktok #usa",
+            "channel": "MrCappuccino Green",
+            "thumbnail": "https://i.ytimg.com/vi/ybMCQof-qak/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=ybMCQof-qak",
+            "views": 9222978,
+            "age_hours": 135.9
           }
         ]
       },
       {
         "phrase": "vice city",
         "video_count": 2,
-        "momentum": 13.42,
+        "momentum": 13.27,
         "regions": [
           "IN"
         ],
@@ -1792,8 +1309,8 @@
             "channel": "Techno Gamerz",
             "thumbnail": "https://i.ytimg.com/vi/169ZzvPxvvM/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=169ZzvPxvvM",
-            "views": 21143312,
-            "age_hours": 39.3
+            "views": 24524535,
+            "age_hours": 48.4
           },
           {
             "id": "Vmo4SakRHnI",
@@ -1801,685 +1318,15 @@
             "channel": "Snax Gaming",
             "thumbnail": "https://i.ytimg.com/vi/Vmo4SakRHnI/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=Vmo4SakRHnI",
-            "views": 966311,
-            "age_hours": 67.8
-          }
-        ]
-      },
-      {
-        "phrase": "gta vi",
-        "video_count": 2,
-        "momentum": 12.71,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "h3qEwM6k074",
-            "title": "GTA VI FIRST LIVESTREAM 😎 | GamerFleet ",
-            "channel": "GamerFleet",
-            "thumbnail": "https://i.ytimg.com/vi/h3qEwM6k074/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=h3qEwM6k074",
-            "views": 4150576,
-            "age_hours": 63.8
-          },
-          {
-            "id": "C1uW8UalRCI",
-            "title": "Aagya GTA VI वाला Wifi 🥹🤩 #viral #trending #gta6 #new #gaming #streaming #gta6gameplay #gta #tech",
-            "channel": "Mahadev Tyagi",
-            "thumbnail": "https://i.ytimg.com/vi/C1uW8UalRCI/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=C1uW8UalRCI",
-            "views": 6004435,
-            "age_hours": 91.8
-          }
-        ]
-      }
-    ],
-    "AU": [
-      {
-        "phrase": "grand theft auto",
-        "video_count": 2,
-        "momentum": 15.54,
-        "regions": [
-          "AU"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "rQLEb0W7REo",
-            "title": "GTA 6 Walkthrough Gameplay Part 1 - INTRO (GRAND THEFT AUTO 6)",
-            "channel": "theRadBrad",
-            "thumbnail": "https://i.ytimg.com/vi/rQLEb0W7REo/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=rQLEb0W7REo",
-            "views": 8621787,
-            "age_hours": 60.5
-          },
-          {
-            "id": "Wd-vKw3XYP0",
-            "title": "Grand Theft Auto 6 Gameplay and Impressions...",
-            "channel": "jackfrags",
-            "thumbnail": "https://i.ytimg.com/vi/Wd-vKw3XYP0/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=Wd-vKw3XYP0",
-            "views": 3260281,
-            "age_hours": 54.7
-          }
-        ]
-      },
-      {
-        "phrase": "weekly vlog",
-        "video_count": 2,
-        "momentum": 6.67,
-        "regions": [
-          "AU"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "FwO9Wnl6olY",
-            "title": "a chatty weekly vlog! life updates, huge baby haul, productive days & exciting unboxings 🎄🎅",
-            "channel": "Hogan Twins",
-            "thumbnail": "https://i.ytimg.com/vi/FwO9Wnl6olY/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=FwO9Wnl6olY",
-            "views": 35839,
-            "age_hours": 92.6
-          },
-          {
-            "id": "a8E0v90NL4I",
-            "title": "weekly vlog 🥐 last few days in paris, apartment tour, champagne day trip ",
-            "channel": "Jaz Hand",
-            "thumbnail": "https://i.ytimg.com/vi/a8E0v90NL4I/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=a8E0v90NL4I",
-            "views": 37672,
-            "age_hours": 127.8
-          }
-        ]
-      }
-    ],
-    "GB": [
-      {
-        "phrase": "grand theft auto",
-        "video_count": 3,
-        "momentum": 22.12,
-        "regions": [
-          "GB"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "mATQ5maJ234",
-            "title": "GTA 6 Walkthrough Gameplay Part 3 - LUCIA CAMINOS (GRAND THEFT AUTO 6)",
-            "channel": "theRadBrad",
-            "thumbnail": "https://i.ytimg.com/vi/mATQ5maJ234/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=mATQ5maJ234",
-            "views": 567226,
-            "age_hours": 13.8
-          },
-          {
-            "id": "hI4k9ewBEFA",
-            "title": "ABSOLUTE CINEMA | Grand Theft Auto 6 - Part 3",
-            "channel": "jacksepticeye",
-            "thumbnail": "https://i.ytimg.com/vi/hI4k9ewBEFA/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=hI4k9ewBEFA",
-            "views": 402620,
-            "age_hours": 11.8
-          },
-          {
-            "id": "NYgDT0RR0Ws",
-            "title": "🔴 GTA 6 DAY 3 LIVE 🔴 COMPLETING GRAND THEFT AUTO VI 🔴 (PS5 PRO) 🔴",
-            "channel": "ZerkaaPlays",
-            "thumbnail": "https://i.ytimg.com/vi/NYgDT0RR0Ws/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=NYgDT0RR0Ws",
-            "views": 424221,
-            "age_hours": 7.8
-          }
-        ]
-      },
-      {
-        "phrase": "youtubeshorts cringe lifehack",
-        "video_count": 2,
-        "momentum": 15.77,
-        "regions": [
-          "GB"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "UofAcEjhpUE",
-            "title": "How your dad wraps presents... #shorts #shortsfeed #youtubeshorts #cringe #lifehack #comedy #funny",
-            "channel": "LouisAyy",
-            "thumbnail": "https://i.ytimg.com/vi/UofAcEjhpUE/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=UofAcEjhpUE",
-            "views": 6637090,
-            "age_hours": 56.7
-          },
-          {
-            "id": "PcAcLRfjuTA",
-            "title": "This pillow eats you... #shorts #shortsfeed #youtubeshorts #cringe #lifehack #comedy #funny",
-            "channel": "LouisAyy",
-            "thumbnail": "https://i.ytimg.com/vi/PcAcLRfjuTA/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=PcAcLRfjuTA",
-            "views": 8504612,
-            "age_hours": 105.0
-          }
-        ]
-      },
-      {
-        "phrase": "cringe lifehack comedy",
-        "video_count": 2,
-        "momentum": 15.77,
-        "regions": [
-          "GB"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "UofAcEjhpUE",
-            "title": "How your dad wraps presents... #shorts #shortsfeed #youtubeshorts #cringe #lifehack #comedy #funny",
-            "channel": "LouisAyy",
-            "thumbnail": "https://i.ytimg.com/vi/UofAcEjhpUE/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=UofAcEjhpUE",
-            "views": 6637090,
-            "age_hours": 56.7
-          },
-          {
-            "id": "PcAcLRfjuTA",
-            "title": "This pillow eats you... #shorts #shortsfeed #youtubeshorts #cringe #lifehack #comedy #funny",
-            "channel": "LouisAyy",
-            "thumbnail": "https://i.ytimg.com/vi/PcAcLRfjuTA/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=PcAcLRfjuTA",
-            "views": 8504612,
-            "age_hours": 105.0
-          }
-        ]
-      },
-      {
-        "phrase": "lifehack comedy funny",
-        "video_count": 2,
-        "momentum": 15.77,
-        "regions": [
-          "GB"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "UofAcEjhpUE",
-            "title": "How your dad wraps presents... #shorts #shortsfeed #youtubeshorts #cringe #lifehack #comedy #funny",
-            "channel": "LouisAyy",
-            "thumbnail": "https://i.ytimg.com/vi/UofAcEjhpUE/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=UofAcEjhpUE",
-            "views": 6637090,
-            "age_hours": 56.7
-          },
-          {
-            "id": "PcAcLRfjuTA",
-            "title": "This pillow eats you... #shorts #shortsfeed #youtubeshorts #cringe #lifehack #comedy #funny",
-            "channel": "LouisAyy",
-            "thumbnail": "https://i.ytimg.com/vi/PcAcLRfjuTA/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=PcAcLRfjuTA",
-            "views": 8504612,
-            "age_hours": 105.0
-          }
-        ]
-      }
-    ],
-    "CA": [],
-    "DE": [
-      {
-        "phrase": "viral",
-        "video_count": 4,
-        "momentum": 17.84,
-        "regions": [
-          "DE"
-        ],
-        "lang": "de",
-        "example_videos": [
-          {
-            "id": "2c0KvKEotgs",
-            "title": "War das Fair?🙄😭 #selinaundharoon #couple #viral #humor #comedy #challenge #fyp #fy",
-            "channel": "Selina & Haroon",
-            "thumbnail": "https://i.ytimg.com/vi/2c0KvKEotgs/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=2c0KvKEotgs",
-            "views": 995483,
-            "age_hours": 34.3
-          },
-          {
-            "id": "N9db5XRIKEg",
-            "title": "Wie kann das sein..? #fypシ゚viral",
-            "channel": "BENNI BERICHTET",
-            "thumbnail": "https://i.ytimg.com/vi/N9db5XRIKEg/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=N9db5XRIKEg",
-            "views": 833532,
-            "age_hours": 49.8
-          },
-          {
-            "id": "RDYGyzC63K0",
-            "title": "Pov: diese eine komische Person, die Winter mag😂❄️ #winter #kalt #funny #pov #relatable #viral #fy",
-            "channel": "KevinWhoYT",
-            "thumbnail": "https://i.ytimg.com/vi/RDYGyzC63K0/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=RDYGyzC63K0",
-            "views": 1299649,
-            "age_hours": 60.0
-          }
-        ]
-      },
-      {
-        "phrase": "diese",
-        "video_count": 4,
-        "momentum": 17.18,
-        "regions": [
-          "DE"
-        ],
-        "lang": "de",
-        "example_videos": [
-          {
-            "id": "RDYGyzC63K0",
-            "title": "Pov: diese eine komische Person, die Winter mag😂❄️ #winter #kalt #funny #pov #relatable #viral #fy",
-            "channel": "KevinWhoYT",
-            "thumbnail": "https://i.ytimg.com/vi/RDYGyzC63K0/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=RDYGyzC63K0",
-            "views": 1299649,
-            "age_hours": 60.0
-          },
-          {
-            "id": "neU8Fm-CVec",
-            "title": "Diese Website hat Zugriff auf ALLE Security Kameras",
-            "channel": "LUCREW",
-            "thumbnail": "https://i.ytimg.com/vi/neU8Fm-CVec/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=neU8Fm-CVec",
-            "views": 196242,
-            "age_hours": 13.8
-          },
-          {
-            "id": "LoBwxlipVvs",
-            "title": "Diese Füllerfeder öffnet sich wie eine Blüte",
-            "channel": "Kung Fu Truth",
-            "thumbnail": "https://i.ytimg.com/vi/LoBwxlipVvs/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=LoBwxlipVvs",
-            "views": 2271481,
-            "age_hours": 139.8
-          }
-        ]
-      },
-      {
-        "phrase": "trailer german deutsch",
-        "video_count": 2,
-        "momentum": 11.29,
-        "regions": [
-          "DE"
-        ],
-        "lang": "de",
-        "example_videos": [
-          {
-            "id": "LUKsyOCxKPs",
-            "title": "ICE AGE 6: Am Siedepunkt Trailer German Deutsch (2027)",
-            "channel": "KinoCheck",
-            "thumbnail": "https://i.ytimg.com/vi/LUKsyOCxKPs/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=LUKsyOCxKPs",
-            "views": 441297,
-            "age_hours": 35.1
-          },
-          {
-            "id": "qOhPSfv24ss",
-            "title": "INVINCIBLE Staffel 5 Teaser Trailer German Deutsch (2027)",
-            "channel": "KinoCheck Heimkino",
-            "thumbnail": "https://i.ytimg.com/vi/qOhPSfv24ss/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=qOhPSfv24ss",
-            "views": 47322,
-            "age_hours": 34.7
-          }
-        ]
-      },
-      {
-        "phrase": "official video",
-        "video_count": 2,
-        "momentum": 11.19,
-        "regions": [
-          "DE"
-        ],
-        "lang": "de",
-        "example_videos": [
-          {
-            "id": "jc28hp-t6MM",
-            "title": "Džejla Ramović & Jakov Jozinović - Suze (Official video)",
-            "channel": "Jakov Jozinovic",
-            "thumbnail": "https://i.ytimg.com/vi/jc28hp-t6MM/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=jc28hp-t6MM",
-            "views": 667323,
-            "age_hours": 18.3
-          },
-          {
-            "id": "AtERC6CZz2A",
-            "title": "Celo & Abdi x Hanybal - DLIA / Ticker die rappen (prod. von m3) [Official Video]",
-            "channel": "385idéal",
-            "thumbnail": "https://i.ytimg.com/vi/AtERC6CZz2A/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=AtERC6CZz2A",
-            "views": 91346,
-            "age_hours": 29.6
-          }
-        ]
-      }
-    ],
-    "ALL": [
-      {
-        "phrase": "ao vivo",
-        "video_count": 4,
-        "momentum": 24.19,
-        "regions": [
-          "BR"
-        ],
-        "lang": "pt",
-        "example_videos": [
-          {
-            "id": "YqLOX86cdzk",
-            "title": "VEM JOGAR GTA VI JUNTO COMIGO  [AO VIVO]",
-            "channel": "Renato Garcia",
-            "thumbnail": "https://i.ytimg.com/vi/YqLOX86cdzk/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=YqLOX86cdzk",
-            "views": 637988,
-            "age_hours": 2.6
-          },
-          {
-            "id": "i1irTd_Wnfk",
-            "title": "🔴 [PT-BR] FFWS GLOBAL FINALS 2026 - FASE CLASSIFICATÓRIA 2 | DIA 2 - FREE FIRE AO VIVO",
-            "channel": "Free Fire Esports Brasil #FREEFIRE",
-            "thumbnail": "https://i.ytimg.com/vi/i1irTd_Wnfk/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=i1irTd_Wnfk",
-            "views": 1075987,
-            "age_hours": 12.7
-          },
-          {
-            "id": "M2LlPQ32cXQ",
-            "title": "QUASE FOI - Netto Brito, Kamisa 10 | Ilha do Arrocha (Ao Vivo em São Luís/MA) - OFICIAL",
-            "channel": "Netto Brito",
-            "thumbnail": "https://i.ytimg.com/vi/M2LlPQ32cXQ/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=M2LlPQ32cXQ",
-            "views": 119926,
-            "age_hours": 13.8
-          }
-        ]
-      },
-      {
-        "phrase": "grand theft auto",
-        "video_count": 3,
-        "momentum": 22.12,
-        "regions": [
-          "GB"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "mATQ5maJ234",
-            "title": "GTA 6 Walkthrough Gameplay Part 3 - LUCIA CAMINOS (GRAND THEFT AUTO 6)",
-            "channel": "theRadBrad",
-            "thumbnail": "https://i.ytimg.com/vi/mATQ5maJ234/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=mATQ5maJ234",
-            "views": 567226,
-            "age_hours": 13.8
-          },
-          {
-            "id": "hI4k9ewBEFA",
-            "title": "ABSOLUTE CINEMA | Grand Theft Auto 6 - Part 3",
-            "channel": "jacksepticeye",
-            "thumbnail": "https://i.ytimg.com/vi/hI4k9ewBEFA/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=hI4k9ewBEFA",
-            "views": 402620,
-            "age_hours": 11.8
-          },
-          {
-            "id": "NYgDT0RR0Ws",
-            "title": "🔴 GTA 6 DAY 3 LIVE 🔴 COMPLETING GRAND THEFT AUTO VI 🔴 (PS5 PRO) 🔴",
-            "channel": "ZerkaaPlays",
-            "thumbnail": "https://i.ytimg.com/vi/NYgDT0RR0Ws/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=NYgDT0RR0Ws",
-            "views": 424221,
-            "age_hours": 7.8
-          }
-        ]
-      },
-      {
-        "phrase": "noads tiktok usa",
-        "video_count": 3,
-        "momentum": 22.03,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "DgbB-9K7pfw",
-            "title": "Samsung Galaxy S27 Ultra Cobalt Violet📱🔥#noads #tiktok #usa Part 99",
-            "channel": "MR Latte Green",
-            "thumbnail": "https://i.ytimg.com/vi/DgbB-9K7pfw/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=DgbB-9K7pfw",
-            "views": 3259285,
-            "age_hours": 30.8
-          },
-          {
-            "id": "ybMCQof-qak",
-            "title": "Samsung Galaxy S29 Ultra Silver Titanium Game IQ🎮🔥#noads #tiktok #usa",
-            "channel": "MrCappuccino Green",
-            "thumbnail": "https://i.ytimg.com/vi/ybMCQof-qak/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=ybMCQof-qak",
-            "views": 9210905,
-            "age_hours": 126.8
-          },
-          {
-            "id": "UXHxotfcFF8",
-            "title": "Samsung Galaxy S27 Ultra Cobalt Violet📱🔥#noads #tiktok #usa",
-            "channel": "MrLimboGreen",
-            "thumbnail": "https://i.ytimg.com/vi/UXHxotfcFF8/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=UXHxotfcFF8",
-            "views": 4102566,
-            "age_hours": 78.8
-          }
-        ]
-      },
-      {
-        "phrase": "tulsi vivah",
-        "video_count": 4,
-        "momentum": 20.83,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "TkgID59s8cI",
-            "title": "तुलसा की आई है बारात मेरे आंगन में | Tulsa Ki Aayi Hai Barat | तुलसी माता भजन | Tulsi Vivah Bhajan",
-            "channel": "Bajao Bhakti ",
-            "thumbnail": "https://i.ytimg.com/vi/TkgID59s8cI/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=TkgID59s8cI",
-            "views": 1208461,
-            "age_hours": 53.3
-          },
-          {
-            "id": "7jVEcnSY6a4",
-            "title": "जय जय तुलसी माता आरती | Jai Jai Tulsi Mata Aarti | Tulsi Aarti | Tulsi Vivah | Tulsi Pooja Aarti",
-            "channel": "Bhajan India",
-            "thumbnail": "https://i.ytimg.com/vi/7jVEcnSY6a4/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=7jVEcnSY6a4",
-            "views": 796192,
-            "age_hours": 41.8
-          },
-          {
-            "id": "4JGdp09QTyY",
-            "title": "तुलसी विवाह बधाई गीत | Tulsi Vivah Song 2026 | Upasna Mehta | Tulsi ji ke bhajan | Tulsi Bhajan 2026",
-            "channel": "Bhakti Sadhna भक्ति साधना",
-            "thumbnail": "https://i.ytimg.com/vi/4JGdp09QTyY/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=4JGdp09QTyY",
-            "views": 930641,
-            "age_hours": 65.8
-          }
-        ]
-      },
-      {
-        "phrase": "samsung",
-        "video_count": 4,
-        "momentum": 19.24,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "DgbB-9K7pfw",
-            "title": "Samsung Galaxy S27 Ultra Cobalt Violet📱🔥#noads #tiktok #usa Part 99",
-            "channel": "MR Latte Green",
-            "thumbnail": "https://i.ytimg.com/vi/DgbB-9K7pfw/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=DgbB-9K7pfw",
-            "views": 3259285,
-            "age_hours": 30.8
-          },
-          {
-            "id": "ybMCQof-qak",
-            "title": "Samsung Galaxy S29 Ultra Silver Titanium Game IQ🎮🔥#noads #tiktok #usa",
-            "channel": "MrCappuccino Green",
-            "thumbnail": "https://i.ytimg.com/vi/ybMCQof-qak/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=ybMCQof-qak",
-            "views": 9210905,
-            "age_hours": 126.8
-          },
-          {
-            "id": "UXHxotfcFF8",
-            "title": "Samsung Galaxy S27 Ultra Cobalt Violet📱🔥#noads #tiktok #usa",
-            "channel": "MrLimboGreen",
-            "thumbnail": "https://i.ytimg.com/vi/UXHxotfcFF8/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=UXHxotfcFF8",
-            "views": 4102566,
-            "age_hours": 78.8
-          }
-        ]
-      },
-      {
-        "phrase": "ultra",
-        "video_count": 4,
-        "momentum": 19.24,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "DgbB-9K7pfw",
-            "title": "Samsung Galaxy S27 Ultra Cobalt Violet📱🔥#noads #tiktok #usa Part 99",
-            "channel": "MR Latte Green",
-            "thumbnail": "https://i.ytimg.com/vi/DgbB-9K7pfw/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=DgbB-9K7pfw",
-            "views": 3259285,
-            "age_hours": 30.8
-          },
-          {
-            "id": "ybMCQof-qak",
-            "title": "Samsung Galaxy S29 Ultra Silver Titanium Game IQ🎮🔥#noads #tiktok #usa",
-            "channel": "MrCappuccino Green",
-            "thumbnail": "https://i.ytimg.com/vi/ybMCQof-qak/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=ybMCQof-qak",
-            "views": 9210905,
-            "age_hours": 126.8
-          },
-          {
-            "id": "UXHxotfcFF8",
-            "title": "Samsung Galaxy S27 Ultra Cobalt Violet📱🔥#noads #tiktok #usa",
-            "channel": "MrLimboGreen",
-            "thumbnail": "https://i.ytimg.com/vi/UXHxotfcFF8/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=UXHxotfcFF8",
-            "views": 4102566,
-            "age_hours": 78.8
-          }
-        ]
-      },
-      {
-        "phrase": "gta live gta5",
-        "video_count": 2,
-        "momentum": 18.64,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "m_12hxRH8WQ",
-            "title": "GTA 5 LIVE  #gta5 #gtav #gaming",
-            "channel": "PAJI IS LIVE",
-            "thumbnail": "https://i.ytimg.com/vi/m_12hxRH8WQ/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=m_12hxRH8WQ",
-            "views": 5560466,
-            "age_hours": 1.0
-          },
-          {
-            "id": "Rr4rV0Vol98",
-            "title": "GTA 5 LIVE #gta5 #gtav #gaming",
-            "channel": "Raajoo Gaming",
-            "thumbnail": "https://i.ytimg.com/vi/Rr4rV0Vol98/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=Rr4rV0Vol98",
-            "views": 7096495,
-            "age_hours": 16.3
-          }
-        ]
-      },
-      {
-        "phrase": "live gta5 gtav",
-        "video_count": 2,
-        "momentum": 18.64,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "m_12hxRH8WQ",
-            "title": "GTA 5 LIVE  #gta5 #gtav #gaming",
-            "channel": "PAJI IS LIVE",
-            "thumbnail": "https://i.ytimg.com/vi/m_12hxRH8WQ/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=m_12hxRH8WQ",
-            "views": 5560466,
-            "age_hours": 1.0
-          },
-          {
-            "id": "Rr4rV0Vol98",
-            "title": "GTA 5 LIVE #gta5 #gtav #gaming",
-            "channel": "Raajoo Gaming",
-            "thumbnail": "https://i.ytimg.com/vi/Rr4rV0Vol98/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=Rr4rV0Vol98",
-            "views": 7096495,
-            "age_hours": 16.3
-          }
-        ]
-      },
-      {
-        "phrase": "gta5 gtav gaming",
-        "video_count": 2,
-        "momentum": 18.64,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "m_12hxRH8WQ",
-            "title": "GTA 5 LIVE  #gta5 #gtav #gaming",
-            "channel": "PAJI IS LIVE",
-            "thumbnail": "https://i.ytimg.com/vi/m_12hxRH8WQ/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=m_12hxRH8WQ",
-            "views": 5560466,
-            "age_hours": 1.0
-          },
-          {
-            "id": "Rr4rV0Vol98",
-            "title": "GTA 5 LIVE #gta5 #gtav #gaming",
-            "channel": "Raajoo Gaming",
-            "thumbnail": "https://i.ytimg.com/vi/Rr4rV0Vol98/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=Rr4rV0Vol98",
-            "views": 7096495,
-            "age_hours": 16.3
+            "views": 1010722,
+            "age_hours": 76.9
           }
         ]
       },
       {
         "phrase": "samsung galaxy",
-        "video_count": 3,
-        "momentum": 18.36,
+        "video_count": 2,
+        "momentum": 12.3,
         "regions": [
           "IN"
         ],
@@ -2491,8 +1338,8 @@
             "channel": "MR Latte Green",
             "thumbnail": "https://i.ytimg.com/vi/DgbB-9K7pfw/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=DgbB-9K7pfw",
-            "views": 3259285,
-            "age_hours": 30.8
+            "views": 3606406,
+            "age_hours": 39.9
           },
           {
             "id": "ybMCQof-qak",
@@ -2500,167 +1347,104 @@
             "channel": "MrCappuccino Green",
             "thumbnail": "https://i.ytimg.com/vi/ybMCQof-qak/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=ybMCQof-qak",
-            "views": 9210905,
-            "age_hours": 126.8
-          },
-          {
-            "id": "UXHxotfcFF8",
-            "title": "Samsung Galaxy S27 Ultra Cobalt Violet📱🔥#noads #tiktok #usa",
-            "channel": "MrLimboGreen",
-            "thumbnail": "https://i.ytimg.com/vi/UXHxotfcFF8/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=UXHxotfcFF8",
-            "views": 4102566,
-            "age_hours": 78.8
+            "views": 9222978,
+            "age_hours": 135.9
           }
         ]
       },
       {
-        "phrase": "life",
-        "video_count": 4,
-        "momentum": 18.33,
-        "regions": [
-          "US"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "DiKc3ypdU90",
-            "title": "Final Life: Episode 4 - GUESS WHO'S BACK??",
-            "channel": "Grian",
-            "thumbnail": "https://i.ytimg.com/vi/DiKc3ypdU90/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=DiKc3ypdU90",
-            "views": 812547,
-            "age_hours": 11.8
-          },
-          {
-            "id": "6wwtFVev9jk",
-            "title": "This Bell Makes Life Easier 😍✨",
-            "channel": "CuriousThinks",
-            "thumbnail": "https://i.ytimg.com/vi/6wwtFVev9jk/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=6wwtFVev9jk",
-            "views": 4013085,
-            "age_hours": 40.8
-          },
-          {
-            "id": "cSXgj7Rp3Ds",
-            "title": "day in the life of the owner of @bunandcovy 🌟💐🍬#lisishops #lisi #bunandcovy #hoodie #dayinmylife",
-            "channel": "Lisi Shops",
-            "thumbnail": "https://i.ytimg.com/vi/cSXgj7Rp3Ds/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=cSXgj7Rp3Ds",
-            "views": 454592,
-            "age_hours": 130.8
-          }
-        ]
-      },
-      {
-        "phrase": "viral",
-        "video_count": 4,
-        "momentum": 17.84,
-        "regions": [
-          "DE"
-        ],
-        "lang": "de",
-        "example_videos": [
-          {
-            "id": "2c0KvKEotgs",
-            "title": "War das Fair?🙄😭 #selinaundharoon #couple #viral #humor #comedy #challenge #fyp #fy",
-            "channel": "Selina & Haroon",
-            "thumbnail": "https://i.ytimg.com/vi/2c0KvKEotgs/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=2c0KvKEotgs",
-            "views": 995483,
-            "age_hours": 34.3
-          },
-          {
-            "id": "N9db5XRIKEg",
-            "title": "Wie kann das sein..? #fypシ゚viral",
-            "channel": "BENNI BERICHTET",
-            "thumbnail": "https://i.ytimg.com/vi/N9db5XRIKEg/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=N9db5XRIKEg",
-            "views": 833532,
-            "age_hours": 49.8
-          },
-          {
-            "id": "RDYGyzC63K0",
-            "title": "Pov: diese eine komische Person, die Winter mag😂❄️ #winter #kalt #funny #pov #relatable #viral #fy",
-            "channel": "KevinWhoYT",
-            "thumbnail": "https://i.ytimg.com/vi/RDYGyzC63K0/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=RDYGyzC63K0",
-            "views": 1299649,
-            "age_hours": 60.0
-          }
-        ]
-      },
-      {
-        "phrase": "hostel boys shorts",
+        "phrase": "i built",
         "video_count": 2,
-        "momentum": 17.69,
+        "momentum": 11.96,
         "regions": [
           "IN"
         ],
         "lang": "en",
         "example_videos": [
           {
-            "id": "4c7__Wo2GEk",
-            "title": "Hidden camera lagaya! Hostel boys- Part 2 #shorts",
-            "channel": "Shreemani Tripathi",
-            "thumbnail": "https://i.ytimg.com/vi/4c7__Wo2GEk/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=4c7__Wo2GEk",
-            "views": 13481818,
-            "age_hours": 20.2
+            "id": "-GW92hZ94ys",
+            "title": "I Built a House in GTA 6 to impress My GF (GTA 6 Episode 1)",
+            "channel": "Live Insaan",
+            "thumbnail": "https://i.ytimg.com/vi/-GW92hZ94ys/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=-GW92hZ94ys",
+            "views": 1238525,
+            "age_hours": 26.4
           },
           {
-            "id": "LFXlUDcl0B8",
-            "title": "Breakfast machine for hostel boys! #shorts",
-            "channel": "Shreemani Tripathi",
-            "thumbnail": "https://i.ytimg.com/vi/LFXlUDcl0B8/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=LFXlUDcl0B8",
-            "views": 16767202,
-            "age_hours": 46.4
+            "id": "D7gFFUUdPGc",
+            "title": "I Built Secret Underground Room To Play GTA 6!",
+            "channel": "Sarthak Sachdeva",
+            "thumbnail": "https://i.ytimg.com/vi/D7gFFUUdPGc/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=D7gFFUUdPGc",
+            "views": 604483,
+            "age_hours": 25.1
           }
         ]
       },
       {
-        "phrase": "diese",
-        "video_count": 4,
-        "momentum": 17.18,
+        "phrase": "iphone pro",
+        "video_count": 2,
+        "momentum": 11.31,
         "regions": [
-          "DE"
+          "IN"
         ],
-        "lang": "de",
+        "lang": "en",
         "example_videos": [
           {
-            "id": "RDYGyzC63K0",
-            "title": "Pov: diese eine komische Person, die Winter mag😂❄️ #winter #kalt #funny #pov #relatable #viral #fy",
-            "channel": "KevinWhoYT",
-            "thumbnail": "https://i.ytimg.com/vi/RDYGyzC63K0/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=RDYGyzC63K0",
-            "views": 1299649,
-            "age_hours": 60.0
+            "id": "UA_d6dv3Q-M",
+            "title": "iPhone 18 Pro Max Vs Samsung S26 Ultra Vs iPhone 16 Pro Camera Showdown",
+            "channel": "Gizmo Rush Shorts",
+            "thumbnail": "https://i.ytimg.com/vi/UA_d6dv3Q-M/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=UA_d6dv3Q-M",
+            "views": 2696141,
+            "age_hours": 70.4
           },
           {
-            "id": "neU8Fm-CVec",
-            "title": "Diese Website hat Zugriff auf ALLE Security Kameras",
-            "channel": "LUCREW",
-            "thumbnail": "https://i.ytimg.com/vi/neU8Fm-CVec/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=neU8Fm-CVec",
-            "views": 196242,
-            "age_hours": 13.8
-          },
-          {
-            "id": "LoBwxlipVvs",
-            "title": "Diese Füllerfeder öffnet sich wie eine Blüte",
-            "channel": "Kung Fu Truth",
-            "thumbnail": "https://i.ytimg.com/vi/LoBwxlipVvs/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=LoBwxlipVvs",
-            "views": 2271481,
-            "age_hours": 139.8
+            "id": "IUEhTOnbwgo",
+            "title": "🔥iPhone 17 to iPhone 18 pro 😳.",
+            "channel": "Mobiletrend",
+            "thumbnail": "https://i.ytimg.com/vi/IUEhTOnbwgo/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=IUEhTOnbwgo",
+            "views": 3920769,
+            "age_hours": 170.4
           }
         ]
       },
+      {
+        "phrase": "mini vlog",
+        "video_count": 2,
+        "momentum": 10.51,
+        "regions": [
+          "IN"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "F5O7xI3T5BE",
+            "title": "MINI VLOG ✨🫶 #sradhapanigrahi #koko #family #travel",
+            "channel": "Sradha Panigrahi",
+            "thumbnail": "https://i.ytimg.com/vi/F5O7xI3T5BE/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=F5O7xI3T5BE",
+            "views": 144925,
+            "age_hours": 7.9
+          },
+          {
+            "id": "GlFyR6s8rHU",
+            "title": "HYDERABADI MINI VLOG ZAINAB KE BHAI KI SHADI #laadbazaar #shadi",
+            "channel": "HYD SHORTS ",
+            "thumbnail": "https://i.ytimg.com/vi/GlFyR6s8rHU/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=GlFyR6s8rHU",
+            "views": 437560,
+            "age_hours": 145.6
+          }
+        ]
+      }
+    ],
+    "US": [
       {
         "phrase": "you won't believe",
         "video_count": 2,
-        "momentum": 16.95,
+        "momentum": 16.94,
         "regions": [
           "US"
         ],
@@ -2672,8 +1456,8 @@
             "channel": "Foeko",
             "thumbnail": "https://i.ytimg.com/vi/BA4XucRzi5k/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=BA4XucRzi5k",
-            "views": 8876873,
-            "age_hours": 33.3
+            "views": 11399443,
+            "age_hours": 42.4
           },
           {
             "id": "ecuEdD-fwGU",
@@ -2681,15 +1465,142 @@
             "channel": "Foeko",
             "thumbnail": "https://i.ytimg.com/vi/ecuEdD-fwGU/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=ecuEdD-fwGU",
-            "views": 21007488,
-            "age_hours": 106.2
+            "views": 22671024,
+            "age_hours": 115.3
           }
         ]
       },
       {
+        "phrase": "avengers doomsday",
+        "video_count": 3,
+        "momentum": 16.43,
+        "regions": [
+          "US"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "Fg0jyss_YnU",
+            "title": "Avengers: Doomsday | The Return | In Theaters December 18",
+            "channel": "Marvel Entertainment",
+            "thumbnail": "https://i.ytimg.com/vi/Fg0jyss_YnU/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=Fg0jyss_YnU",
+            "views": 7943506,
+            "age_hours": 68.9
+          },
+          {
+            "id": "o4aslcUEnoU",
+            "title": "Avengers: Doomsday: Every NEW REVEAL From the Empire Teaser",
+            "channel": "ScreenCrush",
+            "thumbnail": "https://i.ytimg.com/vi/o4aslcUEnoU/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=o4aslcUEnoU",
+            "views": 363726,
+            "age_hours": 39.0
+          },
+          {
+            "id": "89UgN4QALEE",
+            "title": "Where Is The Avengers Doomsday Trailer",
+            "channel": "John Campea",
+            "thumbnail": "https://i.ytimg.com/vi/89UgN4QALEE/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=89UgN4QALEE",
+            "views": 48371,
+            "age_hours": 13.5
+          }
+        ]
+      },
+      {
+        "phrase": "grand theft auto",
+        "video_count": 2,
+        "momentum": 14.53,
+        "regions": [
+          "US"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "wbjtYH5ssZE",
+            "title": "GRAND THEFT AUTO 6! DAY 2",
+            "channel": "Starkilla",
+            "thumbnail": "https://i.ytimg.com/vi/wbjtYH5ssZE/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=wbjtYH5ssZE",
+            "views": 224890,
+            "age_hours": 7.3
+          },
+          {
+            "id": "hI4k9ewBEFA",
+            "title": "ABSOLUTE CINEMA | Grand Theft Auto 6 - Part 3",
+            "channel": "jacksepticeye",
+            "thumbnail": "https://i.ytimg.com/vi/hI4k9ewBEFA/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=hI4k9ewBEFA",
+            "views": 631263,
+            "age_hours": 20.9
+          }
+        ]
+      },
+      {
+        "phrase": "listen mom",
+        "video_count": 2,
+        "momentum": 13.97,
+        "regions": [
+          "US"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "2lOlOlWCx9g",
+            "title": "ALWAYS Listen To Your Mom 💀😭",
+            "channel": "Wild Cam",
+            "thumbnail": "https://i.ytimg.com/vi/2lOlOlWCx9g/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=2lOlOlWCx9g",
+            "views": 15878852,
+            "age_hours": 40.0
+          },
+          {
+            "id": "G69uJnkZu1Q",
+            "title": "This is why you listen to Mom #AFV #fail",
+            "channel": "America's Funniest Home Videos",
+            "thumbnail": "https://i.ytimg.com/vi/G69uJnkZu1Q/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=G69uJnkZu1Q",
+            "views": 17455449,
+            "age_hours": 83.9
+          }
+        ]
+      },
+      {
+        "phrase": "black friday",
+        "video_count": 2,
+        "momentum": 9.46,
+        "regions": [
+          "US"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "ET_P729YaZg",
+            "title": "Early Black Friday Deals",
+            "channel": "HotandFlashy",
+            "thumbnail": "https://i.ytimg.com/vi/ET_P729YaZg/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=ET_P729YaZg",
+            "views": 50183,
+            "age_hours": 25.4
+          },
+          {
+            "id": "anhXZyqew90",
+            "title": "Black Friday Haul!! 🛍️🌴 Designer Outlets Shopping!!",
+            "channel": "AlishaMarieVlogs",
+            "thumbnail": "https://i.ytimg.com/vi/anhXZyqew90/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=anhXZyqew90",
+            "views": 82503,
+            "age_hours": 21.1
+          }
+        ]
+      }
+    ],
+    "GB": [
+      {
         "phrase": "youtubeshorts cringe lifehack",
         "video_count": 2,
-        "momentum": 15.77,
+        "momentum": 15.68,
         "regions": [
           "GB"
         ],
@@ -2701,8 +1612,8 @@
             "channel": "LouisAyy",
             "thumbnail": "https://i.ytimg.com/vi/UofAcEjhpUE/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=UofAcEjhpUE",
-            "views": 6637090,
-            "age_hours": 56.7
+            "views": 7304276,
+            "age_hours": 65.8
           },
           {
             "id": "PcAcLRfjuTA",
@@ -2710,15 +1621,15 @@
             "channel": "LouisAyy",
             "thumbnail": "https://i.ytimg.com/vi/PcAcLRfjuTA/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=PcAcLRfjuTA",
-            "views": 8504612,
-            "age_hours": 105.0
+            "views": 8883593,
+            "age_hours": 114.1
           }
         ]
       },
       {
         "phrase": "cringe lifehack comedy",
         "video_count": 2,
-        "momentum": 15.77,
+        "momentum": 15.68,
         "regions": [
           "GB"
         ],
@@ -2730,8 +1641,8 @@
             "channel": "LouisAyy",
             "thumbnail": "https://i.ytimg.com/vi/UofAcEjhpUE/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=UofAcEjhpUE",
-            "views": 6637090,
-            "age_hours": 56.7
+            "views": 7304276,
+            "age_hours": 65.8
           },
           {
             "id": "PcAcLRfjuTA",
@@ -2739,15 +1650,15 @@
             "channel": "LouisAyy",
             "thumbnail": "https://i.ytimg.com/vi/PcAcLRfjuTA/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=PcAcLRfjuTA",
-            "views": 8504612,
-            "age_hours": 105.0
+            "views": 8883593,
+            "age_hours": 114.1
           }
         ]
       },
       {
         "phrase": "lifehack comedy funny",
         "video_count": 2,
-        "momentum": 15.77,
+        "momentum": 15.68,
         "regions": [
           "GB"
         ],
@@ -2759,8 +1670,8 @@
             "channel": "LouisAyy",
             "thumbnail": "https://i.ytimg.com/vi/UofAcEjhpUE/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=UofAcEjhpUE",
-            "views": 6637090,
-            "age_hours": 56.7
+            "views": 7304276,
+            "age_hours": 65.8
           },
           {
             "id": "PcAcLRfjuTA",
@@ -2768,8 +1679,794 @@
             "channel": "LouisAyy",
             "thumbnail": "https://i.ytimg.com/vi/PcAcLRfjuTA/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=PcAcLRfjuTA",
-            "views": 8504612,
-            "age_hours": 105.0
+            "views": 8883593,
+            "age_hours": 114.1
+          }
+        ]
+      },
+      {
+        "phrase": "christmas",
+        "video_count": 4,
+        "momentum": 13.69,
+        "regions": [
+          "GB"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "yEmWcxMqPN8",
+            "title": "Nostalgic Christmas Decorate With Me | Paper Chains, Bows & Foraged Garlands",
+            "channel": "Dainty Diaries",
+            "thumbnail": "https://i.ytimg.com/vi/yEmWcxMqPN8/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=yEmWcxMqPN8",
+            "views": 60334,
+            "age_hours": 42.9
+          },
+          {
+            "id": "ybJ4FXJlbfE",
+            "title": "Top Christmas Songs of All Time Playlist 🎄 Best Christmas Music 2027",
+            "channel": "Christmas Songs and Carols - Love to Sing",
+            "thumbnail": "https://i.ytimg.com/vi/ybJ4FXJlbfE/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=ybJ4FXJlbfE",
+            "views": 60471,
+            "age_hours": 23.9
+          },
+          {
+            "id": "jZTUWIS82Q4",
+            "title": "DECORATE FOR CHRISTMAS WITH ME 2026 | cosy, nostalgic, heirloom | ad",
+            "channel": "Elle Swift",
+            "thumbnail": "https://i.ytimg.com/vi/jZTUWIS82Q4/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=jZTUWIS82Q4",
+            "views": 67757,
+            "age_hours": 44.9
+          }
+        ]
+      }
+    ],
+    "CA": [],
+    "DE": [
+      {
+        "phrase": "selinaundharoon couple",
+        "video_count": 2,
+        "momentum": 11.81,
+        "regions": [
+          "DE"
+        ],
+        "lang": "de",
+        "example_videos": [
+          {
+            "id": "I3RdGjxg-zA",
+            "title": "Das Ergebnis seht ihr bei TikTok auf dem Kanal @lifeofselinovic🤣🎊💖 #selinaundharoon #couple ￼",
+            "channel": "Selina & Haroon",
+            "thumbnail": "https://i.ytimg.com/vi/I3RdGjxg-zA/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=I3RdGjxg-zA",
+            "views": 927687,
+            "age_hours": 19.2
+          },
+          {
+            "id": "2c0KvKEotgs",
+            "title": "War das Fair?🙄😭 #selinaundharoon #couple #viral #humor #comedy #challenge #fyp #fy",
+            "channel": "Selina & Haroon",
+            "thumbnail": "https://i.ytimg.com/vi/2c0KvKEotgs/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=2c0KvKEotgs",
+            "views": 1097948,
+            "age_hours": 43.4
+          }
+        ]
+      },
+      {
+        "phrase": "trailer german deutsch",
+        "video_count": 2,
+        "momentum": 11.16,
+        "regions": [
+          "DE"
+        ],
+        "lang": "de",
+        "example_videos": [
+          {
+            "id": "LUKsyOCxKPs",
+            "title": "ICE AGE 6: Am Siedepunkt Trailer German Deutsch (2027)",
+            "channel": "KinoCheck",
+            "thumbnail": "https://i.ytimg.com/vi/LUKsyOCxKPs/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=LUKsyOCxKPs",
+            "views": 479686,
+            "age_hours": 44.2
+          },
+          {
+            "id": "qOhPSfv24ss",
+            "title": "INVINCIBLE Staffel 5 Teaser Trailer German Deutsch (2027)",
+            "channel": "KinoCheck Heimkino",
+            "thumbnail": "https://i.ytimg.com/vi/qOhPSfv24ss/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=qOhPSfv24ss",
+            "views": 57567,
+            "age_hours": 43.8
+          }
+        ]
+      },
+      {
+        "phrase": "ice age am",
+        "video_count": 2,
+        "momentum": 10.7,
+        "regions": [
+          "DE"
+        ],
+        "lang": "de",
+        "example_videos": [
+          {
+            "id": "LUKsyOCxKPs",
+            "title": "ICE AGE 6: Am Siedepunkt Trailer German Deutsch (2027)",
+            "channel": "KinoCheck",
+            "thumbnail": "https://i.ytimg.com/vi/LUKsyOCxKPs/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=LUKsyOCxKPs",
+            "views": 479686,
+            "age_hours": 44.2
+          },
+          {
+            "id": "G5x8tbS8QJg",
+            "title": "Ice Age: Am Siedepunkt | Offizieller Trailer | Ab 28. Januar 2027 im Kino",
+            "channel": "Disney Deutschland",
+            "thumbnail": "https://i.ytimg.com/vi/G5x8tbS8QJg/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=G5x8tbS8QJg",
+            "views": 35684,
+            "age_hours": 44.5
+          }
+        ]
+      },
+      {
+        "phrase": "age am siedepunkt",
+        "video_count": 2,
+        "momentum": 10.7,
+        "regions": [
+          "DE"
+        ],
+        "lang": "de",
+        "example_videos": [
+          {
+            "id": "LUKsyOCxKPs",
+            "title": "ICE AGE 6: Am Siedepunkt Trailer German Deutsch (2027)",
+            "channel": "KinoCheck",
+            "thumbnail": "https://i.ytimg.com/vi/LUKsyOCxKPs/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=LUKsyOCxKPs",
+            "views": 479686,
+            "age_hours": 44.2
+          },
+          {
+            "id": "G5x8tbS8QJg",
+            "title": "Ice Age: Am Siedepunkt | Offizieller Trailer | Ab 28. Januar 2027 im Kino",
+            "channel": "Disney Deutschland",
+            "thumbnail": "https://i.ytimg.com/vi/G5x8tbS8QJg/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=G5x8tbS8QJg",
+            "views": 35684,
+            "age_hours": 44.5
+          }
+        ]
+      }
+    ],
+    "AU": [
+      {
+        "phrase": "grand theft auto",
+        "video_count": 2,
+        "momentum": 15.37,
+        "regions": [
+          "AU"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "rQLEb0W7REo",
+            "title": "GTA 6 Walkthrough Gameplay Part 1 - INTRO (GRAND THEFT AUTO 6)",
+            "channel": "theRadBrad",
+            "thumbnail": "https://i.ytimg.com/vi/rQLEb0W7REo/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=rQLEb0W7REo",
+            "views": 8874026,
+            "age_hours": 69.6
+          },
+          {
+            "id": "Wd-vKw3XYP0",
+            "title": "Grand Theft Auto 6 Gameplay and Impressions...",
+            "channel": "jackfrags",
+            "thumbnail": "https://i.ytimg.com/vi/Wd-vKw3XYP0/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=Wd-vKw3XYP0",
+            "views": 3317560,
+            "age_hours": 63.8
+          }
+        ]
+      },
+      {
+        "phrase": "weekly vlog",
+        "video_count": 2,
+        "momentum": 6.62,
+        "regions": [
+          "AU"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "FwO9Wnl6olY",
+            "title": "a chatty weekly vlog! life updates, huge baby haul, productive days & exciting unboxings 🎄🎅",
+            "channel": "Hogan Twins",
+            "thumbnail": "https://i.ytimg.com/vi/FwO9Wnl6olY/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=FwO9Wnl6olY",
+            "views": 37442,
+            "age_hours": 101.7
+          },
+          {
+            "id": "a8E0v90NL4I",
+            "title": "weekly vlog 🥐 last few days in paris, apartment tour, champagne day trip ",
+            "channel": "Jaz Hand",
+            "thumbnail": "https://i.ytimg.com/vi/a8E0v90NL4I/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=a8E0v90NL4I",
+            "views": 39133,
+            "age_hours": 136.9
+          }
+        ]
+      }
+    ],
+    "ALL": [
+      {
+        "phrase": "ao vivo",
+        "video_count": 6,
+        "momentum": 36.48,
+        "regions": [
+          "BR"
+        ],
+        "lang": "pt",
+        "example_videos": [
+          {
+            "id": "nTJ5Z9gZsZU",
+            "title": "GTA VI: DIA 3 ZERANDO  🔴 CORINGA AO VIVO",
+            "channel": "LOUD Coringa",
+            "thumbnail": "https://i.ytimg.com/vi/nTJ5Z9gZsZU/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=nTJ5Z9gZsZU",
+            "views": 3156791,
+            "age_hours": 9.5
+          },
+          {
+            "id": "dUnPGbaydTE",
+            "title": "JASON VLOGS EM AÇÃO TERCEIRO DIA DE GTA 6 l JON VLOGS AO VIVO",
+            "channel": "Jon Vlogs",
+            "thumbnail": "https://i.ytimg.com/vi/dUnPGbaydTE/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=dUnPGbaydTE",
+            "views": 431624,
+            "age_hours": 3.3
+          },
+          {
+            "id": "YqLOX86cdzk",
+            "title": "VEM JOGAR GTA VI JUNTO COMIGO  [AO VIVO]",
+            "channel": "Renato Garcia",
+            "thumbnail": "https://i.ytimg.com/vi/YqLOX86cdzk/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=YqLOX86cdzk",
+            "views": 678803,
+            "age_hours": 11.6
+          }
+        ]
+      },
+      {
+        "phrase": "gta live",
+        "video_count": 3,
+        "momentum": 21.87,
+        "regions": [
+          "IN"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "BMnH76tzoms",
+            "title": "GTA 5 LIVE | Train vs 100 Luxury Cars 😱🔥 कौन बचेगा?",
+            "channel": "Sunil Gaming",
+            "thumbnail": "https://i.ytimg.com/vi/BMnH76tzoms/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=BMnH76tzoms",
+            "views": 3109803,
+            "age_hours": 2.0
+          },
+          {
+            "id": "L7XijWXkThw",
+            "title": "GTA 5 LIVE  #gta5 #gtav #gaming",
+            "channel": "SANGU IS LIVE",
+            "thumbnail": "https://i.ytimg.com/vi/L7XijWXkThw/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=L7XijWXkThw",
+            "views": 2377815,
+            "age_hours": 3.8
+          },
+          {
+            "id": "Rr4rV0Vol98",
+            "title": "GTA 5 LIVE #gta5 #gtav #gaming",
+            "channel": "Raajoo Gaming",
+            "thumbnail": "https://i.ytimg.com/vi/Rr4rV0Vol98/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=Rr4rV0Vol98",
+            "views": 7096495,
+            "age_hours": 25.4
+          }
+        ]
+      },
+      {
+        "phrase": "hostel boys shorts",
+        "video_count": 2,
+        "momentum": 17.47,
+        "regions": [
+          "IN"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "4c7__Wo2GEk",
+            "title": "Hidden camera lagaya! Hostel boys- Part 2 #shorts",
+            "channel": "Shreemani Tripathi",
+            "thumbnail": "https://i.ytimg.com/vi/4c7__Wo2GEk/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=4c7__Wo2GEk",
+            "views": 15028048,
+            "age_hours": 29.3
+          },
+          {
+            "id": "LFXlUDcl0B8",
+            "title": "Breakfast machine for hostel boys! #shorts",
+            "channel": "Shreemani Tripathi",
+            "thumbnail": "https://i.ytimg.com/vi/LFXlUDcl0B8/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=LFXlUDcl0B8",
+            "views": 18752535,
+            "age_hours": 55.5
+          }
+        ]
+      },
+      {
+        "phrase": "you won't believe",
+        "video_count": 2,
+        "momentum": 16.94,
+        "regions": [
+          "US"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "BA4XucRzi5k",
+            "title": "You Won't Believe What He Writes On The Board Next! 😭",
+            "channel": "Foeko",
+            "thumbnail": "https://i.ytimg.com/vi/BA4XucRzi5k/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=BA4XucRzi5k",
+            "views": 11399443,
+            "age_hours": 42.4
+          },
+          {
+            "id": "ecuEdD-fwGU",
+            "title": "You Won't Believe The Face He Makes When He Sees The ID! 😭",
+            "channel": "Foeko",
+            "thumbnail": "https://i.ytimg.com/vi/ecuEdD-fwGU/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=ecuEdD-fwGU",
+            "views": 22671024,
+            "age_hours": 115.3
+          }
+        ]
+      },
+      {
+        "phrase": "gta live gta5",
+        "video_count": 2,
+        "momentum": 16.92,
+        "regions": [
+          "IN"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "L7XijWXkThw",
+            "title": "GTA 5 LIVE  #gta5 #gtav #gaming",
+            "channel": "SANGU IS LIVE",
+            "thumbnail": "https://i.ytimg.com/vi/L7XijWXkThw/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=L7XijWXkThw",
+            "views": 2377815,
+            "age_hours": 3.8
+          },
+          {
+            "id": "Rr4rV0Vol98",
+            "title": "GTA 5 LIVE #gta5 #gtav #gaming",
+            "channel": "Raajoo Gaming",
+            "thumbnail": "https://i.ytimg.com/vi/Rr4rV0Vol98/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=Rr4rV0Vol98",
+            "views": 7096495,
+            "age_hours": 25.4
+          }
+        ]
+      },
+      {
+        "phrase": "live gta5 gtav",
+        "video_count": 2,
+        "momentum": 16.92,
+        "regions": [
+          "IN"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "L7XijWXkThw",
+            "title": "GTA 5 LIVE  #gta5 #gtav #gaming",
+            "channel": "SANGU IS LIVE",
+            "thumbnail": "https://i.ytimg.com/vi/L7XijWXkThw/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=L7XijWXkThw",
+            "views": 2377815,
+            "age_hours": 3.8
+          },
+          {
+            "id": "Rr4rV0Vol98",
+            "title": "GTA 5 LIVE #gta5 #gtav #gaming",
+            "channel": "Raajoo Gaming",
+            "thumbnail": "https://i.ytimg.com/vi/Rr4rV0Vol98/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=Rr4rV0Vol98",
+            "views": 7096495,
+            "age_hours": 25.4
+          }
+        ]
+      },
+      {
+        "phrase": "gta5 gtav gaming",
+        "video_count": 2,
+        "momentum": 16.92,
+        "regions": [
+          "IN"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "L7XijWXkThw",
+            "title": "GTA 5 LIVE  #gta5 #gtav #gaming",
+            "channel": "SANGU IS LIVE",
+            "thumbnail": "https://i.ytimg.com/vi/L7XijWXkThw/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=L7XijWXkThw",
+            "views": 2377815,
+            "age_hours": 3.8
+          },
+          {
+            "id": "Rr4rV0Vol98",
+            "title": "GTA 5 LIVE #gta5 #gtav #gaming",
+            "channel": "Raajoo Gaming",
+            "thumbnail": "https://i.ytimg.com/vi/Rr4rV0Vol98/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=Rr4rV0Vol98",
+            "views": 7096495,
+            "age_hours": 25.4
+          }
+        ]
+      },
+      {
+        "phrase": "avengers doomsday",
+        "video_count": 3,
+        "momentum": 16.43,
+        "regions": [
+          "US"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "Fg0jyss_YnU",
+            "title": "Avengers: Doomsday | The Return | In Theaters December 18",
+            "channel": "Marvel Entertainment",
+            "thumbnail": "https://i.ytimg.com/vi/Fg0jyss_YnU/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=Fg0jyss_YnU",
+            "views": 7943506,
+            "age_hours": 68.9
+          },
+          {
+            "id": "o4aslcUEnoU",
+            "title": "Avengers: Doomsday: Every NEW REVEAL From the Empire Teaser",
+            "channel": "ScreenCrush",
+            "thumbnail": "https://i.ytimg.com/vi/o4aslcUEnoU/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=o4aslcUEnoU",
+            "views": 363726,
+            "age_hours": 39.0
+          },
+          {
+            "id": "89UgN4QALEE",
+            "title": "Where Is The Avengers Doomsday Trailer",
+            "channel": "John Campea",
+            "thumbnail": "https://i.ytimg.com/vi/89UgN4QALEE/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=89UgN4QALEE",
+            "views": 48371,
+            "age_hours": 13.5
+          }
+        ]
+      },
+      {
+        "phrase": "tulsi vivah",
+        "video_count": 3,
+        "momentum": 16.01,
+        "regions": [
+          "IN"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "TkgID59s8cI",
+            "title": "तुलसा की आई है बारात मेरे आंगन में | Tulsa Ki Aayi Hai Barat | तुलसी माता भजन | Tulsi Vivah Bhajan",
+            "channel": "Bajao Bhakti ",
+            "thumbnail": "https://i.ytimg.com/vi/TkgID59s8cI/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=TkgID59s8cI",
+            "views": 1398055,
+            "age_hours": 62.4
+          },
+          {
+            "id": "7jVEcnSY6a4",
+            "title": "जय जय तुलसी माता आरती | Jai Jai Tulsi Mata Aarti | Tulsi Aarti | Tulsi Vivah | Tulsi Pooja Aarti",
+            "channel": "Bhajan India",
+            "thumbnail": "https://i.ytimg.com/vi/7jVEcnSY6a4/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=7jVEcnSY6a4",
+            "views": 827084,
+            "age_hours": 50.9
+          },
+          {
+            "id": "4JGdp09QTyY",
+            "title": "तुलसी विवाह बधाई गीत | Tulsi Vivah Song 2026 | Upasna Mehta | Tulsi ji ke bhajan | Tulsi Bhajan 2026",
+            "channel": "Bhakti Sadhna भक्ति साधना",
+            "thumbnail": "https://i.ytimg.com/vi/4JGdp09QTyY/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=4JGdp09QTyY",
+            "views": 953030,
+            "age_hours": 74.9
+          }
+        ]
+      },
+      {
+        "phrase": "youtubeshorts cringe lifehack",
+        "video_count": 2,
+        "momentum": 15.68,
+        "regions": [
+          "GB"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "UofAcEjhpUE",
+            "title": "How your dad wraps presents... #shorts #shortsfeed #youtubeshorts #cringe #lifehack #comedy #funny",
+            "channel": "LouisAyy",
+            "thumbnail": "https://i.ytimg.com/vi/UofAcEjhpUE/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=UofAcEjhpUE",
+            "views": 7304276,
+            "age_hours": 65.8
+          },
+          {
+            "id": "PcAcLRfjuTA",
+            "title": "This pillow eats you... #shorts #shortsfeed #youtubeshorts #cringe #lifehack #comedy #funny",
+            "channel": "LouisAyy",
+            "thumbnail": "https://i.ytimg.com/vi/PcAcLRfjuTA/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=PcAcLRfjuTA",
+            "views": 8883593,
+            "age_hours": 114.1
+          }
+        ]
+      },
+      {
+        "phrase": "cringe lifehack comedy",
+        "video_count": 2,
+        "momentum": 15.68,
+        "regions": [
+          "GB"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "UofAcEjhpUE",
+            "title": "How your dad wraps presents... #shorts #shortsfeed #youtubeshorts #cringe #lifehack #comedy #funny",
+            "channel": "LouisAyy",
+            "thumbnail": "https://i.ytimg.com/vi/UofAcEjhpUE/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=UofAcEjhpUE",
+            "views": 7304276,
+            "age_hours": 65.8
+          },
+          {
+            "id": "PcAcLRfjuTA",
+            "title": "This pillow eats you... #shorts #shortsfeed #youtubeshorts #cringe #lifehack #comedy #funny",
+            "channel": "LouisAyy",
+            "thumbnail": "https://i.ytimg.com/vi/PcAcLRfjuTA/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=PcAcLRfjuTA",
+            "views": 8883593,
+            "age_hours": 114.1
+          }
+        ]
+      },
+      {
+        "phrase": "lifehack comedy funny",
+        "video_count": 2,
+        "momentum": 15.68,
+        "regions": [
+          "GB"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "UofAcEjhpUE",
+            "title": "How your dad wraps presents... #shorts #shortsfeed #youtubeshorts #cringe #lifehack #comedy #funny",
+            "channel": "LouisAyy",
+            "thumbnail": "https://i.ytimg.com/vi/UofAcEjhpUE/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=UofAcEjhpUE",
+            "views": 7304276,
+            "age_hours": 65.8
+          },
+          {
+            "id": "PcAcLRfjuTA",
+            "title": "This pillow eats you... #shorts #shortsfeed #youtubeshorts #cringe #lifehack #comedy #funny",
+            "channel": "LouisAyy",
+            "thumbnail": "https://i.ytimg.com/vi/PcAcLRfjuTA/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=PcAcLRfjuTA",
+            "views": 8883593,
+            "age_hours": 114.1
+          }
+        ]
+      },
+      {
+        "phrase": "grand theft auto",
+        "video_count": 2,
+        "momentum": 15.37,
+        "regions": [
+          "AU"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "rQLEb0W7REo",
+            "title": "GTA 6 Walkthrough Gameplay Part 1 - INTRO (GRAND THEFT AUTO 6)",
+            "channel": "theRadBrad",
+            "thumbnail": "https://i.ytimg.com/vi/rQLEb0W7REo/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=rQLEb0W7REo",
+            "views": 8874026,
+            "age_hours": 69.6
+          },
+          {
+            "id": "Wd-vKw3XYP0",
+            "title": "Grand Theft Auto 6 Gameplay and Impressions...",
+            "channel": "jackfrags",
+            "thumbnail": "https://i.ytimg.com/vi/Wd-vKw3XYP0/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=Wd-vKw3XYP0",
+            "views": 3317560,
+            "age_hours": 63.8
+          }
+        ]
+      },
+      {
+        "phrase": "noads tiktok usa",
+        "video_count": 2,
+        "momentum": 14.76,
+        "regions": [
+          "IN"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "DgbB-9K7pfw",
+            "title": "Samsung Galaxy S27 Ultra Cobalt Violet📱🔥#noads #tiktok #usa Part 99",
+            "channel": "MR Latte Green",
+            "thumbnail": "https://i.ytimg.com/vi/DgbB-9K7pfw/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=DgbB-9K7pfw",
+            "views": 3606406,
+            "age_hours": 39.9
+          },
+          {
+            "id": "ybMCQof-qak",
+            "title": "Samsung Galaxy S29 Ultra Silver Titanium Game IQ🎮🔥#noads #tiktok #usa",
+            "channel": "MrCappuccino Green",
+            "thumbnail": "https://i.ytimg.com/vi/ybMCQof-qak/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=ybMCQof-qak",
+            "views": 9222978,
+            "age_hours": 135.9
+          }
+        ]
+      },
+      {
+        "phrase": "listen mom",
+        "video_count": 2,
+        "momentum": 13.97,
+        "regions": [
+          "US"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "2lOlOlWCx9g",
+            "title": "ALWAYS Listen To Your Mom 💀😭",
+            "channel": "Wild Cam",
+            "thumbnail": "https://i.ytimg.com/vi/2lOlOlWCx9g/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=2lOlOlWCx9g",
+            "views": 15878852,
+            "age_hours": 40.0
+          },
+          {
+            "id": "G69uJnkZu1Q",
+            "title": "This is why you listen to Mom #AFV #fail",
+            "channel": "America's Funniest Home Videos",
+            "thumbnail": "https://i.ytimg.com/vi/G69uJnkZu1Q/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=G69uJnkZu1Q",
+            "views": 17455449,
+            "age_hours": 83.9
+          }
+        ]
+      },
+      {
+        "phrase": "christmas",
+        "video_count": 4,
+        "momentum": 13.69,
+        "regions": [
+          "GB"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "yEmWcxMqPN8",
+            "title": "Nostalgic Christmas Decorate With Me | Paper Chains, Bows & Foraged Garlands",
+            "channel": "Dainty Diaries",
+            "thumbnail": "https://i.ytimg.com/vi/yEmWcxMqPN8/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=yEmWcxMqPN8",
+            "views": 60334,
+            "age_hours": 42.9
+          },
+          {
+            "id": "ybJ4FXJlbfE",
+            "title": "Top Christmas Songs of All Time Playlist 🎄 Best Christmas Music 2027",
+            "channel": "Christmas Songs and Carols - Love to Sing",
+            "thumbnail": "https://i.ytimg.com/vi/ybJ4FXJlbfE/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=ybJ4FXJlbfE",
+            "views": 60471,
+            "age_hours": 23.9
+          },
+          {
+            "id": "jZTUWIS82Q4",
+            "title": "DECORATE FOR CHRISTMAS WITH ME 2026 | cosy, nostalgic, heirloom | ad",
+            "channel": "Elle Swift",
+            "thumbnail": "https://i.ytimg.com/vi/jZTUWIS82Q4/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=jZTUWIS82Q4",
+            "views": 67757,
+            "age_hours": 44.9
+          }
+        ]
+      },
+      {
+        "phrase": "gta vi",
+        "video_count": 2,
+        "momentum": 13.63,
+        "regions": [
+          "BR"
+        ],
+        "lang": "pt",
+        "example_videos": [
+          {
+            "id": "nTJ5Z9gZsZU",
+            "title": "GTA VI: DIA 3 ZERANDO  🔴 CORINGA AO VIVO",
+            "channel": "LOUD Coringa",
+            "thumbnail": "https://i.ytimg.com/vi/nTJ5Z9gZsZU/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=nTJ5Z9gZsZU",
+            "views": 3156791,
+            "age_hours": 9.5
+          },
+          {
+            "id": "YqLOX86cdzk",
+            "title": "VEM JOGAR GTA VI JUNTO COMIGO  [AO VIVO]",
+            "channel": "Renato Garcia",
+            "thumbnail": "https://i.ytimg.com/vi/YqLOX86cdzk/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=YqLOX86cdzk",
+            "views": 678803,
+            "age_hours": 11.6
+          }
+        ]
+      },
+      {
+        "phrase": "vice city",
+        "video_count": 2,
+        "momentum": 13.27,
+        "regions": [
+          "IN"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "169ZzvPxvvM",
+            "title": "MY FIRST DAY IN VICE CITY | GTA 6 GAMEPLAY #1",
+            "channel": "Techno Gamerz",
+            "thumbnail": "https://i.ytimg.com/vi/169ZzvPxvvM/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=169ZzvPxvvM",
+            "views": 24524535,
+            "age_hours": 48.4
+          },
+          {
+            "id": "Vmo4SakRHnI",
+            "title": "EXPLORING THE REAL LIFE GTA VICE CITY - VLOG 170",
+            "channel": "Snax Gaming",
+            "thumbnail": "https://i.ytimg.com/vi/Vmo4SakRHnI/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=Vmo4SakRHnI",
+            "views": 1010722,
+            "age_hours": 76.9
           }
         ]
       }
@@ -2777,109 +2474,128 @@
   },
   "trending_searches": [
     {
-      "phrase": "why is it spicy",
-      "prefix": "why is",
-      "rank": 1,
-      "first_seen_at": "2026-11-21T04:49:21.894395+00:00",
-      "is_new": true
-    },
-    {
-      "phrase": "what are you listening to chris stapleton",
-      "prefix": "what are",
-      "rank": 1,
-      "first_seen_at": "2026-11-21T04:49:21.894395+00:00",
-      "is_new": true
-    },
-    {
-      "phrase": "what happened to virgil",
-      "prefix": "what happened",
-      "rank": 1,
-      "first_seen_at": "2026-11-21T04:49:21.894395+00:00",
-      "is_new": true
-    },
-    {
-      "phrase": "besties",
-      "prefix": "best",
-      "rank": 1,
-      "first_seen_at": "2026-11-21T04:49:21.894395+00:00",
-      "is_new": true
-    },
-    {
-      "phrase": "is it a crime mariah the scientist",
-      "prefix": "is it",
-      "rank": 1,
-      "first_seen_at": "2026-11-21T04:49:21.894395+00:00",
-      "is_new": true
-    },
-    {
-      "phrase": "should i stay or should i go",
-      "prefix": "should i",
-      "rank": 1,
-      "first_seen_at": "2026-11-21T04:49:21.894395+00:00",
-      "is_new": true
-    },
-    {
-      "phrase": "can you stand the rain new edition",
-      "prefix": "can you",
-      "rank": 1,
-      "first_seen_at": "2026-11-21T04:49:21.894395+00:00",
-      "is_new": true
-    },
-    {
-      "phrase": "how to draw",
+      "phrase": "how to tie a tie",
       "prefix": "how to",
-      "rank": 2,
-      "first_seen_at": "2026-11-21T04:49:21.894395+00:00",
+      "rank": 1,
+      "first_seen_at": "2026-11-21T13:54:06.635263+00:00",
       "is_new": true
     },
     {
-      "phrase": "how does it feel",
+      "phrase": "how do i say goodbye dean lewis",
+      "prefix": "how do",
+      "rank": 1,
+      "first_seen_at": "2026-11-21T13:54:06.635263+00:00",
+      "is_new": true
+    },
+    {
+      "phrase": "how does it feel d'angelo",
+      "prefix": "how does",
+      "rank": 1,
+      "first_seen_at": "2026-11-21T13:54:06.635263+00:00",
+      "is_new": true
+    },
+    {
+      "phrase": "why do you keep remembering",
+      "prefix": "why do",
+      "rank": 1,
+      "first_seen_at": "2026-11-21T13:54:06.635263+00:00",
+      "is_new": true
+    },
+    {
+      "phrase": "why does it hurt so bad whitney houston",
+      "prefix": "why does",
+      "rank": 1,
+      "first_seen_at": "2026-11-21T13:54:06.635263+00:00",
+      "is_new": true
+    },
+    {
+      "phrase": "what is love",
+      "prefix": "what is",
+      "rank": 1,
+      "first_seen_at": "2026-11-21T13:54:06.635263+00:00",
+      "is_new": true
+    },
+    {
+      "phrase": "worst way riley green",
+      "prefix": "worst",
+      "rank": 1,
+      "first_seen_at": "2026-11-21T13:54:06.635263+00:00",
+      "is_new": true
+    },
+    {
+      "phrase": "topper guild",
+      "prefix": "top",
+      "rank": 1,
+      "first_seen_at": "2026-11-21T13:54:06.635263+00:00",
+      "is_new": true
+    },
+    {
+      "phrase": "how do i live without you",
+      "prefix": "how do",
+      "rank": 2,
+      "first_seen_at": "2026-11-21T13:54:06.635263+00:00",
+      "is_new": true
+    },
+    {
+      "phrase": "how does ai work",
       "prefix": "how does",
       "rank": 2,
-      "first_seen_at": "2026-11-21T04:49:21.894395+00:00",
+      "first_seen_at": "2026-11-21T13:54:06.635263+00:00",
       "is_new": true
     },
     {
-      "phrase": "why do birds suddenly appear",
-      "prefix": "why do",
+      "phrase": "why is the stock market crashing",
+      "prefix": "why is",
       "rank": 2,
-      "first_seen_at": "2026-11-21T04:49:21.894395+00:00",
+      "first_seen_at": "2026-11-21T13:54:06.635263+00:00",
       "is_new": true
     },
     {
-      "phrase": "why does it hurt to love you",
-      "prefix": "why does",
+      "phrase": "what is love baby dont hurt me no",
+      "prefix": "what is",
       "rank": 2,
-      "first_seen_at": "2026-11-21T04:49:21.894395+00:00",
-      "is_new": true
-    },
-    {
-      "phrase": "what are those",
-      "prefix": "what are",
-      "rank": 2,
-      "first_seen_at": "2026-11-21T04:49:21.894395+00:00",
+      "first_seen_at": "2026-11-21T13:54:06.635263+00:00",
       "is_new": true
     }
   ],
   "breakout_videos": [
     {
-      "id": "W9CApMBHFlk",
-      "title": "ORAÇÃO ABENÇOADA • BISPO BRUNO LEONARDO",
+      "id": "ZjAsazFYjTM",
+      "title": "ORAÇÃO DO DIA 21 DE NOVEMBRO BISPO BRUNO LEONARDO",
       "channel": "Bispo Bruno Leonardo",
       "channel_id": "UCVNouUw3d3l5JYVCxhAQXKA",
-      "thumbnail": "https://i.ytimg.com/vi/W9CApMBHFlk/mqdefault.jpg",
-      "published_at": "2026-11-19T07:58:08Z",
+      "thumbnail": "https://i.ytimg.com/vi/ZjAsazFYjTM/mqdefault.jpg",
+      "published_at": "2026-11-21T07:58:10Z",
       "category_id": "29",
-      "views": 2613322,
-      "likes": 714844,
-      "comments": 994834,
-      "age_hours": 44.9,
-      "views_per_hour": 58264,
-      "momentum": 25.513,
-      "url": "https://www.youtube.com/watch?v=W9CApMBHFlk",
+      "views": 1698265,
+      "likes": 618153,
+      "comments": 1131479,
+      "age_hours": 5.9,
+      "views_per_hour": 286338,
+      "momentum": 45.786,
+      "url": "https://www.youtube.com/watch?v=ZjAsazFYjTM",
       "region": "BR",
       "category": "Other",
       "_detected_lang": "pt"
+    },
+    {
+      "id": "tW6oNOAbLLg",
+      "title": "Comment “GRINCH” if you need one!🤣💚",
+      "channel": "GrinchRage",
+      "channel_id": "UCslB35PTpRtyNMit9PoljUA",
+      "thumbnail": "https://i.ytimg.com/vi/tW6oNOAbLLg/mqdefault.jpg",
+      "published_at": "2026-11-21T04:44:45Z",
+      "category_id": "22",
+      "views": 43658306,
+      "likes": 159671,
+      "comments": 539,
+      "age_hours": 9.2,
+      "views_per_hour": 4769235,
+      "momentum": 6.728,
+      "url": "https://www.youtube.com/watch?v=tW6oNOAbLLg",
+      "region": "IN",
+      "category": "People & Blogs",
+      "_detected_lang": "en"
     },
     {
       "id": "1lOvAvBlzSM",
@@ -2889,91 +2605,53 @@
       "thumbnail": "https://i.ytimg.com/vi/1lOvAvBlzSM/mqdefault.jpg",
       "published_at": "2026-11-20T20:51:51Z",
       "category_id": "10",
-      "views": 1565942,
-      "likes": 178947,
-      "comments": 13023,
-      "age_hours": 8.0,
-      "views_per_hour": 196833,
-      "momentum": 6.944,
+      "views": 2210604,
+      "likes": 218446,
+      "comments": 14153,
+      "age_hours": 17.0,
+      "views_per_hour": 129769,
+      "momentum": 6.451,
       "url": "https://www.youtube.com/watch?v=1lOvAvBlzSM",
       "region": "US",
       "category": "Other",
       "_detected_lang": "es"
     },
     {
-      "id": "m_12hxRH8WQ",
-      "title": "GTA 5 LIVE  #gta5 #gtav #gaming",
-      "channel": "PAJI IS LIVE",
-      "channel_id": "UCDFCpzs71ziH52_FcL2eTNA",
-      "thumbnail": "https://i.ytimg.com/vi/m_12hxRH8WQ/mqdefault.jpg",
-      "published_at": "2026-11-21T04:31:31Z",
-      "category_id": "20",
-      "views": 5560466,
-      "likes": 9574,
-      "comments": 1,
-      "age_hours": 1.0,
-      "views_per_hour": 5560466,
-      "momentum": 6.768,
-      "url": "https://www.youtube.com/watch?v=m_12hxRH8WQ",
+      "id": "69LoUknKRZ0",
+      "title": "His Baby Ordered Dad's New Hair Like a Tiny Boss 😭 #shorts",
+      "channel": "Prototype Leaked",
+      "channel_id": "UCjrfjtdfCGpaskECO9XFUcw",
+      "thumbnail": "https://i.ytimg.com/vi/69LoUknKRZ0/mqdefault.jpg",
+      "published_at": "2026-11-20T22:17:10Z",
+      "category_id": "28",
+      "views": 38016107,
+      "likes": 102943,
+      "comments": 188,
+      "age_hours": 15.6,
+      "views_per_hour": 2434882,
+      "momentum": 6.421,
+      "url": "https://www.youtube.com/watch?v=69LoUknKRZ0",
+      "region": "US",
+      "category": "Science & Tech",
+      "_detected_lang": "en"
+    },
+    {
+      "id": "9bfNH-bEL8s",
+      "title": "His Dog Grabbed Dad’s New Braids Like a Rope Toy 🤯 #shorts",
+      "channel": "OXPRESS",
+      "channel_id": "UCbYbjEHqUII2-QTG-bboOpg",
+      "thumbnail": "https://i.ytimg.com/vi/9bfNH-bEL8s/mqdefault.jpg",
+      "published_at": "2026-11-21T04:00:11Z",
+      "category_id": "28",
+      "views": 22744134,
+      "likes": 70213,
+      "comments": 42,
+      "age_hours": 9.9,
+      "views_per_hour": 2298100,
+      "momentum": 6.401,
+      "url": "https://www.youtube.com/watch?v=9bfNH-bEL8s",
       "region": "IN",
-      "category": "Gaming",
-      "_detected_lang": "en"
-    },
-    {
-      "id": "NBV_oeNEaxw",
-      "title": "GTA 6 User Reviews Are Finally Out..",
-      "channel": "Asmongold Clips",
-      "channel_id": "UCMwJJL5FJFuTRT55ksbQ4GQ",
-      "thumbnail": "https://i.ytimg.com/vi/NBV_oeNEaxw/mqdefault.jpg",
-      "published_at": "2026-11-20T23:50:36Z",
-      "category_id": "24",
-      "views": 1448730,
-      "likes": 114694,
-      "comments": 9973,
-      "age_hours": 5.0,
-      "views_per_hour": 291112,
-      "momentum": 6.705,
-      "url": "https://www.youtube.com/watch?v=NBV_oeNEaxw",
-      "region": "US",
-      "category": "Entertainment",
-      "_detected_lang": "en"
-    },
-    {
-      "id": "hMapmHG0nIs",
-      "title": "skibidi toilet 83 (part 2)",
-      "channel": "skibidi",
-      "channel_id": "UCsSsgPaZ2GSmO6il8Cb5iGA",
-      "thumbnail": "https://i.ytimg.com/vi/hMapmHG0nIs/mqdefault.jpg",
-      "published_at": "2026-11-20T14:30:07Z",
-      "category_id": "24",
-      "views": 4412194,
-      "likes": 223285,
-      "comments": 35645,
-      "age_hours": 14.3,
-      "views_per_hour": 308159,
-      "momentum": 6.488,
-      "url": "https://www.youtube.com/watch?v=hMapmHG0nIs",
-      "region": "US",
-      "category": "Entertainment",
-      "_detected_lang": "en"
-    },
-    {
-      "id": "qSyo5d-dVzA",
-      "title": "🔴PLAYING GTA 6 EARLY ACCESS GAMEPLAY GET IN HERE!",
-      "channel": "IShowSpeed",
-      "channel_id": "UCWsDFcIhY2DBi3GB5uykGXA",
-      "thumbnail": "https://i.ytimg.com/vi/qSyo5d-dVzA/mqdefault.jpg",
-      "published_at": "2026-11-19T17:07:45Z",
-      "category_id": "20",
-      "views": 66737881,
-      "likes": 836487,
-      "comments": 5056,
-      "age_hours": 35.7,
-      "views_per_hour": 1869854,
-      "momentum": 6.434,
-      "url": "https://www.youtube.com/watch?v=qSyo5d-dVzA",
-      "region": "AU",
-      "category": "Gaming",
+      "category": "Science & Tech",
       "_detected_lang": "en"
     },
     {
@@ -2984,32 +2662,13 @@
       "thumbnail": "https://i.ytimg.com/vi/f1vAi8tGnzM/mqdefault.jpg",
       "published_at": "2026-11-20T10:29:57Z",
       "category_id": "20",
-      "views": 41484566,
-      "likes": 159005,
-      "comments": 113,
-      "age_hours": 18.3,
-      "views_per_hour": 2264196,
-      "momentum": 6.404,
+      "views": 43283053,
+      "likes": 163103,
+      "comments": 116,
+      "age_hours": 27.4,
+      "views_per_hour": 1579625,
+      "momentum": 6.245,
       "url": "https://www.youtube.com/watch?v=f1vAi8tGnzM",
-      "region": "IN",
-      "category": "Gaming",
-      "_detected_lang": "en"
-    },
-    {
-      "id": "169ZzvPxvvM",
-      "title": "MY FIRST DAY IN VICE CITY | GTA 6 GAMEPLAY #1",
-      "channel": "Techno Gamerz",
-      "channel_id": "UCX8pnu3DYUnx8qy8V_c6oHg",
-      "thumbnail": "https://i.ytimg.com/vi/169ZzvPxvvM/mqdefault.jpg",
-      "published_at": "2026-11-19T13:30:31Z",
-      "category_id": "20",
-      "views": 21143312,
-      "likes": 835045,
-      "comments": 48189,
-      "age_hours": 39.3,
-      "views_per_hour": 537829,
-      "momentum": 6.314,
-      "url": "https://www.youtube.com/watch?v=169ZzvPxvvM",
       "region": "IN",
       "category": "Gaming",
       "_detected_lang": "en"
@@ -3022,91 +2681,167 @@
       "thumbnail": "https://i.ytimg.com/vi/QQV-0OUGxGs/mqdefault.jpg",
       "published_at": "2026-11-20T20:43:18Z",
       "category_id": "20",
-      "views": 8776536,
-      "likes": 142730,
-      "comments": 5473,
-      "age_hours": 8.1,
-      "views_per_hour": 1083767,
-      "momentum": 6.269,
+      "views": 19550118,
+      "likes": 263302,
+      "comments": 8117,
+      "age_hours": 17.2,
+      "views_per_hour": 1138128,
+      "momentum": 6.244,
       "url": "https://www.youtube.com/watch?v=QQV-0OUGxGs",
       "region": "US",
       "category": "Gaming",
       "_detected_lang": "en"
     },
     {
-      "id": "ymCHX_Dcc-U",
-      "title": "I Survived 100 Hours In GTA 6",
-      "channel": "MrBeast Gaming",
-      "channel_id": "UCIPPMRA040LQr5QPyJEbmXA",
-      "thumbnail": "https://i.ytimg.com/vi/ymCHX_Dcc-U/mqdefault.jpg",
-      "published_at": "2026-11-19T18:00:01Z",
+      "id": "169ZzvPxvvM",
+      "title": "MY FIRST DAY IN VICE CITY | GTA 6 GAMEPLAY #1",
+      "channel": "Techno Gamerz",
+      "channel_id": "UCX8pnu3DYUnx8qy8V_c6oHg",
+      "thumbnail": "https://i.ytimg.com/vi/169ZzvPxvvM/mqdefault.jpg",
+      "published_at": "2026-11-19T13:30:31Z",
       "category_id": "20",
-      "views": 36583115,
-      "likes": 516987,
-      "comments": 13456,
-      "age_hours": 34.8,
-      "views_per_hour": 1050623,
-      "momentum": 6.214,
-      "url": "https://www.youtube.com/watch?v=ymCHX_Dcc-U",
-      "region": "AU",
-      "category": "Gaming",
-      "_detected_lang": "en"
-    },
-    {
-      "id": "3nxLCNkm52s",
-      "title": "Phillies land All-Star closer Jhoan Duran ahead of MLB trade deadline 👀🔥 #jhoanduran #funny #comedy",
-      "channel": "Vaani Remix",
-      "channel_id": "UC8h8kDNHx-l3y02PdJ5nU1A",
-      "thumbnail": "https://i.ytimg.com/vi/3nxLCNkm52s/mqdefault.jpg",
-      "published_at": "2026-11-20T00:30:07Z",
-      "category_id": "10",
-      "views": 34514630,
-      "likes": 171091,
-      "comments": 127,
-      "age_hours": 28.3,
-      "views_per_hour": 1218774,
-      "momentum": 6.146,
-      "url": "https://www.youtube.com/watch?v=3nxLCNkm52s",
+      "views": 24524535,
+      "likes": 900859,
+      "comments": 50085,
+      "age_hours": 48.4,
+      "views_per_hour": 506797,
+      "momentum": 6.24,
+      "url": "https://www.youtube.com/watch?v=169ZzvPxvvM",
       "region": "IN",
-      "category": "Other",
-      "_detected_lang": "en"
-    },
-    {
-      "id": "LHoHInbPkk0",
-      "title": "🌴PLAYING GTA 6 FOR THE FIRST TIME🌴 (DAY 3)",
-      "channel": "Kai Cenat Live",
-      "channel_id": "UCvCfpQXRXdJdL07pzTIA6Cw",
-      "thumbnail": "https://i.ytimg.com/vi/LHoHInbPkk0/mqdefault.jpg",
-      "published_at": "2026-11-21T02:08:43Z",
-      "category_id": "20",
-      "views": 2732776,
-      "likes": 18776,
-      "comments": 111,
-      "age_hours": 2.7,
-      "views_per_hour": 1021763,
-      "momentum": 6.094,
-      "url": "https://www.youtube.com/watch?v=LHoHInbPkk0",
-      "region": "US",
       "category": "Gaming",
       "_detected_lang": "en"
     },
     {
-      "id": "nG5Bg9FF3WQ",
-      "title": "CG5 - I'm The Big Bad (Calling All Villains Song Animation)",
-      "channel": "CG5",
-      "channel_id": "UCLCdyRg3u5O-EVP5p46QxcQ",
-      "thumbnail": "https://i.ytimg.com/vi/nG5Bg9FF3WQ/mqdefault.jpg",
-      "published_at": "2026-11-20T22:00:11Z",
-      "category_id": "10",
-      "views": 368837,
-      "likes": 34438,
-      "comments": 3478,
-      "age_hours": 6.8,
-      "views_per_hour": 54107,
-      "momentum": 6.063,
-      "url": "https://www.youtube.com/watch?v=nG5Bg9FF3WQ",
+      "id": "BMnH76tzoms",
+      "title": "GTA 5 LIVE | Train vs 100 Luxury Cars 😱🔥 कौन बचेगा?",
+      "channel": "Sunil Gaming",
+      "channel_id": "UCzV2bxYY8F9Sb-I5RjC64JQ",
+      "thumbnail": "https://i.ytimg.com/vi/BMnH76tzoms/mqdefault.jpg",
+      "published_at": "2026-11-21T11:54:09Z",
+      "category_id": "20",
+      "views": 3109803,
+      "likes": 5953,
+      "comments": 0,
+      "age_hours": 2.0,
+      "views_per_hour": 1556938,
+      "momentum": 6.216,
+      "url": "https://www.youtube.com/watch?v=BMnH76tzoms",
+      "region": "IN",
+      "category": "Gaming",
+      "_detected_lang": "en"
+    },
+    {
+      "id": "hMapmHG0nIs",
+      "title": "skibidi toilet 83 (part 2)",
+      "channel": "skibidi",
+      "channel_id": "UCsSsgPaZ2GSmO6il8Cb5iGA",
+      "thumbnail": "https://i.ytimg.com/vi/hMapmHG0nIs/mqdefault.jpg",
+      "published_at": "2026-11-20T14:30:07Z",
+      "category_id": "24",
+      "views": 5559625,
+      "likes": 245351,
+      "comments": 37277,
+      "age_hours": 23.4,
+      "views_per_hour": 237617,
+      "momentum": 6.211,
+      "url": "https://www.youtube.com/watch?v=hMapmHG0nIs",
+      "region": "GB",
+      "category": "Entertainment",
+      "_detected_lang": "en"
+    },
+    {
+      "id": "CZrE4uNuAxg",
+      "title": "kkubi VS Mom | Christmas Scooter Test!",
+      "channel": "김프로KIMPRO",
+      "channel_id": "UCiVs2pnGW5mLIc1jS2nxhjg",
+      "thumbnail": "https://i.ytimg.com/vi/CZrE4uNuAxg/mqdefault.jpg",
+      "published_at": "2026-11-20T13:00:07Z",
+      "category_id": "22",
+      "views": 36315956,
+      "likes": 127439,
+      "comments": 111,
+      "age_hours": 24.9,
+      "views_per_hour": 1458585,
+      "momentum": 6.207,
+      "url": "https://www.youtube.com/watch?v=CZrE4uNuAxg",
+      "region": "IN",
+      "category": "People & Blogs",
+      "_detected_lang": "en"
+    },
+    {
+      "id": "nqrR6zsay78",
+      "title": "#bts",
+      "channel": "Facts Rohini 99",
+      "channel_id": "UCHOEBKYAceF8prcp5Zre4Uw",
+      "thumbnail": "https://i.ytimg.com/vi/nqrR6zsay78/mqdefault.jpg",
+      "published_at": "2026-11-21T00:53:22Z",
+      "category_id": "22",
+      "views": 8594530,
+      "likes": 200178,
+      "comments": 209,
+      "age_hours": 13.0,
+      "views_per_hour": 660582,
+      "momentum": 6.092,
+      "url": "https://www.youtube.com/watch?v=nqrR6zsay78",
+      "region": "IN",
+      "category": "People & Blogs",
+      "_detected_lang": "en"
+    },
+    {
+      "id": "NBV_oeNEaxw",
+      "title": "GTA 6 User Reviews Are Finally Out..",
+      "channel": "Asmongold Clips",
+      "channel_id": "UCMwJJL5FJFuTRT55ksbQ4GQ",
+      "thumbnail": "https://i.ytimg.com/vi/NBV_oeNEaxw/mqdefault.jpg",
+      "published_at": "2026-11-20T23:50:36Z",
+      "category_id": "24",
+      "views": 2875640,
+      "likes": 129630,
+      "comments": 14581,
+      "age_hours": 14.1,
+      "views_per_hour": 204587,
+      "momentum": 6.059,
+      "url": "https://www.youtube.com/watch?v=NBV_oeNEaxw",
       "region": "US",
-      "category": "Other",
+      "category": "Entertainment",
+      "_detected_lang": "en"
+    },
+    {
+      "id": "BpXy5RGthLg",
+      "title": "Kanjoos dad ne GTA 6 khareed li💀🤣 #chetanmonga #comedy #gta6 #shorts",
+      "channel": "Cheri's World",
+      "channel_id": "UCZLOlM5df0CXW9bP5MAeE7A",
+      "thumbnail": "https://i.ytimg.com/vi/BpXy5RGthLg/mqdefault.jpg",
+      "published_at": "2026-11-20T08:48:37Z",
+      "category_id": "22",
+      "views": 23957910,
+      "likes": 274828,
+      "comments": 362,
+      "age_hours": 29.1,
+      "views_per_hour": 823588,
+      "momentum": 6.052,
+      "url": "https://www.youtube.com/watch?v=BpXy5RGthLg",
+      "region": "IN",
+      "category": "People & Blogs",
+      "_detected_lang": "en"
+    },
+    {
+      "id": "_dEH-edCIN4",
+      "title": "Why they move so human 🥀",
+      "channel": "MoVeak",
+      "channel_id": "UCEuTHPqwI-dF0RX21pHPCXg",
+      "thumbnail": "https://i.ytimg.com/vi/_dEH-edCIN4/mqdefault.jpg",
+      "published_at": "2026-11-20T15:30:01Z",
+      "category_id": "24",
+      "views": 17060925,
+      "likes": 234161,
+      "comments": 1132,
+      "age_hours": 22.4,
+      "views_per_hour": 761671,
+      "momentum": 6.047,
+      "url": "https://www.youtube.com/watch?v=_dEH-edCIN4",
+      "region": "CA",
+      "category": "Entertainment",
       "_detected_lang": "en"
     },
     {
@@ -3117,147 +2852,52 @@
       "thumbnail": "https://i.ytimg.com/vi/pUKiRbwUczU/mqdefault.jpg",
       "published_at": "2026-11-16T05:10:53Z",
       "category_id": "22",
-      "views": 118063407,
-      "likes": 476894,
-      "comments": 2083,
-      "age_hours": 119.6,
-      "views_per_hour": 986834,
-      "momentum": 6.044,
+      "views": 126686031,
+      "likes": 512743,
+      "comments": 2311,
+      "age_hours": 128.7,
+      "views_per_hour": 984215,
+      "momentum": 6.043,
       "url": "https://www.youtube.com/watch?v=pUKiRbwUczU",
       "region": "US",
       "category": "People & Blogs",
       "_detected_lang": "en"
     },
     {
-      "id": "ikol6Zu9uSY",
-      "title": "This Roller Coaster Is Pure History",
-      "channel": "YarikPew",
-      "channel_id": "UCTEB7PvB9xGzloijhn6KOkQ",
-      "thumbnail": "https://i.ytimg.com/vi/ikol6Zu9uSY/mqdefault.jpg",
-      "published_at": "2026-11-18T23:38:34Z",
-      "category_id": "24",
-      "views": 43911671,
-      "likes": 166893,
-      "comments": 247,
-      "age_hours": 53.2,
-      "views_per_hour": 825743,
-      "momentum": 5.962,
-      "url": "https://www.youtube.com/watch?v=ikol6Zu9uSY",
+      "id": "3nxLCNkm52s",
+      "title": "Phillies land All-Star closer Jhoan Duran ahead of MLB trade deadline 👀🔥 #jhoanduran #funny #comedy",
+      "channel": "Vaani Remix",
+      "channel_id": "UC8h8kDNHx-l3y02PdJ5nU1A",
+      "thumbnail": "https://i.ytimg.com/vi/3nxLCNkm52s/mqdefault.jpg",
+      "published_at": "2026-11-20T00:30:07Z",
+      "category_id": "10",
+      "views": 35337951,
+      "likes": 175183,
+      "comments": 140,
+      "age_hours": 37.4,
+      "views_per_hour": 944915,
+      "momentum": 6.035,
+      "url": "https://www.youtube.com/watch?v=3nxLCNkm52s",
       "region": "IN",
-      "category": "Entertainment",
+      "category": "Other",
       "_detected_lang": "en"
     },
     {
-      "id": "4c7__Wo2GEk",
-      "title": "Hidden camera lagaya! Hostel boys- Part 2 #shorts",
-      "channel": "Shreemani Tripathi",
-      "channel_id": "UCcl4x-1l61b4mI3HnnmoxOg",
-      "thumbnail": "https://i.ytimg.com/vi/4c7__Wo2GEk/mqdefault.jpg",
-      "published_at": "2026-11-20T08:38:22Z",
-      "category_id": "24",
-      "views": 13481818,
-      "likes": 156185,
-      "comments": 71,
-      "age_hours": 20.2,
-      "views_per_hour": 668024,
-      "momentum": 5.96,
-      "url": "https://www.youtube.com/watch?v=4c7__Wo2GEk",
-      "region": "IN",
-      "category": "Entertainment",
-      "_detected_lang": "en"
-    },
-    {
-      "id": "nwmYt739thg",
-      "title": "Toddler’s Hilarious Grabber Tool Sock Heist! 😂🧦",
-      "channel": "Big Sis Fun ",
-      "channel_id": "UCdmHfEDEzMOJvUhubwzlVxQ",
-      "thumbnail": "https://i.ytimg.com/vi/nwmYt739thg/mqdefault.jpg",
-      "published_at": "2026-11-17T16:01:50Z",
+      "id": "yvhIJI39hZ4",
+      "title": "I ruined my $1,000 OLED monitor..",
+      "channel": "CarterPCs",
+      "channel_id": "UCi7wDE2ZTiR5QYYrUY5WhtA",
+      "thumbnail": "https://i.ytimg.com/vi/yvhIJI39hZ4/mqdefault.jpg",
+      "published_at": "2026-11-21T07:35:46Z",
       "category_id": "22",
-      "views": 70193956,
-      "likes": 242077,
-      "comments": 128,
-      "age_hours": 84.8,
-      "views_per_hour": 827851,
-      "momentum": 5.959,
-      "url": "https://www.youtube.com/watch?v=nwmYt739thg",
-      "region": "IN",
-      "category": "People & Blogs",
-      "_detected_lang": "en"
-    },
-    {
-      "id": "CZWdVMUe3v0",
-      "title": "Shadi with siblings🎀🤌 #siblings #trendingshorts #relatable #apachho",
-      "channel": "Apachho Singh",
-      "channel_id": "UCQNR0wPMDidnXqVgkXj6nUA",
-      "thumbnail": "https://i.ytimg.com/vi/CZWdVMUe3v0/mqdefault.jpg",
-      "published_at": "2026-11-20T09:51:59Z",
-      "category_id": "24",
-      "views": 12015711,
-      "likes": 134131,
-      "comments": 383,
-      "age_hours": 19.0,
-      "views_per_hour": 633918,
-      "momentum": 5.933,
-      "url": "https://www.youtube.com/watch?v=CZWdVMUe3v0",
-      "region": "IN",
-      "category": "Entertainment",
-      "_detected_lang": "en"
-    },
-    {
-      "id": "w_poE-52GcU",
-      "title": "Aaj to khush ho jaygi Pados wali Aunty🤣 #funny #vlog #cooking #food #recipe #funnyvideo #shorts",
-      "channel": "Loveneet Valecha",
-      "channel_id": "UCgAq9LRKx0NUSZ0ZtB3DWIg",
-      "thumbnail": "https://i.ytimg.com/vi/w_poE-52GcU/mqdefault.jpg",
-      "published_at": "2026-11-19T10:48:56Z",
-      "category_id": "23",
-      "views": 22409466,
-      "likes": 397696,
-      "comments": 751,
-      "age_hours": 42.0,
-      "views_per_hour": 533488,
-      "momentum": 5.932,
-      "url": "https://www.youtube.com/watch?v=w_poE-52GcU",
-      "region": "IN",
-      "category": "Comedy",
-      "_detected_lang": "en"
-    },
-    {
-      "id": "lNKFwQ33xJY",
-      "title": "14 November 2026",
-      "channel": "AamirHussin",
-      "channel_id": "UCPQSKDci5agW13AV_eLkJIA",
-      "thumbnail": "https://i.ytimg.com/vi/lNKFwQ33xJY/mqdefault.jpg",
-      "published_at": "2026-11-14T15:32:35Z",
-      "category_id": "22",
-      "views": 103442924,
-      "likes": 960233,
-      "comments": 0,
-      "age_hours": 157.3,
-      "views_per_hour": 657707,
-      "momentum": 5.926,
-      "url": "https://www.youtube.com/watch?v=lNKFwQ33xJY",
-      "region": "IN",
-      "category": "People & Blogs",
-      "_detected_lang": "en"
-    },
-    {
-      "id": "D3ucof1ME2s",
-      "title": "#core",
-      "channel": "Buzes Million mind",
-      "channel_id": "UCFmrkweGDK2CdXADeQKKPWQ",
-      "thumbnail": "https://i.ytimg.com/vi/D3ucof1ME2s/mqdefault.jpg",
-      "published_at": "2026-11-20T09:04:57Z",
-      "category_id": "22",
-      "views": 16370545,
-      "likes": 0,
-      "comments": 0,
-      "age_hours": 19.7,
-      "views_per_hour": 829365,
-      "momentum": 5.919,
-      "url": "https://www.youtube.com/watch?v=D3ucof1ME2s",
-      "region": "IN",
+      "views": 2118205,
+      "likes": 76775,
+      "comments": 1730,
+      "age_hours": 6.3,
+      "views_per_hour": 336001,
+      "momentum": 5.972,
+      "url": "https://www.youtube.com/watch?v=yvhIJI39hZ4",
+      "region": "DE",
       "category": "People & Blogs",
       "_detected_lang": "en"
     },
@@ -3269,53 +2909,110 @@
       "thumbnail": "https://i.ytimg.com/vi/7eYyLG7Qpx8/mqdefault.jpg",
       "published_at": "2026-11-17T10:30:30Z",
       "category_id": "22",
-      "views": 65509532,
-      "likes": 304579,
-      "comments": 199,
-      "age_hours": 90.3,
-      "views_per_hour": 725363,
-      "momentum": 5.915,
+      "views": 76004077,
+      "likes": 351737,
+      "comments": 251,
+      "age_hours": 99.4,
+      "views_per_hour": 764693,
+      "momentum": 5.938,
       "url": "https://www.youtube.com/watch?v=7eYyLG7Qpx8",
       "region": "IN",
       "category": "People & Blogs",
       "_detected_lang": "es"
     },
     {
-      "id": "bkIt9CUGfCc",
-      "title": "7 Minutoz - GUERREIRO | Tai Lung (Kung Fu Panda)",
-      "channel": "7 Minutoz",
-      "channel_id": "UCe6pKugTDyOPT1Md2DTybbQ",
-      "thumbnail": "https://i.ytimg.com/vi/bkIt9CUGfCc/mqdefault.jpg",
-      "published_at": "2026-11-20T22:00:09Z",
-      "category_id": "10",
-      "views": 282889,
-      "likes": 32138,
-      "comments": 1289,
-      "age_hours": 6.8,
-      "views_per_hour": 41485,
-      "momentum": 5.878,
-      "url": "https://www.youtube.com/watch?v=bkIt9CUGfCc",
-      "region": "BR",
-      "category": "Other",
-      "_detected_lang": "pt"
+      "id": "ikol6Zu9uSY",
+      "title": "This Roller Coaster Is Pure History",
+      "channel": "YarikPew",
+      "channel_id": "UCTEB7PvB9xGzloijhn6KOkQ",
+      "thumbnail": "https://i.ytimg.com/vi/ikol6Zu9uSY/mqdefault.jpg",
+      "published_at": "2026-11-18T23:38:34Z",
+      "category_id": "24",
+      "views": 45043099,
+      "likes": 172103,
+      "comments": 258,
+      "age_hours": 62.3,
+      "views_per_hour": 723500,
+      "momentum": 5.905,
+      "url": "https://www.youtube.com/watch?v=ikol6Zu9uSY",
+      "region": "IN",
+      "category": "Entertainment",
+      "_detected_lang": "en"
     },
     {
-      "id": "0JQ9k6kcKVs",
-      "title": "NAYEON “BABY ANGEL” M/V",
-      "channel": "JYP Entertainment",
-      "channel_id": "UCaO6TYtlC8U5ttz62hTrZgg",
-      "thumbnail": "https://i.ytimg.com/vi/0JQ9k6kcKVs/mqdefault.jpg",
-      "published_at": "2026-11-20T05:00:03Z",
-      "category_id": "10",
-      "views": 3920684,
-      "likes": 168916,
-      "comments": 14425,
-      "age_hours": 23.8,
-      "views_per_hour": 164597,
-      "momentum": 5.858,
-      "url": "https://www.youtube.com/watch?v=0JQ9k6kcKVs",
-      "region": "AU",
-      "category": "Other",
+      "id": "jl1l63_8GX4",
+      "title": "The Ultimate \"Armed\" Plot Twist! 💀",
+      "channel": "Foeko",
+      "channel_id": "UC8kXaDljyHTGJ4vpTkmNh4Q",
+      "thumbnail": "https://i.ytimg.com/vi/jl1l63_8GX4/mqdefault.jpg",
+      "published_at": "2026-11-19T17:00:14Z",
+      "category_id": "24",
+      "views": 17818576,
+      "likes": 467889,
+      "comments": 1880,
+      "age_hours": 44.9,
+      "views_per_hour": 396890,
+      "momentum": 5.899,
+      "url": "https://www.youtube.com/watch?v=jl1l63_8GX4",
+      "region": "GB",
+      "category": "Entertainment",
+      "_detected_lang": "en"
+    },
+    {
+      "id": "D3ucof1ME2s",
+      "title": "#core",
+      "channel": "Buzes Million mind",
+      "channel_id": "UCFmrkweGDK2CdXADeQKKPWQ",
+      "thumbnail": "https://i.ytimg.com/vi/D3ucof1ME2s/mqdefault.jpg",
+      "published_at": "2026-11-20T09:04:57Z",
+      "category_id": "22",
+      "views": 21601379,
+      "likes": 0,
+      "comments": 0,
+      "age_hours": 28.8,
+      "views_per_hour": 749592,
+      "momentum": 5.875,
+      "url": "https://www.youtube.com/watch?v=D3ucof1ME2s",
+      "region": "IN",
+      "category": "People & Blogs",
+      "_detected_lang": "en"
+    },
+    {
+      "id": "435DdxoYfPY",
+      "title": "🫐 تحدّي البلوبيري! ما هو لون بلو بيري الصحيح تحدي ممتع للاطفال😍🌈 #shorts #shortvideo  #funny",
+      "channel": "Hmada tuber",
+      "channel_id": "UCVM3ZaV1f13oVKpqvcN3PgA",
+      "thumbnail": "https://i.ytimg.com/vi/435DdxoYfPY/mqdefault.jpg",
+      "published_at": "2026-11-12T12:10:15Z",
+      "category_id": "22",
+      "views": 137629657,
+      "likes": 853932,
+      "comments": 0,
+      "age_hours": 217.7,
+      "views_per_hour": 632114,
+      "momentum": 5.873,
+      "url": "https://www.youtube.com/watch?v=435DdxoYfPY",
+      "region": "IN",
+      "category": "People & Blogs",
+      "_detected_lang": "en"
+    },
+    {
+      "id": "w_poE-52GcU",
+      "title": "Aaj to khush ho jaygi Pados wali Aunty🤣 #funny #vlog #cooking #food #recipe #funnyvideo #shorts",
+      "channel": "Loveneet Valecha",
+      "channel_id": "UCgAq9LRKx0NUSZ0ZtB3DWIg",
+      "thumbnail": "https://i.ytimg.com/vi/w_poE-52GcU/mqdefault.jpg",
+      "published_at": "2026-11-19T10:48:56Z",
+      "category_id": "23",
+      "views": 23433265,
+      "likes": 418746,
+      "comments": 819,
+      "age_hours": 51.1,
+      "views_per_hour": 458716,
+      "momentum": 5.866,
+      "url": "https://www.youtube.com/watch?v=w_poE-52GcU",
+      "region": "IN",
+      "category": "Comedy",
       "_detected_lang": "en"
     }
   ]
